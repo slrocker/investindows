@@ -1,0 +1,57 @@
+.breadCrumb{
+
+    a{
+        color:#000;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+    
+    margin-bottom: 4rem;
+
+    span{
+        
+        margin: 0 0.5rem;         
+        
+    }
+
+}
+
+.header {
+
+    text-align:center;
+
+    h1{
+        
+        margin-bottom: 1rem;
+    }
+
+    margin-bottom: 4rem;
+}
+
+.content {
+
+    h2 {
+
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+
+
+    p{
+        text-align: justify;
+    }
+
+    code {
+        
+        display:inline-block;
+        width: 100%;
+        text-align:center;
+        
+    }
+
+
+}
+
