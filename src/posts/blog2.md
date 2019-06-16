@@ -1,6 +1,11 @@
 ---
 title: "The Post #2"
 date: "2019-06-06"
+category: "Blog"
+categorySlug: "blog"
+subcategory: "investimentos"
+subcategorySlug: "investimentos"
+featuredImage: "renda-variavel"
 ---
 
 Página teste de blog # 2

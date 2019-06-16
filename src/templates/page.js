@@ -1,97 +1,115 @@
 import React from 'react'
 import {graphql, Link} from 'gatsby'
 
+import Head from '../components/head'
+
 import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
-import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
 
-// export const query = graphql `
-//     query ($slug: String!) {
-//         markdownRemark( fields: { slug: {eq: $slug } }) {
-//             frontmatter{
-//                 title
-//                 date
-//             }
-//             html
-//         }
-//     }
-// `
 
-export const query = graphql`
-    query($slug:String!){
-        contentfulPageTemplate (slug: {eq: $slug}) {
-            category
-            categorySlug
-            subcategory
-            subcategorySlug
-            title
-            publishedDate (formatString: "Do MMMM, YYYY")
-            body {
-                json
+export const query = graphql `
+    query ($slug: String!, $featuredImage: String!) {
+        markdownRemark( fields: { slug: {eq: $slug } }) {
+            excerpt
+            frontmatter{
+                title
+                date
+                category
+                categorySlug
+                subcategory
+                subcategorySlug
+                
+                
+            }
+            html
+            fields{
+                slug
             }
         }
+        file(
+            extension: { 
+                eq: "jpg" 
+            }
+            name: {
+                eq: $featuredImage
+            }
+        ){
+            publicURL
+        }        
     }
 `
 
+
+
 const TemplatePage = (props) => {
-    const options = {
-    //render images from contentful
-        renderNode: {
-            "embedded-asset-block": (node) => {
-                const alt = node.data.target.fields.title['en-US']
-                const url= node.data.target.fields.file['en-US'].url
-                return <img alt={alt} src={url}/>
-            }
-        }
-    }
+
+  
+    
+    //const featuredImage = props.data.pageFeaturedImage.publicURL ? props.data.pageFeaturedImage.publicURL : props.data.categoryFeaturedImage.publicURL ; 
+    //const featuredImage = props.data.pageFeaturedImage.publicURL || props.data.categoryFeaturedImage.publicURL || "/" ;
+
     //render blog posts
-    if(props.data.contentfulPageTemplate.category === "Blog"){
+    if(props.data.markdownRemark.frontmatter.category === "Blog"){
+
         return(
             <Layout>
 
+               
+                <Head 
+                    title = {props.data.markdownRemark.frontmatter.title}
+                    description = {props.data.markdownRemark.excerpt}
+                    featuredImage = {props.data.file.publicURL}
+                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/${props.data.markdownRemark.fields.slug}`}
+                />
+
                 <div className={pageStyles.breadCrumb}>
-                    <h1>
-                        <Link to={`/${props.data.contentfulPageTemplate.categorySlug}/`}>
-                          {props.data.contentfulPageTemplate.category}
+                    <p>
+                        <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                          {props.data.markdownRemark.frontmatter.category}
                         </Link>
-                    </h1>
+                    </p>
                 </div>
 
                 <div className={pageStyles.header}>
-                    <h1>{props.data.contentfulPageTemplate.title}</h1>
-                    <p>{props.data.contentfulPageTemplate.publishedDate}</p>
+                    <h1>{props.data.markdownRemark.frontmatter.title}</h1>
+                    <p>{props.data.markdownRemark.frontmatter.date}</p>
                 </div>
 
-                <div className={pageStyles.content}>
-                    {documentToReactComponents(props.data.contentfulPageTemplate.body.json, options)}
-                </div>
-
+                
+                <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
+                
             </Layout>
         )
     }
     //render pages
     return (
         <Layout>
+
+            <Head 
+                    title = {props.data.markdownRemark.frontmatter.title}
+                    description = {props.data.markdownRemark.excerpt}
+                    featuredImage = {props.data.file.publicURL}
+                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/${props.data.markdownRemark.fields.slug}`}
+            />
+
             <div className={pageStyles.breadCrumb}>
-                <h3>
-                    <Link to={`/${props.data.contentfulPageTemplate.categorySlug}/`}>
-                            {props.data.contentfulPageTemplate.category}
+                <p>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                            {props.data.markdownRemark.frontmatter.category}
                     </Link>
                      <span>></span>
-                    <Link to={`/${props.data.contentfulPageTemplate.categorySlug}/${props.data.contentfulPageTemplate.subcategorySlug}/`}>
-                           {props.data.contentfulPageTemplate.subcategory}
+                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
+                           {props.data.markdownRemark.frontmatter.subcategory}
                     </Link>
                     <span>></span>
-                </h3>        
+                </p>        
             </div>
 
             <div className={pageStyles.header}>
-            <h1>{props.data.contentfulPageTemplate.title}</h1>
+            <h1>{props.data.markdownRemark.frontmatter.title}</h1>
             </div>
 
-            <div className={pageStyles.content}>
-            {documentToReactComponents(props.data.contentfulPageTemplate.body.json, options)}
-            </div>
+            <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
             
         </Layout>
     )

@@ -1,21 +1,21 @@
 const path = require('path')
 
-// module.exports.onCreateNode = ({ node, actions }) => {
-//     const { createNodeField } = actions
+module.exports.onCreateNode = ({ node, actions }) => {
+    const { createNodeField } = actions
 
-//     if (node.internal.type === 'MarkdownRemark'){
-//         const slug = path.basename(node.fileAbsolutePath, '.md')
+    if (node.internal.type === 'MarkdownRemark'){
+        const slug = path.basename(node.fileAbsolutePath, '.md')
         
-//         createNodeField ({
-//             node,
-//             name:'slug',
-//             value: slug
-//         })
+        createNodeField ({
+            node,
+            name:'slug',
+            value: slug
+        })
 
-//     }      
-//     // Transform the new node here and create a new node or
-//     // create a new node field.
-//   }
+    }      
+    // Transform the new node here and create a new node or
+    // create a new node field.
+  }
   module.exports.createPages = async({ graphql, actions}) => {
         const {createPage} = actions
         const pageTemplate = path.resolve(`./src/templates/page.js`)
@@ -23,12 +23,17 @@ const path = require('path')
         const subCategoryTemplate = path.resolve(`./src/templates/subcategory.js`)
         const res = await graphql(`
             query{
-                allContentfulPageTemplate{
-                    edges{
+                allMarkdownRemark {
+                    edges {
                         node{
-                            categorySlug
-                            subcategorySlug
-                            slug
+                            fields{
+                                slug
+                            }
+                            frontmatter{
+                                categorySlug
+                                subcategorySlug
+                                featuredImage
+                            }
                         }
                     }
                 }
@@ -44,33 +49,37 @@ const path = require('path')
         //         }
         //     })
         // })
-        res.data.allContentfulPageTemplate.edges.forEach((edge) =>{
+        res.data.allMarkdownRemark.edges.forEach((edge) =>{
             let path;
             let component;
+            let category = edge.node.frontmatter.categorySlug;
+            let subcategory = edge.node.frontmatter.subcategorySlug;
+            let slug = edge.node.fields.slug;
             //path for category page
-            if(edge.node.categorySlug === edge.node.slug){
-                path = `/${edge.node.categorySlug}` ;
+            if(category === slug){
+                path = `/${category}` ;
                 component = categoryTemplate;
             } 
             //path for subcategory page
-            else if(edge.node.subcategorySlug === edge.node.slug){
-                path = `/${edge.node.categorySlug}/${edge.node.subcategorySlug}`;
+            else if(subcategory === slug){
+                path = `/${category}/${subcategory}`;
                 component = subCategoryTemplate;
             } 
             //path for blog posts and page
             else{
-                path = `/${edge.node.categorySlug}/${edge.node.subcategorySlug}/${edge.node.slug}`;
+                path = `/${category}/${subcategory}/${slug}`;
                 component = pageTemplate;
             }
             
             createPage({
                 component:component,
                 path: path,
-                //path: `/${edge.node.categorySlug}/${edge.node.subcategorySlug}/${edge.node.slug}`,
                 context:{
-                    slug: edge.node.slug,
-                    categorySlug: edge.node.categorySlug,
-                    subcategorySlug: edge.node.subcategorySlug
+                    slug: edge.node.fields.slug,
+                    categorySlug: edge.node.frontmatter.categorySlug,
+                    subcategorySlug: edge.node.frontmatter.subcategorySlug,
+                    featuredImage: edge.node.frontmatter.featuredImage
+                   
                 }
             })
         })

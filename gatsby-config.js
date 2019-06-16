@@ -14,10 +14,12 @@ module.exports = {
     email:'jg@investindo.org',
     facebook:'http://www.facebook.com/investindoWS/',
     twitter:'http://www.twitter.com/InvestindoOrg/',
-    youtube:'http://youtube.com/+InvestindoOrgWS'
+    youtube:'http://youtube.com/+InvestindoOrgWS',
+    url:'http://www.investindo.org'
 
   },
   plugins:[
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
       options: {

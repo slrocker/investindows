@@ -1,8 +1,11 @@
 ---
 title: "The Post #1"
 date: "2019-06-06"
-category: "renda-fixa"
-subcategory: "tesouro-direto"
+category: "Blog"
+categorySlug: "blog"
+subcategory: "investimentos"
+subcategorySlug: "investimentos"
+featuredImage: "blog1"
 ---
 
 Página teste de blog # 1

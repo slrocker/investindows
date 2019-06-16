@@ -1,76 +1,126 @@
 import React from 'react'
 import {graphql, Link} from 'gatsby'
 
+import Head from '../components/head'
 import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
-import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
+//import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
 
 export const query = graphql`
-    query($slug:String!, $categorySlug:String!){
-        contentfulPageTemplate (slug: {eq: $slug}) {
-            category
-            categorySlug
-            subcategory
-            subcategorySlug
-            title
-            publishedDate (formatString: "Do MMMM, YYYY")
-            body {
-                json
-            }
-        }
-        allContentfulPageTemplate (filter:{categorySlug:{eq:$categorySlug}, subcategory:{ne:null}, order:{eq:null}}){
-            edges{
-                node{
-                    title
-                    categorySlug
-                    slug
+    query ($slug:String!, $categorySlug:String!){
+        markdownRemark (
+            fields:{
+                slug:{
+                    eq: $slug
                 }
             }
+        ){
+            excerpt
+            frontmatter{
+                category
+                categorySlug
+                subcategory
+                subcategorySlug
+                title
+                featuredImage
+            }
+            html
+            fields{
+                slug
+            }
+        }
+        allMarkdownRemark(
+            filter: {
+                frontmatter:{
+                    categorySlug:{
+                        eq:$categorySlug
+                    },
+                    subcategory:{
+                        ne:""
+                    },
+                    order:{
+                        eq:null
+                    }
+                }
+            }
+        ) {
+            edges {
+                node{
+                    fields{
+                        slug
+                    }
+                    frontmatter{
+                        categorySlug
+                        title                        				
+                    }
+                }
+            }
+        }
+        file(
+            extension: { 
+                eq: "jpg" 
+            }
+            name: {
+                eq: $categorySlug
+            }
+        ){
+            publicURL
         }
     }
 `
 
 const TemplatePage = (props) => {
-    const options = {
-    //render images from contentful
-        renderNode: {
-            "embedded-asset-block": (node) => {
-                const alt = node.data.target.fields.title['en-US']
-                const url= node.data.target.fields.file['en-US'].url
-                return <img alt={alt} src={url}/>
-            }
-        }
-    }
+    // const options = {
+    // //render images from contentful
+    //     renderNode: {
+    //         "embedded-asset-block": (node) => {
+    //             const alt = node.data.target.fields.title['en-US']
+    //             const url= node.data.target.fields.file['en-US'].url
+    //             return <img alt={alt} src={url}/>
+    //         }
+    //     }
+    // }
 
     
     return (
         <Layout>
+
+            <Head 
+                    title = {props.data.markdownRemark.frontmatter.title}
+                    description = {props.data.markdownRemark.excerpt}
+                    featuredImage = {props.data.file.publicURL}
+                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}`}
+            />
+
             <div className={pageStyles.breadCrumb}>
-                <h3>
-                    <Link to={`/${props.data.contentfulPageTemplate.categorySlug}/`}>
-                            {props.data.contentfulPageTemplate.category}
+                <p>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                            {props.data.markdownRemark.frontmatter.category}
                     </Link>
-                    <Link to={`/${props.data.contentfulPageTemplate.categorySlug}/${props.data.contentfulPageTemplate.subcategorySlug}/`}>
-                           {props.data.contentfulPageTemplate.subcategory}
+                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
+                           {props.data.markdownRemark.frontmatter.subcategory}
                     </Link>
-                </h3>        
+                </p>        
             </div>
 
             <div className={pageStyles.header}>    
-            <h1>{props.data.contentfulPageTemplate.title}</h1>
+            <h1>{props.data.markdownRemark.frontmatter.title}</h1>
             </div>
 
-            <div className={pageStyles.content}>
-            {documentToReactComponents(props.data.contentfulPageTemplate.body.json, options)}
+            <div className ={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
             
-            {props.data.allContentfulPageTemplate.edges.map((edge) => {
+            <div className ={pageStyles.content}>
+
+            {props.data.allMarkdownRemark.edges.map((edge) => {
                 return(
                     <ul>
-                        <li><Link to={`/${edge.node.categorySlug}/${edge.node.slug}`}>{edge.node.title}</Link></li>
+                        <li><Link to={`/${edge.node.frontmatter.categorySlug}/${edge.node.fields.slug}`}>{edge.node.frontmatter.title}</Link></li>
                     </ul>
                 )
             })}
+            
             </div>
+            
 
         </Layout>
     )
