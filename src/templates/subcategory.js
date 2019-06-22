@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 //import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
 
 export const query = graphql`
-    query ($slug:String!, $categorySlug:String!){
+    query ($slug:String!, $categorySlug:String!, $subcategorySlug:String!){
         markdownRemark (
             fields:{
                 slug:{
@@ -34,14 +34,18 @@ export const query = graphql`
                     categorySlug:{
                         eq:$categorySlug
                     },
-                    subcategory:{
-                        ne:""
+                    subcategorySlug:{
+                        eq:$subcategorySlug
                     },
                     order:{
                         ne:null
                         
                     }
                 }
+            }
+            sort: {
+                fields: [frontmatter___order]
+                order: ASC
             }
         ) {
             edges {
@@ -115,17 +119,19 @@ const TemplatePage = (props) => {
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
             
             <div className={pageStyles.content}>
+            <ol>
             {props.data.allMarkdownRemark.edges.map((edge) => {
                 return(
-                    <ol>
+                    
                         <li>
                             <Link to={`/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
                                 {edge.node.frontmatter.title}
                             </Link>
                         </li>
-                    </ol>
+                    
                 )
             })}
+            </ol>
 
             </div>
 

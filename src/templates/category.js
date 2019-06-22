@@ -23,6 +23,7 @@ export const query = graphql`
                 subcategorySlug
                 title
                 featuredImage
+                
             }
             html
             fields{
@@ -96,10 +97,7 @@ const TemplatePage = (props) => {
                 <p>
                     <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
-                    </Link>
-                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
-                           {props.data.markdownRemark.frontmatter.subcategory}
-                    </Link>
+                    </Link>                   
                 </p>        
             </div>
 

@@ -5,6 +5,8 @@ import {graphql, Link, useStaticQuery} from 'gatsby'
 import Layout from '../components/layout'
 import Head from '../components/head'
 
+
+
 const IndexPage = () => {
 
     const data = useStaticQuery (graphql `
@@ -28,7 +30,7 @@ const IndexPage = () => {
             }
             }
             sort: {
-                    fields: [frontmatter___category, frontmatter___subcategory]
+                    fields: [frontmatter___indexOrder, frontmatter___subcategorySlug]
                     order: ASC
                     }
         ) {
@@ -42,6 +44,7 @@ const IndexPage = () => {
                         categorySlug
                         subcategorySlug
                         pageType
+                        icon
                     }
                 }
             }
@@ -61,14 +64,18 @@ const IndexPage = () => {
 
             <p>teste.</p>
             <div>
-                <ul>
+                <ul className="indexMenu">
                     {data.itens.edges.map((edge) => {
                         return(
-                            <li>
-                                <Link
+                            <li className = {`${edge.node.frontmatter.categorySlug} ${edge.node.frontmatter.pageType}`}> 
+                                <svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" className = {`${edge.node.frontmatter.categorySlug} ${edge.node.frontmatter.pageType}`}>
+                                        <path d={edge.node.frontmatter.icon} />
+                                </svg>                  
+                                 <Link
                                     to={`${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
                                     className = {`${edge.node.frontmatter.categorySlug} ${edge.node.frontmatter.pageType}`}
                                 >
+                                    
                                     {edge.node.frontmatter.title}
                                 </Link>
                             </li>

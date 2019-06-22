@@ -625,9 +625,85 @@ html {
     }
   }
 
-  //--------------------------------------------------
-  //--------------------------------------------------
 
+  //--------------------------------------------------
+  //--------------------INDEX-------------------------
+  //--------------------------------------------------
+.indexMenu{
+  list-style-type: none;
+  margin: 0;
+  
+}
+
+.indexMenu li{
+   margin: 0;
+   display: flex;
+   align-items: center;
+   height: 3rem;
+  
+}
+
+li.category{
+  margin: 3rem 0 0 0;
+
+}
+
+
+
+li.subcategory{
+  margin: 1rem 2rem;
+ //background-color: #333; 
+}
+
+svg{
+  width: 2rem;
+  height: 2rem;
+  margin: 0px;
+  
+     
+}
+svg.subcategory{
+  width: 1.5rem;
+  height: 1.5rem;
+     
+}
+
+
+a.category{
+  
+  color: #000;
+  text-decoration: none;
+  font-size: 2rem;
+  margin-left: 1rem;
+     
+
+}
+
+a.category:hover{
+  
+  text-decoration: underline;
+     
+
+}
+
+a.subcategory{
+  
+  margin-left: 1rem;
+     
+
+}
+
+a.subcategory:hover{
+  
+  text-decoration: none;
+     
+
+}
+
+
+  //--------------------------------------------------
+  //-----------------FOOTER - SOCIAL------------------
+  //--------------------------------------------------
   .social-link {
 	
     display: inline-block;
