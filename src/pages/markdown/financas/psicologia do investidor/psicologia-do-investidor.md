@@ -13,7 +13,3 @@ icon: M25,0C11.2,0,0,11.2,0,25s11.2,25,25,25s25-11.2,25-25S38.8,0,25,0z M26.3,38
 ---
 
 Controle sua mente antes de controlar seus investimentos!
-
-Características de um bom investidor
-O Investidor Inteligente
-Vieses Psicológicos

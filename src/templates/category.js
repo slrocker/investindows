@@ -44,6 +44,10 @@ export const query = graphql`
                     }
                 }
             }
+            sort: {
+                fields: [frontmatter___indexOrder]
+                order: ASC
+            }
         ) {
             edges {
                 node{
