@@ -22,6 +22,54 @@
 
 }
 
+
+.toc {
+
+    position: fixed;
+    top: 20%;
+    right: 5%;
+    border-left: 2px solid #eee;
+    display:block;
+    width: 300px;
+    max-height: 50vh;
+    overflow: auto;
+    font-size: 0.95rem;
+
+    p {
+        text-align: center;
+       font-size: 1rem;
+    }
+    
+    ul{
+        list-style-type: none;
+    }
+
+    a{
+        color: #000;
+        text-decoration: none;
+    }
+
+    a:hover{
+        text-decoration: underline;
+    }
+
+    .depth3 {
+
+        a{
+    
+            color: #444;
+            font-size: 0.85rem;
+            margin-left: 1rem;
+            
+        }
+        
+        
+    }
+
+}
+
+
+
 .header {
 
     text-align:center;

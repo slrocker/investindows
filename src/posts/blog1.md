@@ -3,7 +3,7 @@ title: "The Post #1"
 date: "2019-06-20"
 category: "Blog"
 categorySlug: "blog"
-subcategory: "investimentos"
+subcategory: "Investimentos"
 subcategorySlug: "investimentos"
 featuredImage: "blog1"
 ---

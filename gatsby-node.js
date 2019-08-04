@@ -33,6 +33,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
                                 categorySlug
                                 subcategorySlug
                                 featuredImage
+                                title
                             }
                         }
                     }
@@ -78,7 +79,8 @@ module.exports.onCreateNode = ({ node, actions }) => {
                     slug: edge.node.fields.slug,
                     categorySlug: edge.node.frontmatter.categorySlug,
                     subcategorySlug: edge.node.frontmatter.subcategorySlug,
-                    featuredImage: edge.node.frontmatter.featuredImage
+                    featuredImage: edge.node.frontmatter.featuredImage,
+                    title: edge.node.frontmatter.title
                    
                 }
             })

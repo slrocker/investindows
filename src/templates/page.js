@@ -3,12 +3,13 @@ import {graphql, Link} from 'gatsby'
 
 import Head from '../components/head'
 
+
 import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
 
 
 export const query = graphql `
-    query ($slug: String!, $featuredImage: String!) {
+    query ($slug: String!, $featuredImage: String!, $title: String!) {
         markdownRemark( fields: { slug: {eq: $slug } }) {
             excerpt
             frontmatter{
@@ -35,10 +36,29 @@ export const query = graphql `
             }
         ){
             publicURL
-        }        
+        }
+        
+        allMarkdownRemark(
+            filter: {
+              	frontmatter:{
+                    title:{
+                        eq:$title
+                    },
+                  }
+            }
+      	) {
+            edges {
+            node {
+                headings{
+                        value
+                        depth
+                }
+                
+            }
+            }
+        }
     }
 `
-
 
 
 const TemplatePage = (props) => {
@@ -65,9 +85,14 @@ const TemplatePage = (props) => {
                 <div className={pageStyles.breadCrumb}>
                     <p>
                         <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
-                          {props.data.markdownRemark.frontmatter.category}
+                                {props.data.markdownRemark.frontmatter.category}
                         </Link>
-                    </p>
+                        <span>></span>
+                        <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
+                            {props.data.markdownRemark.frontmatter.subcategory}
+                        </Link>
+                        <span>></span>
+                    </p>        
                 </div>
 
                 <div className={pageStyles.header}>
@@ -103,6 +128,28 @@ const TemplatePage = (props) => {
                     </Link>
                     <span>></span>
                 </p>        
+            </div>
+
+            <div className={pageStyles.toc}>
+                <p>CONTEÚDO</p>
+                <ul>
+                    {props.data.allMarkdownRemark.edges.map( edge => edge.node.headings.map((heading) => {
+                        
+                        if (heading.depth === 3){
+                            return(
+                            
+                            <li className={pageStyles.depth3}><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?.]/,"").toLowerCase()}`}>{heading.value}</a></li>
+                            
+                            )              
+
+                        }
+                        return(
+                            
+                                <li><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?.]/,"").toLowerCase()}`}>{heading.value}</a></li>
+                            
+                        )}
+                    ))}
+                </ul>
             </div>
 
             <div className={pageStyles.header}>

@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata:{
     title: 'INVESTINDO',
     author: 'Eric Dornelas',
-    email:'jg@investindo.org',
+    email:'contato@investindo.org',
     facebook:'http://www.facebook.com/investindoWS/',
     twitter:'http://www.twitter.com/InvestindoOrg/',
     youtube:'http://youtube.com/+InvestindoOrgWS',
@@ -40,6 +40,11 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          { resolve: 'gatsby-remark-autolink-headers',
+            options:{
+              icon: false
+            }
+          },
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-images',
