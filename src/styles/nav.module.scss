@@ -15,6 +15,8 @@
     }
 
     margin-bottom: 3em;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
 }
 
 .navLink {
@@ -30,6 +32,65 @@
     text-decoration: underline;
 }
 
+input[type=checkbox]:checked ~ .navContainer { display:block; }
+
+input[type=checkbox] {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    display: none;
+}
+
+.sidebarIconToggle {
+    display:none;  
+    
+  
+}
+.spinner {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background-color: #000;
+}
+.horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+.diagonal.part1 {
+    position: relative;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    float: left;
+}
+.diagonal.part2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin-top: 3px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    opacity: 0;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part1 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(135deg);
+    margin-top: 8px;
+}
+input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part2 {
+    transition: all 0.3s;
+    box-sizing: border-box;
+    transform: rotate(-135deg);
+    margin-top: -9px;
+}
+
 @media only screen and (max-width: 710px) {
     .navContainer {
         li{ //shows the nav menu in vertical stack
@@ -38,5 +99,27 @@
             margin-bottom: 1rem;
             border-bottom: 1px solid #eee;
         }
+
+        padding-bottom: 0;
+        border-bottom: none;
+        display:none;
     }
+
+    .sidebarIconToggle {
+        display:block;
+        transition: all 0.3s;
+        box-sizing: border-box;
+        cursor: pointer;
+        position: absolute;
+        z-index: 99;
+        height: 100%;
+        width: 100%;
+        top: 15px;
+        left: 22px;
+        height: 22px;
+        width: 22px;
+    }
+
+    
 }
+

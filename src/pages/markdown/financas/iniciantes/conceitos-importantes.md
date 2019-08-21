@@ -1,6 +1,8 @@
 ---
 title: "Conceitos Importantes"
 date: "2019-06-21"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"

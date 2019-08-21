@@ -58,8 +58,19 @@
         a{
     
             color: #444;
-            font-size: 0.85rem;
+            font-size: 0.9rem;
             margin-left: 1rem;
+            
+        }
+    }
+
+    .depth4 {
+
+        a{
+    
+            color: #444;
+            font-size: 0.75rem;
+            margin-left: 1.5rem;
             
         }
         
@@ -67,6 +78,8 @@
     }
 
 }
+
+
 
 
 
@@ -96,15 +109,33 @@
         margin-bottom: 2rem;
     }
 
+    h4 {
+
+        font-size: 1.2rem;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+
+    }
+
     p{
         text-align: justify;
         text-indent: 2ch;
     }
 
-    a:hover{
+    a{
         text-decoration: none;
+    }
+
+    a:hover{
+        text-decoration: underline;
     }
 
    
 }
 
+@media only screen and (max-width: 1520px) {
+    .toc{
+
+        display: none;
+    }
+}

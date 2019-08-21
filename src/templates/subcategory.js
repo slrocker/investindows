@@ -17,6 +17,8 @@ export const query = graphql`
         ){
             excerpt
             frontmatter{
+                section
+                sectionSlug
                 category
                 categorySlug
                 subcategory
@@ -102,13 +104,15 @@ const TemplatePage = (props) => {
 
             <div className={pageStyles.breadCrumb}>
                 <p>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.sectionSlug}/`}>
+                            {props.data.markdownRemark.frontmatter.section}
+                    </Link>
+                    <span>></span>
                     <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
                     </Link>
                     <span>></span>
-                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
-                           {props.data.markdownRemark.frontmatter.subcategory}
-                    </Link>
+                    
                 </p>        
             </div>
 

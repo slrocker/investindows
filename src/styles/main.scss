@@ -1,6 +1,6 @@
 
 html {
-    font-family: sans-serif;
+    font-family: Verdana, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     //background-color: #f4f4f4;
@@ -44,6 +44,7 @@ html {
   a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
+    color: #0059b2;
   }
   a:active,
   a:hover {
@@ -568,6 +569,7 @@ html {
   }
   thead {
     text-align: left;
+    font-weight:bold;
   }
   td,
   th {
@@ -619,86 +621,59 @@ html {
   }
 
   
+  //-------------------------------------------------
+  //-----------------RESPONSIVE-----------------------
+  //--------------------------------------------------
+
   @media only screen and (max-width: 800px) {
     html {
       font-size: 100%;
+    }
+    p.formula {
+      font-size: 0.8rem;
     }
   }
 
 
   //--------------------------------------------------
-  //--------------------INDEX-------------------------
-  //--------------------------------------------------
-.indexMenu{
-  list-style-type: none;
-  margin: 0;
+  //-------------------PARAGRAPHS---------------------
+  //--------------------------------------------------  
+
+  p.formula {
+
+    margin: 4rem 0;
+    text-align: center;
+    font-family: Courier;
+    font-weight: bold;
+    padding: 20px;
+    background: #ddd;
+    font-size: 0.9rem;
+  }
+
+  .borderBox{
+
+    border: 1px solid #444;
+    padding: 20px;
+    margin-bottom: 1rem;
+    font-weight: bold;
+
+    ul{
+      margin-bottom: 0px;
+    }   
   
-}
 
-.indexMenu li{
-   margin: 0;
-   display: flex;
-   align-items: center;
-   height: 3rem;
+  }
+
+  p.grayBox {
+
+  }
+
+  p.dashedBox{
+
+  }
+
   
-}
 
-li.category{
-  margin: 3rem 0 0 0;
-
-}
-
-
-
-li.subcategory{
-  margin: 1rem 2rem;
- //background-color: #333; 
-}
-
-svg{
-  width: 2rem;
-  height: 2rem;
-  margin: 0px;
-  
-     
-}
-svg.subcategory{
-  width: 1.5rem;
-  height: 1.5rem;
-     
-}
-
-
-a.category{
-  
-  color: #000;
-  text-decoration: none;
-  font-size: 2rem;
-  margin-left: 1rem;
-     
-
-}
-
-a.category:hover{
-  
-  text-decoration: underline;
-     
-
-}
-
-a.subcategory{
-  
-  margin-left: 1rem;
-     
-
-}
-
-a.subcategory:hover{
-  
-  text-decoration: none;
-     
-
-}
 
 
   //--------------------------------------------------
@@ -714,6 +689,12 @@ a.subcategory:hover{
 
 .controle{
   font-size: 0.7rem;  
+}
+
+.responsiveTable{
+
+  font-size: 1.5vh;
+
 }
 
   //--------------------------------------------------

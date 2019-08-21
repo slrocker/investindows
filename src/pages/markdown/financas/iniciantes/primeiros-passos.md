@@ -1,6 +1,8 @@
 ---
 title: "Como começar a investir?"
 date: "2019-06-20"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"

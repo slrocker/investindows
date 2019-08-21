@@ -1,6 +1,8 @@
 ---
 title: "Rendimento"
 date: "2019-06-21"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"
@@ -11,7 +13,7 @@ order: 6
 ---
 
 
-O rendimento é o valor que você irá receber além do valor que investiu. Você também pode ver por aí esse valor sendo chamado de juros ou taxas.
+O rendimento é o valor que você irá receber além do valor que investiu.
 
 Por exemplo:
 
@@ -29,18 +31,18 @@ O rendimento final, descontadas as taxas, impostos e inflação, é chamado de R
 
 Rendimentos prefixados são aqueles em que o valor é definido no momento em que você investir:
 
-- 10% ao ano
-- 1% ao mês
+- 10% ao ano; ou
+- 1% ao mês.
 
 Quando você recebe rendimentos prefixados, é possível saber no momento inicial qual valor você receberá quando retirar o dinheiro.
 ##Rendimento PÓS-FIXADO
 
 Rendimentos pós-fixados são aqueles em que o valor do rendimento é baseado em um índice de preços:
 
-- 90% do CDI
-- IPCA mais 6% ao ano
+- 90% do CDI; ou
+- IPCA mais 6% ao ano.
 
-Nestes casos, o seu rendimento irá depender do valor que o índice terá ao final do período de aplicação.
+Nesses casos, o seu rendimento irá depender do valor que o índice terá ao final do período de aplicação.
 
 Por exemplo:
 
@@ -49,13 +51,17 @@ Por exemplo:
 
 ##Rendimento Real
 
-O rendimento real de um investimento é aquele valor que você realmente recebeu a mais do que investiu. Para obtê-lo você deve descontar todas as taxas que teve que pagar e a desvalorização causada pela inflação durante o período em que o dinheiro ficou investido.
+O rendimento real de um investimento é aquele valor que você realmente recebeu a mais do que investiu. Para obtê-lo você deve descontar do rendimento recebido:
+
+- Taxas que teve que pagar;
+- Imposto pago; e
+- Desvalorização causada pela inflação.
 
 Quando você vê por aí a propaganda de um investimento anunciando 10% a.a.(ao ano) de rendimento, trata-se na verdade do rendimento nominal.
 
 **RENDIMENTO NOMINAL é o rendimento teórico previsto para um investimento.**
 
-Quando você recebe o dinheiro aplicado somado aos rendimentos, terá de pagar o imposto de renda e outras possíveis taxas. Isto diminuirá o valor que você realmente ganhou a mais do que investiu. Depois de descontadas as taxas e o Imposto de Renda, você terá obtido o rendimento líquido.
+Quando você recebe o dinheiro aplicado somado aos rendimentos, terá de pagar o imposto de renda e outras possíveis taxas. Isso diminuirá o valor que você realmente ganhou a mais do que investiu. Depois de descontadas as taxas e o Imposto de Renda, você terá obtido o rendimento líquido.
 
 **RENDIMENTO LÍQUIDO é o rendimento teórico descontado das taxas e Imposto de Renda.**
 
@@ -77,16 +83,18 @@ Acompanhe este exemplo:
 
 3. Você teve que pagar 15% de Imposto de Renda sobre o lucro e R$0,50 de taxas, resultando em R$108,00 na sua conta, um rendimento líquido de R$8,00, ou 8% a.m.
 
-4. Durante o mês em que o seu dinheiro ficou investido, a inflação foi de 2%. Isto significa que 2% do que você ganhou na verdade não foram ganhos, apenas manteve o valor do seu dinheiro. O que você realmente ganhou será o rendimento além desses 2%.
+4. Durante o mês em que o seu dinheiro ficou investido, a inflação foi de 2%. Isso significa que 2% do que você ganhou na verdade não foram ganhos, apenas serviram para manter o valor do seu dinheiro. O que você realmente ganhou será o rendimento além desses 2%.
 
 Para fazer esse cálculo é preciso utilizar a fórmula:
 
-    Rendimento Real = [ (1+Rendimento Líquido) / (1+Inflação) - 1] x 100
+<p class="formula">Rendimento Real = [ (1+Rendimento Líquido) / (1+Inflação) - 1] x 100</p>
 
 Substituindo os valores temos:
 
-    Rendimento Real = [ (1+0,08) / (1+0,02) - 1] x 100 = 5,882
+<p class="formula">Rendimento Real = [ (1+0,08) / (1+0,02) - 1] x 100 = 5,882</p>
 
 Ao final, o **rendimento real** foi de 5,882% a.m., abaixo do rendimento nominal anunciado de 10% a.m.
 
-Você deve estar atento ao rendimento real de uma aplicação, pois em muitos casos, mesmo com um rendimento nominal alto, o Imposto de Renda, as taxas e a inflação são suficientes para fazer você ter um rendimento real negativo. Com rendimento real negativo, apesar de ter recebido mais do que você aplicou, seu patrimônio não aumentou e você não enriqueceu.
+Você deve estar atento ao rendimento real de uma aplicação, pois em muitos casos, mesmo com um rendimento nominal alto, o Imposto de Renda, as taxas e a inflação são suficientes para fazer você ter um rendimento real negativo. 
+
+Com rendimento real negativo, apesar de ter recebido mais do que você aplicou, seu patrimônio não aumentou e você não enriqueceu.

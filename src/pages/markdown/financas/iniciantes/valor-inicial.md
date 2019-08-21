@@ -1,6 +1,8 @@
 ---
 title: "Valor Inicial"
 date: "2019-06-21"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"
@@ -25,25 +27,25 @@ A tabela abaixo foi retirada do site de um banco e mostra os valores iniciais de
 
 Observe:
 
-- As aplicações iniciais vão de R$100,00 a R$100.000,00
-- Quanto maior a aplicação inicial, maior tende a ser o rendimento acumulado
+- As aplicações iniciais vão de R$100,00 a R$100.000,00; e
+- Quanto maior a aplicação inicial, maior tende a ser o rendimento acumulado.
 
 Além disso, quanto maior o valor inicial, menor a **taxa de administração**:
-- no fundo de aplicação inicial de R$500,00 a taxa de administração é 2%, 
-- no fundo de aplicação inicial de R$100.000,00 a taxa de administração é 1%.
 
-Isso ocorre porque ao aplicar muito dinheiro de uma só vez você está incorrendo em dois riscos:
+- No fundo de aplicação inicial de R$500,00 a taxa de administração é 2%; e 
+- No fundo de aplicação inicial de R$100.000,00 a taxa de administração é 1%.
 
-- Custo de oportunidade
-- Concentração em um único investimento
+Isso ocorre porque, ao aplicar muito dinheiro de uma só vez, você estará incorrendo em dois riscos:
+
+- Custo de oportunidade; e
+- Concentração em um único investimento.
 
 ##Custo de oportunidade
 
 Custo de oportunidade é o risco que você corre de, ao comprometer todo seu dinheiro em alguma coisa, deixar de aproveitar possíveis oportunidades que possam surgir.
 
-Ao colocar seu dinheiro em um investimento que tenha valor inicial muito alto, você estará deixando de poder aplicar em outros investimentos que porventura possam se tornar melhores do que esse.
+Ao colocar seu dinheiro em um investimento que tenha valor inicial muito alto, você deixa de poder aplicar em outros investimentos que porventura possam se tornar melhores.
 
-Outra coisa que pode acontecer é você conseguir uma taxa de rendimento X e dali a algum tempo a taxa subir para 2X, mas você não tem dinheiro para investir mais.
 
 ##Concentração em um único investimento
 
@@ -85,5 +87,4 @@ O valor inicial depende de cada investimento e representa o valor mínimo de din
 
 - O valor mínimo para se investir no Tesouro Direto é de R$30,00.
 
-Com estes exemplos você pode ver que não é preciso ser rico para poder investir.
 

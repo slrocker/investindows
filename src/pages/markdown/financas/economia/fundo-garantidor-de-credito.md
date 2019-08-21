@@ -1,13 +1,15 @@
 ---
 title: "Fundo Garantidor de Crédito"
 date: "2019-06-26"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 5
+order: 7
 ---
 
 Um dos principais riscos inerentes aos investimentos é a falência da instituição financeira onde seu dinheiro está guardado. Por exemplo, se o banco onde você tem sua Conta Poupança falir, ele não será capaz de lhe devolver o dinheiro que você tinha investido e você acaba sem ver um centavo de volta.

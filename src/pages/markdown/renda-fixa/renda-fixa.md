@@ -1,6 +1,8 @@
 ---
 title: "Renda Fixa"
 date: "2019-16-06"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Renda Fixa"
 categorySlug: "renda-fixa"
 subcategory: ""

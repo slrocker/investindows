@@ -1,6 +1,8 @@
 ---
 title: "Renda Variável"
 date: "2019-06-06"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Renda Variável"
 categorySlug: "renda-variavel"
 subcategory: ""

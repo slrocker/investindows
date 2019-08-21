@@ -30,9 +30,9 @@ const BlogPage = () => {
                         }
                         frontmatter{
                             categorySlug
-                                    subcategorySlug
-                                    title                        				
-                                    date (formatString: "Do MMMM, YYYY")
+                            subcategorySlug
+                            title                        				
+                            date
                         }
                     }
                 }
@@ -62,6 +62,9 @@ const BlogPage = () => {
             />
 
             <h1 className = {blogStyles.title}>Blog</h1>
+            <p className = {blogStyles.subtitle}>Artigos sobre economia, finanças e investimentos.</p>
+            
+
             <ol className={blogStyles.posts}>
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return(

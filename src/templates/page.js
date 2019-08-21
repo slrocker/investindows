@@ -15,6 +15,8 @@ export const query = graphql `
             frontmatter{
                 title
                 date
+                section
+                sectionSlug
                 category
                 categorySlug
                 subcategory
@@ -84,6 +86,7 @@ const TemplatePage = (props) => {
 
                 <div className={pageStyles.breadCrumb}>
                     <p>
+                    
                         <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                                 {props.data.markdownRemark.frontmatter.category}
                         </Link>
@@ -119,6 +122,10 @@ const TemplatePage = (props) => {
 
             <div className={pageStyles.breadCrumb}>
                 <p>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.sectionSlug}/`}>
+                        {props.data.markdownRemark.frontmatter.section}
+                    </Link>
+                    <span>></span>
                     <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
                     </Link>
@@ -138,14 +145,22 @@ const TemplatePage = (props) => {
                         if (heading.depth === 3){
                             return(
                             
-                            <li className={pageStyles.depth3}><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?.]/,"").toLowerCase()}`}>{heading.value}</a></li>
+                            <li className={pageStyles.depth3}><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?.()]/g,"").toLowerCase()}`}>{heading.value}</a></li>
+                            
+                            )              
+
+                        }
+                        if (heading.depth === 4){
+                            return(
+                            
+                            <li className={pageStyles.depth4}><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?./()]/g,"").toLowerCase()}`}>{heading.value}</a></li>
                             
                             )              
 
                         }
                         return(
                             
-                                <li><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?.]/,"").toLowerCase()}`}>{heading.value}</a></li>
+                                <li><a href={`#${heading.value.replace(/\s/g,"-").replace(/[!?./())]/g,"").toLowerCase()}`}>{heading.value}</a></li>
                             
                         )}
                     ))}

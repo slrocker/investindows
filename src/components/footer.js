@@ -7,14 +7,9 @@ const Footer = () => {
 
     return(
         <footer className={footerStyles.footerContainer}>
-            <ul className={footerStyles.secondaryNav}>
-                <li><Link to='/blog'>BLOG</Link></li>
-                <li><Link to=''>LIVROS</Link></li>
-                <li><Link to=''>PLANILHAS</Link></li>
-            </ul>
             <ul className={footerStyles.authorNav}>
                 <li><Link to=''>Sobre o Autor</Link></li>
-                <li><a href='mailto:jg@investindo.com.br'>Contato</a></li>
+                <li><a href='mailto:contato@investindo.com.br'>Contato</a></li>
             </ul>
             <ul className={footerStyles.rulesNav}>
                 <li><Link to=''>Política de Privacidade</Link></li>

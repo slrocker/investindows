@@ -1,6 +1,8 @@
 ---
-title: "Índice Nacional de Preços ao Consumidor Amplo"
+title: "Inflação"
 date: "2019-06-26"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Economia"

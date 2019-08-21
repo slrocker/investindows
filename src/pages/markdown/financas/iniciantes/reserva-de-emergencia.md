@@ -1,6 +1,8 @@
 ---
 title: "O que é Reserva de Emergência?"
 date: "2019-06-21"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"
@@ -33,7 +35,7 @@ Lembre-se que **o dinheiro da Reserva de Emergência não é investimento**, ele
 
 A Reserva de Emergência é para momentos inesperados, os quais você não pode planejar. Por isso, é importante que ela tenha [liquidez](/financas/iniciantes/liquidez) imediata.
 
-A forma ideal de Reserva de Emergência seria ter o dinheiro em mãos. Mas como ninguém quer ficar com milhares de reais em casa desvalorizando, a Reserva de Emergência pode ser mantida na Poupança, onde o valor terá um pequeno rendimento mas a liquidez é imediata, facilitando o seu acesso ao dinheiro em caso de urgências.
+A forma ideal de Reserva de Emergência seria ter o dinheiro em mãos. Mas como ninguém quer ficar com milhares de reais em casa desvalorizando, a Reserva de Emergência pode ser mantida na Poupança - onde o valor terá um pequeno rendimento mas a liquidez é imediata - ou em outro investimento com alta liquidez de sua preferência. A ideia principal é facilitar o acesso ao dinheiro em caso de urgências.
 
 Lembre-se que a Reserva de Emergência não é investimento. Não adianta ficar se preocupando onde você pode deixar o dinheiro da Reserva de Emergência investido para ganhar mais enquanto não usa.
 

@@ -1,18 +1,22 @@
 ---
 title: "Taxa Selic"
 date: "2019-06-26"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 2
+order: 5
 ---
 
-SELIC significa Sistema Especial de Liquidação e Custódia.
+## O que é o SELIC?
 
-Imagine o SELIC como uma feira onde os produtos negociados são títulos do governo. Participam do sistema o Banco Central, o Tesouro Nacional, bancos e outras instituições financeiras.
+SELIC significa **Sistema Especial de Liquidação e Custódia**.
+
+O SELIC é um sistema informatizado do Banco Central onde se negociam títulos de dívida do governo. Participam do sistema o Banco Central, o Tesouro Nacional, bancos e outras instituições financeiras.
 
 Trata-de de um sistema informatizado que gerencia todos os processos afetos aos títulos públicos da dívida interna. É este sistema que:
 
@@ -21,32 +25,80 @@ Trata-de de um sistema informatizado que gerencia todos os processos afetos aos 
 - Faz o registro de quem possui qual título e em que quantidade; e
 - Processa as compras e vendas entre os participantes.
 
-## De onde vem o valor da taxa SELIC?
+##O que é a taxa SELIC?
 
-A taxa SELIC é uma média dos juros que foram cobrados em financiamentos realizados durante o dia no sistema SELIC.
+**A taxa SELIC é uma média dos juros que foram cobrados em financiamentos realizados durante o dia no sistema SELIC.**
 
-O que ocorre é que os participantes do sistema ficam emprestando dinheiro uns para os outros e oferecem títulos públicos para garantir o pagamento.
+Os participantes do SELIC ficam emprestando dinheiro uns para os outros e cobrando juros em troca.
 
-No final do dia, o próprio sistema calcula a média da taxa envolvida nessas operações e obtém o valor da taxa SELIC.
+Para garantir esses empréstimos, as instituições oferecem títulos públicos como garantia.
+
+No final do dia, o sistema calcula a média da taxa de juros cobrada em todas as operações e obtém o valor da taxa SELIC.
+
+A [taxa diária](https://www.bcb.gov.br/estabilidadefinanceira/selicdadosdiarios) e o [histórico](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) podem ser obtidos no site do [Banco Central](https://www.bcb.gov.br).
 
 ##Para que serve a taxa SELIC?
 
-A taxa SELIC é importante porque ela **baliza os juros cobrados no Brasil** e **controla a disponibilidade de dinheiro**, impactando nos resultados da economia.
+A taxa SELIC é utilizada como uma ferramentas de [política monetária](/economia/politicas-economicas#politica-monetaria) do Governo.
 
-O empréstimo de dinheiro para o governo é considerado o que possui o menor risco. Qualquer outra instituição que deseje obter dinheiro emprestado, terá de oferecer pagar taxa igual ou semelhante ao que o governo brasileiro está pagando.
+Emprestar dinheiro para o governo é considerado o empréstimo com o menor risco existente. Qualquer indíviduo ou instituição que deseje obter dinheiro emprestado, terá de oferecer pagar juros semelhante ou superior a que o governo brasileiro está pagando. Do contrário, é mais vantajoso e menos arriscado para quem empresta, comprar títulos públicos
 
-Isso torna possível ao governo tentar controlar os juros como um todo na economia, através de quanto ele oferece pagar pelos seus títulos. O valor que o governo espera obter é conhecido como meta da taxa SELIC.
+Isso torna possível ao [Banco Central (BACEN)](/financas/economia/sistema-financeiro#banco-central-do-brasil-bacen) tentar controlar os juros da economia como um todo, através de quanto ele oferece pagar pelos títulos públicos.
+
+Manipulando o preço dos títulos públicos no mercado, o BACEN influencia na taxa de rendimento dos títulos. 
+
+Como os títulos serão utilizados como garantia nos empréstimos realizados no SELIC, os juros cobrados nesses empréstimos terão como base o rendimento oferecido pelos títulos públicos.
+
+Os demais empréstimos, então, como aqueles que os Bancos oferecem para as pessoas, terão de ajustar suas taxas de acordo com o que ocorre no SELIC.
+
+Assim, ao manipular a taxa SELIC, o BACEN manipula a taxa de juros que é utilizada como referência por todas as instituições financeiras e acaba influenciando nas taxas da economia como um todo.
+
+##Meta da taxa SELIC
+
+A cada 45 dias, o Cômite de Política Monetária (COPOM) - formado pelo Presidente e diretores do BACEN - reúne-se e estabelece uma meta para a taxa SELIC.
+
+Na reunião são avaliados fatores como:
+
+- Inflação;
+- Contas Públicas;
+- Atividade Ecônomica; e
+- Cenário Externo.
+
+O resultado das reuniões pode ser conhecido através das [atas](https://www.bcb.gov.br/publicacoes/atascopom).
+
+Estabelecida a meta, o BACEN negocia títulos públicos junto aos participantes do SELIC, até conseguir fazer a taxa SELIC atingir valores dentro da meta estipulada.
+
+###Por que o governo determina metas para a taxa SELIC?
 
 Controlando os juros, o governo consegue controlar a quantidade de dinheiro presente na economia.
 
-- **JUROS ALTOS** = Pouca gente pega dinheiro emprestado, menos dinheiro circula entre as pessoas
-- **JUROS BAIXOS** = Muita gente pega dinheiro emprestado, mais dinheiro circula entre as pessoas
+- **JUROS ALTOS** = Pouca gente pega dinheiro emprestado, menos dinheiro circula entre as pessoas; e
+- **JUROS BAIXOS** = Muita gente pega dinheiro emprestado, mais dinheiro circula entre as pessoas.
 
-##Por que o governo determina metas para a taxa SELIC?
+A quantidade de dinheiro disponível irá influenciar no consumo e nos investimentos que as pessoas e instituições fazem no seu dia a dia.
+
+A teoria por trás dessa intenção de controlar a economia é baseada em algumas premissas como:
+
+- Controlando-se a quantidade de dinheiro, pode-se controlar a inflação; e
+- É preciso manter-se uma taxa de inflação adequada para que o sistema ecônomico funcione de forma equilibrada.
+
+Assim, quando o governo quer estimular a economia e fazer as pessoas consumirem mais, ele estabelece metas mais baixas para a taxa SELIC, reduzindo o custo dos empréstimos e aumentando o dinheiro em circulação.
+
+No entanto, excesso de dinheiro pode gerar um excesso de consumo e um consequente aumento dos preços caso a oferta de produtos não acompanhe a demanda dos consumidores. 
+
+Aumento do preços dos produtos significa que o dinheiro está perdendo valor, o que conhecemos como inflação. Inflação muito elevada faz com que as pessoas queiram gastar seu dinheiro o mais rápido possível, o que aumenta ainda mais o consumo e a inflação, gerando uma espiral negativa.
+
+A partir daí, os produtos começam a escassear, não há mais capital disponível para que empreendedores possam melhorar a produção, empresas falem, o desemprego aumenta e a economia entra em crise.
+
+Tentando evitar essas situaçãoes extremas, o governo, ao perceber uma inflação acima da que é considerada como ideal, aumenta a meta da taxa SELIC, aumentando o custo dos empréstimos e diminuindo o dinheiro em circulação.
+
+Com menos dinheiro, as pessoas consomem menos e, espera-se, a inflação fica sobe controle.
+
+<div class="borderBox">
 
 Controlando a taxa SELIC, o governo consegue controlar o dinheiro em circulação. Esta manobra é muito utilizada para controlar a inflação.
 
-- Com pouco dinheiro em circulação, as pessoas compram menos, os preços tendem a manter-se estagnados e a inflação diminui
-- Com muito dinheiro em circulação, as pessoas compram mais e os preços tendem a subir, gerando inflação
+- Com pouco dinheiro em circulação, as pessoas compram menos, os preços tendem a manter-se estagnados e a inflação diminui; e
+- Com muito dinheiro em circulação, as pessoas compram mais e os preços tendem a subir, gerando inflação.
 
-A taxa SELIC é uma das ferramentas econômicas do governo e é muito utilizada para combater a inflação. Por isso é comum você ver aumento da taxa SELIC quando a inflação ultrapassa as metas projetadas pelo governo.
+</div>

@@ -1,6 +1,8 @@
 ---
 title: "Tipos de Investimento"
 date: "2019-06-21"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Iniciantes"
@@ -28,8 +30,8 @@ A maioria dos investimentos de Renda Fixa são protegidos pelo [Fundo Garantidor
 
 Vantagens do investimento em Renda Fixa:
 
-- O investidor sabe qual rendimento receberá.
-- A maioria é protegida pelo Fundo Garantidor de Crédito.
+- O investidor sabe qual rendimento receberá;
+- A maioria é protegida pelo Fundo Garantidor de Crédito; e
 - Investimentos simples de realizar e administrar.
 
 ##Renda Variável
@@ -38,10 +40,10 @@ Aplicações de Renda Variável são chamadas assim porque o seu **rendimento é
 
 Apesar do rendimento ser desconhecido, às vezes podendo ser negativo, é na Renda Variável também que ocorrem as melhores chances de conseguir rendimento acima da média, além de outras possibilidades como:
 
-- Tornar-se sócio de grandes empresas
-- Receber dividendos
-- Receber aluguel de imóveis comerciais
+- Tornar-se sócio de grandes empresas;
+- Receber dividendos; e
+- Receber aluguel de imóveis comerciais.
 
-Se você quiser saber mais, consulte a seção de Renda Variável do site.
+Se você quiser saber mais, consulte a seção de [Renda Variável](/renda-variavel) do site.
 
 

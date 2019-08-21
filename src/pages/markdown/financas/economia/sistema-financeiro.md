@@ -1,6 +1,8 @@
 ---
 title: "Sistema Financeiro"
 date: "2019-06-22"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Economia"
@@ -10,9 +12,9 @@ pageType: "page"
 order: 1
 ---
 
-O sistema financeiro é formado por todas as instituições financeiras do Brasil.
+##O que é o Sistema Financeiro?
 
-Ele é responsável por propiciar o fluxo de recursos financeiros entre poupadores, os que tem dinheiro sobrando, e investidores ou demais pessoas que necessitem de dinheiro imediatamente.
+O sistema financeiro é composto por todas as instituições financeiras do Brasil e é **responsável por propiciar o fluxo de recursos financeiros entre poupadores, os que tem dinheiro sobrando, e investidores ou demais pessoas que necessitem de dinheiro imediatamente**.
 
 Além disso, o sistema financeiro oferece várias facilidades para que as pessoas gerenciem seus recursos financeiros, tais como:
 
@@ -28,11 +30,11 @@ Tudo o que acontece dentro desse sistema está interligado.
 O sistema financeiro do Brasil é centralizado nas mãos do governo. 
 É o governo quem:
 
-- Emite a moeda
-- Autoriza e regula o funcionamento das instituições financeiras
-- Fiscaliza e pune 
+- Emite a moeda;
+- Autoriza e regula o funcionamento das instituições financeiras; e
+- Fiscaliza e pune.
 
-Isso é feito através de uma série de orgãos públicos organizados da seguinte forma:
+A atuação do governo é feita através de uma série de orgãos públicos, os quais são organizados da seguinte forma:
 
 1. Conselho Monetário Nacional (CMN)
 2. Banco Central do Brasil (BACEN)
@@ -45,19 +47,81 @@ Paralelamente, existem ainda os órgãos responsáveis pelos seguros privados e 
 3. Superintendência de Seguros Privados (SUSEP)
 4. Superintendência Nacional de Previdência Complementar (PREVIC)
 
-| Órgãos Normativos | CMN                               || CNSP                             | CNPC             |
-|-------------------|-----------------------------------|--------------------------------|----------------------------------|------------------|
-| Supervisores      | BACEN                             | CVM                            | SUSEP                            | PREVIC           |
-| Operadores        | Bancos                            | Bolsa de Valores               | Seguradoras e Resseguradoras     | Fundos de Pensão |
-|                   | Cooperativas de crédito           | Bolsa de mercadorias e futuros | Entidades abertas de previdência |                  |
-|                   | Instituições de pagamento         |                                | Sociedades de Capitalização      |                  |
-|                   | Administradoras de Consórcios     |                                |                                  |                  |
-|                   | Corretoras e Distribuidoras       |                                |                                  |                  |
-|                   | Demais instituições não bancárias |                                |                                  |                  |
+A imagem abaixo ilustra a hierarquia do sistema financeiro brasileiro:
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th colspan="2" style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CMN</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNSP</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNPC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">BACEN</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">CVM</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">SUSEP</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">PREVIC</td>
+</tr>
+<tr>
+<td rowspan="6" style="border-left: 1px solid #ddd;padding:10px;">Operadores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Bancos</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Bolsa de Valores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Seguradoras e Resseguradoras</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Fundos de Pensão</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Cooperativas de crédito</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Bolsa de mercadorias e futuros</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Entidades abertas de previdência</td>
+<td style="border: none;"></td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Instituições de pagamento</td>
+<td style="border: none;"></td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Sociedades de Capitalização</td>
+<td style="border: none;"></td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Administradoras de Consórcios</td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Corretoras e Distribuidoras</td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Demais instituições não bancárias</td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+<td style="border: none;"></td>
+</tr>
+</tbody>
+</table>
+
 
 ##Órgãos Normativos
 
 Os órgãos normativos determinam as regras gerais para o funcionamento do sistema.
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th colspan="2" style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CMN</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNSP</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNPC</th>
+</tr>
+</thead>
+<tbody>
+</table>
 
 ###Conselho Monetário Nacional (CMN)
 
@@ -109,6 +173,25 @@ A **previdência complementar fechada** é aquela que está restrita a um conjun
 ##Entidades Supervisoras
 
 As entidades supervisoras fiscalizam e fazem cumprir as determinações dos órgãos normativos.
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th colspan="2" style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CMN</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNSP</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNPC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">BACEN</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">CVM</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">SUSEP</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">PREVIC</td>
+</tr>
+</table>
 
 ###Banco Central do Brasil (BACEN)
 
@@ -175,7 +258,40 @@ Parte das suas atribuições consiste em:
 
 Os operadores são as instituições que ofertam os serviços financeiros ao público.
 
-###Bancos
+###Subordinados ao BACEN
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CMN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">BACEN</td>
+</tr>
+<tr>
+<td rowspan="5" style="border-left: 1px solid #ddd; border-bottom: 1px solid #ddd;padding:10px;">Operadores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Bancos</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Cooperativas de crédito</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Instituições de pagamento</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Administradoras de Consórcios</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;">Corretoras e Distribuidoras</td>
+</tr>
+</tbody>
+</table>
+
+####Bancos
 
 As principais funções de um banco são:
 
@@ -192,7 +308,7 @@ Existem diversoso tipos de bancos. Cada tipo tem sua atuação restrita de acord
 - **Banco de Câmbio**: realiza investimentos em moedas estrangeiras.
 - **Bancos Múltiplos**: bancos múltiplos são bancos comerciais que também são bancos de investimento e/ou câmbio.
 
-###Caixas Econômicas
+####Caixas Econômicas
 
 São bancos comerciais públicos, no entanto, desempenham funções que estão mais em linha com as políticas do governo. 
 
@@ -200,7 +316,7 @@ Por exemplo, priorizam empréstimos para financiamento de imóveis e projetos so
 
 Atualmente, a única instituição deste tipo éa Caixa Econômica Federal (CEF)
 
-###Cooperativas de Crédito
+####Cooperativas de Crédito
 
 Cooperativas são associações de diversas pessoas visando um objetivo comum.
 
@@ -208,7 +324,7 @@ As cooperativas de crédito são muito semelhante aos bancos, podendo captar dep
 
 Ao se associar, o associado passa a possuir uma cota da cooperativa, tornando-se sócio da empresa.
 
-###Instituições de Pagamento
+####Instituições de Pagamento
 
 São empresas atuam na intermediação de pagamentos, com a peculiaridade de não poderem conceder empréstimos ou financiamentos aos clientes.
 
@@ -218,7 +334,7 @@ Podem ser de 3 tipos:
 - **Emissora de instrumento de pagamento pós-pago**: são instituições não financeiras que emitem cartões de crédito. Por exemplo: companhias aéreas e lojas de varejo.
 - **Credenciador**: habilita estabelecimentos a aceitar meios de pagamento. São as empresas fornecedoras das maquininhas de cartão.
 
-###Administradoras de Consórcios
+####Administradoras de Consórcios
 
 Um consórcio é a união de pessoas que visa adquirir um bem e utiliza o dinheiro de seus integrantes como forma de financiamento.
 
@@ -226,7 +342,7 @@ Por determinação legal, os consórcios devem ser administrados por uma empresa
 
 Essas empresas são as Admnistradoras de Consórcio.
 
-###Corretoras e Distribuidoras de Valores
+####Corretoras e Distribuidoras de Valores
 
 Corretoras de valores são como supermercados de investimentos. 
 
@@ -240,7 +356,35 @@ Em troca de seus serviços, as corretoras cobram uma taxa chamada de taxa de cor
 
 As distribuidoras de valores são como as corretoras e também atuam na área de emissões de ações (como no caso da abertura de capital de uma empresa). Hoje em dia não há mais distinção prática de atuação entre corretoras e distribuidoras.
 
-###Bolsa de Valores
+###Subordinados à CVM
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CMN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">CVM</td>
+
+</tr>
+<tr>
+<td rowspan="2" style="border-left: 1px solid #ddd;padding:10px;">Operadores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Bolsa de Valores</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Bolsa de mercadorias e futuros</td>
+</tr>
+</tbody>
+</table>
+
+
+
+####Bolsa de Valores
 
 A Bolsa de Valores é uma empresa, cuja principal função é reunir investidores através de um sistema de negociação de valores mobiliários que seja confiável e seguro para todos.
 
@@ -250,20 +394,47 @@ A bolsa cumpre, assim, duas funções primordiais para o mercado financeiro:
 
 Atualmente, no Brasil, só há uma Bolsa de Valores, a B3 S.A.
 
-###Bolsa de Mercadorias e Futuros
+####Bolsa de Mercadorias e Futuros
 
 A Bolsa de Mercadorias e Futuros, BM&F, faz parte da B3 e é onde são negociados contratos de mercadorias (commodities), contratos futuros e outros derivativos.
 - **Commodities**, cuja tradução direta do inglês é mercadoria, são produtos que servem de matéria-prima, como petróleo, boi gordo, soja, café e ouro e que são negociados em todo o mundo não importando sua origem ou “marca”. Na Bolsa de Mercadorias e Futuros são negociados contratos padronizados de compra e venda desses produtos.
 - **Contratos futuros** são contratos que estabelecem compra ou venda de um produto a um preço predeterminado a ser executado em data futura. Eles servem para que investidores e produtores possam fixar o preço pelo qual executarão uma operação no futuro, evitando ficar à mercê da variação de preço dos mercados.
 - **Derivativos** são instrumentos financeiros derivados de outros ativos financeiros. Um exemplo de derivativo é a opção de ação. Uma opção é uma espécie de contrato de seguro que permite a seu possuidor, em troca de um prêmio pago para adquirir a opção, garantir a compra de uma ação a um preço predeterminado. Contratos futuros também são considerados derivativos.
 
-###Seguradoras
+###Subordinados à SUSEP
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNSP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">SUSEP</td>
+</tr>
+<tr>
+<td rowspan="3" style="border-left: 1px solid #ddd;padding:10px;">Operadores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Seguradoras e Resseguradoras</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;">Entidades abertas de previdência</td>
+</tr>
+<tr>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Sociedades de Capitalização</td>
+</tr>
+</tbody>
+</table>
+
+####Seguradoras
 
 O seguro é uma forma de socializar perdas individuais. Através do pagamento de prêmios os segurados reúnem uma quantidade suficiente de recursos para ressarcir eventos cuja probabilidade de ocorrência é restrita e controlável, garantindo assim que os recursos sempre serão suficientes.
 
 A seguradora é a empresa que administra todas as questões burocráticas do seguro, bem como os recursos obtidos, que ficam guardados em uma reserva técnica. Esse dinheiro, então, é investido em ativos financeiros.
 
-###Resseguradoras
+####Resseguradoras
 
 Resseguradora é a empresa que faz seguros para as empresas seguradoras.
 
@@ -273,7 +444,7 @@ Fazendo um seguro sobre suas apólices, essa empresa divide o risco com a Resseg
 
 Isso evita que uma empresa seguradora tenha problemas financeiros, deixe de cobrir os danos segurados e desestabilize todo o sistema de seguros.
 
-###Sociedades de Capitalização
+####Sociedades de Capitalização
 
 Sociedades de Capitalização são as empresas autorizadas a comercializar os títulos de capitalização.
 
@@ -289,7 +460,28 @@ Durante a vigência do título são feitos sorteios para os titulares.
 
 Ao final do período de vigência, o titular recebe a parte do dinheiro que ficou aplicada, normalmente rendendo menos do que a poupança.
 
-###Entidades Fechadas de Previdência Complementar
+###Subordinadas À PREVIC
+
+<table class="responsiveTable">
+<thead style="border: 1px solid #ccc;">
+<tr>
+<th style="padding:10px;background:#ccc;">Órgãos Normativos</th>
+<th style="text-align:center;border-top:1px solid black;border-right:1px solid black;border-left:1px solid black;border-bottom:1px solid black;padding:10px;background:#ccc;">CNPC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-left: 1px solid #ddd;padding:10px;background:#eee;">Supervisores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;background:#eee;">PREVIC</td>
+</tr>
+<tr>
+<td rowspan="1" style="border-left: 1px solid #ddd;padding:10px;">Operadores</td>
+<td style="text-align:center;border-right:1px solid black;border-left:1px solid black;padding:10px;border-bottom:1px solid black;">Fundos de Pensão</td>
+</tr>
+</tbody>
+</table>
+
+####Entidades Fechadas de Previdência Complementar
 
 São os chamados fundos de pensão.
 
@@ -297,7 +489,7 @@ O beneficiários recolhem periodicamente valores que são geridos na forma de um
 
 No caso das previdências fechadas, o ingresso é restrito a determinado grupo de pessoas. Por exemplo:
 
-- Funcionários de uma empresa
-- Servidores da União
-- Servidores de um Estado
+- Funcionários de uma empresa;
+- Servidores da União; e
+- Servidores de um Estado.
  

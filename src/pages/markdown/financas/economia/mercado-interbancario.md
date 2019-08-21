@@ -1,13 +1,15 @@
 ---
-title: "Certificado de Depósito Interbancário"
+title: "Mercado Interbancário"
 date: "2019-06-26"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 3
+order: 6
 ---
 
 Existe no sistema financeiro brasileiro um mercado onde só instituições financeiras participam, o chamado **mercado interbancário**.
