@@ -636,7 +636,7 @@ html {
 
 
   //--------------------------------------------------
-  //-------------------PARAGRAPHS---------------------
+  //--------------PARAGRAPHS-AND-DIVS-----------------
   //--------------------------------------------------  
 
   p.formula {
@@ -654,22 +654,28 @@ html {
 
     border: 1px solid #444;
     padding: 20px;
-    margin-bottom: 1rem;
-    font-weight: bold;
+    margin: 2rem 0 2rem 0;
+    
+
+    h1,h2,h3,h4,h5,h6{
+      
+      color: #000;
+      text-align: center;
+      margin: 0 0 2rem 0;
+    }
 
     ul{
       margin-bottom: 0px;
     }   
   
+    
 
   }
 
-  p.grayBox {
+  .referencias {
 
-  }
-
-  p.dashedBox{
-
+    margin-top: 5rem;
+    font-size: 0.8rem;
   }
 
   

@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 6
+order: 10
 ---
 
 Existe no sistema financeiro brasileiro um mercado onde só instituições financeiras participam, o chamado **mercado interbancário**.

@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 4
+order: 8
 ---
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA) é um índice que calcula variação de preços de diversos produtos e serviços conforme um critério pré-estabelecido. Quem calcula o IPCA é o Instituto Brasileiro de Geografia e Estatísca (IBGE).

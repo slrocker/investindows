@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 5
+order: 9
 ---
 
 ## O que é o SELIC?
@@ -95,6 +95,8 @@ Tentando evitar essas situaçãoes extremas, o governo, ao perceber uma inflaç�
 Com menos dinheiro, as pessoas consomem menos e, espera-se, a inflação fica sobe controle.
 
 <div class="borderBox">
+
+<h4> Resumo </h4>
 
 Controlando a taxa SELIC, o governo consegue controlar o dinheiro em circulação. Esta manobra é muito utilizada para controlar a inflação.
 
