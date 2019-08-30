@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 6
+order: 12
 ---
 
 ##O que é a política de rendas?

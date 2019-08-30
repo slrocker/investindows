@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 4
+order: 10
 ---
 
 ##O que é a política monetária?

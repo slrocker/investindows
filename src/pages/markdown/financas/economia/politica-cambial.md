@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 7
+order: 13
 ---
 
 ##O que é a política cambial?
@@ -165,7 +165,7 @@ Suponha que a variação da taxa SELIC no período foi de 10% enquanto a variaç
 Nesse caso, eu lhe pagaria 5% sobre o valor do contrato, ou seja, R$50,00 e você me pagaria 10% sobre o valor do contrato, ou seja, R$100,00. Ao final, eu teria embolsado R$50,00, ou 5%, que foi a diferença entre as duas taxas.
 
 
-**CENÁRIO 1 - Taxa SELIC menor que variação cambial**
+**CENÁRIO 2 - Taxa SELIC menor que variação cambial**
 
 Suponha que a variação da taxa SELIC no período foi de 5% enquanto a variação do dólar foi de 10%.
 

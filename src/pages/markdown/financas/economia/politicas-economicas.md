@@ -9,7 +9,7 @@ subcategory: "Economia"
 subcategorySlug: "economia"
 featuredImage: "financas"
 pageType: "page"
-order: 3
+order: 9
 ---
 
 ##Pra que serverm as políticas econômicas?
