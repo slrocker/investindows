@@ -6,7 +6,7 @@ import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
 //import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
 
-export const query = graphql`
+export const queryy = graphql`
     query ($slug:String!, $categorySlug:String!){
         markdownRemark (
             fields:{
@@ -76,7 +76,7 @@ export const query = graphql`
     }
 `
 
-const TemplatePage = (props) => {
+const categoryPage = (props) => {
     // const options = {
     // //render images from contentful
     //     renderNode: {
@@ -133,4 +133,4 @@ const TemplatePage = (props) => {
 
 }
 
-export default TemplatePage
+export default categoryPage

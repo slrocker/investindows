@@ -42,9 +42,12 @@ Esse ambiente de negociação entre bancos é chamado de **mercado interbancári
 Parte dos empréstimos realizados pelos bancos no mercado interbancário se dá utilizando titulos de dívida pública como garantia.
 
 
-**Banco A &#x2794; $$ &#x2794; Banco B**
-
-**Banco B &#x2794; título público &#x2794; Banco A**
+```mermaid
+graph LR
+    A[BANCO A] -. $$ .-> B[BANCO B]
+    B -. Título Público .-> A   
+    
+```
 
 Esses empréstimos são registrados em um sistema eletrônico chamado Sistema Especial de Liquidação e Custódia (SELIC).
 
@@ -62,9 +65,12 @@ Nesse caso, o banco emite um título, chamado de Certificado de Depósito Interb
 
 Na realidade, um banco que empresta dinheiro a outro banco comprará um CDI.
 
-**Banco A &#x2794; $$ &#x2794; Banco B**
-
-**Banco B &#x2794; CDI &#x2794; Banco A**
+```mermaid
+graph LR
+    A[BANCO A] -. $$ .-> B[BANCO B]
+    B -. CDI .-> A   
+    
+```
 
 Os CDI também são chamados de **depósitos interfinanceiros (DI)**.
 

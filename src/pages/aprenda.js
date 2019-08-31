@@ -1,14 +1,16 @@
 import React from 'react'
-import {graphql, Link, useStaticQuery} from 'gatsby'
+import { Link, graphql, useStaticQuery} from 'gatsby'
 
 
-import Layout from '../components/layout'
 import Head from '../components/head'
+import Layout from '../components/layout'
 import aprendaStyles from '../styles/aprenda.module.scss'
 
 
 
-const IndexPage = () => {
+
+
+const AprendaPage = () => {
 
     const data = useStaticQuery (graphql `
     query {
@@ -105,4 +107,4 @@ const IndexPage = () => {
     )
 }
 
-export default IndexPage
+export default AprendaPage

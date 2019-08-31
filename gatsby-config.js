@@ -52,6 +52,13 @@ module.exports = {
               maxWidth: 800,
               linkImagesToOriginal: false
             }
+          },
+          {
+            resolve: 'gatsby-remark-graph',
+            options: {
+              language: 'mermaid',
+              theme: 'neutral'
+            }
           }
         ]      
       }

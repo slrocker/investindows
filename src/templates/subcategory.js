@@ -79,7 +79,7 @@ export const query = graphql`
 
 `
 
-const TemplatePage = (props) => {
+const subCategoryPage = (props) => {
     // const options = {
     // //render images from contentful
     //     renderNode: {
@@ -144,4 +144,4 @@ const TemplatePage = (props) => {
 
 }
 
-export default TemplatePage
+export default subCategoryPage
