@@ -31,7 +31,7 @@ Analisar a liquidez de um investimento é importante por dois motivos:
 
 Se você investe um dinheiro que acha que irá utilizar mais para frente, quando a oportunidade chegar, se você não conseguir retirar logo o valor investido, você pode acabar ficando em uma situação ruim por não ter o dinheiro em mãos.
 
-**Antes de investir, saiba quando irá precisar do dinheiro e se o investimento possui liquidez que atenda as suas necessidades.**
+**Antes de investir, saiba quando irá precisar do dinheiro e se o investimento possui liquidez que atenda às suas necessidades.**
 
 ##O que é *Spread*?
 

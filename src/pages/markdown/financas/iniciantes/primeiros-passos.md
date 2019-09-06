@@ -49,10 +49,13 @@ Há inúmeras razões para você investir seu dinheiro. Entre elas podemos citar
 
 Para poder começar a pensar em investir, você primeiro precisa seguir quatro passos:
 
-1. Ganhar dinheiro
-2. Gastar menos do que ganha
-3. Fazer uma reserva de emergência
-4. Estudar
+&#x2776 Ganhar dinheiro;
+
+&#x2777 Gastar menos do que ganha (poupar);
+
+&#x2778 Fazer uma reserva de emergência; e
+
+&#x2779 Estudar.
 
 ###Passo 1: Ganhar dinheiro
 
@@ -60,7 +63,7 @@ Ganhar dinheiro é o primeiro passo do aspirante a investidor. Sem a matéria pr
 
 Este passo é um dos mais importantes para todo o investidor, pois ele também é fator primário na velocidade do seu enriquecimento. Quanto mais dinheiro você ganha, mais rápido você pode ficar rico ou atingir o objetivo que almeja.
 
-###Passo 2: Gastar menos do que ganha
+###Passo 2: Poupar
 
 Fazer sobrar algum dinheiro todos os meses também é essencial. A maioria das pessoas liga investimento a mesquinhez porque considera que é preciso cortar todo tipo de gasto e prejudicar sua qualidade de vida, deixando de ter o que quer. Mas isso não é necessário. Basta uma gestão saudável do dinheiro, evitando gastos excessivos e desnecessários, sem extremos, para conseguir ter dinheiro sobrando ao final do mês.
 
@@ -68,7 +71,7 @@ Economizar também é um passo importante no seu enriquecimento, mas o corte de 
 
 Evite as dívidas, corte os gastos desnecessários e economize o máximo que puder. Com o tempo você precisará fazer cada vez menos sacrifício, dinheiro sobrando será algo natural e você poderá gastar mais e viver melhor.
 
-###Passo 3: Fazer uma reserva de emergência
+###Passo 3: Reserva de emergência
 
 Nenhuma pessoa sabe com total precisão quais são os gastos que irá ter durante a vida. Emergências, como problemas de saúde e contas inesperadas, oportunidades, como produtos com desconto para pagamento à vista, e outras situações podem fazer você precisar de mais dinheiro do que possui em mãos no momento.
 

@@ -57,7 +57,7 @@ const IndexPage = () => {
                 <li className={indexStyles.item}>
                             <Link to="/livros">
                                 <h1>Livros</h1>
-                                <p>Livros escritos pelo Autor do Investindo.org.</p>
+                                <p>Livros escritos pelo autor do Investindo.org.</p>
                             </Link>
                 </li>  
                 <li className={indexStyles.item}>

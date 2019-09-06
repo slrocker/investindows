@@ -24,8 +24,8 @@ O tamanho da Reserva de Emergência irá variar de pessoa para pessoa, mas você
 
 A partir daí avalie a sua situação. Por exemplo:
 
-- Se você é um funcionário sem estabilidade, talvez seja melhor ter um valor suficiente para lhe manter durante o período em que estiver procurando emprego caso fique desempregado
-- Se você é autônomo ou dono de um negócio e não tem uma renda estável, mantenha um valor suficiente para que não tenha que se endividar caso não tenha renda ou tenha prejuízo
+- Se você é um funcionário sem estabilidade, talvez seja melhor ter um valor suficiente para lhe manter durante o período em que estiver procurando emprego caso fique desempregado; ou
+- Se você é autônomo ou dono de um negócio e não tem uma renda estável, mantenha um valor suficiente para que não tenha que se endividar caso não tenha renda ou tenha prejuízo.
 
 A Reserva de Emergência não deve ser excessivamente grande e nem muito reduzida. Encontre um valor que lhe deixe confortável.
 
@@ -37,7 +37,7 @@ A Reserva de Emergência é para momentos inesperados, os quais você não pode 
 
 A forma ideal de Reserva de Emergência seria ter o dinheiro em mãos. Mas como ninguém quer ficar com milhares de reais em casa desvalorizando, a Reserva de Emergência pode ser mantida na Poupança - onde o valor terá um pequeno rendimento mas a liquidez é imediata - ou em outro investimento com alta liquidez de sua preferência. A ideia principal é facilitar o acesso ao dinheiro em caso de urgências.
 
-Lembre-se que a Reserva de Emergência não é investimento. Não adianta ficar se preocupando onde você pode deixar o dinheiro da Reserva de Emergência investido para ganhar mais enquanto não usa.
+Lembre-se que a Reserva de Emergência não é investimento. **Não adianta ficar se preocupando onde você pode deixar o dinheiro da Reserva de Emergência investido para ganhar mais enquanto não usa**.
 
 O fator determinante para decidir onde você deve manter sua Reserva de Emergência é a liquidez.
 

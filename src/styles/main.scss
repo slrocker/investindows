@@ -678,6 +678,10 @@ html {
     font-size: 0.8rem;
   }
 
+  .legenda {
+    text-align: center;
+    font-size: 0.8rem;
+  }
   
 
 
@@ -714,8 +718,7 @@ html {
   
   .social-icon{
     
-    width:25px;
-    height:25px;
+    
     fill: #222;
   }
   
@@ -740,4 +743,9 @@ html {
   .youtube-icon:hover .youtube-white{
     
     fill:#ffffff;
+  }
+
+  .instagram-icon:hover {
+
+    fill: url(#rg);
   }

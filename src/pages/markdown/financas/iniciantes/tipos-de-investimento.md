@@ -26,7 +26,7 @@ A taxa de rendimento pode ser:
 - **PREFIXADA**: a taxa de remuneração e o valor a ser recebido no final do período são conhecidos no momento da aplicação.
 - **PÓS-FIXADA**: a taxa de remuneração é conhecida no momento da aplicação, mas não se sabe o valor final a ser recebido. Isto ocorre porque estes investimentos são remunerados por índices cujo valor só será conhecido depois de passado o período de investimento.
 
-A maioria dos investimentos de Renda Fixa são protegidos pelo [Fundo Garantidor de Crédito](/financas/mercado-financeiro/fundo-garantidor-de-credito), o que aumenta a segurança do investidor.
+A maioria dos investimentos de Renda Fixa são protegidos pelo [Fundo Garantidor de Crédito](/financas/economia/fundo-garantidor-de-credito), o que aumenta a segurança do investidor.
 
 Vantagens do investimento em Renda Fixa:
 

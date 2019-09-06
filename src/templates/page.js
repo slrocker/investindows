@@ -1,12 +1,15 @@
+
 import React from 'react'
 import {graphql, Link} from 'gatsby'
+
 
 import Head from '../components/head'
 
 
+
 import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
-
+import "katex/dist/katex.min.css"
 
 export const query = graphql `
     query ($slug: String!, $featuredImage: String!, $title: String!) {
@@ -105,6 +108,8 @@ const TemplatePage = (props) => {
 
                 
                 <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
+
+                
                 
             </Layout>
         )
@@ -172,6 +177,8 @@ const TemplatePage = (props) => {
             </div>
 
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
+
+            
             
         </Layout>
     )

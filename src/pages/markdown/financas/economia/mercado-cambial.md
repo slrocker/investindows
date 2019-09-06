@@ -42,7 +42,7 @@ Por volta de 1970, quando alguma das políticas intervencionistas começaram a c
 
 Para não ficar sem ouro os EUA quebraram a ligação entre a sua moeda e o metal. Na época, o dólar já atuava como moeda padrão para negócios internacionais, assim permanecendo mesmo com a extinção do padrão ouro para o dólar.
 
-Como por trás do dólar está a maior economia do mundo, a ideia é de que o dolar é a segunda coisa mais segura depois do [ouro](https://en.wikipedia.org/wiki/Gold_as_an_investment). Assim, ele ainda permanece como referência e lastro para a maioria das moedas mundias.
+Como por trás do dólar está a maior economia do mundo, defende-se de que o dólar é a segunda coisa mais segura depois do [ouro](https://en.wikipedia.org/wiki/Gold_as_an_investment). Assim, ele ainda permanece como referência e lastro para a maioria das moedas mundias.
 
 Além desse fator, há um outro acordo político que ainda mantém a força do dólar: os petrodoláres.
 
@@ -59,8 +59,8 @@ Basicamente, as transações internacionais funcionam da seguinte maneira:
 
 1. Um exportador brasileiro exporta para um importador americano e recebe em dólares;
 2. O exportador brasileiro não pode consumir os dólares na economia local e precisa trocá-los por reais;
-3. Para fazer a troca, ele precisa encontrar alguém que esteja precisando de dólares para fazer alguma coisa e esteja disposto a pagar reais em troca.
-4. O exportador vende seus dólares para um importador.
+3. Para fazer a troca, ele precisa encontrar alguém que esteja precisando de dólares para fazer alguma coisa e esteja disposto a pagar reais em troca;
+4. O exportador vende seus dólares para um importador; e
 5. O importador utiliza os dólares para comprar produtos de produtores americanos.
 
 Podemos dizer então, que as **exportações financiam as importações** e que, supondo um cenário de zero importações, os exportadores acumulariam dólares que não lhe serviriam para nada dentro do país.
@@ -69,19 +69,19 @@ Em outras palavras, sem importações, as exportações não teriam utilidade.
 
 ###Influência das Taxas de Câmbio
 
-Na realidade, podem existir outros interessados em comprar os dólares do exportador, especuladores por exemplo, gerando um mercado de troca de moedas, o mercado de câmbio, onde o preço de uma moeda em relação a outra é chamado de taxa de câmbio.
+Na realidade, podem existir outros interessados em comprar os dólares do exportador, especuladores por exemplo, gerando um mercado de troca de moedas, o **mercado de câmbio**, onde o **preço de uma moeda em relação a outra é chamado de taxa de câmbio**.
 
 O exportador vai até o mercado de câmbio e trocas seus dólares por real. Quanto maior for o número de exportadores querendo trocar seus dólares por reais, maior será a demanda por reais e mais o real se valorizará em relação ao dólar.
 
 Com um real valorizado, os importadores estrangeiros, aqueles que compram dos exportadores brasileiros, buscarão alternativas mais baratas, reduzindo as exportações brasileiras.
 
-Novamente, em um cenário de zero importações, onde a procura da compra de dólares por reais for baixa, o resultado final será uma redução das exportações.
+Novamente, considerando um cenário de zero importações, onde a procura da troca de dólares por reais for baixa, o resultado final será uma redução das exportações devido a valorização da moeda.
 
 ###Influência do Governo
 
 O Governo é quem detêm o monopólio sobre o câmbio.
 
-Em última instância, toda transação de moeda poderá ter o Governo brasileiro como contrapartida, ainda que seja indiretamente, através das instituições intermediárias.
+Em última instância, toda transação de moeda poderá ter o Governo brasileiro como contrapartida, ainda que seja indiretamente, através das instituições intermediárias (bancos).
 
 Novamente, vamos imaginar um cenário de zero importações.
 
@@ -95,8 +95,6 @@ Essa interferência terá duas consequências:
 - O Banco Central precisará imprimir mais reais para poder comprar os dólares.
 
 Segundo o próprio [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais), a função das reservas internacionais é permitir ao país fazer frente às suas obrigações internacionais (pagar suas dívidas) e financiar os importadores.
-
-Não há muita utilidade para o Banco Central em ter uma reserva gigantesca de dólares parada.
 
 Tendo de imprimir mais reais, a nova oferta monetária acabará trazendo efeitos indesejáveis, como a inflação, prejudicando a [política monetária](/financas/economia/politica-monetaria) do governo.
 
@@ -122,11 +120,11 @@ Não é de hoje que governos olham para importações como o inimigo número um 
 
 Por volta do século XV, havia uma forte doutrina econômica, conhecida como [mercantilismo](https://pt.wikipedia.org/wiki/Mercantilismo), que pregava a intervenção estatal para evitar a fuga das reservas de ouro de um pais e proteger a indústria nacional.
 
-Nesse raciocínio, o comércio internacional é um ambiente onde alguém ganha e alguém perde e que a política deve atuar de forma a proteger os interesses nacionais. Muitas guerras resultaram da aplicação dessa filososfia (e ainda hoje continuam, ainda que não seja pela força das armas, mas das [tarifas](https://www.mises.org.br/Article.aspx?id=2917))
+Nesse raciocínio, o comércio internacional é um ambiente onde sempre haverá um ganhador e um perdedor e a política deve atuar de forma a proteger os interesses nacionais. Muitas guerras resultaram da aplicação dessa filososfia (e ainda hoje continuam, ainda que não seja pela força das armas, mas das [tarifas](https://www.mises.org.br/Article.aspx?id=2917)).
 
-Boa parte da teoria econômica atual teve origem em nomes como Adam Smith, cujas obras se concentravam em combater as ideias mercantilistas e denunciar o quão prejudicial elas poderiam ser para uma nação.
+Boa parte da teoria econômica atual teve origem em economistas como [Adam Smith](https://pt.wikipedia.org/wiki/Adam_Smith), cujas obras se concentravam em combater as ideias mercantilistas e denunciar o quão prejudicial elas poderiam ser para uma nação.
 
-Centenas de anos depois, pouco se aprendeu a respeito.
+Centenas de anos depois, pouca coisa mudou.
 
 O Brasil, por exemplo, é um dos países com a economia mais fechada do mundo. Tarifas elevadas sobre qualquer tipo de importação e a forte pressão de alguns grupos sobre o governo mantêm os políticos aprovando legislações que fariam qualquer mercantilista abrir um vasto sorriso de satisfação.
 
@@ -150,15 +148,15 @@ Ao beneficiar os produtores nacionais ou dificultar as importações, os governa
 
 Uma das grandes justificativas para a centralização governamental e a pesada regulamentação sobre o mercado de câmbio é a de combate às fraudes, tráfico de drogas e lavagem de dinheiro.
 
-O controle se justificaria porque é através do mercado de câmbio que essas atividades criminais conseguem movimentar seus recursos.
+O controle se justificaria porque é através do mercado de câmbio que essas atividades criminosas conseguem movimentar seus recursos.
 
 Assim, todas as operações de câmbio feitas pelos meios oficiais são reportadas ao governo, não existindo qualquer tipo de confidencialidade. Enviar dinheiro para o exterior sem avisar o governo constitui crime, chamado de evasão de divisas.
 
 Historicamente, controles estatais totalitários sobre qualquer tipo de atividade humana têm resultado basicamente na perda da liberdade dos cidadãos e suas consequências nefastas.
 
-Ainda que o combate ao crime seja usado como justificativa, é preciso encarar como temerárias as determinações como a de que qualquer operação realizada por um cidadão em determinada atividade tenha de ser reportada ao governo. 
+Ainda que o combate ao crime seja usado como justificativa, determinações como a de que qualquer operação realizada por um cidadão em determinada atividade tenha de ser reportada ao governo precisam ser avaliadas com cautela. 
 
-No fundo, isso representa apenas uma perda da liberdade pessoal e a possibilidade de que governantes exerçam o poder coercitivo do estado para atender aos próprios interesses e controlar as pessoas.
+No fundo, isso representa apenas uma perda da liberdade pessoal e a possibilidade de que governantes exerçam o poder coercitivo do Estado para atender aos próprios interesses e controlar as pessoas.
 
 A remessa de valores para o exterior sempre foi controlada de perto pelos governos, especialmente pelos governos totalitários, pois representa a possibilidade de que o cidadão, em última instância, envie seus recursos para outro país e abandone o barco, protegendo sua liberdade.
 
@@ -168,7 +166,7 @@ A remessa de valores para o exterior sempre foi controlada de perto pelos govern
 
 A taxa de câmbio é o preço de uma moeda estrangeira expresso em moeda nacional. Também é comumente chamada de **cotação**.
 
-Assim, quando dizemos que a cotação ou taxa de câmbio do dólar é de R$4,17, estamos dizendo o mesmo que: para comprar um dólar é preciso pagar R$4,17.
+Assim, quando dizemos que a cotação ou taxa de câmbio do dólar é de R\$4,17, estamos dizendo o mesmo que: para comprar um dólar é preciso pagar R\$4,17.
 
 - **Quando a taxa de câmbio sobe**, isso quer dizer que é preciso mais moeda nacional para comprar a moeda estrangeira, ou seja, houve uma **desvalorização cambial da moeda nacional**; e
 - **Quando a taxa de câmbio cai**, isso quer dizer que é preciso menos moeda nacional para comprar a moeda estrangeira, ou seja, houve uma **valorização cambial da moeda nacional**.
@@ -176,12 +174,12 @@ Assim, quando dizemos que a cotação ou taxa de câmbio do dólar é de R$4,17,
 Antigamente, no Brasil, existiam três taxas comuns de câmbio para o dólar:
 
 - **Dolár Comercial**: utilizado em transações financeiras;
-- **Dólar Turismo**: utilizado para transações afetas as pessoas físicas, como compra e venda de dólares, transações no cartão de crédito etc.
-- **Dólar Paralelo**: mercado ilegal que funciona sem estar subordinado as regulações governamentais.
+- **Dólar Turismo**: utilizado para transações afetas às pessoas físicas, como compra e venda de dólares, transações no cartão de crédito etc.; e
+- **Dólar Paralelo**: mercado ilegal que funciona sem estar subordinado às regulações governamentais.
 
 A partir de 2005 os mercados foram unificados, passando a existir somente uma cotação.
 
-Na prática, ainda há diferenças pois as instituições financeiras adicionam seus próprios *spreads* sobre a cotação oficial, gerando uma cotação menos vantajosa para as pessoas físicas que é chamada de **dólar turismo**.
+Na prática, ainda há diferenças pois as instituições financeiras adicionam seus próprios *spreads* (sobretaxa) sobre a cotação oficial, gerando uma cotação menos vantajosa para as pessoas físicas que é popularmente chamada de **dólar turismo**.
 
 
 ###Taxa de Compra e de Venda
@@ -206,9 +204,9 @@ Isso acaba gerando diversos tipos de cotação que são utilizadas para diversas
 
 - Taxa Oficial;
 - Taxa de Repassse e Cobertura;
-- TAxa de Câmbio Interbancário (Dólar Pronto);
+- Taxa de Câmbio Interbancário (Dólar Pronto);
 - Taxa PTAX; e
-- Taxa de Cãmbio de Mercado de Cabo(Dólar Cabo).
+- Taxa de Câmbio de Mercado de Cabo (Dólar Cabo).
 
 ###Taxa de Câmbio PTAX
 
@@ -250,7 +248,7 @@ Como podemos concretizar essa aposta?
 
 Fazemos um contrato, onde, após um período, você se compromete a me pagar a variação da taxa SELIC, e eu me comprometo a pagar-lhe a variação do dólar frente ao real.
 
-Estabelecemos um preço para esse contrato, por exemplo, R$1.000,00.
+Estabelecemos um preço para esse contrato, por exemplo, R\$1.000,00.
 
 A partir disso, poderemos ter dois cenários:
 
@@ -258,13 +256,13 @@ A partir disso, poderemos ter dois cenários:
 
 Suponha que a variação da taxa SELIC no período foi de 10% enquanto a variação do dólar foi de 5%.
 
-Nesse caso, eu lhe pagaria 5% sobre o valor do contrato, ou seja, R$50,00 e você me pagaria 10% sobre o valor do contrato, ou seja, R$100,00. Ao final, eu teria embolsado R$50,00, ou 5%, que foi a diferença entre as duas taxas.
+Nesse caso, eu lhe pagaria 5% sobre o valor do contrato, ou seja, R\$50,00 e você me pagaria 10% sobre o valor do contrato, ou seja, R\$100,00. Ao final, eu teria embolsado R\$50,00, ou 5%, que foi a diferença entre as duas taxas.
 
 **CENÁRIO 2 - Taxa SELIC menor que variação cambial**
 
 Suponha que a variação da taxa SELIC no período foi de 5% enquanto a variação do dólar foi de 10%.
 
-Nesse caso, eu lhe pagaria 10% sobre o valor do contrato, ou seja, R$100,00 e você me pagaria 5% sobre o valor do contrato, ou seja, R$50,00. Ao final, você teria embolsado R$50,00, ou 5%, que foi a diferença entre as duas taxas.
+Nesse caso, eu lhe pagaria 10% sobre o valor do contrato, ou seja, R\$100,00 e você me pagaria 5% sobre o valor do contrato, ou seja, R\$50,00. Ao final, você teria embolsado R\$50,00, ou 5%, que foi a diferença entre as duas taxas.
 
 No nosso exemplo, podemos dizer que eu lhe vendi um contrato de *swap* e você comprou um contrato de *swap*.
 

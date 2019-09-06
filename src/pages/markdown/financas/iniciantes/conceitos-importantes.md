@@ -18,10 +18,10 @@ Para poder decidir onde investir o seu dinheiro você precisa saber analisar as 
 
 Para analisar um investimento, é necessário levar em conta quatro fatores:
 
-1. Rendimento
-2. Valor Inicial
-3. Liquidez
-4. Riscos
+1. Rendimento;
+2. Valor Inicial;
+3. Liquidez; e
+4. Riscos.
 
 ##Rendimento
 

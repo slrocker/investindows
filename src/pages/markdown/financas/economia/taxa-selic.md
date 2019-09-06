@@ -29,11 +29,15 @@ Trata-de de um sistema informatizado que gerencia todos os processos afetos aos 
 
 **A taxa SELIC é uma média dos juros que foram cobrados em financiamentos realizados durante o dia no sistema SELIC.**
 
-Os participantes do SELIC ficam emprestando dinheiro uns para os outros e cobrando juros em troca.
+Os bancos, ao final do dia, devem ter em sua conta no Banco Central um certo valor depositado que é chamado de **depósito compulsório**.
 
-Para garantir esses empréstimos, as instituições oferecem títulos públicos como garantia.
+Pode ser que, por  algum motivo qualquer, alguns bancos terminem o dia com menos dinheiro do que deviam e outros com dinheiro sobrando.
 
-No final do dia, o sistema calcula a média da taxa de juros cobrada em todas as operações e obtém o valor da taxa SELIC.
+Bancos que tem dinheiro sobrando emprestam dinheiro para os bancos que precisam de dinheiro. Em troca do empréstimo os bancos tomadores de recursos entregam títulos públicos. Sobre esses empréstimos se cobram juros.
+
+Esses empréstimos **lastreados** (garantidos) por títulos públicos são realizados dentro do SELIC.
+
+No final do dia, o sistema calcula a média da taxa de juros cobrada em todas as operações desse tipo e obtém o valor da taxa SELIC.
 
 A [taxa diária](https://www.bcb.gov.br/estabilidadefinanceira/selicdadosdiarios) e o [histórico](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) podem ser obtidos no site do [Banco Central](https://www.bcb.gov.br).
 
@@ -94,13 +98,10 @@ Tentando evitar essas situaçãoes extremas, o governo, ao perceber uma inflaç�
 
 Com menos dinheiro, as pessoas consomem menos e, espera-se, a inflação fica sobe controle.
 
-<div class="borderBox">
+<div class="referencias">
 
-<h4> Resumo </h4>
+**Referências**:
 
-Controlando a taxa SELIC, o governo consegue controlar o dinheiro em circulação. Esta manobra é muito utilizada para controlar a inflação.
-
-- Com pouco dinheiro em circulação, as pessoas compram menos, os preços tendem a manter-se estagnados e a inflação diminui; e
-- Com muito dinheiro em circulação, as pessoas compram mais e os preços tendem a subir, gerando inflação.
+<p id="1">ROQUE, Leandro. <strong>A taxa SELIC - o que é, como funciona e outras considerações</strong>. IMB, 2009. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=344">https://www.mises.org.br/Article.aspx?id=344</a> </p>
 
 </div>

@@ -59,8 +59,16 @@ module.exports = {
               language: 'mermaid',
               theme: 'neutral'
             }
+          },
+          {
+            resolve: 'gatsby-remark-katex',
+            options: {
+              displayMode: true,
+              strict: 'ignore'
+
+            }
           }
-        ]      
+        ]  //    
       }
     }
   ]

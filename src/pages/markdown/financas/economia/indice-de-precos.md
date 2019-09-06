@@ -55,13 +55,15 @@ Você pode encontrar a fórmula completa do cálculo no site do [IBGE](https://w
 
 ###IPCA e o Investidor
 
-Observando as características do cálculo do IPCA é possível notar que ele abrange somente um determinado grupo de pessoas, produtos e regiões. O resultado é que ele nem sempre reflete a sua realidade. No entanto, por se tratar do índice oficial de inflação do Brasil, o IPCA também será o índice utilizado em diversas coisas que envolvem seu dia a dia, como:
+Observando as características do cálculo do IPCA é possível notar que ele abrange somente um determinado grupo de pessoas, produtos e regiões. Como resultado, este índice nem sempre reflete a realidade de todos.
+
+No entanto, por se tratar do índice oficial de inflação do Brasil, o IPCA também será utilizado como fator de correção para:
 
 - Reajuste de contratos;
 - Reajuste de financiamentos; e
 - Reajuste de mensalidades.
 
-Além disso, o IPCA pode ser utilizado como o índice de correção inflacionária em alguns ativos financeiros como, por exemplo:
+Além disso, o IPCA pode ser utilizado como o índice de correção inflacionária em alguns ativos financeiros tais como:
 
 - Tesouro IPCA + (NTNB e NTNB Principal);
 - Algumas debêntures; e
@@ -73,7 +75,7 @@ O investidor também pode utilizar o IPCA para calcular o [rendimento real](/fin
 
 ####IPCA-15
 
-Difere do IPCA apenas no período da coleta de dados, que ocorre do dia 16 do mês anterior até o dia 15 do mês atual.
+Difere do IPCA apenas no período da coleta de dados, que ocorre do dia 16 do mês anterior até o dia 15 do mês de divulgação.
 
 ####IPCA-E
 
@@ -103,17 +105,17 @@ O Índice Geral de Preços (IGP) é calculado pela Fundação Getúlio Vargas (F
 
 O objetivo desse índice é ser uma medida abrangente do movimento dos preços, avaliando a variação em todo o processo produtivo, isto é, a variação de preços desde o produtor, passando pelo revendedor e chegando no consumidor final.
 
-Para isso, o índice é medido através de uma média ponderada de três outros índices:
+Para isso, o índice é obtido através de uma média ponderada de três outros índices:
 
 - **Índice de Preços ao Produtor Amplo (IPA)**: mede a variação de preços no setor atacadista;
-- **Índice de Preços ao Consumidor (IPC)**: mede a variação de preços para famílias com nível de renda entre 1 e 33 salários mínimos ;e
-- **Índice Nacional de Custo da Construção (INCC)**: considera a variação de preços para a construção civil nas principais capitais brasileiras .
+- **Índice de Preços ao Consumidor (IPC)**: mede a variação de preços para famílias com nível de renda entre 1 e 33 salários mínimos; e
+- **Índice Nacional de Custo da Construção (INCC)**: considera a variação de preços para a construção civil nas principais capitais brasileiras.
 
 Para cada período de apuração, o IGP recebe um nome diferente:
 
 - IGP-DI: do primeiro ao útltimo dia do mês;
-- IGP-10: do dia 11 do mês anterior ao dia 10 do mês atual; e
-- IGP-M: do dia 21 do mês anterior ao dia 20 do mês atual.
+- IGP-10: do dia 11 do mês anterior ao dia 10 do mês de divulgação; e
+- IGP-M: do dia 21 do mês anterior ao dia 20 do mês de divulgação.
 
 As metodologias de cálculo de cada índice e dos índices componentes podem ser encontradas no [*site*](https://portalibre.fgv.br/) da Fundação Getúlio Vargas.
 

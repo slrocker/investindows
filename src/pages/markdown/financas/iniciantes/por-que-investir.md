@@ -23,7 +23,7 @@ Talvez você não enxergue dessa maneira, ou precise de mais alguma motivação 
 
 ##Quem não investe está perdendo dinheiro!
 
-Você já ouviu falar na inflação?
+Você já ouviu falar na [inflação](/financas/economia/inflacao)?
 
 A inflação se caracteriza pelo aumento dos preços e tem diversas razões para existir. No Brasil, a inflação sempre esteve presente e às vezes chegou a ficar descontrolada, por isso, para o brasileiro não há como fugir da inflação.
 
@@ -31,13 +31,13 @@ Mais importante do que os motivos da existência da inflação, é o efeito que 
 
 **O conceito de valor, nesse caso, é qual o poder de compra do seu dinheiro, ou o que você pode comprar com ele.**
 
-Num exemplo prático, quando há inflação, um produto que custa R$10,00 hoje, custará R$10,10 dali a um mês. Os R$10,00 que você tem na sua carteira, por outro lado, continuam sendo R$10,00 e você não conseguirá comprar o produto. O seu dinheiro perdeu valor.
+Num exemplo prático, quando há inflação, um produto que custa R\$10,00 hoje, custará R\$10,10 dali a um mês. Os R\$10,00 que você tem na sua carteira, por outro lado, continuam sendo R\$10,00 e você não conseguirá comprar o produto. O seu dinheiro perdeu valor.
 
 **Quando seu dinheiro perde valor, você fica mais pobre.**
 
 Com o tempo, se você não fizer nada o dinheiro que você tem em mãos passará a não valer nada. Você já deve ter visto na TV aquelas estórias de pessoas que guardaram dinheiro debaixo do colchão durante anos e o dinheiro não valia nada depois. Guardar dinheiro no colchão quando existe inflação não é um bom negócio.
 
-A inflação oficial do Brasil é representada pelo IPCA e, até o fim do ano de 2015 estava em quase 1% ao mês. Isto significa que, pelo índice oficial (que nem sempre reflete a realidade) seu dinheiro perde quase 1% de valor ao mês.
+A inflação oficial do Brasil é representada pelo [IPCA](/financas/economia/indice-de-precos). Em 2019, o IPCA esteve próximo a valores de 4,0% ao ano, ou seja, pelo índice oficial (que nem sempre reflete a realidade) seu dinheiro estava perdendo cerca de 4,0% de valor ao ano.
 
 ###Como vencer a inflação?
 

@@ -159,16 +159,16 @@ O Conselho Nacional de Previdência Complementar é composto pelo:
 - Superintendente da Casa Civil da Presidência da Repúlbica;
 - Representante do Ministério da Fazenda e do Planejamento, Orçamento e Gestão;
 - Representante das Entidades Fechadas de Previdência Complementar;
-- Representante dos Patrocinadores e Instituidores de Planos de Benefícios das Entidades FEchadas de Previdência Complementar. e
+- Representante dos Patrocinadores e Instituidores de Planos de Benefícios das Entidades Fechadas de Previdência Complementar; e
 - Representante dos Participantes e Assistidos de Planos de Benefícios das Entidades Fechadas de Previdência Complementar.
 
 O CNPC é o órgão com a função de **regular o regime de previdência complementar** operado pelas entidades fechadas de previdência complementar. Suas diretrizes são emitidas através de resoluções.
 
 A **previdência complementar fechada** é aquela que está restrita a um conjunto determinado de pessoas, como por exemplo:
 
-- Funcionários de uma empresa
-- Servidores da União
-- Servidores de um Estado
+- Funcionários de uma empresa;
+- Servidores da União; ou
+- Servidores de um Estado.
 
 ##Entidades Supervisoras
 
@@ -197,13 +197,13 @@ As entidades supervisoras fiscalizam e fazem cumprir as determinações dos órg
 
 O BACEN é órgão executivo do sistema financeiro. Assim, ele cumpre e faz cumprir os regulamentos e normas expedidas pelo CMN.
 Entre outras atribuições, é o BACEN quem:
-- emite papel moeda;
-- determina a Taxa SELIC;
-- atua como Banco do Governo;
-- autoriza o funcionamento de instituições financeiras;
-- fiscaliza as instituições e aplica penalidades;
-- controla o câmbio; e
-- administra a dívida do governo.
+- Emite papel moeda;
+- Determina a Taxa SELIC;
+- Atua como Banco do Governo;
+- Autoriza o funcionamento de instituições financeiras;
+- Fiscaliza as instituições e aplica penalidades;
+- Controla o câmbio; e
+- Administra a dívida do governo.
 
 O BACEN é o órgão utilizado pelo Estado para intervir diretamente no sistema financeiro.
 
@@ -296,9 +296,9 @@ Os operadores são as instituições que ofertam os serviços financeiros ao pú
 As principais funções de um banco são:
 
 - Guardar dinheiro; e
-- Emprestar dinheiro
+- Emprestar dinheiro.
 
-Hoje em dia, os bancos também são resopnsáveis pelo fornecimento de inúmeros serviços, sendo a grande maioria na intermediação financeira, transferindo recursos entre contas, etc.
+Hoje em dia, os bancos também são responsáveis pelo fornecimento de inúmeros serviços, sendo a grande maioria na intermediação financeira, transferindo recursos entre contas, processando pagamentos etc.
 
 Existem diversoso tipos de bancos. Cada tipo tem sua atuação restrita de acordo com o prazo de crédito a que estão autorizados a operar.
 
@@ -314,7 +314,7 @@ São bancos comerciais públicos, no entanto, desempenham funções que estão m
 
 Por exemplo, priorizam empréstimos para financiamento de imóveis e projetos sociais e administram recursos do FGTS, a loteria e programas de governo como o PIS.
 
-Atualmente, a única instituição deste tipo éa Caixa Econômica Federal (CEF)
+Atualmente, a única instituição deste tipo é a Caixa Econômica Federal (CEF)
 
 ####Cooperativas de Crédito
 
@@ -389,7 +389,7 @@ As distribuidoras de valores são como as corretoras e também atuam na área de
 A Bolsa de Valores é uma empresa, cuja principal função é reunir investidores através de um sistema de negociação de valores mobiliários que seja confiável e seguro para todos.
 
 A bolsa cumpre, assim, duas funções primordiais para o mercado financeiro:
-- Permite o contato entre emissores de títulos (empresas, fundos, etc.)e uma ampla gama de investidores;
+- Permite o contato entre emissores de títulos (empresas, fundos, etc.)e uma ampla gama de investidores; e
 - Permite aos investidores negociar seus títulos com facilidade.
 
 Atualmente, no Brasil, só há uma Bolsa de Valores, a B3 S.A.
@@ -432,7 +432,7 @@ A Bolsa de Mercadorias e Futuros, BM&F, faz parte da B3 e é onde são negociado
 
 O seguro é uma forma de socializar perdas individuais. Através do pagamento de prêmios os segurados reúnem uma quantidade suficiente de recursos para ressarcir eventos cuja probabilidade de ocorrência é restrita e controlável, garantindo assim que os recursos sempre serão suficientes.
 
-A seguradora é a empresa que administra todas as questões burocráticas do seguro, bem como os recursos obtidos, que ficam guardados em uma reserva técnica. Esse dinheiro, então, é investido em ativos financeiros.
+A seguradora é a empresa que administra todas as questões burocráticas do seguro, bem como os recursos obtidos, que ficam guardados em uma reserva técnica. O dinheiro da reserva técnica é investido em ativos financeiros.
 
 ####Resseguradoras
 
@@ -440,7 +440,7 @@ Resseguradora é a empresa que faz seguros para as empresas seguradoras.
 
 Uma empresa de seguros pode ter segurado algum evento que, em caso de ocorrência, possa impactar de forma catastrófica a sua situação financeira.
 
-Fazendo um seguro sobre suas apólices, essa empresa divide o risco com a Resseguradora que, por sua vez, pode ter várias outras Seguradoras como clintes, as quais, então, passam a socializar o risco das perdas, da mesma forma que os segurados individuais o fazem em um seguro.
+Fazendo um seguro sobre suas apólices, essa empresa divide o risco com a Resseguradora que, por sua vez, pode ter várias outras Seguradoras como clientes, as quais, então, passam a socializar o risco das perdas, da mesma forma que os segurados individuais o fazem em um seguro.
 
 Isso evita que uma empresa seguradora tenha problemas financeiros, deixe de cobrir os danos segurados e desestabilize todo o sistema de seguros.
 
@@ -458,7 +458,7 @@ O comprador do título faz pagamentos dos quais parte é:
 
 Durante a vigência do título são feitos sorteios para os titulares.
 
-Ao final do período de vigência, o titular recebe a parte do dinheiro que ficou aplicada, normalmente rendendo menos do que a poupança.
+Ao final do período de vigência, o titular recebe a parte do dinheiro que ficou aplicada. Normalmente, o rendimento é menor do que o oferecido pela poupança.
 
 ###Subordinadas À PREVIC
 
@@ -493,3 +493,10 @@ No caso das previdências fechadas, o ingresso é restrito a determinado grupo d
 - Servidores da União; e
 - Servidores de um Estado.
  
+ <div class="referencias">
+
+**Referências**:
+
+<p id="1">FORTUNA, Eduardo. <strong>Mercado Financeiro: produtos e serviço</strong>. 18 ed. Rio de Janeiro. Qualitymark, 2010.</p>
+
+</div>
