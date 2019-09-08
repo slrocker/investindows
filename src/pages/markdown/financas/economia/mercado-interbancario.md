@@ -19,7 +19,7 @@ Durante um dia, acontece um grande fluxo de dinheiro em um banco.
 O dinheiro pode sair das contas do banco na forma de empréstimos, investimentos, pagamentos e transferências e entrar como depósitos, transferências etc.
 
 ```mermaid
-graph LR
+graph TD
     A[depósitos/transferências] -. entrada $$ .-> B((BANCO))
     B -. saída $$ .-> C[investimentos/pagamentos/empréstimos]
       

@@ -62,7 +62,7 @@ Ao aumentar os impostos, o governo reduz a riqueza disponível para que os agent
 
 Críticos das intervenções governamentais apontam que as políticas fiscais normalmente tem resultados poucos eficientes devido a dois pontos:
 
-- Obras e gastos estatais são menos eficientes que o privado; e
+- Obras e serviços estatais são menos eficientes do que quando realizados pelo setor privado; e
 - Apenas grupos privilegiados acabam beneficiados em detrimento da sociedade como um todo.
 
 
@@ -70,7 +70,7 @@ Críticos das intervenções governamentais apontam que as políticas fiscais no
 
 O governo é uma entidade burocrática, onde a eficiência e a melhor utilização dos recursos não é o objetivo final. Assim, em geral, obras e serviços financiados pelo governo acabam sendo menos eficientes que seus equivalentes privados.
 
-Tendo em mente que a fonte dos recursos governamentais são os impostos — cuja origem é a riqueza gerada pelos cidadãos do país — ao absorver essa riqueza e utilizar em suas próprias atividades, o governo as aplica de maneira menos eficiente do que fariam seus possuidores originais gerando, ao final, uma perda líquida para todos.
+Tendo em mente que a fonte dos recursos governamentais são os impostos — cuja origem é a riqueza gerada pelos cidadãos do país — ao absorver essa riqueza e utilizar em suas próprias atividades, o governo as aplica de maneira menos eficiente do que fariam seus possuidores originais, gerando ao final, uma perda líquida para todos.
 
 Defensores da atuação do Estado rebatem que há certos serviços de interesse público que não existiriam sem que o Estado os provesse. Esse argumento não altera a questão do Estado ser menos eficiente e, não sendo impossível eliminar totalmente os serviços prestados pelo Estado para a população, é preciso sempre considerar se o ganho obtido pela sociedade reamente é vantajoso frente aos recursos empregados.
 

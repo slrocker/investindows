@@ -73,9 +73,9 @@ graph LR
 E[Aumento da Oferta Monetária] --> A
 E --> C
 
-A((Primeiros receber $$)) --> B[Recebem mais e pagam preços mais baixos]
+A((Primeiros receber $$)) --> B[Recebem mais antes dos preços aumentarem]
 
-C((Últimos a receber)) --> D[Pagam preços mais altos sem receber nada]
+C((Últimos a receber)) --> D[Pagam preços mais altos antes de receber amis]
 
 style B fill:#fff, stroke:#000, stroke-width:1px
 style D fill:#fff, stroke:#000, stroke-width:1px
@@ -283,3 +283,11 @@ O M4 é obtido somando-se aos valores de M3 os valores dos:
 
 No critério de divisão por emissores utilizados no Brasil, diz-se que o M4 inclui também o sistema emissor representado pelo governo.
 
+
+ <div class="referencias">
+
+**Referências**:
+
+<p id="1">FORTUNA, Eduardo. <strong>Mercado Financeiro: produtos e serviço</strong>. 18 ed. Rio de Janeiro. Qualitymark, 2010.</p>
+
+</div>

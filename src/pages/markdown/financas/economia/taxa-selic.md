@@ -74,7 +74,7 @@ Estabelecida a meta, o BACEN negocia títulos públicos junto aos participantes 
 
 ###Por que o governo determina metas para a taxa SELIC?
 
-Controlando os juros, o governo consegue controlar a quantidade de dinheiro presente na economia.
+Controlando os juros, o governo consegue controlar a [quantidade de dinheiro](/financas/economia/politica-monetaria) presente na economia.
 
 - **JUROS ALTOS** = Pouca gente pega dinheiro emprestado, menos dinheiro circula entre as pessoas; e
 - **JUROS BAIXOS** = Muita gente pega dinheiro emprestado, mais dinheiro circula entre as pessoas.

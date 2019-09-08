@@ -16,17 +16,19 @@ order: 9
 
 Pouco se discute hoje em dia em nossa sociedade se realmente é válida a intervenção do Estado na economia. Essa questão é deixada de lado e o foco concentra-se na questão de **como o Estado deve interferir**.
 
-Essa visão parcial majoritária não surpreende quando se tem em mente que grande parte do setor acadêmico e da mídia tem financiamento público. Não se pode esperar que todos passem a criticar o sistema que paga seus salários.
+Essa visão parcial majoritária não surpreende quando se tem em mente que grande parte do setor acadêmico e da mídia tem financiamento público. Não é inteligente esperar que haja muitas críticas ao sistema que é fonte de suas receitas.
 
-Diferente das ciências como a física e matemática, a economia é uma ciência que sofre a interferência dos interesses pessoais de quem a aplica. Assim, determinados grupos estão constatemente atuando de forma a manipular as coisas e serem beneficiados.
+Além disso, há sempre o forte apelo emocional que problemas inerentes à existência humana, tais como "injustiça social" e "desigualdade", exercem nas pessoas e que, acredita-se, o governo poderá resolver intervindo.
 
-Dessa forma, questões e visões que já há muito tempo foram provadas erradas por pensadores, filósofos e economistas, persistem sendo aplicadas e defendidas, ainda que falhem seguidamente.
+Diferente das ciências como a física e matemática, a economia sofre a interferência dos interesses pessoais de quem a aplica. Assim, determinados grupos estão constatemente atuando de forma a manipular as coisas e serem beneficiados.
+
+Dessa forma, questões e visões que já há muito tempo foram provadas erradas por pensadores, filósofos e economistas, persistem sendo aplicadas e defendidas, ainda que falhem seguidamente, pois sempre há um grupo beneficiado que continua lutando por essas políticas.
 
 Críticos das intervenções estatais apontam que todo o dinheiro que o governo absorve em impostos é, na verdade, **riqueza tirada da população** que deixará de ser utilizada pelos cidadãos pagadores de impostos como bem desejarem.
 
-Sendo o governo uma instituição burocrática, o dinheiro acaba sendo utilizado de maneira menos eficiente do que teria sido nas mãos do mercado e o resultado final é um saldo negativo de riqueza para todos.
+Sendo o governo uma instituição burocrática, o dinheiro acaba sendo utilizado de maneira menos eficiente do que teria sido nas mãos do cidadão e o resultado final é um saldo negativo de riqueza para todos.
 
-De maneira geral, aponta-se que os principais erros nas teorias que defendem intervenção são:
+De maneira geral, aponta-se que as principais falhas em teorias econômicas intervencionistas são:
 
 - Pensar apenas nos resutados a curto prazo; e
 - Considerar as consequências apenas em um grupo restrito.
@@ -37,13 +39,13 @@ Assim, as organizações burocráticas vão se expandindo, novos órgãos e agê
 
 Um governo inchado, com excesso de poder sobre as atividades dos cidadãos, costuma ter consequências nefastas, como a história já provou em diversos casos. 
 
-Além disso, a partir do momento que percebem que é mais vantajoso influenciar os políticos do que focar em se tornar mais eficiente e produtivo, os empresários concentram seus recursos em exercer pressões e favores sobre a classe política, gerando um mercado de favores e legislações impeditivas de novas concorrências que beneficiam apenas determinado grupo com maior poder de influência política.
+Além disso, a partir do momento que percebem que é mais vantajoso influenciar os políticos do que focar em se tornarem mais eficientes e produtivos, os empresários passam a concentrar seus esforços em exercer pressões e obter regalias sobre a classe política, gerando um mercado de favores e legislações impeditivas de novas concorrências que beneficiam apenas determinado grupo com maior poder de influência política.
 
 O resultado é um mercado com empresas menos eficientes, beneficiadas pelos subsídios estatais e corrupção.
 
-Dessa forma, ainda que haja uma infinidade de tentativas em justificar as políticas econômicas de intervenção, e sua existência seja-nos passada como algo concreto e necessário, o investidor inteligente deve encará-las com cautela, buscando sempre uma visão mais ampla, tentando entender qual será realmente o resultado a longo prazo e sobre os agentes econômicos como um todo e não apenas em um grupo específico.
+Dessa forma, ainda que haja uma infinidade de tentativas em justificar as políticas econômicas de intervenção, e sua existência seja-nos passada como algo concreto e necessário, o investidor inteligente deve encará-las com cautela, buscando sempre uma visão mais ampla, tentando entender qual será realmente o resultado de tais políticas a longo prazo e sobre os agentes econômicos como um todo e não apenas em um grupo específico.
 
-Essa visão não só lhe permitirá sentir-se mais confortável com o desenrolar dos acontecimentos no mercado financeiro, como lhe tornará um melhor cidadão capaz de ver além dos discursos demagógicos e populistas de políticos cujo único interesse é o de se manter no poder.
+Essa visão não só lhe permitirá sentir-se mais confortável com o desenrolar dos acontecimentos no mercado financeiro, como lhe tornará um cidadão capaz de ver além dos discursos demagógicos e populistas de políticos e grupos cujo único interesse é o de obter benefícios para si.
 
 ##Para que servem as políticas econômicas?
 

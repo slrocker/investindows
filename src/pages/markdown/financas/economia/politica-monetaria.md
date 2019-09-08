@@ -145,7 +145,7 @@ Juros mais baixos praticados pelos bancos públicos obrigam os bancos privados a
 O governo pode também atuar de forma mais direta, determinando taxas de juros específicas para cada finalidade de empréstimo, bem como o volume total de crédito que os bancos poderão disponibilizar.
  
 
-##O que baliza a política Monetária?
+##O que baliza a política monetária?
 
 A política monetária é subordinada às metas de inflação.
 

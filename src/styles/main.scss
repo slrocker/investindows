@@ -624,31 +624,58 @@ html {
   //-------------------------------------------------
   //-----------------RESPONSIVE-----------------------
   //--------------------------------------------------
-
+ 
   @media only screen and (max-width: 800px) {
     html {
       font-size: 100%;
-    }
-    p.formula {
-      font-size: 0.8rem;
-    }
+    }   
+
+       
   }
 
+  .katex > .katex-html {
+    white-space: normal;
+    //font-size: 12px;
+    font-size: calc(12px + 4 * ((100vw - 320px) / 680));
+  }
+  
+  .katex .base {
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+
+  .iframe-container{
+
+    overflow: hidden;
+    padding-top: 70%;
+    position: relative;
+      
+
+    
+  }
+
+  .iframe-container iframe{
+    border: 0;
+    height: 100%;
+    left:0;
+    position:absolute;
+    top:0;
+    width:100%;
+    
+
+  }
+
+  .svg-vertical-limit {
+      max-height: 80vh;
+  }
+ 
 
   //--------------------------------------------------
   //--------------PARAGRAPHS-AND-DIVS-----------------
   //--------------------------------------------------  
 
-  p.formula {
-
-    margin: 4rem 0;
-    text-align: center;
-    font-family: Courier;
-    font-weight: bold;
-    padding: 20px;
-    background: #ddd;
-    font-size: 0.9rem;
-  }
+ 
+  
 
   .borderBox{
 
@@ -679,7 +706,6 @@ html {
   }
 
   .legenda {
-    text-align: center;
     font-size: 0.8rem;
   }
   

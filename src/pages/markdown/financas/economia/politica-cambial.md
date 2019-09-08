@@ -68,7 +68,7 @@ Pode-se dizer também que a **taxa de câmbio aumentou**.
 ####Inflação
 
 
-Produtos importados e produtos cujo preço é baseado em moedas estrangeiras, como o petróleo, ficam mais caros para os consumidores, gerando aumento de custos e preços nos produtos e serviços onde esses bens são utilizados.
+Com a depreciação do câmbio, produtos importados e produtos cujo preço é baseado em moedas estrangeiras, como o petróleo, ficam mais caros para os consumidores, gerando aumento de custos e preços nos produtos e serviços onde esses bens são utilizados.
 
 Esse aumento de preços pode acabar gerando uma inflação acima das metas estabelecidas pelo governo.
 
@@ -132,7 +132,7 @@ Nesta operação, chamada de leilão de linha, o Banco Central leiloa parte das 
 
 Essa venda de moeda estrangeira aumenta a liquidez e combate a desvalorização da moeda nacional.
 
-Normalmente, esses leilões prevêm a recompra da moeda em data futura pelo Banco Central, evitando que as reservas de moeda do BACEN fiquem demasiadamente reduzidas.
+Normalmente, esses leilões prevêm a recompra/revenda da moeda em data futura pelo Banco Central, evitando que as reservas de moeda do BACEN fiquem demasiadamente reduzidas.
 
 ###*Swap*
 
@@ -203,7 +203,7 @@ A venda desses contratos evita que as pessoas tenham de vender moeda estrangeira
 
 **Referências**:
 
-<p id="1">¹FORTUNA, Eduardo. <strong>Mercado Financeiro: produtos e serviço</strong>. 18 ed. Rio de Janeiro. Qualitymark, 2010.</p>
+<p id="1">FORTUNA, Eduardo. <strong>Mercado Financeiro: produtos e serviço</strong>. 18 ed. Rio de Janeiro. Qualitymark, 2010.</p>
 
 
 </div>
