@@ -365,4 +365,5 @@ Teoricamente, todo esse movimento pode ser percebido observando a ETTJ dos títu
 <p id="3">GARRISON, Roger W. <strong>A taxa de juros natural e a taxa de juros neutra</strong>. IMB, 2010. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=606">https://www.mises.org.br/Article.aspx?id=606</a> </p>
 <p id="3">ROQUE, Leandro <strong>Juros, preferência temporal e ciclos econômicos</strong>. IMB, 2009. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=552">https://www.mises.org.br/Article.aspx?id=552</a> </p>
 
+
 </div>
