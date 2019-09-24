@@ -1,10 +1,12 @@
 ---
 title: "Vieses Psicológicos"
 date: "2019-06-28"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
-subcategory: "Psicologia do Investidor"
-subcategorySlug: "psicologia-do-investidor"
+subcategory: "Psicologia"
+subcategorySlug: "psicologia"
 featuredImage: "financas"
 pageType: "page"
 order: 3

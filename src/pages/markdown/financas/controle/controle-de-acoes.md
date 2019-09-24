@@ -1,6 +1,8 @@
 ---
 title: "Controle de Ações"
 date: "2019-08-01"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
 subcategory: "Controle"

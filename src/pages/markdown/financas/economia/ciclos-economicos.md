@@ -55,7 +55,7 @@ Se plotarmos os valors do PIB em um gráfico ao longo do tempo, poderemos ver o 
 
 <p class="legenda" style="text-align:center;">Figura 1 - Gráfico do PIB Mundial. Fonte: www.worldbank.org</p>
 
-##O Crédito
+##Crédito
 
 É comum que haja pessoas que tenham dinheiro sobrando e pessoas que precisem de dinheiro imediatamente para alguma coisa. 
 
@@ -213,6 +213,8 @@ A oferta monetária é quantidade de dinheiro em circulação. De maneira simpli
 
 Como o governo está constatemente aumentando a disponibilidade da oferta monetária com a intenção de tentar controlar os ciclos e a produção de novos bens e serviços não acompanha esse aumento, o resultado tem sido um lento e contínuo aumento dos preços ao longo do tempo.
 
+Gráfico IPCA e M1
+
 </div>
 
 **Longo Prazo**
@@ -223,25 +225,81 @@ No entanto, como o governo tem o poder de criar dinheiro, a quantidade de crédi
 
 O que ocorre é que, a medida que os juros vão baixando, pessoas que tomaram crédito emprestado, ao invés de pagarem suas dívidas, simplesmente pegam mais dinheiro emprestado para quitar suas dívidas anteriores e poderem manter seu nível de consumo elevado.
 
-Ou seja, a cada fim do ciclo de recessão, de maneira geral, as pessaos estão mais endividadas do que estavam no ciclo anterior, o que cria um ciclo de endividamento de longo prazo.
+Ou seja, a cada fim do ciclo de recessão, de maneira geral, as pessoas estão mais endividadas do que estavam no ciclo anterior, o que cria um ciclo de endividamento de longo prazo.
 
-##Cicos de Longo Prazo
+##Ciclos de Longo Prazo
 
+Através da manipulação das taxas de juros, o Banco Central cria ciclos de crédito de curto prazo. No entanto, a cada fim de ciclo, a economia acaba terminando com mais crédito do que existia anteriormente.
 
-O Consumo de  um é a renda do outro. crédtio para consumo não aumenta renda. para investimento talvez
+O crescimento da produtividade, da renda e dos preços permite que esse ciclo de crescimento se prolongue por um longo tempo, criando o ciclo de crescimento de longo prazo.
 
-PIB e a influencia do consumo que não gera crescimento de riqueza
+FIGURA
 
-Como pode o crédito crescer indefinidamente - banco central- reserva frácionárias
+###Bolha
 
-ciclos políticos
+É comum que boa parte do aumento de crédito seja financiado devido ao aumento da capacidade de pagamento das pessoas. Variação positiva no valor dos salários e dos bens utilizados como garantias em empréstimos (tais como os imóveis, ações, etc.) permite às pessoas irem se endividando de maneira crescente.
 
+Isso acaba gerando um ciclo vicioso em que o crédito é utilizado para adquirir os bens que estão se valorizando, aumentando a demanda e o preço e permitindo às pessoas adquirirem mais crédito para comprarem mais bens visando ganhar com o aumento no preço dos mesmos. Esse comportamento acaba gerando uma **bolha**, onde o preço dos bens perde qualquer relação com a realidade e torna-se insustentável.
+
+FIGURA BOLHA
+
+Cedo ou tarde, o crescimento do crédito começa a superar o aumento da produtividade, bens ficam muito caros, empresas começam a falir, o desemprego aumenta e as pessoas começam a ter dificuldade em pagar suas contas.
+
+Começa uma corrida pela venda de bens para tentar levantar dinheiro, o que acaba gerando uma queda rápida no preço, destruindo o patrimônio das pessoas.
+
+###Desalavancagem
+
+Com o estouro da bolha, começa um doloroso processo de desalavancagem, isto é, o crédito tem de ser reduzido de alguma forma.
+
+Em muitos casos, as pessoas simplesmente não tem como pagar suas dívidas, precisando renegociá-las ou simplesmente deixando de pagá-las.
+
+O dinheiro torna-se escasso pois as pessoas não tem mais os requisitos necessários para tomar empréstimos e aqueles com dinheiro para emprestar se tornam mais exigentes.
+
+No ciclo de desalavancagem a velha tática do Banco Central de baixar os juros não surte efeito, ninguém quer emprestar dinheiro ou tem condições de pegar emprestado. É comum que as taxas de juros cheguem a 0,00% ou fiquem até mesmo negativas. 
+
+O ciclo de desalanvacagem é como um choque de realidade na economia que, depois de passar anos crescendo sem fundamentos, precisa retornar a uma relação mais adequada entre riqueza e crédito.
+
+###Crise Bancária
+
+Ciclos de desalavancagem são especialmente nocivos para os bancos. Por operarem sempre de maneira insolvente devido ao sistema de [reservas fracionárias](/financas/economia/sistema-bancario), à medida que os bens que compõem os seus ativos começam a reduzir de preço e os calotes aumentam, os bancos passa a não ter como garantir o pagamento de suas próprias obrigações e declaram falência.
+
+Quando um banco declara falência, todo o dinheiro das pessoas que estava depositado nele é retido para pagar os credores. Isso gera uma corrida das pessoas aos bancos para retirarem seu dinheiro antes que mais bancos se vejam em apuros e seja tarde demais. A situação dos bancos fica ainda mais complicada e o resultado pode ser uma crise catastrófica no sistema financeiro.
+
+É comum que o governo interfira e utilize dinheiro publico para financiar os bancos que estão em dificuldade, evitando uma crise no sistema inteiro.
+
+Críticos apontam que essa intervenções são apenas uma forma salvar os banqueiros que, mesmo sabendo dos riscos envolvidos, se alavancaram demasiadamente (obtendo muito lucro com isso) e, quando a crise vem cobrar pelos riscos assumidos, é o contribuinte quem tem de pagar a conta. Os verdadeiros responsáveis saem mais ricos e incólumes, sem qualquer tipo de punição ou incentivo para que não cometam o mesmo erro no futuro.
+
+##Críticas
+
+###Prolongamento dos Ciclos
+
+Grande parte das teorias econômicas intervencionistas — que pregam a manipulação econômica pelo governo — têm como base  a ideia de que o governo deve atuar de forma a minimizar os impactos negativos dos ciclos de crédito.
+
+Críticos dessas teorias apontam que é justamente a interferência governamental quem tem tornado os ciclos cada vez mais catastróficos e duradouros:
+
+- Através do sistema de reservas fracionárias e do foco excessivo no consumo, o Banco Central acaba criando crédito muito além do que seria possível em condições livres, gerando distorções na economia que se prolongam por muito tempo sem que haja as correções necessárias; e
+- As constantes intervenções econômicas e o excessivo peso das contas públicas sobre a riqueza produzida tornam o sistema engessado e sem margem para que haja uma correção rápida nos ciclos de recessão e desalavancagem, prolongando esses ciclos de maneira desnecessária, gerando um grande sofrimento para a população.
+
+No longo prazo, a sociedade acaba pagando caro pelas intervenções, pois a economia segue estagnada sem que haja crescimento real de produtividade e riqueza.
+
+###Ciclos Políticos
+
+A característica marcante da interferência do Banco Central na taxa de juros e no estímulo ao consumo é o resultado positivo que essas intervenções geram no curto prazo (ainda que sacrificando os resultados a longo prazo).
+
+Isso é especialmente vantajoso para políticos que buscam se elegerem, pois, uma economia em crescimento, com aumento de salários, queda no desemprego e governo podendo gastar mais é vista como resultado direto da atuação dos atuais governantes que, então, ganham força política para as próximas eleições.
+
+Ocorre, então, um fenomeno curioso, onde os ciclos econômicos acabam se relacionando com os ciclos eleitorais.
+
+FIGURA
+
+##Ciclos no Brasil
 
 <div class="referencias">
 
 **Referências**:
 
 <p id="1">DALIO, Ray. <strong>How the Economic Machine Works</strong>. 2017.</p>
-<p id="2">CASEY, Cristopher P.<strong>Os cinco graves problemas co o PIB</strong>. IMB, 2019. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=2783">https://www.mises.org.br/Article.aspx?id=2783</a> </p>
+<p id="2">CASEY, Cristopher P. <strong>Os cinco graves problemas com o PIB</strong>. IMB, 2019. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=2783">https://www.mises.org.br/Article.aspx?id=2783</a> </p>
+<p id="3">ROQUE, Leandro. <strong>Economia Brasileira: Águia ou Galinha?</strong>. IMB, 2018. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=2852">https://www.mises.org.br/Article.aspx?id=2852</a> </p>
 
 </div>

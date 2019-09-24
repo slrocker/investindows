@@ -45,6 +45,7 @@ html {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
     color: #0059b2;
+        
   }
   a:active,
   a:hover {
@@ -667,8 +668,12 @@ html {
 
   .svg-vertical-limit {
       max-height: 80vh;
+      
   }
- 
+
+  .svg-horizontal-limit {
+    max-width: 60% ;
+  }
 
   //--------------------------------------------------
   //--------------PARAGRAPHS-AND-DIVS-----------------
@@ -707,6 +712,8 @@ html {
 
   .legenda {
     font-size: 0.8rem;
+    margin: 2rem 0 3rem 0;
+    
   }
   
 

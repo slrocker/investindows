@@ -27,7 +27,7 @@
 
     position: fixed;
     top: 20%;
-    right: 5%;
+    right: 3%;
     border-left: 2px solid #eee;
     display:block;
     width: 300px;
@@ -138,4 +138,23 @@
 
         display: none;
     }
+}
+
+@media only screen and (max-width: 600px) {
+    .breadCrumb {
+
+        a{
+            font-size: 0.8rem;
+            
+        }
+    
+        
+        span{
+            
+            font-size: 0.8rem;
+            margin: 0 0.2rem;         
+            
+        }
+    }
+    
 }

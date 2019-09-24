@@ -1,9 +1,11 @@
 ---
 title: "Montando uma Estratégia"
 date: "2019-07-01"
+section: "Aprenda"
+sectionSlug: "aprenda"
 category: "Finanças"
 categorySlug: "financas"
-subcategory: "Estratégia de Investimento"
+subcategory: "Estratégia"
 subcategorySlug: "estrategia"
 featuredImage: "financas"
 pageType: "page"
