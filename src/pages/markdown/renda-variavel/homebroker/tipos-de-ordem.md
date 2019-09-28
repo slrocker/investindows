@@ -31,43 +31,43 @@ Ao enviar uma ordem pelo *homebroker* você tem duas opções:
 
 Digamos que voce queira comprar 1K ativos cujo livro de ofertas é representado abaixo (figura 1):
 
-<table style="border: 1px solid black; width:60%; margin:50px auto;" id="figura1">
-<thead style="border: 1px solid black; text-align:center;">
+<table class="regularTable" style="max-width:60%;margin-right:auto;margin-left:auto;" id="figura1">
+<thead>
 <tr>
-<td colspan="4" style="border: 1px solid black;text-align:center;">Livro de Ofertas</td>
+<td colspan="4">Livro de Ofertas</td>
 </tr>
 <tr>
-<td colspan="2" style="border: 1px solid black;text-align:center;">Compra</td>
-<td colspan="2" style="border: 1px solid black;text-align:center;">Venda</td>
+<td colspan="2" >Compra</td>
+<td colspan="2" >Venda</td>
 </tr>
 </thead>
-<tbody style="border: 1px solid black; text-align:center;">
+<tbody>
 <tr>
-<td style="border: 1px solid black; text-align:center;">Preço</td>
-<td style="border: 1px solid black; text-align:center;">Qtd</td>
-<td style="border: 1px solid black; text-align:center;">Qtd</td>
-<td style="border: 1px solid black; text-align:center;">Preço</td>
+<td >Preço</td>
+<td >Qtd</td>
+<td >Qtd</td>
+<td >Preço</td>
 
 </tr>
 <tr>
-<td style="border: 1px solid black;text-align:center;">R$10,00</td>
-<td style="border: 1px solid black;text-align:center;">1K</td>
-<td style="border: 1px solid black;text-align:center;">2K</td>
-<td style="border: 1px solid black;text-align:center;">R$10,05</td>
+<td >R$10,00</td>
+<td >1K</td>
+<td >2K</td>
+<td >R$10,05</td>
 
 </tr>
 <tr>
-<td style="border: 1px solid black;text-align:center;">R$9,99</td>
-<td style="border: 1px solid black;text-align:center;">1,5K</td>
-<td style="border: 1px solid black;text-align:center;">1K</td>
-<td style="border: 1px solid black;text-align:center;">R$10,06</td>
+<td >R$9,99</td>
+<td >1,5K</td>
+<td >1K</td>
+<td >R$10,06</td>
 
 </tr>
 <tr>
-<td style="border: 1px solid black;text-align:center;">R$9,97</td>
-<td style="border: 1px solid black;text-align:center;">5K</td>
-<td style="border: 1px solid black;text-align:center;">500</td>
-<td style="border: 1px solid black;text-align:center;">R$10,08</td>
+<td >R$9,97</td>
+<td >5K</td>
+<td >500</td>
+<td >R$10,08</td>
 
 </tr>
 </tbody>
@@ -131,43 +131,43 @@ Por exemplo:
 - Você acha que se a ação chegar no preço de R\$10,00 é um bom sinal de que a reversão ocorreu — esse será o seu **preço de disparo**; e
 - Você não quer pagar mais caro do que R\$11,00 pois acha que a partir desse preço não será mais possível conseguir lucro na operação — esse será o seu **preço limite**.
 
-<table style="border: 1px solid black; width:60%; margin:50px auto;" id="figura2">
-<thead style="border: 1px solid black; text-align:center;">
+<table class="regularTable" id="figura2">
+<thead >
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ação</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordens</td>
+<td  >Preço</td>
+<td  >Ação</td>
+<td  >Ordens</td>
 </tr>
 </thead>
-<tbody style="border: 1px solid black; text-align:center;">
+<tbody >
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$9,50</td>
+<td  >Nenhuma</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,80</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$9,80</td>
+<td  >Nenhuma</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,00</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço de disparo atingido</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Compra por R$10,00</td>
+<td  >R$10,00</td>
+<td  >Preço de disparo atingido</td>
+<td  >Compra por R$10,00</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,05</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordem ajustada</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Compra por R$10,05</td>
+<td  >R$10,05</td>
+<td  >Ordem ajustada</td>
+<td  >Compra por R$10,05</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,05</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordem executada</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$10,05</td>
+<td  >Ordem executada</td>
+<td  >Nenhuma</td>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,07</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço da ação continua subindo</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;v">-</td>
+<td  >R$10,07</td>
+<td  >Preço da ação continua subindo</td>
+<td  >-</td>
 </tr>
 </tr>
 </tbody>
@@ -214,43 +214,43 @@ As ordens STOP podem ser utilizadas para estratégias como:
 
 Algumas corretoras chamam essa ordem de ***STOP LOSS***, pois caracteriza um preço de disparo para evitar um prejuízo muito grande em uma posição comprada.
 
-<table style="border: 1px solid black; width:60%; margin:50px auto;" id="figura3">
-<thead style="border: 1px solid black; text-align:center;">
+<table class="regularTable" id="figura3">
+<thead >
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ação</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordens</td>
+<td  >Preço</td>
+<td  >Ação</td>
+<td  >Ordens</td>
 </tr>
 </thead>
-<tbody style="border: 1px solid black; text-align:center;">
+<tbody >
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,90</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$9,90</td>
+<td  >Nenhuma</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,60</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$9,60</td>
+<td  >Nenhuma</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço de disparo atingido</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Venda por R$9,50</td>
+<td  >R$9,50</td>
+<td  >Preço de disparo atingido</td>
+<td  >Venda por R$9,50</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,45</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordem ajustada</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Venda por R$9,45</td>
+<td  >R$9,45</td>
+<td  >Ordem ajustada</td>
+<td  >Venda por R$9,45</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,45</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordem executada</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$9,45</td>
+<td  >Ordem executada</td>
+<td  >Nenhuma</td>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$9,30</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço da ação continua caindo</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;v">-</td>
+<td  >R$9,30</td>
+<td  >Preço da ação continua caindo</td>
+<td  >-</td>
 </tr>
 </tr>
 </tbody>
@@ -276,39 +276,39 @@ Por exemplo:
 - Você deseja que, caso o preço da ação no mercado suba para, por exemplo, R\$10,50 — **preço de início**, os preços de disparo e limite do STOP acompanhem essa variação positiva de R\$0,50, passando a serem R\$10,00 e R\$9,50, respectivamente, aumentando a sua proteção.
 - A partir daí, você quer que para cada movimentação de R$0,50 — **preço de ajuste** — o valor das suas ordens também seja ajustado nesse montante.
 
-<table style="border: 1px solid black; width:60%; margin:50px auto;" id="figura4">
-<thead style="border: 1px solid black; text-align:center;">
+<table class="regularTable" id="figura4">
+<thead>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Preço</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ação</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Ordens</td>
+<td>Preço</td>
+<td>Ação</td>
+<td  >Ordens</td>
 </tr>
 </thead>
-<tbody style="border: 1px solid black; text-align:center;">
+<tbody>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,00</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Disparo ajustado para R$9,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$10,00</td>
+<td  >Disparo ajustado para R$9,50</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,20</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Disparo ajustado para R$9,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$10,20</td>
+<td  >Disparo ajustado para R$9,50</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Disparo ajustado para R$10,00</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$10,50</td>
+<td  >Disparo ajustado para R$10,00</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$10,80</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Disparo ajustado para R$10,00</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$10,80</td>
+<td  >Disparo ajustado para R$10,00</td>
+<td  >Nenhuma</td>
 </tr>
 <tr>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">R$11,00</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Disparo ajustado para R$10,50</td>
-<td  style="border: 1px solid black;text-align:center;padding:0.3rem;">Nenhuma</td>
+<td  >R$11,00</td>
+<td  >Disparo ajustado para R$10,50</td>
+<td  >Nenhuma</td>
 
 </tr>
 </tbody>
