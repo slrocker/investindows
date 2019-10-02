@@ -62,7 +62,7 @@ No sistema da Bolsa, toda vez que alguém envia uma ordem de compra ou de venda,
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 1 - Livro de Ofertas</p>
+<p class="legenda" style="text-align:center;">Figura 1 - Livro de Ofertas.</p>
 
 Observe que há uma diferença de R\$0,05 no preço entre a melhor oferta de compra (R\$10,00) e a melhor oferta de venda (R\$10,05). Essa diferença é chamada de ***spread***.
 
@@ -106,7 +106,7 @@ Suponha um livro de ofertas que ainda não possui nenhuma oferta registrada (fig
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 2 - Livro de Ofertas em branco</p>
+<p class="legenda" style="text-align:center;">Figura 2 - Livro de Ofertas em branco.</p>
 
 Em seguida, três investidores enviam ordens de compra do ativo na seguinte ordem:
 
@@ -158,7 +158,7 @@ Tanto o investidor 1 quanto o investidor 2 enviaram ordens de compra pelo mesmo 
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 3 - Prioridade por ordem de envio</p>
+<p class="legenda" style="text-align:center;">Figura 3 - Prioridade por ordem de envio.</p>
 
 
 O investidor 3, apesar de ter sido o último a enviar a ordem, enviou uma ordem com uma melhor oferta de preço de compra. Sua ordem, então, ganha prioridade sobre as demais já registradas no sistema (figura 4):
@@ -205,7 +205,7 @@ O investidor 3, apesar de ter sido o último a enviar a ordem, enviou uma ordem 
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 4 - Prioridade da melhor oferta</p>
+<p class="legenda" style="text-align:center;">Figura 4 - Prioridade da melhor oferta.</p>
 
 ###Negócio Fechado
 

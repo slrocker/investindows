@@ -89,7 +89,7 @@ html {
     top: -0.5em;
   }
   img {
-    border-style: none;
+    border-style: none;    
   }
   svg:not(:root) {
     overflow: hidden;
@@ -681,6 +681,28 @@ html {
 
  
   
+  .dashedBox{
+
+    border: 1px dashed red;
+    padding: 20px;
+    margin: 2rem 0 2rem 0;
+
+    h1,h2,h3,h4,h5,h6{
+      
+      color: red;
+      text-align: center;
+      margin: 0 0 2rem 0;
+    }
+
+    p{
+
+      font-weight: bold;
+      margin: 1rem;
+      text-align: justify;
+    }
+
+  }
+
 
   .borderBox{
 
