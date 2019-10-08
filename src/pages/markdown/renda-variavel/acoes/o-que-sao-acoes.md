@@ -110,7 +110,7 @@ Nele estarão informações como:
 
 Observe abaixo (figura 3) um trecho do [estatuto social](http://ri.ambev.com.br/conteudo_pt.asp?idioma=0&conta=28&tipo=43350) da AMBEV S.A.
 
-<div class="referencias" id="figura3">
+<div class="citacao" id="figura3">
 
 CAPÍTULO II
 

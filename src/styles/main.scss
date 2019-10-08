@@ -631,7 +631,7 @@ html {
       font-size: 100%;
     }   
 
-       
+    
   }
 
   .katex > .katex-html {
@@ -666,13 +666,26 @@ html {
 
   }
 
+
+
+  svg {
+
+    
+    max-width: 600px;
+  
+
+    
+  }
+
   .svg-vertical-limit {
+
       max-height: 80vh;
       
   }
 
   .svg-horizontal-limit {
     max-width: 60% ;
+    
   }
 
   //--------------------------------------------------
@@ -726,6 +739,12 @@ html {
 
   }
 
+  .citacao {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 0.8rem;
+  }
+
   .referencias {
 
     margin-top: 5rem;
@@ -735,6 +754,7 @@ html {
   .legenda {
     font-size: 0.8rem;
     margin: 2rem 0 3rem 0;
+    
     
   }
   

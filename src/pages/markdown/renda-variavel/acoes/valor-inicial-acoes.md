@@ -7,7 +7,7 @@ category: "Renda Variável"
 categorySlug: "renda-variavel"
 subcategory: "Ações"
 subcategorySlug: "acoes"
-order: 3
+order: 4
 featuredImage: "renda-variavel"
 pageType: "page"
 showIndex: "false"
