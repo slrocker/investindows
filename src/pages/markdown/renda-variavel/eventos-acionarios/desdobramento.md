@@ -12,17 +12,17 @@ pageType: "page"
 order: 5
 ---
 
-##O que é um *desdobramento*?
+##O que é um desdobramento?
 
-Um *split* (palavra inglesa que significa dividir) ou desdobramento ocorre quando a empresa aumenta o número de ações que compõem o seu [capital social](/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total de seu patrimônio líquido. Ou seja, há um aumento no número de açõe
+Um *split* (palavra inglesa que significa dividir) ou desdobramento ocorre quando a empresa aumenta o número de ações que compõem o seu [capital social](/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total do mesmo.
 
 Em outras palavras, cria-se mais ações, mas o valor total das ações permanece o mesmo. Por exemplo:
 
-- Uma empresa que têm 100 ações valendo R$100,00 no total faz um desdobramento de 100%;
+- Uma empresa que têm 100 ações e um capital social de R$100,00 faz um desdobramento de 100%;
 - Para cada ação que existir, uma nova ação será criada;
-- Ao final a empresa terá 200 ações que valem R\$100,00 no total.
+- Ao final a empresa terá 200 ações e continuará com um capital social de R\$100,00.
 
-O dedobramento pode ser informado tanto em percentual quanto em proporção:
+O desdobramento pode ser informado tanto em percentual quanto em proporção:
 
 - 100%: para cada ação que existir, uma nova será criada;
 - 2 para 1: cada ação se dividirá em duas ações;
@@ -33,11 +33,11 @@ Observe o texto abaixo, retirado de um fato relevante do ITAU UNIBANCO S.A.:
 
 <div class="citacao" id="figura1">
 
-ITAÚ UNIBANCO HOLDING S.A. (“Companhia”) comunica aos seus acionistas que o Conselho de Administração aprovou que seja convocada, em data oportuna a ser amplamente comunicada ao mercado pela Companhia, Assembleia Geral Extraordinária, que deliberará a proposta de desdobrar em 50% as atuais 6.536.090.232 ações escriturais, sem valor nominal, representativas do capital social, sendo 3.305.526.906 ordinárias e 3.230.563.326 preferenciais. Em consequência, os acionistas receberão 1 (uma) nova ação para cada 2 (duas) ações da mesma espécie de que forem titulares.
+ITAÚ UNIBANCO HOLDING S.A. (“Companhia”) comunica aos seus acionistas que o Conselho de Administração aprovou que seja convocada, em data oportuna a ser amplamente comunicada ao mercado pela Companhia, Assembleia Geral Extraordinária, que deliberará a proposta de desdobrar em 50% as atuais 6.536.090.232 ações escriturais, sem valor nominal, representativas do capital social, sendo 3.305.526.906 ordinárias e 3.230.563.326 preferenciais. **Em consequência, os acionistas receberão 1 (uma) nova ação para cada 2 (duas) ações da mesma espécie de que forem titulares**.
 
 </div>
 
-<p class="legenda" style="text-align:center;">Figura 1 - Trecho de fato relevante do ITAÚ.</p>
+<p class="legenda" style="text-align:center;">Figura 1 - Trecho de fato relevante do BANCO ITAÚ.</p>
 
 Nesse fato relevante, o desdobramento é informado em percentual.
 
@@ -90,10 +90,17 @@ Por exemplo, em um desdobramento de 100%, o preço de fechamento (assim como tod
 
 <p class="legenda" style="text-align:center;">Figura 2 - Representação gráfica de um desdobramento de 100%, onde o preço é dividido pela metade, de forma que o total permaneça o mesmo.</p>
 
+###Por que ajustar o preço?
+
+Em um desdobramento (assim como em qualquer outro evento acionário) não é criado dinheiro, ocorre apenas uma mudança no número total de ações.
+
+Assim, é natural que, se o somatório do preço de todas as ações na Bolsa (chamado de **valor de mercado** da empresa) refletia o valor pelo qual os acionistas avaliavam a empresa antes do evento, esse valor permaneça o mesmo depois do evento.
+
+É importante observar que o preço ajustado é o preço de fechamento do dia do evento. No dia seguinte, quando se iniciar um novo pregão, pode acontecer qualquer coisa com o preço, até mesmo voltar a patamares anteriores ao ajuste.
 
 ##Por que fazer um desdobramento?
 
 Os motivos para a realização de um desdobramento são variados. Entre os principais, podemos citar:
 
-- Diminuir o preço das suas ações sendo negociadas na Bolsa de Valores; e
+- Diminuir o preço das ações sendo negociadas na Bolsa de Valores; e
 - Aumentar a liquidez de suas ações, aumentando o número de ações em negociação.
