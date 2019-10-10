@@ -15,15 +15,3 @@ icon: M25,0C11.2,0,0,11.2,0,25s11.2,25,25,25s25-11.2,25-25S38.8,0,25,0z M26.3,38
 ---
 
 Eventos acionários são eventos que ocorrem em ativos que são negociados na Bolsa de Valores. Normalmente, estes eventos se originam no emissor do ativo e podem trazer consequências ao investidor.
-
-IPO
-EMISSÃO FOLLOW ON
-SUBSCRIÇÃO
-DATA COM E EX
-SPLIT OU DESDOBRAMENTO
-INPLIT OU GRUPAMENTO
-BONIFICAÇÃO
-DIVIDENDOS
-JUROS SOBRE CAPITAL PRÓPRIO
-RENDIMENTO DE JCP
-RECOMPRA DE AÇÔES

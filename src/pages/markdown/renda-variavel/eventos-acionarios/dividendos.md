@@ -98,3 +98,13 @@ Assim, é natural que, se o somatório do preço de todas as ações na Bolsa (c
 O principal motivo para pagar dividendos é remunerar os acionistas da empresa.
 
 Nem sempre o pagamento de dividendos é uma vantagem. Por exemplo, em empresas onde os sócios majoritários tenham mais interesse em receber dividendos no que na saúde financeira da empresa, é comum que a administração opte por distribuir dividendos mesmo que a empresa não tenha tido resultados satisfatórios. 
+
+##Correção Monetária
+
+Há algumas empresas estatais que pagam uma remuneração ao acionista que é registrada nos extratos das corretoras como **rendimento sobre dividendos**, **atualização monetária** etc.
+
+Esse valor é uma correção pela taxa SELIC do valor a ser distribuído como dividendos entre o período do dia 31/12 e a data efetiva do pagamento.
+
+É como se o valor a ser pago como dividendo tivesse sido depositado em um investimento de renda fixa até a data efetiva do pagamento.
+
+Da mesma forma que investimentos em renda fixa, esses valores são tributados na fonte e seguem a tabela regressiva de pagamento de imposto.
