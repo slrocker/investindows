@@ -9,7 +9,7 @@ const Footer = () => {
         <footer className={footerStyles.footerContainer}>
             <ul className={footerStyles.authorNav}>
                 <li><Link to=''>Sobre o Autor</Link></li>
-                <li><a href='mailto:contato@investindo.com.br'>Contato</a></li>
+                <li><a href='mailto:contato@investindo.org'>Contato</a></li>
             </ul>
             <ul className={footerStyles.rulesNav}>
                 <li><Link to=''>Política de Privacidade</Link></li>

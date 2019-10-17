@@ -150,4 +150,4 @@ A partir dái, ele passa a ter direito a receber a sua parte dos lucros e pode v
 
 A principal vantagem do investimento em ações é a possibilidade de ter ganhos bem elevados na valorização do patrimônio, como discutimos no artigo sobre o  [rendimento das ações](/renda-variavel/acoes/rendimento).
 
-No entanto, junto com a possibilidade de ganhos elevados, também vem a possibilidade de perdas elevadas, sendo por isso necessário aprender a elaborar uma [estratégia de investimento](/financas/estrategia) adequada e a [analisar]() empresas de forma a investir naquelas que lhe oferecem a maior chance de ganhos.
+No entanto, junto com a possibilidade de ganhos elevados, também vem a possibilidade de perdas elevadas, sendo por isso necessário aprender a elaborar uma [estratégia de investimento](/financas/estrategia) adequada e a analisar empresas de forma a investir naquelas que lhe oferecem a maior chance de ganhos.
