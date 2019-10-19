@@ -77,7 +77,7 @@ O livro de ofertas é a tela do [*homebroker*](/renda-variavel/homebroker) onde 
 
 A diferença entre o preço da melhor oferta de compra e o da melhor oferta de venda é chamado de ***spread***.
 
-Em ações onde poucas pessoas querem fazer negócios, o *spread* costumam ser altos, obrigando o investidor a:
+Em ações onde poucas pessoas querem fazer negócios, o *spread* costuma ser alto, obrigando o investidor a:
 
 - Aguardar muito tempo para executar sua ordem; ou
 - Pagar um prêmio para executar sua ordem.
