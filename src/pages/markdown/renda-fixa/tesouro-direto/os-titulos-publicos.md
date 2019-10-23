@@ -56,17 +56,17 @@ Em uma esquematização comumente utilizada no mercado financeiro para represent
 <div style="text-align:center" id="figura1">
 <svg viewBox="0 0 313.9 144">
 <style type="text/css">
-	.st0{font-family:'Arial';}
-	.st1{font-size:10px;}
-	.st3{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st0td{font-family:'Arial';}
+	.st1td{font-size:10px;}
+	.st3td{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1">
 	<path d="M212.7,23.1l4.3,1.5c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v46.8H47.1v0.5h-0.5v47.4l-4.3-1.5
 		c1.9,2.2,3.7,5.7,4.8,8.5c1.1-2.8,2.9-6.4,4.8-8.5l-4.3,1.5V70.9h164.6v-0.4h0.5V23.1z"/>
-	<text id="XMLID_3_" transform="matrix(1 0 0 1 24.3364 61.2197)" class="st0 st1">Data da Compra</text>
-	<text id="XMLID_7_" transform="matrix(1 0 0 1 176.1962 84.8882)" class="st0 st1">Data do Vencimento</text>
-	<text id="XMLID_5_" transform="matrix(1 0 0 1 2.4907 91.8174)"><tspan x="0" y="0" class="st0 st1">Valor</tspan><tspan x="0" y="9.6" class="st0 st1">Invest.</tspan></text>
-	<text id="XMLID_6_" transform="matrix(1 0 0 1 223.8926 42.7197)"><tspan x="0" y="0" class="st0 st1">Valor de face</tspan><tspan x="0" y="9.6" class="st0 st1">(Invest. + Rent.)</tspan></text>
+	<text id="XMLID_3_" transform="matrix(1 0 0 1 24.3364 61.2197)" class="st0td st1td">Data da Compra</text>
+	<text id="XMLID_7_" transform="matrix(1 0 0 1 176.1962 84.8882)" class="st0td st1td">Data do Vencimento</text>
+	<text id="XMLID_5_" transform="matrix(1 0 0 1 2.4907 91.8174)"><tspan x="0" y="0" class="st0td st1td">Valor</tspan><tspan x="0" y="9.6" class="st0td st1td">Invest.</tspan></text>
+	<text id="XMLID_6_" transform="matrix(1 0 0 1 223.8926 42.7197)"><tspan x="0" y="0" class="st0td st1td">Valor de face</tspan><tspan x="0" y="9.6" class="st0td st1td">(Invest. + Rent.)</tspan></text>
 </g>
 <g id="Layer_2">
 	<path d="M42.9,124.5c-2.6,0-4-1.7-4-2.6c0-1.7,0.1-3.8,0.1-6c0.2-5.8,0.4-12.3-0.5-15.8c-0.2-0.9-2.4-1.8-3.8-2.2l-1.9-0.5l1.9-0.5
@@ -103,10 +103,10 @@ A rentabilidade de uma LFT é dada pela variação da taxa SELIC do dia da compr
 <g id="Layer_1">
 	<path d="M212.7,23.1l4.3,1.5c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v46.8H47.1v0.5h-0.5v47.4l-4.3-1.5
 		c1.9,2.2,3.7,5.7,4.8,8.5c1.1-2.8,2.9-6.4,4.8-8.5l-4.3,1.5V70.9h164.6v-0.4h0.5V23.1z"/>
-	<text id="XMLID_3_" transform="matrix(1 0 0 1 24.3364 61.2197)" class="st0 st1">Data da Compra</text>
-	<text id="XMLID_7_" transform="matrix(1 0 0 1 176.1962 84.8882)" class="st0 st1">Data do Vencimento</text>
-	<text id="XMLID_5_" transform="matrix(1 0 0 1 2.4907 91.8174)"><tspan x="0" y="0" class="st0 st1">Valor</tspan><tspan x="0" y="9.6" class="st0 st1">Invest.</tspan></text>
-	<text id="XMLID_6_" transform="matrix(1 0 0 1 223.8926 42.7197)"><tspan x="0" y="0" class="st0 st1">(Juros + Principal)</tspan></text>
+	<text id="XMLID_3_" transform="matrix(1 0 0 1 24.3364 61.2197)" class="st0td st1td">Data da Compra</text>
+	<text id="XMLID_7_" transform="matrix(1 0 0 1 176.1962 84.8882)" class="st0td st1td">Data do Vencimento</text>
+	<text id="XMLID_5_" transform="matrix(1 0 0 1 2.4907 91.8174)"><tspan x="0" y="0" class="st0td st1td">Valor</tspan><tspan x="0" y="9.6" class="st0td st1td">Invest.</tspan></text>
+	<text id="XMLID_6_" transform="matrix(1 0 0 1 223.8926 42.7197)"><tspan x="0" y="0" class="st0td st1td">(Juros + Principal)</tspan></text>
 </g>
 <g id="Layer_2">
 	<path d="M42.9,124.5c-2.6,0-4-1.7-4-2.6c0-1.7,0.1-3.8,0.1-6c0.2-5.8,0.4-12.3-0.5-15.8c-0.2-0.9-2.4-1.8-3.8-2.2l-1.9-0.5l1.9-0.5
