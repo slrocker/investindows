@@ -25,9 +25,9 @@ O preço de uma LFT é atualizado diariamente pela variação da taxa SELIC tend
 
 Isso quer dizer que o Tesouro padronizou que uma LFT no dia 01/07/2000 valia R\$1.000,00. A partir daí, esse valor foi atualizado diariamente pela variação da taxa SELIC. 
 
-Supondo que a variação da taxa SELIC do dia 01/07/2000 para o dia 02/07/2000 foi de 0,01%, no dia 02/07/2000 uma LFT custava R\$1.000,10 e assim por diante.
+Supondo que a variação da taxa SELIC do dia 01/07/2000 para o dia 02/07/2000 foi de 0,01%, no dia 02/07/2000 uma LFT custaria R\$1.000,10 e assim por diante.
 
-Ao preço da LFT corrigido pela taxa SELIC a partir da data base de 01/07/2000 é dado o nome de **VALOR NOMINAL ATUALIZADO (VNA)**.
+Ao preço da LFT corrigido pela taxa SELIC a partir da data-base de 01/07/2000 é dado o nome de **VALOR NOMINAL ATUALIZADO (VNA)**.
 
 ###Ágio e Deságio
 
@@ -42,7 +42,7 @@ Acessando o [site](http://www.tesouro.gov.br/tesouro-direto-precos-e-taxas-dos-t
 
 |  Título            | Vencimento | Taxa de Rendimento (% a.a.) | Valor Mínimo | Preço Unitário |
 |--------------------|------------|-----------------------------|--------------|----------------|
-| Tesouro SELIC 2025 | 01/03/2025 | Selic + 0,02                | 103,69       | 10.369,41      |
+| Tesouro SELIC 2025 | 01/03/2025 | Selic + 0,02                | 103,69       | 10.369,42      |
 
 </div>
 
@@ -124,17 +124,8 @@ $$
 
 Onde:
 
-$$
-
-taxa = taxa\,de\,ágio\,ou\,deságio
-
-$$
-
-$$
-
-du = dias\,úteis\,até\,o\,vencimento\,do\,título
-
-$$
+- **taxa** = taxa de ágio ou deságio; e
+- **du** = dias úteis do dia da liquidação (inclusive) até a data de vencimento do título (exclusive).
 
 **OBS**: a cotação do título é truncado em 4 casas decimais.
 
@@ -170,7 +161,7 @@ Em cálculos que envolvem títulos de renda fixa, o mercado conveciona utilizar 
 
 Para calcular os dias úteis pode-se utilizar o EXCEL, utilizando-se uma planilha que contenha os feriados (disponível no *site* da [ANBIMA](https://www.anbima.com.br/feriados/feriados.asp))  e a fórmula *DIATRABALHOTOTAL*.
 
-O cálculo a ser feito envolve o período entre a **data de liquidação da compra** e o **dia do vencimento do título**.
+O cálculo a ser feito envolve o período entre a **data de liquidação da compra (inclusive)** e o **dia do vencimento do título (exclusive)**.
 
 Para **a data de liquidação da compra, utilizamos o primeiro dia útil após a data da compra**. No nosso caso, será o dia 24/10/2019 (pois estamos comprando o título em 23/10/2019).
 
@@ -178,7 +169,7 @@ Dessa forma teremos:
 
 $$
 
-du = 1.345
+du = 1.344
 
 $$
 
@@ -186,7 +177,7 @@ $$
 
 $$
 
-Cotação = { 100  \over { \bigg(1 + \Large {0,02 \over 100}\bigg)^{1.345 \over 252} }} = 99,8933
+Cotação = { 100  \over { \bigg(1 + \Large {0,02 \over 100}\bigg)^{1.344 \over 252} }} = 99,8934
 
 $$
 
@@ -195,7 +186,7 @@ $$
 
 $$
 
-PU = {99,8933 \over 100} \times 10.380,493054 = 10.369,41
+PU = {99,8933 \over 100} \times 10.380,493054 = 10.369,42
 
 $$
 
@@ -253,7 +244,7 @@ Observe novamente a tabela de títulos disponíveis para venda em 23/10/2019:
 
 |  Título            | Vencimento | Taxa de Rendimento (% a.a.) | Valor Mínimo | Preço Unitário |
 |--------------------|------------|-----------------------------|--------------|----------------|
-| Tesouro SELIC 2025 | 01/03/2025 | Selic + 0,02                | 103,69       | 10.369,41      |
+| Tesouro SELIC 2025 | 01/03/2025 | Selic + 0,02                | 103,69       | 10.369,42      |
 
 </div>
 
@@ -288,7 +279,7 @@ Somado a isso, como o preço do título é corrigido pela variação da taxa SEL
 
 Dessa forma, ainda que venda seu título antes do vencimento, o investidor acabará tendo uma rentabilidade muito próxima da que esperava obter quando adquiriu o título.
 
-Devido às suas características particulares as LFT são recomendadas para:
+Devido às suas características particulares as LFT são úteis para:
 
 - Investidores que podem vir a utilizar o dinheiro antes do vencimento do título, tendo de fazer uma venda antecipada; e
 - Investimentos para o curto e médio prazo.

@@ -211,7 +211,7 @@ Isso ocorrerá em um cenário onde as taxas de juros se reduziram entre o perío
 
 ##Estratégia de Investimento
 
-Devido às suas características particulares as LTN são recomendadas para:
+Devido às suas características particulares as LTN são úteis para:
 
 - Investidores que desejam ter uma taxa de rendimento conhecida no momento da compra do título; e
 - Investidores que carregarão o título até o seu vencimento.
