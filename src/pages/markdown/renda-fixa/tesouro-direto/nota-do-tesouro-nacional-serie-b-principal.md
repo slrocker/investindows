@@ -40,7 +40,7 @@ Observe os títulos disponíveis para venda no dia 24/10/2019:
 | Título             |  Vencimento | Taxa de Rendimento | Valor Mínimo | Preço Unitário |
 |--------------------|-------------|--------------------|--------------|----------------|
 | Tesouro IPCA+ 2024 | 15/08/2024  | IPCA + 2,19        | 58,39        | 2919,94        |
-| Tesouro IPCA+ 2035 | 15/05/20235 | IPCA + 3,14        | 40,12        | 2006,08        |
+| Tesouro IPCA+ 2035 | 15/05/2035 | IPCA + 3,14        | 40,12        | 2006,08        |
 | Tesouro IPCA+ 2045 | 15/05/2045  | IPCA+ 3,14         | 44,21        | 1473,84        |
 
 </div>
@@ -242,7 +242,7 @@ Observe na figura 1 que esse é o preço pelo qual estão sendo vendidas as NTN-
 
 O fluxo de um título é a representação da movimentação dos valores ao longo do tempo. No caso das NTN-B Principal, o fluxo é representado pela Figura 2:
 
-<div style="text-align:center" id="figura1">
+<div style="text-align:center" id="figura2">
 <svg viewBox="0 0 313.9 144" class="svg-vertical-limit">
 <style type="text/css">
 	.st0td{font-family:'Arial';}
@@ -285,12 +285,12 @@ Deve-se considerar também que a fração mínima a ser comprada de um título �
 
 Observe novamente a tabela de títulos disponíveis para venda em 24/10/2019:
 
-<div class = "overflow responsiveTable" id="figura1">
+<div class = "overflow responsiveTable" id="figura3">
 
 | Título             |  Vencimento | Taxa de Rendimento | Valor Mínimo | Preço Unitário |
 |--------------------|-------------|--------------------|--------------|----------------|
 | Tesouro IPCA+ 2024 | 15/08/2024  | IPCA + 2,19        | 58,39        | 2919,94        |
-| Tesouro IPCA+ 2035 | 15/05/20235 | IPCA + 3,14        | 40,12        | 2006,08        |
+| Tesouro IPCA+ 2035 | 15/05/2035 | IPCA + 3,14        | 40,12        | 2006,08        |
 | Tesouro IPCA+ 2045 | 15/05/2045  | IPCA+ 3,14         | 44,21        | 1473,84        |
 
 </div>
