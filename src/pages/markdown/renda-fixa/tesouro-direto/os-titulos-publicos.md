@@ -33,7 +33,7 @@ A disponibilidade de cada título irá depender de como o governo deseja estrutu
 
 ##Tipos de Títulos
 
-Atualmente, existem basicamente três tipos de títulos:
+Atualmente, existem três tipos de títulos a venda:
 
 - **Letras do Tesouro Nacional - LTN**: financiamento de curto e médio prazo;
 - **Letras Financeiras do Tesouro - LFT**: financiamento de curto e médio prazo; e
@@ -45,7 +45,7 @@ A LTN são ítulos [prefixados](financas/iniciantes/rendimento), isto é, sua ta
 
 Apesar de não existir regra específica, as LTN têm sido emitidas com datas de vencimento que se enquadram no primeiro dia de cada trimestre
 
-###Rentabilidade
+###Rentabilidade LTN
 
 No vencimento de uma LTN, o investidor receberá R\$1.000,00 para cada título que comprou.
 
@@ -94,7 +94,7 @@ O índice utilizado para remunerar as LFT é a [taxa SELIC](/financas/economia/t
 
 Apesar de não existir regra específica, as LFT têm sido emitidas com datas de vencimento que se enquadram no primeiro dia do mês de março.
 
-###Rentabilidade
+###Rentabilidade LFT
 
 A rentabilidade de uma LFT é dada pela variação da taxa SELIC do dia da compra até a data do vencimento do título:
 
@@ -140,7 +140,7 @@ Existem vários tipos de Notas do Tesouro e o índice que as remunera varia conf
 - **Notas do Tesouro Nacional Série B (NTN-B)**: remunerada pela variação do [IPCA](/financas/economia/indice-de-precos) acrescido de uma taxa de rendimento; paga cupons semestrais; e
 - **Notas do Tesouro Nacional Série F (NTN-F)**: taxa prefixada; paga cupons semestrais.
 
-###Rentabilidade
+###Rentabilidade NTN
 
 No vencimento de uma NTN, o investidor receberá R\$1.000,00 para cada título que comprou.
 
@@ -153,7 +153,7 @@ Os cálculos da rentabilidade de uma NTN-B são discutidos mais a fundo no artig
 
 Já a rentabilidade das NTN-F é dada pela diferença entre R\$1.000,00 e o preço de compra do título.
 
-Os cálculos da rentabilidade de uma NTN-F são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série F](/renda-fixa/tesouro-direto/tesouro-prefixado-com-juros).
+Os cálculos da rentabilidade de uma NTN-F são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série F](/renda-fixa/tesouro-direto/tesouro-prefixado-com-juros-semestrais).
 
 ###Juros Semestrais
 

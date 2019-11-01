@@ -290,4 +290,6 @@ Devido às suas características particulares as LFT são úteis para:
 
 <p id="1">BERGER, Paulo Lamosa. <strong>Mercado de Renda Fixa no Brasil: ênfase em títulos públicos</strong>. 1 ed. Rio de Janeiro. Interciência, 2015.</p>
 
+<p id="2">Escola de Administração Fazendária - ESAF. <strong>Curso do Tesouro Direto</strong>. Disponível em <a href="http://www.tesouro.gov.br/-/curso-do-tesouro-direto">http://www.tesouro.gov.br/-/curso-do-tesouro-direto</a></p>
+
 </div>

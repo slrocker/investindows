@@ -48,9 +48,10 @@ Para ter acesso ao sistema, o investidor precisa:
 - Comandar as ordens das operações que deseja fazer.
 
 
-![homebroker - Carteira de Ações](../img/tela-inicial-td.jpg)
+![Tesouro Direto - Tela Inicial](../img/tela-inicial-td.jpg)
 
 <p class="legenda" style="text-align:center">Figura 1 - Tela Inicial do Tesouro Direto.</p>
+
 
 Leia os demais artigos dessa seção para:
 
@@ -58,4 +59,4 @@ Leia os demais artigos dessa seção para:
 - [Entender qual o rendimento pago](/renda-fixa/tesouro-direto/rendimento-tesouro-direto);
 - [Aprender quais os custos envolvidos](/renda-fixa/tesouro-direto/custos-tesouro-direto);
 - [Conhecer os riscos do investimento em títulos públicos](/renda-fixa/tesouro-direto/riscos-tesouro-direto); e
-- [Aprender a utilizar o sistema](/renda-fixa/tesouro-direto/como-investir-tesouro-direto).
+- [Aprender a utilizar o sistema](/renda-fixa/tesouro-direto/como-investir-no-tesouro-direto).

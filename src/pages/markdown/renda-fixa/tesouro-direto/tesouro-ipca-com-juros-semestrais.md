@@ -380,8 +380,8 @@ O fluxo de um título é a representação da movimentação dos valores ao long
 <div style="text-align:center" id="figura4">
 <svg viewBox="0 0 274 117">
 <style type="text/css">
-	.st0{font-family:'Arial';}
-	.st1{font-size:8px;}
+	.st0ntn{font-family:'Arial';}
+	.st1ntn{font-size:8px;}
 </style>
 <path d="M209.5,33.7V11.4l4.3,1.5c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v22.3c-1.1,2.6-2.6,5.4-4.3,7.3
 	l4.3-1.5v18.7h-26.3V39.5l4.3,1.5c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v18.7h-27.8V39.5l4.3,1.5
@@ -389,11 +389,11 @@ O fluxo de um título é a representação da movimentação dos valores ao long
 	c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v18.7H95.7V39.5L100,41c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v18.7H67.9
 	V39.5l4.3,1.5c-1.9-2.2-3.7-5.7-4.8-8.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.3-1.5v18.7h-23v0.5h-0.5v47.4l-4.3-1.5c1.9,2.2,3.7,5.7,4.8,8.5
 	c1.1-2.8,2.9-6.4,4.8-8.5l-4.3,1.5V59.2H209v0h0.5v-0.4V39.5l4.3,1.5C212.1,39.1,210.5,36.3,209.5,33.7z"/>
-<text id="XMLID_3_" transform="matrix(1 0 0 1 24.9976 52.0587)" class="st0 st1">Compra</text>
-<text id="XMLID_7_" transform="matrix(1 0 0 1 191.418 73.1981)" class="st0 st1">Vencimento</text>
-<text id="XMLID_5_" transform="matrix(1 0 0 1 5 82)"><tspan x="0" y="0" class="st0 st1">Valor</tspan><tspan x="-6.7" y="9.6" class="st0 st1">Investido</tspan></text>
-<text id="XMLID_6_" transform="matrix(1 0 0 1 229.5623 9.7542)"><tspan x="0" y="0" class="st0 st1">(Investido</tspan><tspan x="13.9" y="9.6" class="st0 st1"> +</tspan><tspan x="5" y="19.2" class="st0 st1"> Rent.)</tspan></text>
-<text id="XMLID_9_" transform="matrix(1 0 0 1 234.0099 48.1266)" class="st0 st1">Cupom</text>
+<text id="XMLID_3_" transform="matrix(1 0 0 1 24.9976 52.0587)" class="st0ntn st1ntn">Compra</text>
+<text id="XMLID_7_" transform="matrix(1 0 0 1 191.418 73.1981)" class="st0ntn st1ntn">Vencimento</text>
+<text id="XMLID_5_" transform="matrix(1 0 0 1 7 82)"><tspan x="0" y="0" class="st0ntn st1ntn">Valor</tspan><tspan x="-6.7" y="9.6" class="st0ntn st1ntn">Investido</tspan></text>
+<text id="XMLID_6_" transform="matrix(1 0 0 1 225 10)"><tspan x="0" y="0" class="st0ntn st1ntn">(Investido</tspan><tspan x="13.9" y="9.6" class="st0ntn st1ntn"> +</tspan><tspan x="5" y="19.2" class="st0ntn st1ntn"> Rent.)</tspan></text>
+<text id="XMLID_9_" transform="matrix(1 0 0 1 228 48)" class="st0ntn st1ntn">Cupom</text>
 <path d="M40.7,112c-2.6,0-4-1.7-4-2.6c0-1.7,0.1-3.8,0.1-6c0.2-5.8,0.4-12.3-0.5-15.8c-0.2-1-2.7-1.9-3.8-2.2L30.7,85l1.9-0.5
 	c1.4-0.3,3.6-1.2,3.8-2.2c0.9-3.3,0.7-9.6,0.4-15c-0.1-2.1-0.2-4.2-0.2-5.8c0-1.2,0.3-2.3,3.4-3.1l0.2,1c-2.6,0.6-2.6,1.3-2.6,2.1
 	c0,1.7,0.1,3.7,0.2,5.8c0.2,5.5,0.4,11.8-0.5,15.3c-0.3,1.1-1.8,1.9-3.1,2.4c1.2,0.5,2.7,1.3,3,2.4c0.9,3.6,0.7,10.2,0.5,16.1
@@ -411,7 +411,7 @@ O fluxo de um título é a representação da movimentação dos valores ao long
 	c-0.6-0.3-1.2-0.6-1.4-1.1c-0.6-1.8-0.5-4.9-0.3-7.6c0.1-1,0.1-2,0.1-2.8c0-0.2,0-0.5-1.6-0.8l0.2-1c2,0.4,2.4,0.9,2.4,1.8
 	c0,0.8-0.1,1.8-0.1,2.9c-0.1,2.7-0.3,5.7,0.3,7.2c0.1,0.3,1.3,0.7,2.4,0.9l2.6,0.5l-2.6,0.5c-1.1,0.2-2.3,0.6-2.4,0.9
 	c-0.6,1.6-0.4,5-0.3,7.6c0.1,1.1,0.1,2.1,0.1,3C217.6,58.8,216.6,59.7,214.8,59.7z"/>
-<text id="XMLID_14_" transform="matrix(1 0 0 1 82.6706 19.0598)" class="st0 st1">Cupom de Juros (Semestral)</text>
+<text id="XMLID_14_" transform="matrix(1 0 0 1 82.6706 19.0598)" class="st0ntn st1ntn">Cupom de Juros (Semestral)</text>
 </svg>
 
 </div>
@@ -449,7 +449,7 @@ O valor equivalente a 0,01 título seria de R\$39,83. Esse valor cumpre os dois 
 
 ##Riscos Específicos
 
-###Marcação a Mercado
+**Marcação a Mercado**
 
 Em títulos NTN-B há correlação inversa entre a taxa de rendimento e o preço do título:
 
@@ -464,7 +464,7 @@ Também é possível, no caso de uma redução nas taxas de rendimento, um inves
 
 Dessa forma, **a taxa de rendimento contratada no momento da compra do título só será recebida se o mesmo for levado até o seu vencimento**.
 
-###Imposto de Renda
+**Imposto de Renda**
 
 Apesar de não ser um risco, a NTN-B possui a desvantagem de pagar imposto de renda sobre os valores recebidos como cupom.
 
@@ -486,5 +486,7 @@ Devido às suas características particulares as NTN-B são úteis para:
 **Referências**:
 
 <p id="1">BERGER, Paulo Lamosa. <strong>Mercado de Renda Fixa no Brasil: ênfase em títulos públicos</strong>. 1 ed. Rio de Janeiro. Interciência, 2015.</p>
+
+<p id="2">Escola de Administração Fazendária - ESAF. <strong>Curso do Tesouro Direto</strong>. Disponível em <a href="http://www.tesouro.gov.br/-/curso-do-tesouro-direto">http://www.tesouro.gov.br/-/curso-do-tesouro-direto</a></p>
 
 </div>
