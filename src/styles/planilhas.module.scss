@@ -1,0 +1,88 @@
+
+.content {
+
+
+
+    .title {
+
+        text-align: center;
+        color: #000;
+    }
+
+    .subtitle{
+        text-align:center;
+        font-size: 1.5rem;
+        margin-bottom: 3rem;
+    }
+
+    .warningDiv {
+
+        border: dashed 2px black;
+        color: white;
+        background-color: #950707;
+        text-align: center;
+        margin: 1rem;
+        padding: 2rem;
+
+    
+
+        h2 {
+
+            margin-top: 0px;
+            margin-bottom: 2rem;
+        }
+
+        a{
+
+            color: #fff;
+            font-weight: bold;
+
+        }
+
+        p {
+            margin: 0px;
+        }
+        
+
+    }
+
+
+
+    h2 {
+
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .svgContainer{
+
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .svgWidth100 {
+
+        width: 100px;
+        height:100px;
+    }
+
+
+
+    .st0excel{
+        fill-rule:evenodd;
+        clip-rule:evenodd;
+        fill:#1F7245;
+    }
+
+    .st1excel{
+        fill-rule:evenodd;
+        clip-rule:
+        evenodd;fill:#FFFFFF;
+    }
+
+    .st0sheets{fill:#23A566;}
+        .st1sheets{fill:#1C8F5A;}
+        .st2sheets{fill:#8ED1B1;}
+        .st3sheets{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+                
+}

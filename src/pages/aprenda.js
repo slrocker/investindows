@@ -28,8 +28,11 @@ const AprendaPage = () => {
             filter:{
             frontmatter: {
                     showIndex: {
-                eq: "true"
-                }
+                        eq: "true"
+                    }
+                    sectionSlug: {
+                        eq: "aprenda"
+                    }
             }
             }
             sort: {
@@ -44,6 +47,7 @@ const AprendaPage = () => {
                     }
                     frontmatter{
                         title
+                        sectionSlug
                         categorySlug
                         subcategorySlug
                         pageType
@@ -59,7 +63,7 @@ const AprendaPage = () => {
     return (
         <Layout>
             <Head 
-                title = "Home" 
+                title = "Aprenda" 
                 description = "Aprenda a investir em renda variável, renda fixa, fundos e outros ativos financeiros de forma simples e rápida."
                 featuredImage = {data.file.publicURL}
                 url = ""
@@ -77,7 +81,7 @@ const AprendaPage = () => {
                                 
                                 <h3 className = {aprendaStyles.categoryTitle}>             
                                     <Link
-                                        to={edge.node.frontmatter.categorySlug}
+                                        to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}`}
                                         className = {aprendaStyles.categoryLink}
                                     >
                                         
@@ -91,7 +95,7 @@ const AprendaPage = () => {
                             
                             <p className = {aprendaStyles.subcategoryTitle}>            
                                  <Link
-                                    to={`${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
+                                    to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
                                     className = {aprendaStyles.subcategoryLink}
                                 >
                                     

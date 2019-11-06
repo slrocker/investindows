@@ -90,11 +90,11 @@ const TemplatePage = (props) => {
                 <div className={pageStyles.breadCrumb}>
                     <p>
                     
-                        <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                        <Link to={`${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                                 {props.data.markdownRemark.frontmatter.category}
                         </Link>
                         <span>></span>
-                        <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
+                        <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.subcategory}
                         </Link>
                         <span>></span>
@@ -122,7 +122,7 @@ const TemplatePage = (props) => {
                     title = {props.data.markdownRemark.frontmatter.title}
                     description = {props.data.markdownRemark.excerpt}
                     featuredImage = {props.data.file.publicURL}
-                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/${props.data.markdownRemark.fields.slug}`}
+                    url = {`/${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/${props.data.markdownRemark.fields.slug}`}
             />
 
             <div className={pageStyles.breadCrumb}>
@@ -131,11 +131,11 @@ const TemplatePage = (props) => {
                         {props.data.markdownRemark.frontmatter.section}
                     </Link>
                     <span>></span>
-                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
                     </Link>
                      <span>></span>
-                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
                            {props.data.markdownRemark.frontmatter.subcategory}
                     </Link>
                     <span>></span>

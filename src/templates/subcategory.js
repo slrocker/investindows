@@ -56,6 +56,7 @@ export const query = graphql`
                         slug
                     }
                     frontmatter{
+                        sectionSlug
                         categorySlug
                         subcategorySlug
                         title 
@@ -99,7 +100,7 @@ const subCategoryPage = (props) => {
                     title = {props.data.markdownRemark.frontmatter.title}
                     description = {props.data.markdownRemark.excerpt}
                     featuredImage = {props.data.file.publicURL}
-                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.fields.slug}`}
+                    url = {`${props.data.markdownRemark.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.fields.slug}`}
             />
 
             <div className={pageStyles.breadCrumb}>
@@ -108,7 +109,7 @@ const subCategoryPage = (props) => {
                             {props.data.markdownRemark.frontmatter.section}
                     </Link>
                     <span>></span>
-                    <Link to={`/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                    <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
                     </Link>
                     <span>></span>
@@ -128,7 +129,7 @@ const subCategoryPage = (props) => {
                 return(
                     
                         <li>
-                            <Link to={`/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
+                            <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
                                 {edge.node.frontmatter.title}
                             </Link>
                         </li>

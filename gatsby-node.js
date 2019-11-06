@@ -30,6 +30,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
                                 slug
                             }
                             frontmatter{
+                                sectionSlug
                                 categorySlug
                                 subcategorySlug
                                 featuredImage
@@ -53,22 +54,23 @@ module.exports.onCreateNode = ({ node, actions }) => {
         res.data.allMarkdownRemark.edges.forEach((edge) =>{
             let path;
             let component;
+            let section = edge.node.frontmatter.sectionSlug;
             let category = edge.node.frontmatter.categorySlug;
             let subcategory = edge.node.frontmatter.subcategorySlug;
             let slug = edge.node.fields.slug;
             //path for category page
             if(category === slug){
-                path = `/${category}` ;
+                path = `/${section}/${category}` ;
                 component = categoryTemplate;
             } 
             //path for subcategory page
             else if(subcategory === slug){
-                path = `/${category}/${subcategory}`;
+                path = `/${section}/${category}/${subcategory}`;
                 component = subCategoryTemplate;
             } 
             //path for blog posts and page
             else{
-                path = `/${category}/${subcategory}/${slug}`;
+                path = `/${section}/${category}/${subcategory}/${slug}`;
                 component = pageTemplate;
             }
             
@@ -77,6 +79,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
                 path: path,
                 context:{
                     slug: edge.node.fields.slug,
+                    sectionSlug: edge.node.frontmatter.sectionSlug,
                     categorySlug: edge.node.frontmatter.categorySlug,
                     subcategorySlug: edge.node.frontmatter.subcategorySlug,
                     featuredImage: edge.node.frontmatter.featuredImage,

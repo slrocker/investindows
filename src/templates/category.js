@@ -57,6 +57,7 @@ export const queryy = graphql`
                         slug
                     }
                     frontmatter{
+                        sectionSlug
                         categorySlug
                         title                        				
                     }
@@ -96,7 +97,7 @@ const categoryPage = (props) => {
                     title = {props.data.markdownRemark.frontmatter.title}
                     description = {props.data.markdownRemark.excerpt}
                     featuredImage = {props.data.file.publicURL}
-                    url = {`${props.data.markdownRemark.frontmatter.categorySlug}`}
+                    url = {`${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}`}
             />
 
             <div className={pageStyles.breadCrumb}>
@@ -120,7 +121,7 @@ const categoryPage = (props) => {
             {props.data.allMarkdownRemark.edges.map((edge) => {
                 return(
                     <ul>
-                        <li><Link to={`/${edge.node.frontmatter.categorySlug}/${edge.node.fields.slug}`}>{edge.node.frontmatter.title}</Link></li>
+                        <li><Link to={`/${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.fields.slug}`}>{edge.node.frontmatter.title}</Link></li>
                     </ul>
                 )
             })}
