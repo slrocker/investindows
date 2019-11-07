@@ -10,7 +10,7 @@ subcategorySlug: "instrucoes-excel"
 featuredImage: "excel"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 101
+indexOrder: 102
 ---
 
 A tabela de controle de custódia para Excel foi criada com a finalidade de auxiliar no controle da custódia, operações e rendimentos recebidos de investimentos financeiros realizados por um pequeno investidor.
