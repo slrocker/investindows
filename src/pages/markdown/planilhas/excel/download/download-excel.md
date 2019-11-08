@@ -1,16 +1,16 @@
 ---
-title: "Tabela de Excel para Investimentos"
-date: "2019-04-11"
+title: "Download"
+date: "2019-07-11"
 section: "Planilhas"
 sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
-subcategory: ""
-subcategorySlug: ""
-featured-image: "excel"
-pageType: "category"
+subcategory: "Download"
+subcategorySlug: "download-excel"
+featuredImage: "excel"
+pageType: "subcategory"
 showIndex: "false"
-indexOrder: 100
+indexOrder: 101
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">
@@ -37,19 +37,27 @@ indexOrder: 100
 </svg>
 </div>
 
-A tabela de controle de custódia foi criada com a finalidade de auxiliar no controle da custódia, operações e rendimentos recebidos de investimentos financeiros realizados por um pequeno investidor.
+<div style="background-color:#950707;color:white;border: dashed 2px black;text-align:center;padding:2rem;">
+                    <h2 style="margin-top:0px;margin-bottom:2rem;">Atenção</h2>
+                    <p style="margin:0px;">Antes de usar as tabelas, leia o <a href="/termo-de-uso" style="color:#fff;font-weight:bold;">Termo de Uso</a> e a <a href="/politica-de-privacidade" style="color:#fff;font-weight:bold;">Política de Privacidade</a>.</p>
+</div>
 
-**Ela não é recomendada para efetuar o controle de operações de compra e venda constantes (*trades*).**
+##Link
 
-<div class="borderBox">
+<p><a href="">Versão 1.4.4</a></p>
 
-<h4>ATENÇÃO</h4>
+Data da versão: 02/10/2019
 
-Apesar de todo o esforço do autor em assegurar o correto funcionamento da tabela, é possível que haja erros e falhas nos cálculos e informações mostradas na tabela.
+###Atualizações:
 
-O autor não se responsabiliza por possíveis danos que a utilização da tabela possa causar ao seu usuário.
-A tabela deve ser utilizada como um auxílio ao controle de custódia. Sempre verifique se os cálculos realizados estão corretos e se os valores estão coincidentes com as fontes oficiais de consulta.
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
-Antes de utilizar a tabela, leia o [Termo de Utilização](/termo-de-uso) e a [Política de Privacidade](/politica-de-privacidade).
+**Corrigido**:
+
+- Arquivo de ajuda.
+
+**Melhorado**:
+
+- Amortização é registrada como uma operação para permitir o cálculo sequencial do preço médio.
 
 </div>

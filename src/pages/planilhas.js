@@ -45,7 +45,7 @@ const PlanilhasPage = () => {
 
                 <div className={planilhasStyles.warningDiv}>
                     <h2>Atenção</h2>
-                    <p>Antes de usar as tebelas, leia o <a href="">Termo de Uso</a> e a <a href="">Política de Privacidade</a>.</p>
+                    <p>Antes de usar as tabelas, leia o <Link to="/termo-de-uso">Termo de Uso</Link> e a <Link to="/politica-de-privacidade">Política de Privacidade</Link>.</p>
                 </div>
 
                 <h2>Excel</h2>
@@ -71,7 +71,7 @@ const PlanilhasPage = () => {
                 </div>
 
                 <ul>
-                    <li><a href="">Download</a> - Versão 1.4.4 (02/10/2019)</li>
+                    <li><Link to="planilhas/excel/download-excel">Download</Link></li>
                     <li><Link to="planilhas/excel/instrucoes-excel">Instruções de Uso</Link></li>
                     <li><Link to="planilhas/excel/faq-excel">Dúvidas Frequentes</Link></li>
                     <li><Link to="planilhas/excel/registro">Registro de Atualizações</Link></li>
