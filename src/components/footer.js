@@ -8,12 +8,12 @@ const Footer = () => {
     return(
         <footer className={footerStyles.footerContainer}>
             <ul className={footerStyles.authorNav}>
-                <li><Link to=''>Sobre o Autor</Link></li>
-                <li><a href='mailto:contato@investindo.org'>Contato</a></li>
+                <li><Link to='/sobre'>Sobre</Link></li>
+                <li><Link to="/contato">Contato</Link></li>
             </ul>
             <ul className={footerStyles.rulesNav}>
-                <li><Link to=''>Política de Privacidade</Link></li>
-                <li><Link to=''>Termo de Uso</Link></li>
+                <li><Link to='/politica-de-privacidade'>Política de Privacidade</Link></li>
+                <li><Link to='/termo-de-uso'>Termo de Uso</Link></li>
             </ul>
             <ul>
                 <li><a class="social-link" href="http://www.facebook.com/investindoWS/" target="new"><svg width ="25" height="25"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" title="Acesse a página do Investindo.Org no Facebook." role="img" aria-labelledby="facebook-icon-title facebook-icon-desc" class="social-icon facebook-icon"><title id="facebook-icon-title">Acesse a página do Investindo.Org no Facebook.</title><desc id="facebook-icon-desc">Letra f estilizada como símbolo do Facebook.</desc><path class="stfooter" d="M28.8 13.3h-6V9.4c0-1.5 1-1.8 1.7-1.8 0.7 0 4.2 0 4.2 0V1l-5.8 0c-6.5 0-8 4.9-8 8v4.3h-3.8V20h3.8c0 8.6 0 19 0 19h7.9c0 0 0-10.5 0-19h5.3L28.8 13.3z"/></svg></a></li>
