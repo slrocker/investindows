@@ -272,7 +272,7 @@ O registro dos índices que remuneram os títulos é opcional e segue a seguinte
 
 ![Tabela Excel - Registro de Operação](../img/registro-operacoes-excel-011.jpg)
 
-<p class="legenda" style="text-align:center">Figura 1 - Registro de compra de renda fixa.</p>
+<p class="legenda" style="text-align:center">Figura 11 - Registro de compra de renda fixa.</p>
 
 14. Após clicar em OK, aguarde a mensagem de confirmação de registro:
 

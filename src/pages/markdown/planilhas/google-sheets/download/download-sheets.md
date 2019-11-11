@@ -1,16 +1,16 @@
 ---
-title: "Google Sheets"
-date: "2019-04-11"
+title: "Download"
+date: "2019-10-11"
 section: "Planilhas"
 sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
-subcategory: ""
-subcategorySlug: ""
-featured-image: "google-sheets"
-pageType: "category"
+subcategory: "Download"
+subcategorySlug: "download-sheets"
+featuredImage: "google-sheets"
+pageType: "subcategory"
 showIndex: "false"
-indexOrder: 200
+indexOrder: 201
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">
@@ -34,19 +34,25 @@ indexOrder: 200
 
 </div>
 
-A tabela de controle de custódia foi criada com a finalidade de auxiliar no controle da custódia, operações e rendimentos recebidos de investimentos financeiros realizados por um pequeno investidor.
+<div style="background-color:#950707;color:white;border: dashed 2px black;text-align:center;padding:2rem;">
+                    <h2 style="margin-top:0px;margin-bottom:2rem;">Atenção</h2>
+                    <p style="margin:0px;">Antes de usar as tabelas, leia o <a href="/termo-de-uso" style="color:#fff;font-weight:bold;">Termo de Uso</a> e a <a href="/politica-de-privacidade" style="color:#fff;font-weight:bold;">Política de Privacidade</a>.</p>
+</div>
 
-**Ela não é recomendada para efetuar o controle de operações de compra e venda constantes (*trades*).**
+##Link
 
-<div class="borderBox"  style="border: 1px dashed red">
+<p><a href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Versão 0.4.0 beta</a></p>
 
-<h4>ATENÇÃO</h4>
+Data da versão: 14/02/2019
 
-Apesar de todo o esforço do autor em assegurar o correto funcionamento da tabela, é possível que haja erros e falhas nos cálculos e informações mostradas na tabela.
+###Atualizações:
 
-O autor não se responsabiliza por possíveis danos que a utilização da tabela possa causar ao seu usuário.
-A tabela deve ser utilizada como um auxílio ao controle de custódia. Sempre verifique se os cálculos realizados estão corretos e se os valores estão coincidentes com as fontes oficiais de consulta.
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
-Antes de utilizar a tabela, leia o [Termo de Utilização](/termo-de-uso) e a [Política de Privacidade](/politica-de-privacidade).
+**Corrigido:**
+
+- Corrigido erro na função TESOURODIRETO() em obter as cotações corretas.
+- Corrigido erro no cálculo de preço médio nas vendas.
 
 </div>
+

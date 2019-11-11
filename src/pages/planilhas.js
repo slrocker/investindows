@@ -74,7 +74,7 @@ const PlanilhasPage = () => {
                     <li><Link to="planilhas/excel/download-excel">Download</Link></li>
                     <li><Link to="planilhas/excel/instrucoes-excel">Instruções de Uso</Link></li>
                     <li><Link to="planilhas/excel/faq-excel">Dúvidas Frequentes</Link></li>
-                    <li><Link to="planilhas/excel/registro">Registro de Atualizações</Link></li>
+                    <li><Link to="planilhas/excel/atualizacoes-excel">Registro de Atualizações</Link></li>
                 </ul>
 
                 <h2>Google Sheets</h2>
@@ -96,9 +96,10 @@ const PlanilhasPage = () => {
                 </div>
 
                 <ul>
-                    <li><a href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Fazer Cópia</a> - Versão 0.4.0 beta (25/03/2019)</li>
-                    <li><Link to="/planilhas/google-sheets/instrucoes">Manual de Instruções</Link></li>
-                    <li><Link to="/planilhas/google-sheets/registro-de-atualizacoes">Registro de Atualizações</Link></li>
+                    <li><Link to="planilhas/google-sheets/download-sheets">Download</Link></li>
+                    <li><Link to="planilhas/google-sheets/instrucoes-sheets">Instruções de Uso</Link></li>
+                    <li><Link to="planilhas/google-sheets/faq-sheets">Dúvidas Frequentes</Link></li>
+                    <li><Link to="planilhas/google-sheets/atualizacoes-sheets">Registro de Atualizações</Link></li>
                 </ul>
 
             </div>

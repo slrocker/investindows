@@ -41,7 +41,7 @@ A tabela de controle de custódia foi criada com a finalidade de auxiliar no con
 
 **Ela não é recomendada para efetuar o controle de operações de compra e venda constantes (*trades*).**
 
-<div class="borderBox">
+<div class="borderBox" style="border: 1px dashed red">
 
 <h4>ATENÇÃO</h4>
 

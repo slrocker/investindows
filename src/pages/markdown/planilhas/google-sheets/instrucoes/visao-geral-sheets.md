@@ -1,16 +1,21 @@
 ---
 title: "Visão Geral"
-date: "2019-05-11"
+date: "2019-10-11"
 section: "Planilhas"
 sectionSlug: "planilhas"
-category: "Excel"
-categorySlug: "excel"
+category: "Google Sheets"
+categorySlug: "google-sheets"
 subcategory: "Instruções"
-subcategorySlug: "instrucoes-excel"
-featuredImage: "excel"
+subcategorySlug: "instrucoes-sheets"
+featuredImage: "google-sheets"
 pageType: "page"
 order: 1
 ---
+
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/wa9jisjKeB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ##Concepção
 
@@ -20,7 +25,7 @@ A tabela de controle de custódia foi criada com a finalidade de auxiliar no con
 
 A maioria dos dados são inseridos manualmente pelo usuário, oriundos das notas de corretagem e dos extratos e formam um banco de dados. A tabela transforma esses dados em gráficos e outros métodos que facilitam a visualização da posição patrimonial pelo usuário.
 
-É possível visualizar as cotações das ações, dos fundos de investimento imobiliário e do Tesouro Direto automaticamente caso haja uma conexão com a internet, pois a tabela já está configurada para consultar as cotações no *site* do *Google Finance* e no *site* do Tesouro Direto. Nos demais investimentos, será preciso que o usuário atualize manualmente os preços e valores atuais para que possa ter uma ideia da situação atual dos seus investimentos.
+É possível visualizar as cotações das ações, dos fundos de investimento imobiliário e do Tesouro Direto automaticamente caso haja uma conexão com a internet, pois a tabela já está configurada para consultar as cotações do *Google Finance* e no *site* do Tesouro Direto. Nos demais investimentos, será preciso que o usuário atualize manualmente os preços e valores atuais para que possa ter uma ideia da situação atual dos seus investimentos.
 
 ##Organização
 
@@ -46,27 +51,24 @@ O registro dos dados é feito através planilhas organizadas como banco de dados
 Os dados dessas duas planilhas são condensados em outras planilhas, visando fornecer ao investidor uma visão consolidada:
 
 - **Custódia**: reúne os totais em relação a quantidades e valores; e
-- **Patrimônio**: consolida os dados de todos os ativos em três grandes classes: renda fixa; renda variável e fundos de investimento.
+- **Consolidado**: consolida os dados de todos os ativos em três grandes classes: renda fixa; renda variável e fundos de investimento.
 
 ##Planilhas Auxiliares
 
 Além das planilhas para registro dos dados e da apresentação consolidada, a tabela possui algumas planilhas auxiliares:
 
-- **Cotações**: contém o *link* externo para as cotações de ações e Tesouro Direto;
-- **Configurações**: contém os dados de corretagem e outras taxas para serem utilizados nos cálculos automáticos.
+- **Configurações**: contém os dados de corretagem e outras taxas para serem utilizados nos cálculos automáticos; e
+- **PM**: calcula o preço médio de compra dos ativos;
 
 ##Cotações
 
-As cotações são obtidas de *links* externos através da ferramenta de dados externos do Excel.
+As cotações são obtidas através do *Google FInance* e de um *script* que copia as cotações do *site* do Tesouro Direto.
 
 ###Renda Variável
 
-Cotações de ativos de renda variável negociados em Bolsa, tais como as ações e fundos imobiliários (FII) são obtidos através de uma planilha do *Google Sheets* que contém a cotação de todos os ativos negociados na B3 utilizando a ferramenta *Google Finance*.
+Cotações de ativos de renda variável negociados em Bolsa, tais como as ações e fundos imobiliários (FII) são obtidos através do *Google Finance*
 
-Os ativos dessa planilha são atualizados periodicamente para refletir as mudanças de *ticker* e novos ativos que possam ter iniciado sua negociação.
-
-O usuário pode criar sua própria planilha no *Google Sheets* e exportar os dados para utilizar na sua tabela de custódia.
 
 ###Tesouro Direto
 
-As cotações do Tesouro Direto são mineradas do *site* do Tesouro através de uma macro que investiga o código HTML e filtra os preços dos ativos.
+As cotações do Tesouro Direto são mineradas do *site* do Tesouro através de um *script* que investiga o código HTML e filtra os preços dos ativos.

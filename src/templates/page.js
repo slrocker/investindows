@@ -12,7 +12,7 @@ import Layout from '../components/layout'
 import "katex/dist/katex.min.css"
 
 export const query = graphql `
-    query ($slug: String!, $featuredImage: String!, $title: String!) {
+    query ($slug: String!, $featuredImage: String!) {
         markdownRemark( fields: { slug: {eq: $slug } }) {
             excerpt
             frontmatter{
@@ -45,9 +45,9 @@ export const query = graphql `
         
         allMarkdownRemark(
             filter: {
-              	frontmatter:{
-                    title:{
-                        eq:$title
+              	fields:{
+                    slug:{
+                        eq: $slug
                     },
                   }
             }
