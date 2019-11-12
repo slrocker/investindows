@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 //import {documentToReactComponents} from '@contentful/rich-text-react-renderer'
 
 export const queryy = graphql`
-    query ($slug:String!, $categorySlug:String!){
+    query ($slug:String!, $categorySlug:String!, $featuredImage:String!){
         markdownRemark (
             fields:{
                 slug:{
@@ -69,7 +69,7 @@ export const queryy = graphql`
                 eq: "jpg" 
             }
             name: {
-                eq: $categorySlug
+                eq: $featuredImage
             }
         ){
             publicURL

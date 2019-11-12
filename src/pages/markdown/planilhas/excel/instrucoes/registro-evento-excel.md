@@ -1,5 +1,5 @@
 ---
-title: "Registro de Eventos Acionários"
+title: "Registro de Eventos Corporativos"
 date: "2019-07-11"
 section: "Planilhas"
 sectionSlug: "planilhas"

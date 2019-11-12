@@ -10,7 +10,7 @@ subcategorySlug: "atualizacoes-excel"
 featuredImage: "excel"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 104
+indexOrder: 214
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

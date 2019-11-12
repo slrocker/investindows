@@ -1,5 +1,5 @@
 ---
-title: "Perguntas Frequentes"
+title: "Dúvidas Frequentes"
 date: "2019-07-11"
 section: "Planilhas"
 sectionSlug: "planilhas"
@@ -10,7 +10,7 @@ subcategorySlug: "faq-excel"
 featuredImage: "excel"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 103
+indexOrder: 213
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

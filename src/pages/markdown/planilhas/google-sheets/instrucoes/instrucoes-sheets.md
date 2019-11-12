@@ -10,7 +10,7 @@ subcategorySlug: "instrucoes-sheets"
 featuredImage: "google-sheets"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 202
+indexOrder: 222
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

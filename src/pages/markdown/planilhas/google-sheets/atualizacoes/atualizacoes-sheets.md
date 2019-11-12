@@ -10,7 +10,7 @@ subcategorySlug: "atualizacoes-sheets"
 featuredImage: "google-sheets"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 204
+indexOrder: 224
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

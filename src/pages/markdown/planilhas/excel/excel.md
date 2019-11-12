@@ -7,10 +7,10 @@ category: "Excel"
 categorySlug: "excel"
 subcategory: ""
 subcategorySlug: ""
-featured-image: "excel"
+featuredImage: "excel"
 pageType: "category"
 showIndex: "false"
-indexOrder: 100
+indexOrder: 210
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

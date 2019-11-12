@@ -10,7 +10,7 @@ subcategorySlug: "instrucoes-excel"
 featuredImage: "excel"
 pageType: "subcategory"
 showIndex: "false"
-indexOrder: 102
+indexOrder: 212
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">

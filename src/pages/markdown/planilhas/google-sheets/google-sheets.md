@@ -7,10 +7,10 @@ category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: ""
 subcategorySlug: ""
-featured-image: "google-sheets"
+featuredImage: "google-sheets"
 pageType: "category"
 showIndex: "false"
-indexOrder: 200
+indexOrder: 220
 ---
 
 <div style=" text-align:center;margin-bottom: 3rem;">
