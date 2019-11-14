@@ -27,8 +27,8 @@ const AprendaPage = () => {
         itens: allMarkdownRemark (
             filter:{
             frontmatter: {
-                    showIndex: {
-                        eq: "true"
+                    pageType: {
+                        ne: "page"
                     }
                     sectionSlug: {
                         eq: "aprenda"

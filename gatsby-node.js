@@ -35,6 +35,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
                                 subcategorySlug
                                 featuredImage
                                 title
+                                pageType
                             }
                         }
                     }
@@ -58,13 +59,14 @@ module.exports.onCreateNode = ({ node, actions }) => {
             let category = edge.node.frontmatter.categorySlug;
             let subcategory = edge.node.frontmatter.subcategorySlug;
             let slug = edge.node.fields.slug;
+            let pageType = edge.node.frontmatter.pageType
             //path for category page
-            if(category === slug){
+            if(pageType === "category"){
                 path = `/${section}/${category}` ;
                 component = categoryTemplate;
             } 
             //path for subcategory page
-            else if(subcategory === slug){
+            else if(pageType === "subcategory"){
                 path = `/${section}/${category}/${subcategory}`;
                 component = subCategoryTemplate;
             } 

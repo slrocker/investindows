@@ -41,8 +41,8 @@ export const queryy = graphql`
                     subcategory:{
                         ne:""
                     },
-                    order:{
-                        eq:null
+                    pageType:{
+                        eq:"subcategory"
                     }
                 }
             }
@@ -59,6 +59,7 @@ export const queryy = graphql`
                     frontmatter{
                         sectionSlug
                         categorySlug
+                        subcategorySlug
                         title                        				
                     }
                 }
@@ -121,7 +122,7 @@ const categoryPage = (props) => {
             {props.data.allMarkdownRemark.edges.map((edge) => {
                 return(
                     <ul>
-                        <li><Link to={`/${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.fields.slug}`}>{edge.node.frontmatter.title}</Link></li>
+                        <li><Link to={`/${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}>{edge.node.frontmatter.title}</Link></li>
                     </ul>
                 )
             })}

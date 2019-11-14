@@ -13,8 +13,11 @@ const BlogPage = () => {
             allMarkdownRemark(
             filter: {
                 frontmatter:{
-                category:{
+                section:{
                     eq:"Blog"
+                },
+                pageType:{
+                    eq:"page"
                 }
                 }
             }
@@ -29,10 +32,13 @@ const BlogPage = () => {
                             slug
                         }
                         frontmatter{
+                            section
+                            sectionSlug
                             categorySlug
                             subcategorySlug
                             title                        				
                             date
+                            pageType
                         }
                     }
                 }
@@ -69,7 +75,7 @@ const BlogPage = () => {
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return(
                         <li className={blogStyles.post}>
-                            <Link to={`/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
+                            <Link to={`/${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
                                 <h3>{edge.node.frontmatter.title}</h3>
                                 <p>{edge.node.frontmatter.date}</p>
                             </Link>
