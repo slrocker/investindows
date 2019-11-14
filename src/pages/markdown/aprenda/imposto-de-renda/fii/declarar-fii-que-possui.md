@@ -1,5 +1,5 @@
 ---
-title: "Como declarar cotas de fundo imobiliário que você possui?"
+title: "Como declarar cotas de Fundos Imobiliários que você possui?"
 date: "2019-11-13"
 section: "Aprenda"
 sectionSlug: "aprenda"

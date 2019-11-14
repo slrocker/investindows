@@ -1,5 +1,5 @@
 ---
-title: "Como declarar lucros e prejuízos com fundos imobiliários?"
+title: "Como declarar lucros e prejuízos com Fundos Imobiliários?"
 date: "2019-11-13"
 section: "Aprenda"
 sectionSlug: "aprenda"

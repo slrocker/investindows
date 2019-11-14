@@ -1,5 +1,5 @@
 ---
-title: "Como preencher a DARF para pagar imposto de fundos imobiliários?"
+title: "Como preencher a DARF para pagar imposto de Fundos Imobiliários?"
 date: "2019-11-13"
 section: "Aprenda"
 sectionSlug: "aprenda"

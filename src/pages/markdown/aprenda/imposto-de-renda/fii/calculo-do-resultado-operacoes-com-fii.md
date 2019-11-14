@@ -1,5 +1,5 @@
 ---
-title: "Como calcular o imposto em operações com fundos imobiliários?"
+title: "Como calcular o imposto em operações com Fundos Imobiliários?"
 date: "2019-11-13"
 section: "Aprenda"
 sectionSlug: "aprenda"
