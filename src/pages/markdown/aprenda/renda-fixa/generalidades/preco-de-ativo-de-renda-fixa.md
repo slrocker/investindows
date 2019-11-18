@@ -6,7 +6,7 @@ sectionSlug: "aprenda"
 category: "Renda Fixa"
 categorySlug: "renda-fixa"
 subcategory: "Generalidades"
-subcategorySlug: "generalidades-renda-fixa"
+subcategorySlug: "generalidades"
 order: 2
 featuredImage: "renda-fixa"
 pageType: "page"

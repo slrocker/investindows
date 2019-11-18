@@ -65,11 +65,11 @@ Quando um empreendedor avalia a concepção de um negócio, precisa levar em con
 
 Quando a sociedade tem preferência pelo consumo em detrimento da poupança, resultado da sua alta preferência temporal, poucos recursos como mão de obra e bens industriais, por exemplo, estão disponíveis para serem adquiridos e utilizados em outras atividades.
 
-Com pouca oferta, esses recursos ficam mais caros. No entanto, como as pessoas não estão guardadndo dinheiro, a disponibilidade de dinheiro para que o empreendedor possar arcar seus custos enquanto seu projeto não rende lucros também está baixa. 
+Com pouca oferta, esses recursos ficam mais caros. No entanto, como as pessoas não estão poupando, a disponibilidade de dinheiro para que o empreendedor possar arcar com seus custos enquanto seu projeto não rende lucros também está baixa. 
 
-A baixa disponibilidade de dinheiro aumenta os juros cobrados pelos empréstimos e, colocando os custos no seu planejamento, o empreendedor logo vê o seu projeto não tem condições de ser executado e o abandona.
+A baixa disponibilidade de dinheiro aumenta os juros cobrados pelos empréstimos e, colocando os custos no seu planejamento, o empreendedor conclui que o seu projeto não tem condições de ser executado e o abandona.
 
-Assim, em uma sociedade onde há pouca disponibilidade de recursos há pouco incentivo para que empreendedores se arrisquem implementando indústrias e métodos que exijam grande quantidade de capital (que normalmente são aquelas mais tecnologicamente avançadas e mais eficientes) e o desenvolvimento da sociedade acaba ficando limitado.
+Assim, em uma sociedade onde há pouca disponibilidade de recursos, há pouco incentivo para que empreendedores se arrisquem implementando indústrias e métodos que exijam grande quantidade de capital (que normalmente são aquelas mais tecnologicamente avançadas e mais eficientes) e o desenvolvimento da sociedade acaba ficando limitado.
 
 Pode-se dizer que os juros atuam como um sinal que a sociedade entrega para os empreendedores a respeito do que é viável de ser feito em relação aos recursos disponíveis.
 
@@ -87,18 +87,18 @@ Há economistas que defendem que, deixado ao seu bel prazer, o mercado se tornar
 
 Entre outras justificativas por trás dessa teoria, estariam o fato do nível de poupança ser resultado apenas da faixa de rendimento das pessoas e da tendência de que possa haver uma acumulação injsutificável — uma acumulação de dinheiro com o único objetivo de acumular mais dinheiro, sem realizar investimentos ou empreendimentos (o que implicaria em dinheiro sendo retirado de circulação). 
 
-Essas tendências "indesejáveis" das pessoas resultaria em uma taxa de juros ineficiente que impediria o correto desenvolvimento econômico.
+Essas tendências "indesejáveis" das pessoas resultariam em uma taxa de juros ineficiente que impediria o correto desenvolvimento econômico.
 
 Defende-se, então, que o governo interfira, manipulando o mercado de forma a atingir a taxa de juros que geraria o equilíbrio perfeito entre:
 
-- Pressões inflacionárias: oriundas de uma taxa de juros baixa e um excesso de oferta de dinheiro estimulando o consumo acima da capacidade da economia de suprir a oferta; e
-- Desaquecimento econômico: falta de estímulo para o crescimento dos negócios, geração de emprego etc. resultando em ociosidade dos meios de produção.
+- **Pressões inflacionárias**: oriundas de uma taxa de juros baixa e um excesso de oferta de dinheiro estimulando o consumo acima da capacidade da economia de suprir a oferta; e
+- **Desaquecimento econômico**: falta de estímulo para o crescimento dos negócios, geração de emprego etc. resultando em ociosidade dos meios de produção.
 
 A taxa de juros que, teoricamente, seria responsável por prover esse equilíbrio, objetivo da interferência governamental, é chamada de **taxa de juros neutra**.
 
 ##Juros e  os Ciclos Econômicos
 
-Os [ciclos econômicos](financas/economia/ciclos-economicos) são perídos de expansão e contração da economia que ocorrem ao longo do tempo.
+Os [ciclos econômicos](/aprenda/financas/economia/ciclos-economicos) são períodos de expansão e contração da economia que ocorrem ao longo do tempo.
 
 Há diversas teorias econômicas que tentam explicar esse fenomeno.
 
@@ -121,18 +121,18 @@ Os investidores também utilizam os juros como uma maneira de avaliar a viabilid
 
 A partir de uma taxa de juros de referência, considerada como a que remunera o investimento de menor risco, também chamada de **taxa de custo de oportunidade**, os investidores comparam outros investimentos e precificam cada um de acordo com o risco e o retorno percebido.
 
-A taxa utilizada como referência pelo mercado financeiro é a [taxa SELIC](/financas/economia/taxa-selic), que também é a taxa manipulada pelo governo para obter a taxa natural.
+A taxa utilizada como referência pelo mercado financeiro é a [taxa SELIC](/aprenda/financas/economia/taxa-selic), que também é a taxa manipulada pelo governo para obter a taxa natural.
 
-No entanto, como os agentes do mercado financeiro raciocinam sempre com as condições futuras, o comum é empregar-se as taxas de juros negociadas em contratos futuros de DI (veja o artigo sobre o [mercado interbancário](/financas/economia/mercado-interbancario)).
+No entanto, como os agentes do mercado financeiro raciocinam sempre com as condições futuras, o comum é empregar-se as taxas de juros negociadas em contratos futuros de DI (veja o artigo sobre o [mercado interbancário](/aprenda/financas/economia/mercado-interbancario)).
 
 <div class="borderBox">
 
 <h4>Estímulo a Especulação</h4>
 
 
-Uma das consequências da queda forçada dos juros pelo Governo na tentativa de "aquecer a economia" é que os juros se tornam tão baixas que investimentos de alto risco passam a ser vantajosos na visão dos investidores. 
+Uma das consequências da queda forçada dos juros pelo Governo na tentativa de "aquecer a economia" é que os juros se tornam tão baixos que investimentos de alto risco passam a ser vantajosos na visão dos investidores. 
 
-Essa visão distorcida gera um fluxo de dinheiro para mercados especulativos, tais como a Bolsa de Valores, onde ocorre uma valorização desporporcional das ações das empresas.
+Essa visão distorcida gera um fluxo de dinheiro para mercados especulativos, tais como a Bolsa de Valores, onde ocorre uma valorização desproporcional das ações das empresas e outros ativos financeiros.
 
 Gera-se um clima de excessiva confiança que intensifica ainda mais o ciclo econômico de expansão, e que pode resultar em uma bolha (quando o valor dos ativos no mercado financeiro não corresponde a realidade).
 
@@ -153,7 +153,7 @@ Por exemplo, em uma situação onde você conheça a taxa de juros para um títu
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center;">3 ano</td>
+<td style="text-align:center;">3 anos</td>
 <td style="text-align:center;">10,00%</td>
 </tr>
 <tr>
@@ -171,15 +171,12 @@ Por exemplo, em uma situação onde você conheça a taxa de juros para um títu
 
 A lógica por trás da teoria da ETTJ nos diz que a taxa de juros para o título de quatro anos está ímplicita nas outras duas taxas e que, a partir de uma fórmula matemática que envolve os valores conhecidos, podemos chegar a ela.
 
-Na prática, o processo consiste em se plotar em um gráfico (de eixos tempo(x)/taxa(y) ) os valores conhecidos e ligar esses pontos através de uma linha (curva), cujo desenho pode ser dado por uma fórmula.
-
-Exemplo / Gráfico
 
 ###Análise da ETTJ
 
 Um uso comum do conceito de ETTJ é para se obter a curva dos juros pagos pelos títulos públicos federais.
 
-Ao se plotar em um gráfico a ETTJ desses títulos, obtem-se uma curva que pode ser indicativa de algumas tendências econômicas.
+Ao se plotar em um gráfico a ETTJ desses títulos, obtêm-se uma curva que pode ser indicativa de algumas tendências econômicas.
 
 ####Curva Positiva
 
@@ -188,6 +185,8 @@ Em situações normais, espera-se que títulos cujo vencimento se dê em prazos 
 Quanto mais tempo o investidor fica sem o seu dinheiro, mais exposto aos riscos e eventos imprevisíveis ele estará, portanto, é natural que ele exija um prêmio maior.
 
 Por isso, ao plotarmos uma ETTJ, o normal é que ela tenha um curva ascendente, com os títulos de vencimento mais próximo oferecendo taxas menores do que aqueles de vencimento mais longo (Figura 1).
+
+<div style="text-align:center">
 
 <svg class="svg-vertical-limit" enable-background="new 0 0 250 150" version="1.1" viewBox="0 0 250 150" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <style type="text/css">
@@ -223,13 +222,15 @@ Por isso, ao plotarmos uma ETTJ, o normal é que ela tenha um curva ascendente, 
 <path d="m60.3 95.9l-1.4-1.4c4.9-5 10.1-9.8 15.6-14.2 37.7-30.8 88.5-46.7 147-46.1v2c-58-0.6-108.3 15.1-145.7 45.6-5.5 4.4-10.7 9.1-15.5 14.1z"/>
 </svg>
 
+</div>
 
-<p class="legenda" style="text-align: center">Figura 1: ETTJ positiva.</p>
+<p class="legenda" style="text-align: center">Figura 1 - ETTJ positiva.</p>
 
 ####Curva Neutra ou Negativa
 
 Se a ETTJ resulta em uma curva neutra (taxas próximas iguais às taxas distantes) ou descendente (taxas próximas maiores do que taxas distante) há alguma característica que afetou a percepção de risco do investidores, fazendo a curva se alterar.
 
+<div style="text-align:center">
 <svg class="svg-vertical-limit" enable-background="new 0 0 250 150" version="1.1" viewBox="0 0 250 150" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <style type="text/css">
 	.stwhite{fill:#FFFFFF;}
@@ -263,10 +264,11 @@ Se a ETTJ resulta em uma curva neutra (taxas próximas iguais às taxas distante
 <rect x="217.8" y="41.8" width="4.7" height="4.7"/>
 <path d="m58.7 55.2l-0.8-1.8c5.4-2.5 11.1-4.5 16.9-5.7 19.1-4.1 35 0 40.2 1.4l0.6 0.2c20.2 5.2 55.6 3.1 105.4-6.1l0.4 2c-50.1 9.3-85.8 11.3-106.3 6.1l-0.6-0.2c-5.1-1.3-20.6-5.4-39.3-1.4-5.6 1.1-11.2 3-16.5 5.5z"/>
 </svg>
+</div>
 
+<p class="legenda" style="text-align: center">Figura 2 - ETTJ neutra.</p>
 
-<p class="legenda" style="text-align: center">Figura 2: ETTJ neutra.</p>
-
+<div style="text-align:center">
 <svg class="svg-vertical-limit" enable-background="new 0 0 250 150" version="1.1" viewBox="0 0 250 150" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <style type="text/css">
 	.stwhite{fill:#FFFFFF;}
@@ -300,17 +302,19 @@ Se a ETTJ resulta em uma curva neutra (taxas próximas iguais às taxas distante
 <rect x="217.8" y="76.8" width="4.7" height="4.7"/>
 <path d="m221.2 80.6c-48.4-7.2-84.3-16.8-106.8-28.4l-0.8-0.4c-6.9-3.6-22.9-11.9-39.6-6.8-5.4 1.7-10.5 4.7-15.1 8.9l-1.4-1.5c4.8-4.5 10.1-7.6 15.9-9.4 17.4-5.4 34.6 3.6 41.1 6.9l0.7 0.4c22.3 11.5 58 21 106.2 28.2l-0.2 2.1z"/>
 </svg>
+</div>
 
-
-<p class="legenda" style="text-align: center">Figura 3: ETTJ negativa.</p>
+<p class="legenda" style="text-align: center">Figura 3 - ETTJ negativa.</p>
 
 Quando a curva passa de sua forma positiva para uma forma negativa, diz-se que houve uma **inversão da curva** de juros, que é basicamente o mesmo que dizer que as taxas de juros com vencimento próximo se tornaram mais altas do que as taxas de vencimento longo.
 
 Por que isso ocorre?
 
+####Inversão 
+
 **Visão dos Investidores**
 
-Quando ocorre uma recessão econômica, o governo interfere na [taxa de juros](/financas/economia/taxa-selic) reduzindo-a de forma a tentar aumentar o crédito disponível e estimular um crescimento. Isso acaba refletindo nas taxas de rendimento pagas pelos títulos públicos, que ficam menores.
+Quando ocorre uma recessão econômica, o governo interfere na [taxa de juros](/aprenda/financas/economia/taxa-selic) reduzindo-a de forma a tentar aumentar o crédito disponível e estimular um crescimento. Isso acaba refletindo nas taxas de rendimento pagas pelos títulos públicos, que ficam menores.
 
 Os investidores sabendo disso, ao vislumbrarem que uma recessão irá ocorrer no futuro, se antecipam às quedas e passam a comprar os títulos de longo prazo enquanto eles ainda estão pagando taxas altas.
 
@@ -325,13 +329,13 @@ Assim, **uma inversão das taxas de juros pode ser um sinal de que o mercado fin
 </div>
 
 
-<p class="legenda" style="text-align: center">Figura 4: Taxas de juros dos títulos curto prazo (azul) e de longo prazo (vermelha) dos títulos público americandos. Repare que o cruzamento das taxas antecede as áreas em cinza (períodos de recessão).</p>
+<p class="legenda" style="text-align: center">Figura 4 - Taxas de juros dos títulos curto prazo (azul) e de longo prazo (vermelha) dos títulos público americandos. Repare que o cruzamento das taxas antecede as áreas em cinza (períodos de recessão).</p>
 
 **Visão dos Empreendedores**
 
-Através da [política monetária](/financas/economia/politica-monetaria) o Banco Central controla a oferta de dinheiro.
+Através da [política monetária](/aprenda/financas/economia/politica-monetaria) o Banco Central controla a oferta de dinheiro.
 
-A partir do momento em que ele resolve reduzir a expansão da [base monetária](/financas/economia/inflacao#base-monet%C3%A1ria-m), ocorre redução da oferta de dinheiro sem que necessariamente haja uma redução na demanda. Fica mais difícil conseguir dinheiro emprestado.
+A partir do momento em que ele resolve reduzir a expansão da [base monetária](/aprenda/financas/economia/inflacao#base-monetC3%A1ria-m), ocorre redução da oferta de dinheiro sem que necessariamente haja uma redução na demanda. Fica mais difícil conseguir dinheiro emprestado.
 
 Redução da oferta sem redução na demanda gera aumento de preços, que no caso do dinheiro é representado pelos juros cobrados nos empréstimos.
 

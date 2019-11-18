@@ -18,6 +18,8 @@ Durante um dia, acontece um grande fluxo de dinheiro em um banco.
 
 O dinheiro pode sair das contas do banco na forma de empréstimos, investimentos, pagamentos e transferências e entrar como depósitos, transferências etc.
 
+
+
 ```mermaid
 graph TD
     A[depósitos/transferências] -. entrada $$ .-> B((BANCO))
@@ -26,7 +28,9 @@ graph TD
     
 ```
 
-Em um sistema de [reservas fracionárias](/financas/economia/sistema-bancario), como é o sistema bancário brasileiro, os bancos mantém em sua posse apenas uma fração do dinheiro total que movimentam.
+<p class="legenda" style="text-align:center">Figura 1 - Fluxo de dinheiro em um banco.</p>
+
+Em um sistema de [reservas fracionárias](/aprenda/financas/economia/sistema-bancario), como é o sistema bancário brasileiro, os bancos mantém em sua posse apenas uma fração do dinheiro total que movimentam.
 
 Isso gera uma situação em que os bancos ficam alavancados, isto é, devem mais do que realmente possuem.
 
@@ -57,9 +61,11 @@ graph LR
     
 ```
 
+<p class="legenda" style="text-align:center">Figura 2 - Estrutura básica de um empréstimo interbancário no SELIC.</p>
+
 Esses empréstimos são registrados em um sistema eletrônico chamado Sistema Especial de Liquidação e Custódia (SELIC).
 
-A taxa média dos empréstimos realizados no SELIC é a chamada [taxa SELIC](/financas/economia/taxa-selic).
+A taxa média dos empréstimos realizados no SELIC é a chamada [taxa SELIC](/aprenda/financas/economia/taxa-selic).
 
 A esse ambiente de negociaçao de títulos públicos entre as instituições financeiras se dá o nome de ***open market***.
 
@@ -69,7 +75,7 @@ A esse ambiente de negociaçao de títulos públicos entre as instituições fin
 
 Por vezes, os bancos precisando de dinheiro podem não ter a sua disposíção títulos públicos para oferecer como garantia, ou podem precisar realizar o empréstimo por mais de um dia.
 
-Nesse caso, o banco emite um título, chamado de Certificado de Depósito Interbancário, onde especifica as características do empréstimo.
+Nesse caso, o banco emite um título, chamado de Certificado de Depósito Interbancário (CDI), onde especifica as características do empréstimo.
 
 Na realidade, um banco que empresta dinheiro a outro banco comprará um CDI.
 
@@ -79,6 +85,8 @@ graph LR
     B -. CDI .-> A   
     
 ```
+
+<p class="legenda" style="text-align:center">Figura 3 - Estrutura de um empréstimo interbancário fora do SELIC.</p>
 
 Os CDI também são chamados de **depósitos interfinanceiros (DI)**.
 
@@ -117,7 +125,7 @@ Esse comportamento inesperado pode ser explicado por algumas razões como:
 - Os bancos são remunerados pela taxa SELIC mas remuneram seus clientes pela taxa DI, havendo um interesse deles de manter o DI mais baixo;
 - A metodologia de cálculo da taxa DI diz que, caso algumas condições não sejam atingidas, a taxa DI do dia será igual a taxa SELIC divulgada para o mesmo dia.
 
-Assim, se compararmos ambas as taxas ao longo do tempo, veremos que elas tem uma tendência de manter-se igual ou com a taxa DI acima da taxa SELIC.
+Assim, se compararmos ambas as taxas ao longo do tempo, veremos que elas tem uma tendência de manter-se igual ou com a taxa DI abaixo da taxa SELIC.
 
 | Data   | Taxa DI Média | Taxa SELIC |
 |--------|---------------|------------|
@@ -134,7 +142,7 @@ Assim, se compararmos ambas as taxas ao longo do tempo, veremos que elas tem uma
 | nov-18 | 6,4           | 6,4        |
 | dez-18 | 6,4           | 6,4        |
 
-<p class="legenda">Tabela - Taxa DI Média e Taxa Selic no ano de 2018.</p>
+<p class="legenda">Figura 4 - Taxa DI Média e Taxa Selic no ano de 2018.</p>
 
 ##DI Futuro
 
@@ -149,9 +157,9 @@ O contrato futuro funciona basicamente assim:
 
 No contrato futuro do DI de 1 dia (ou *DI-over*) negocia-se a taxa do DI de 1 dia convertida para valores anuais.
 
-Assim, digamos que no dia 04/09/2019, o contrato futuro com vencimento em 01/10/2019 estava sendo negociado a uma taxa de 5,73%. Isso significa que os investidores desse contrato esperam que, pelos próximos 26 dias corridos, as taxas praticadas nos negócios interbancários de *overnight* sejam equivalentes à 5,73% ao ano.
+Assim, digamos que no dia 04/09/2019, o contrato futuro com vencimento em 01/10/2019 estava sendo negociado a uma taxa de 5,73%. Isto significa que os investidores desse contrato esperam que, pelos próximos 26 dias corridos, as taxas praticadas nos negócios interbancários de *overnight* sejam equivalentes à 5,73% ao ano.
 
-Assim, um investidor que quisesse encontrar um investimento também com vencimento em 01/10/2019, exigiria um prêmio sobre essa taxa de 5,73% como forma de recompensar seu risco, já que a taxado DI futuro é a referência de menor risco.
+Assim, um investidor que quisesse encontrar um investimento também com vencimento em 01/10/2019, exigiria um prêmio sobre essa taxa de 5,73% como forma de recompensar seu risco, já que a taxa do DI futuro é a referência de menor risco.
 
 Outra maneira de se referir a taxa de menor risco é pela expressão **custo de oportunidade**.
 
@@ -159,10 +167,11 @@ Se um investidor pode deixar seu dinheiro rendendo pela taxa DI a um risco consi
 
 $$
 
-Rendimento Esperado = Custo de Oportunidade + Prêmio de Risco
+Rendimento\,Esperado = Custo\,de\,Oportunidade + Prêmio\,de\,Risco
 
 $$
 
+<p class="legenda" style="text-align:center">Fórmula  1 - O rendimento esperado para um investimento consiste em um prêmio de risco acrescido à taxa de rendimento mais segura, chamada de custo de oportunidade.</p>
 
 Quando vão analisar o preço de um ativo, os investidores analisam qual é o seu custo de oportunidade, isto é, o valor que receberiam aplicando no investimento de menor risco (taxa do DI futuro), e adicionam um prêmio que consideram adequado para compensar o risco a que estarão expostos investindo neste ativo.
 

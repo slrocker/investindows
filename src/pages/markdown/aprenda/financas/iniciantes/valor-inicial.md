@@ -15,7 +15,7 @@ order: 7
 
 
 
-A tabela abaixo foi retirada do site de um banco e mostra os valores iniciais de aplicação para vários fundos com o mesmo perfil:
+A tabela abaixo foi retirada do *site* de um banco e mostra os valores iniciais de aplicação para vários fundos com o mesmo perfil:
 
 | Aplicação Inicial | Grau de Risco | No mês | Mês Anterior | No ano | Últimos 12 meses |
 |-------------------|---------------|--------|--------------|--------|------------------|
@@ -44,7 +44,7 @@ Isso ocorre porque, ao aplicar muito dinheiro de uma só vez, você estará inco
 
 Custo de oportunidade é o risco que você corre de, ao comprometer todo seu dinheiro em alguma coisa, deixar de aproveitar possíveis oportunidades que possam surgir.
 
-Ao colocar seu dinheiro em um investimento que tenha valor inicial muito alto, você deixa de poder aplicar em outros investimentos que porventura possam se tornar melhores.
+Ao colocar seu dinheiro em um investimento que tenha valor inicial muito alto, você deixa de poder aplicar em outros investimentos que porventura possam se tornar melhores do que o atual.
 
 
 ##Concentração em um único investimento
@@ -53,7 +53,7 @@ Ao aplicar grande parte do seu dinheiro em um só investimento, você estará se
 
 ##Como analisar o valor inicial?
 
-O Valor Inicial de um investimento estará sempre em conflito com o rendimento. Normalmente, quanto mais você investir de uma só vez, melhor será a taxa de rendimento que você irá conseguir, especialmente nas aplicações de Renda Fixa oferecidas pelos bancos.
+Normalmente, quanto mais você investir de uma só vez, melhor será a taxa de rendimento que você conseguirá, especialmente nas aplicações de renda fixa oferecidas pelas instituições financeiras.
 
 Lembre-se que **a primeira regra do pequeno investidor é diminuir os riscos**. Para atingir esse objetivo o melhor que você pode fazer é diversificar e não comprometer todo o seu dinheiro em único investimento.
 

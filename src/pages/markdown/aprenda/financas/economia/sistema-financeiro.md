@@ -49,6 +49,8 @@ Paralelamente, existem ainda os órgãos responsáveis pelos seguros privados e 
 
 A imagem abaixo ilustra a hierarquia do sistema financeiro brasileiro:
 
+<div style="overflow:auto;">
+
 <table class="responsiveTable">
 <thead style="border: 1px solid #ccc;">
 <tr>
@@ -105,6 +107,9 @@ A imagem abaixo ilustra a hierarquia do sistema financeiro brasileiro:
 </tr>
 </tbody>
 </table>
+</div>
+
+<p class="legenda" style="text-align:center">Figura 1 - Estrutura do SFN - Fonte: Banco Central.</p>
 
 
 ##Órgãos Normativos
@@ -122,6 +127,8 @@ Os órgãos normativos determinam as regras gerais para o funcionamento do siste
 </thead>
 <tbody>
 </table>
+
+<p class="legenda" style="text-align:center">Figura 2 - Órgãos normativos do SFN.</p>
 
 ###Conselho Monetário Nacional (CMN)
 
@@ -193,6 +200,8 @@ As entidades supervisoras fiscalizam e fazem cumprir as determinações dos órg
 </tr>
 </table>
 
+<p class="legenda" style="text-align:center">Figura 3 - Entidades supervisoras do SFN.</p>
+
 ###Banco Central do Brasil (BACEN)
 
 O BACEN é órgão executivo do sistema financeiro. Assim, ele cumpre e faz cumprir os regulamentos e normas expedidas pelo CMN.
@@ -225,9 +234,9 @@ O mercado de capitais possui um órgão do governo especialmente dedicado a exer
 
 É a CVM quem disciplina e fiscaliza:
 
-- A emissão de ações pelas empresas de sociedade anônima
-- A organização, funcionamento e operação das Bolsas de Valores
-- Os profissionais e instituições envolvidas com o mercado de valores mobiliários
+- A emissão de ações pelas empresas de sociedade anônima;
+- A organização, funcionamento e operação das Bolsas de Valores; e
+- Os profissionais e instituições envolvidas com o mercado de valores mobiliários.
 
 A CVM emite atos chamados de **Instruções CVM** para regulamentar o sistema, **Ofìcios Circulares** para orientar aos participantes do mercado, e instaura processos administrativos para apurar irregularidades.
 
@@ -291,6 +300,8 @@ Os operadores são as instituições que ofertam os serviços financeiros ao pú
 </tbody>
 </table>
 
+<p class="legenda" style="text-align:center">Figura 4 - Operadores do SFN subordinados ao BACEN.</p>
+
 ####Bancos
 
 As principais funções de um banco são:
@@ -314,7 +325,7 @@ São bancos comerciais públicos, no entanto, desempenham funções que estão m
 
 Por exemplo, priorizam empréstimos para financiamento de imóveis e projetos sociais e administram recursos do FGTS, a loteria e programas de governo como o PIS.
 
-Atualmente, a única instituição deste tipo é a Caixa Econômica Federal (CEF)
+Atualmente, a única instituição deste tipo é a Caixa Econômica Federal (CEF).
 
 ####Cooperativas de Crédito
 
@@ -340,7 +351,7 @@ Um consórcio é a união de pessoas que visa adquirir um bem e utiliza o dinhei
 
 Por determinação legal, os consórcios devem ser administrados por uma empresa específica para tal que cuidará da gestão do consórcio.
 
-Essas empresas são as Admnistradoras de Consórcio.
+Essas empresas são as Administradoras de Consórcio.
 
 ####Corretoras e Distribuidoras de Valores
 
@@ -382,22 +393,22 @@ As distribuidoras de valores são como as corretoras e também atuam na área de
 </tbody>
 </table>
 
-
+<p class="legenda" style="text-align:center">Figura 5 - Operadores do SFN subordinados à CVM.</p>
 
 ####Bolsa de Valores
 
 A Bolsa de Valores é uma empresa, cuja principal função é reunir investidores através de um sistema de negociação de valores mobiliários que seja confiável e seguro para todos.
 
 A bolsa cumpre, assim, duas funções primordiais para o mercado financeiro:
-- Permite o contato entre emissores de títulos (empresas, fundos, etc.)e uma ampla gama de investidores; e
+- Permite o contato entre emissores de títulos (empresas, fundos, etc.) e uma ampla gama de investidores; e
 - Permite aos investidores negociar seus títulos com facilidade.
 
 Atualmente, no Brasil, só há uma Bolsa de Valores, a B3 S.A.
 
 ####Bolsa de Mercadorias e Futuros
 
-A Bolsa de Mercadorias e Futuros, BM&F, faz parte da B3 e é onde são negociados contratos de mercadorias (commodities), contratos futuros e outros derivativos.
-- **Commodities**, cuja tradução direta do inglês é mercadoria, são produtos que servem de matéria-prima, como petróleo, boi gordo, soja, café e ouro e que são negociados em todo o mundo não importando sua origem ou “marca”. Na Bolsa de Mercadorias e Futuros são negociados contratos padronizados de compra e venda desses produtos.
+A Bolsa de Mercadorias e Futuros, BM&F, faz parte da B3 e é onde são negociados contratos de mercadorias (*commodities*), contratos futuros e outros derivativos.
+- ***Commodities***, cuja tradução direta do inglês é "mercadoria", são produtos que servem de matéria-prima, como petróleo, boi gordo, soja, café e ouro e que são negociados em todo o mundo não importando sua origem ou “marca”. Na Bolsa de Mercadorias e Futuros são negociados contratos padronizados de compra e venda desses produtos.
 - **Contratos futuros** são contratos que estabelecem compra ou venda de um produto a um preço predeterminado a ser executado em data futura. Eles servem para que investidores e produtores possam fixar o preço pelo qual executarão uma operação no futuro, evitando ficar à mercê da variação de preço dos mercados.
 - **Derivativos** são instrumentos financeiros derivados de outros ativos financeiros. Um exemplo de derivativo é a opção de ação. Uma opção é uma espécie de contrato de seguro que permite a seu possuidor, em troca de um prêmio pago para adquirir a opção, garantir a compra de uma ação a um preço predeterminado. Contratos futuros também são considerados derivativos.
 
@@ -427,6 +438,8 @@ A Bolsa de Mercadorias e Futuros, BM&F, faz parte da B3 e é onde são negociado
 </tr>
 </tbody>
 </table>
+
+<p class="legenda" style="text-align:center">Figura 6 - Operadores do SFN subordinados à SUSEP.</p>
 
 ####Seguradoras
 
@@ -460,7 +473,7 @@ Durante a vigência do título são feitos sorteios para os titulares.
 
 Ao final do período de vigência, o titular recebe a parte do dinheiro que ficou aplicada. Normalmente, o rendimento é menor do que o oferecido pela poupança.
 
-###Subordinadas À PREVIC
+###Subordinadas à PREVIC
 
 <table class="responsiveTable">
 <thead style="border: 1px solid #ccc;">
@@ -480,6 +493,8 @@ Ao final do período de vigência, o titular recebe a parte do dinheiro que fico
 </tr>
 </tbody>
 </table>
+
+<p class="legenda" style="text-align:center">Figura 7 - Operadores do SFN subordinados à PREVIC.</p>
 
 ####Entidades Fechadas de Previdência Complementar
 

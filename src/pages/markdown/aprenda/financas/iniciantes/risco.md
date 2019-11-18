@@ -29,13 +29,13 @@ Para saber o que pode dar errado em um investimento é preciso estudar as suas c
 Existem duas classes de riscos que afetam investimentos financeiros:
 
 - Riscos Sistêmicos; e
-- Riscos Específicos
+- Riscos Específicos.
 
 ###Riscos Sistêmicos
 
 São riscos inerentes a todo tipo de investimento financeiro. Por exemplo:
 
-- Crises ecônomicas;
+- Crises ecônomicas.
 
 O risco sistêmico também pode se referir a um aspecto que afete determinada classe de investimentos como um todo. Por exemplo:
 
@@ -72,7 +72,7 @@ Por exemplo:
 - Um investidor que possui todo seu dinheiro aplicado em LCI de um banco que venha a falir terá um perda considerável; e
 - Um investidor que tiver 10% de seu patrimônio aplicado em ações não ficará assustado se o preço delas cair 80% em um semana.
 
-Investimentos não devem ser motivo de preocupação, por isso, o ideal é que você invista de forma a evitar se expor a riscos cujas consequências sejam catastróficas para sua situação financeira.
+**Investimentos não devem ser motivo de preocupação. Por isso, o ideal é que você invista de forma a evitar se expor a riscos cujas consequências sejam catastróficas para sua situação financeira.**
 
 ##Tipos de Risco
 
@@ -107,10 +107,10 @@ A qualquer momento, o governo pode decidir alterar, criar ou extinguir uma lei, 
 ###Risco Tributário
 O governo pode alterar legislações tributárias do dia para a noite, impactando o rendimento dos ativos financeiros.
 
-Por exemplo, o início da cobrança de imposto de renda sobre os rendimentos de Fundos de Investimento Imobiliário(atualmente isentos) certamente afetará os preços das cotas na Bolsa, que serão ajustados para que o rendimento final dos investidores esteja de acordo com suas expectativas.
+Por exemplo, o início da cobrança de imposto de renda sobre os rendimentos de Fundos de Investimento Imobiliário (atualmente isentos) certamente afetará os preços das cotas na Bolsa, que serão ajustados para que o rendimento final dos investidores esteja de acordo com suas expectativas.
 
 ###Risco Judicial
-Empresas, Fundos de Investimmentos e Instituições Financeiras podem se envolver em processos judiciais que , as vezes, levam anos para serem encerrados. 
+Empresas, Fundos de Investimmentos e Instituições Financeiras podem se envolver em processos judiciais que, às vezes, levam anos para serem encerrados. 
 
 Existe o risco de que haja penalização com multas ou valores a serem pagos de forma retroativa, prejudicando os resultados e os rendimentos dos investidores.
 
@@ -132,12 +132,12 @@ Conflito de interesses ocorrem quando os gestores dos ativos financeiros atuam d
 
 Por exemplo:
 
-- A diretoria de uma empresa opta por pagar bônus aos altos executivos mesmo com a emrpesa tendo prejuízo; e
-- O gestor de um Fundo de Investimento faz operações para ter altos ganhos de curto prazo sacrificando os ganhos a longo prazo, de forma a receber mais taxas de admnistração.
+- A diretoria de uma empresa opta por pagar bônus aos altos executivos mesmo com a empresa tendo prejuízo; e
+- O gestor de um Fundo de Investimento faz operações para ter altos ganhos de curto prazo sacrificando os ganhos a longo prazo, de forma a receber mais taxas de administração.
 
 ###Manipulação
 
-Alguns ativos financeiros ainda apresentam pouca liquidez e baixos valores totais sendo negociados, o que propicia a investidores com altos valores exercerem certa manipulação dos mercados para atender a seus objetivos.
+Alguns ativos financeiros ainda apresentam pouca liquidez e baixos valores totais sendo negociados, o que propicia a investidores com altos valores exercerem certa manipulação dos mercados para atender aos seus objetivos particulares em detrimento dos demais.
 
 ##Risco e Investimento
 
@@ -147,4 +147,4 @@ Não perder dinheiro já é um grande passo para qualquer investidor. Um passo q
 
 Para o pequeno investidor, a maneira mais eficaz de evitar se expor aos riscos em seus investimentos é **diversificar**.
 
-Discutimos mais sobre a diversificação na seção  [Estratégia de Investimento](/financas/estrategia)
+Discutimos mais sobre a diversificação na seção  [Estratégia de Investimento](/aprenda/financas/estrategia)

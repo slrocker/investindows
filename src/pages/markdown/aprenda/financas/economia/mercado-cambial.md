@@ -16,7 +16,7 @@ order: 4
 
 O mercado cambial é o ambiente abstrato onde se realizam trocas de moedas.
 
-É o Banco Central quem autoriza e regula as instituições financeiras a realizarem operações de câmbios, sendo assim, um sistema centralizado pelo governo e alvo de [interferências estatais](/financas/economia/politica-cambial).
+É o Banco Central quem autoriza e regula as instituições financeiras a realizarem operações de câmbios, sendo assim, um sistema centralizado pelo governo e alvo de [interferências estatais](/aprenda/financas/economia/politica-cambial).
 
 Atualmente, a principal moeda utilizada para transações internacionais é o dólar americano, sendo os negócios com essa moeda a maior parte das transações do mercado cambial.
 
@@ -40,7 +40,7 @@ Na prática, essa medida tornou a moeda um monopólio governamental, permitindo 
 
 Por volta de 1970, quando alguma das políticas intervencionistas começaram a cobrar seu preço através de recessões e inflação, diversos países começaram a exigir trocar seus dólares por ouro.
 
-Para não ficar sem ouro os EUA quebraram a ligação entre a sua moeda e o metal. Na época, o dólar já atuava como moeda padrão para negócios internacionais, assim permanecendo mesmo com a extinção do padrão ouro para o dólar.
+Para não ficar sem reservas de ouro, os EUA quebraram a ligação entre a sua moeda e o metal. Na época, o dólar já atuava como moeda padrão para negócios internacionais, além de constituir o lastro das moedas de outros países, assim permanecendo mesmo com a extinção do padrão ouro para o dólar.
 
 Como por trás do dólar está a maior economia do mundo, defende-se de que o dólar é a segunda coisa mais segura depois do [ouro](https://en.wikipedia.org/wiki/Gold_as_an_investment). Assim, ele ainda permanece como referência e lastro para a maioria das moedas mundias.
 
@@ -63,7 +63,7 @@ Basicamente, as transações internacionais funcionam da seguinte maneira:
 4. O exportador vende seus dólares para um importador; e
 5. O importador utiliza os dólares para comprar produtos de produtores americanos.
 
-Podemos dizer então, que as **exportações financiam as importações** e que, supondo um cenário de zero importações, os exportadores acumulariam dólares que não lhe serviriam para nada dentro do país.
+Podemos dizer então, que as **exportações financiam as importações** e que, supondo um cenário de zero importações, os exportadores acumulariam dólares que não lhes serviriam para nada dentro do país.
 
 Em outras palavras, sem importações, as exportações não teriam utilidade.
 
@@ -94,9 +94,9 @@ Essa interferência terá duas consequências:
 - O Banco Central ficará com reservas em dólar; e 
 - O Banco Central precisará imprimir mais reais para poder comprar os dólares.
 
-Segundo o próprio [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais), a função das reservas internacionais é permitir ao país fazer frente às suas obrigações internacionais (pagar suas dívidas) e financiar os importadores.
+Segundo o próprio [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais), a função das reservas internacionais é permitir ao país fazer frente às suas obrigações internacionais (pagar suas dívidas) e financiar os importadores — além de servir como lastro para a emissão da moeda nacional
 
-Tendo de imprimir mais reais, a nova oferta monetária acabará trazendo efeitos indesejáveis, como a inflação, prejudicando a [política monetária](/financas/economia/politica-monetaria) do governo.
+Tendo de imprimir mais reais, a nova oferta monetária acabará trazendo efeitos indesejáveis, como a inflação, prejudicando a [política monetária](/aprenda/financas/economia/politica-monetaria) do governo.
 
 Em  outras palavras:
 
@@ -110,6 +110,13 @@ Para alguns economistas, o importador, ao trocar seus reais por dólares e troca
 
 Atualmente, utiliza-se o [Produto Interno Bruto](https://pt.wikipedia.org/wiki/Produto_interno_bruto) (PIB) como uma maneira de se medir a riqueza gerada por um país. Na fórmula do PIB, importações são contabilizadas como valores negativos, o que reforça ainda mais a ideia de que ao importar, o país, na verdade, ficou mais pobre.
 
+$$
+PIB = C + G + I + X - M
+
+$$
+
+<p class="legenda" style="text-align:center">Fórmula 1 - Fórmula do cálculo do PIB, onde C=Consumo privado, G=Gasto do governo, I=Despesas privadas com investimento, X=exportações e M=importações.</p>
+
 Esse raciocínio dá origem a uma série de justificativas para que se busque ter uma balança comercial positiva (ou seja, mais exportações do que importações) através, se necessário, de interferências governamentais. Importações são vistas com maus olhos.
 
 <div class="borderBox">
@@ -120,13 +127,13 @@ Não é de hoje que governos olham para importações como o inimigo número um 
 
 Por volta do século XV, havia uma forte doutrina econômica, conhecida como [mercantilismo](https://pt.wikipedia.org/wiki/Mercantilismo), que pregava a intervenção estatal para evitar a fuga das reservas de ouro de um pais e proteger a indústria nacional.
 
-Nesse raciocínio, o comércio internacional é um ambiente onde sempre haverá um ganhador e um perdedor e a política deve atuar de forma a proteger os interesses nacionais. Muitas guerras resultaram da aplicação dessa filososfia (e ainda hoje continuam, ainda que não seja pela força das armas, mas das [tarifas](https://www.mises.org.br/Article.aspx?id=2917)).
+Nesse raciocínio, o comércio internacional é um ambiente onde sempre haverá um ganhador e um perdedor e a política deve atuar de forma a proteger os interesses nacionais. Muitas guerras resultaram da aplicação dessa filosofia (e ainda hoje continuam, ainda que não seja pela força das armas, mas das [tarifas](https://www.mises.org.br/Article.aspx?id=2917)).
 
 Boa parte da teoria econômica atual teve origem em economistas como [Adam Smith](https://pt.wikipedia.org/wiki/Adam_Smith), cujas obras se concentravam em combater as ideias mercantilistas e denunciar o quão prejudicial elas poderiam ser para uma nação.
 
 Centenas de anos depois, pouca coisa mudou.
 
-O Brasil, por exemplo, é um dos países com a economia mais fechada do mundo. Tarifas elevadas sobre qualquer tipo de importação e a forte pressão de alguns grupos sobre o governo mantêm os políticos aprovando legislações que fariam qualquer mercantilista abrir um vasto sorriso de satisfação.
+O Brasil, por exemplo, é um dos países com a economia mais fechada do mundo. Tarifas elevadas sobre qualquer tipo de importação e a forte pressão de alguns grupos sobre o governo mantêm os políticos aprovando legislações protecionistas que fariam qualquer mercantilista abrir um vasto sorriso de satisfação.
 
 Para entender por que o combate às importações pode ser prejudicial, é preciso entender que dinheiro (ou ouro, para os mercantilistas) não constitui riquezas.
 
@@ -220,9 +227,9 @@ Assim, essa é a taxa utilizada para auferir rendimentos, celebrar contratos, av
 
 ##Contratos de SWAP
 
-Existem diversos tipos de ativos financeiros que envolvem o câmbio, de especial interesse para os investidores são os contratos de SWAP cambial.
+Existem diversos tipos de ativos financeiros que envolvem o câmbio. De especial interesse para os investidores são os contratos de SWAP cambial.
 
-Além de serem ferramenta da [política cambial](/financas/economia/politica-cambial), os contratos de SWAP são muito utilizados por empresas brasileiras que queiram se proteger de variações na cotação do dólar que possam prejudicar seus resultados.
+Além de serem ferramenta da [política cambial](/aprenda/financas/economia/politica-cambial), os contratos de SWAP são muito utilizados por empresas brasileiras que queiram se proteger de variações na cotação do dólar que possam prejudicar seus resultados.
 
 Por exemplo:
 
@@ -268,9 +275,9 @@ No nosso exemplo, podemos dizer que eu lhe vendi um contrato de *swap* e você c
 
 Na prática, o nosso contrato de *swap* ofereceu-lhe uma proteção para o caso de valorização do dólar, sem que você tivesse de comprar a moeda estrangeira.
 
-Como comprando esse nosso contrato de *swap* você ganha com a valorização do dólar, diz-se que você assume posição comprada em dólar - ou seja, você está em uma posição semelhante a alguém que tenha comprado dólar diretamente e que ganha na valorização da moeda estrangeira e perda na desvalorização dela.
+Como comprando esse nosso contrato de *swap* você ganha com a valorização do dólar, diz-se que você assume posição comprada em dólar — ou seja, você está em uma posição semelhante a alguém que tenha comprado dólar diretamente e que ganha na valorização da moeda estrangeira e perde na desvalorização dela.
 
-Eu, por outro lado, estou em uma posição vendida em dólar - ou seja, estou em uma posição semelhante a alguém que tenha vendido a moeda estrangeira e tenha de recomprá-la posteriormente. Se o preço do dólar subir, recomprará mais caro e perderá dinheiro, se o preço cair, recomprará mais barato e ganhará a diferença do preço de venda para o de compra.
+Eu, por outro lado, estou em uma posição vendida em dólar — ou seja, estou em uma posição semelhante a alguém que tenha vendido a moeda estrangeira e tenha de recomprá-la posteriormente. Se o preço do dólar subir, recomprará mais caro e perderá dinheiro, se o preço cair, recomprará mais barato e ganhará a diferença do preço de venda para o de compra.
 
 <div class="referencias">
 

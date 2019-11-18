@@ -15,7 +15,7 @@ order: 7
 ##O que são índices de preços?
 Os índices de preço são utilizados como parâmetros de avaliação da [inflação](/financas/economia/inflacao).
 
-O critérios de cada índice variam, mas de maneira geral, eles funcionam da seguinte maneira:
+O critérios de cada índice variam, mas, de maneira geral, eles funcionam da seguinte maneira:
 
 - Define-se qual setor da economia deseja-se avaliar;
 - Selecionam-se os bens, serviços e regiões que acredita-se representarem melhor tal setor;
@@ -41,11 +41,11 @@ O Índice Nacional de Preços ao Consumidor Amplo (IPCA) é um índice que calcu
 
 ###Para que serve o IPCA?
 
-O IPCA é adotado pelo governo brasileiro como o **índice oficial de inflação**. Isso significa que a [política econômica](/financas/economia/politicas-economicas) do governo considera as variações do IPCA para avaliar suas metas de inflação.
+O IPCA é adotado pelo governo brasileiro como o **índice oficial de inflação**. Isso significa que a [política econômica](/aprenda/financas/economia/politicas-economicas) do governo considera as variações do IPCA para avaliar suas metas de inflação.
 
 ###Como se calcula o IPCA?
 
-Você pode encontrar a fórmula completa do cálculo no site do [IBGE](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=o-que-e). De forma geral, o IPCA tem as seguintes características:
+Você pode encontrar a fórmula completa do cálculo no *site* do [IBGE](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=o-que-e). De forma geral, o IPCA tem as seguintes características:
 
 - As informações são coletadas no período do dia 1 ao dia 30 do mês de referência.
 - Abrange as famílias com rendimentos mensais compreendidos entre 1 e 40 salários mínimos, residentes nas áreas urbanas das regiões pesquisadas.
@@ -69,7 +69,7 @@ Além disso, o IPCA pode ser utilizado como o índice de correção inflacionár
 - Algumas debêntures; e
 - Certificados de Recebíveis Imobiliários (CRI).
 
-O investidor também pode utilizar o IPCA para calcular o [rendimento real](/financas/iniciantes/rendimento) das suas aplicações e verificar se tem conseguido rendimentos capazes de resguardar o valor do seu dinheiro frente à inflação.
+O investidor também pode utilizar o IPCA para calcular o [rendimento real](/aprenda/financas/iniciantes/rendimento) das suas aplicações e verificar se tem conseguido rendimentos capazes de resguardar o valor do seu dinheiro frente à inflação.
 
 ###Variações
 

@@ -32,7 +32,7 @@ Na prática, essas medidas costumam ser catastróficas para economia e pouco efi
 
 É comum que, com motivações tais como "prover o acesso a bens essencias" e "aumentar a competitividade de certo setor" o governo estabela limites máximos ou mínimos de preços a serem praticados sobre determinados produtos.
 
-Essa ação também é comum quando a inflação sai de controle devido a uma [política monetária](/financas/economia/politica-monetaria) catastrófica.
+Essa ação também é comum quando a inflação sai de controle devido a uma [política monetária](/aprenda/financas/economia/politica-monetaria) catastrófica.
 
 Com o intuito de tentar reduzir a inflação, o governo determina tabelamento de preços, o que na verdade consiste em tentar eliminar as consequências de um problema e não a sua causa.
 

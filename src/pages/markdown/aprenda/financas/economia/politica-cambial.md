@@ -78,7 +78,7 @@ Com uma taxa de câmbio alta, produtos brasileiros ficam atraentes no mercado ex
 
 Os exportadores, então, se verão cheios de moeda estrangeira em mãos. Como no Brasil só se pode utilizar a moeda nacional, os exportadores serão obrigados a trocar essa moeda extrangeira pela moeda local, o que aumenta a quantidade de moeda local em circulação.
 
-Mais dinheiro em circulação pode prejudicar a [política monetária](/financas/economia/politica-monetaria).
+Mais dinheiro em circulação pode prejudicar a [política monetária](/aprenda/financas/economia/politica-monetaria).
 
 ###Apreciação Cambial
 
@@ -121,7 +121,7 @@ As principais operações utilziadas pelo Banco Central para interferir no câmb
 
 ###Compra ou Venda Direta
 
-Nestas operações, o Banco Central atua no mercado de câmbio à vista (também chamado de mercado [*spot*](/financas/economia/mercado-cambial)) comprando ou vendendo moeda estrangeira (normalmente dólares).
+Nestas operações, o Banco Central atua no mercado de câmbio à vista (também chamado de mercado [*spot*](/aprenda/financas/economia/mercado-cambial)) comprando ou vendendo moeda estrangeira (normalmente dólares).
 
 Para conseguir fazer esse tipo de operação, o Banco Central mantém uma reserva de moeda estrangeira, cujo valor pode ser visto no site do [BACEN](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais).
 
@@ -181,7 +181,7 @@ Eu, por outro lado, estou em uma posição **vendida em dólar** - ou seja, esto
 
 </div>
 
-No contrato de *swap* oferecido pelo BACEN, o banco se compromete a pagar variações da taxa de câmbio entre o real e o dólar, e o comprador do contrato se compromete a pagar variaçãoes da taxa SELIC em um detemrinado período.
+No contrato de *swap* oferecido pelo BACEN, o banco se compromete a pagar variações da taxa de câmbio entre o real e o dólar, e o comprador do contrato se compromete a pagar variaçãoes da taxa SELIC em um determinado período.
 
 Ao vender contratos de *swap* cambial, o Banco Central evita que as pessoas comprem a moeda estrangeira diretamente, diminuindo a demanda e evitando um aumento da taxa de câmbio.
 

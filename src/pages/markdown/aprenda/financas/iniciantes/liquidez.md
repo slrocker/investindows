@@ -14,22 +14,22 @@ order: 8
 
 ## O que é Liquidez?
 
-Liquidez é a facilidade com que você pode transformar um investimento em dinheiro na sua conta corrente ou na sua mão.
+Liquidez é a facilidade com que você pode transformar um investimento em dinheiro para ser utilizado em alguma transação financeira.
 
 Alguns exemplos:
 
 - **Poupança**: possui liquidez imediata, você desconta direto da poupança ou vai no caixa e retira o dinheiro na hora.
-- **LCI**: possui liquidez diária, o dinheiro cai na sua conta somente no final do dia, quando então você poderá utilizar o valor ou retirar o dinheiro no caixa.
-- **Tesouro Direto**: possui recompra diária, mas o dinheiro só irá aparacer na conta da sua corretora no dia seguinte. Depois, você terá de enviar o dinheiro da sua corretora para o banco, para só então conseguir utilizá-lo.
+- **LCI**: possui liquidez diária, o dinheiro cai na sua conta somente no final do dia, quando, então, você poderá utilizar o valor ou retirar o dinheiro no caixa.
+- **Tesouro Direto**: possui recompra diária, mas o dinheiro só será depositado na conta da sua corretora no dia seguinte. Depois, você terá de enviar o dinheiro da sua corretora para o banco, para só então conseguir utilizá-lo.
 
 ## Qual a importância da Liquidez?
 
 Analisar a liquidez de um investimento é importante por dois motivos:
 
-1. Saber quando você poderá retirar o dinheiro caso precise
-2. Evitar ter de pagar o spread
+1. Saber quando você poderá retirar o dinheiro caso precise; e
+2. Evitar ter de pagar o *spread*.
 
-Se você investe um dinheiro que acha que irá utilizar mais para frente, quando a oportunidade chegar, se você não conseguir retirar logo o valor investido, você pode acabar ficando em uma situação ruim por não ter o dinheiro em mãos.
+Se você investe um dinheiro que acha que utilizará no futuro, quando a oportunidade chegar, se você não conseguir retirar logo o valor investido, pode acabar ficando em uma situação ruim por não ter o dinheiro em mãos.
 
 **Antes de investir, saiba quando irá precisar do dinheiro e se o investimento possui liquidez que atenda às suas necessidades.**
 
@@ -37,13 +37,15 @@ Se você investe um dinheiro que acha que irá utilizar mais para frente, quando
 
 O *spread* é a diferença de preços entre a oferta de compra com o maior preço, e a oferta de venda com menor preço.
 
- O *spread* é uma característica de investimentos onde ocorrem negócios entre os investidores, com, por exemplo: Ações, cotas de FII, CRI e Debêntures.
+ O *spread* é uma característica de investimentos onde ocorrem negócios entre os investidores. Por exemplo: ações, cotas de FII, CRI e debêntures.
 
 **Quanto menor a liquidez, maior será o *spread*.**
 
 Quando a liquidez é pequena, há poucas pessoas querendo fazer negócio. Neste cenário, um vendedor que tenha pressa em conseguir dinheiro, acaba tendo que aceitar ofertas por um preço menor do que gostaria, do contrário não conseguirá vender tão rápido.
 
 O inverso ocorre para quem está querendo comprar rápido. Em um investimento de pouca liquidez, os compradores apressados terão de aceitar pagar mais caro para poder fazer negócio.
+
+
 
 ##Liquidez e o investimento
 

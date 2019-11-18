@@ -43,11 +43,11 @@ A [taxa diária](https://www.bcb.gov.br/estabilidadefinanceira/selicdadosdiarios
 
 ##Para que serve a taxa SELIC?
 
-A taxa SELIC é utilizada como uma ferramentas de [política monetária](/economia/politicas-economicas#politica-monetaria) do Governo.
+A taxa SELIC é utilizada como uma ferramentas de [política monetária](/aprenda/economia/politicas-economicas#politica-monetaria) do Governo.
 
 Emprestar dinheiro para o governo é considerado o empréstimo com o menor risco existente. Qualquer indíviduo ou instituição que deseje obter dinheiro emprestado, terá de oferecer pagar juros semelhante ou superior a que o governo brasileiro está pagando. Do contrário, é mais vantajoso e menos arriscado para quem empresta, comprar títulos públicos
 
-Isso torna possível ao [Banco Central (BACEN)](/financas/economia/sistema-financeiro#banco-central-do-brasil-bacen) tentar controlar os juros da economia como um todo, através de quanto ele oferece pagar pelos títulos públicos.
+Isso torna possível ao [Banco Central (BACEN)](/aprenda/financas/economia/sistema-financeiro#banco-central-do-brasil-bacen) tentar controlar os juros da economia como um todo, através de quanto ele oferece pagar pelos títulos públicos.
 
 Manipulando o preço dos títulos públicos no mercado, o BACEN influencia na taxa de rendimento dos títulos. 
 
@@ -74,7 +74,7 @@ Estabelecida a meta, o BACEN negocia títulos públicos junto aos participantes 
 
 ###Por que o governo determina metas para a taxa SELIC?
 
-Controlando os juros, o governo consegue controlar a [quantidade de dinheiro](/financas/economia/politica-monetaria) presente na economia.
+Controlando os juros, o governo consegue controlar a [quantidade de dinheiro](/aprenda/financas/economia/politica-monetaria) presente na economia.
 
 - **JUROS ALTOS** = Pouca gente pega dinheiro emprestado, menos dinheiro circula entre as pessoas; e
 - **JUROS BAIXOS** = Muita gente pega dinheiro emprestado, mais dinheiro circula entre as pessoas.
@@ -92,7 +92,7 @@ No entanto, excesso de dinheiro pode gerar um excesso de consumo e um consequent
 
 Aumento do preços dos produtos significa que o dinheiro está perdendo valor, o que conhecemos como inflação. Inflação muito elevada faz com que as pessoas queiram gastar seu dinheiro o mais rápido possível, o que aumenta ainda mais o consumo e a inflação, gerando uma espiral negativa.
 
-A partir daí, os produtos começam a escassear, não há mais capital disponível para que empreendedores possam melhorar a produção, empresas falem, o desemprego aumenta e a economia entra em crise.
+A partir daí, os produtos começam a escassear, não há mais capital disponível para que empreendedores possam melhorar a produção, empresas declaram falência, o desemprego aumenta e a economia entra em crise.
 
 Tentando evitar essas situaçãoes extremas, o governo, ao perceber uma inflação acima da que é considerada como ideal, aumenta a meta da taxa SELIC, aumentando o custo dos empréstimos e diminuindo o dinheiro em circulação.
 

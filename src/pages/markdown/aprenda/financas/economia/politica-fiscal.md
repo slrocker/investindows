@@ -74,7 +74,9 @@ Tendo em mente que a fonte dos recursos governamentais são os impostos — cuja
 
 Defensores da atuação do Estado rebatem que há certos serviços de interesse público que não existiriam sem que o Estado os provesse. Esse argumento não altera a questão do Estado ser menos eficiente e, não sendo impossível eliminar totalmente os serviços prestados pelo Estado para a população, é preciso sempre considerar se o ganho obtido pela sociedade reamente é vantajoso frente aos recursos empregados.
 
-Há de se destacar também que grande parte das obras e serviços públicos cuja existência aparenta ser impossível sem o Estado, tais como as obras de infraestrutura, na verdade, são legalmente proibidas de serem executadas livremente por instituições privadas. Normalmente, a exploração dessas atividades é monopólio do governo e só pode ser assumida pela iniciativa privada através de concessões ou autorizações específicas.
+Há de se destacar também que grande parte das obras e serviços públicos cuja existência aparenta ser impossível sem o Estado, tais como as obras de infraestrutura, na verdade, são legalmente proibidas de serem executadas livremente por instituições privadas.
+
+Normalmente, a exploração dessas atividades é monopólio do governo e só pode ser assumida pela iniciativa privada através de concessões ou autorizações específicas.
 
 ###Privilégios
 

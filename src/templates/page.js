@@ -142,6 +142,12 @@ const TemplatePage = (props) => {
                 </p>        
             </div>
 
+
+
+            <div className={pageStyles.header}>
+            <h1>{props.data.markdownRemark.frontmatter.title}</h1>
+            </div>
+
             <div className={pageStyles.toc}>
                 <p>CONTEÚDO</p>
                 <ul>
@@ -172,9 +178,6 @@ const TemplatePage = (props) => {
                 </ul>
             </div>
 
-            <div className={pageStyles.header}>
-            <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-            </div>
 
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
 

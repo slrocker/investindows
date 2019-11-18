@@ -16,28 +16,24 @@ O dinheiro é parte importante de nossas vidas e essencial para a nossa sobreviv
 
 Talvez você não enxergue dessa maneira, ou precise de mais alguma motivação para se preocupar com o seu dinheiro e começar a investir. Neste artigo discutiremos quatro bons motivos para você tratar bem o seu dinheiro:
 
-- Quem não investe está perdendo dinheiro!
-- Investir pode melhorar sua qualidade de vida!
-- Investir pode aumentar o seu patrimônio!
-- Investir pode lhe proporcionar independência financeira!
+- Quem não investe está perdendo dinheiro;
+- Investir pode melhorar sua qualidade de vida;
+- Investir pode aumentar o seu patrimônio; e
+- Investir pode lhe proporcionar independência financeira.
 
 ##Quem não investe está perdendo dinheiro!
 
-Você já ouviu falar na [inflação](/financas/economia/inflacao)?
+Você já ouviu falar na [inflação](/aprenda/financas/economia/inflacao)?
 
-A inflação se caracteriza pelo aumento dos preços e tem diversas razões para existir. No Brasil, a inflação sempre esteve presente e às vezes chegou a ficar descontrolada, por isso, para o brasileiro não há como fugir da inflação.
+A inflação se caracteriza pela perda de poder aquisitivo do dinheiro. No Brasil, a inflação sempre esteve presente e, às vezes, chegou a ficar descontrolada.
 
-Mais importante do que os motivos da existência da inflação, é o efeito que a inflação tem sobre o valor do seu dinheiro.
-
-**O conceito de valor, nesse caso, é qual o poder de compra do seu dinheiro, ou o que você pode comprar com ele.**
-
-Num exemplo prático, quando há inflação, um produto que custa R\$10,00 hoje, custará R\$10,10 dali a um mês. Os R\$10,00 que você tem na sua carteira, por outro lado, continuam sendo R\$10,00 e você não conseguirá comprar o produto. O seu dinheiro perdeu valor.
+Num exemplo prático, quando há inflação, um produto que custa R\$10,00 hoje, custará R\$10,10 dali a algum tempo. Os R\$10,00 que você tem na sua carteira, por outro lado, continuam sendo R\$10,00 e você não conseguirá comprar o produto. O seu dinheiro perdeu valor.
 
 **Quando seu dinheiro perde valor, você fica mais pobre.**
 
-Com o tempo, se você não fizer nada o dinheiro que você tem em mãos passará a não valer nada. Você já deve ter visto na TV aquelas estórias de pessoas que guardaram dinheiro debaixo do colchão durante anos e o dinheiro não valia nada depois. Guardar dinheiro no colchão quando existe inflação não é um bom negócio.
+Com o tempo, se você não fizer nada, o dinheiro que você tem em mãos passará a não valer nada. Você já deve ter visto na TV aquelas histórias de pessoas que guardaram dinheiro debaixo do colchão durante anos e o dinheiro não valia nada depois. Guardar dinheiro no colchão quando existe inflação não é um bom negócio.
 
-A inflação oficial do Brasil é representada pelo [IPCA](/financas/economia/indice-de-precos). Em 2019, o IPCA esteve próximo a valores de 4,0% ao ano, ou seja, pelo índice oficial (que nem sempre reflete a realidade) seu dinheiro estava perdendo cerca de 4,0% de valor ao ano.
+A inflação oficial do Brasil é representada pelo [IPCA](/aprenda/financas/economia/indice-de-precos). Em 2019, o IPCA esteve próximo a valores de 4,0% ao ano, ou seja, pelo índice oficial (que nem sempre reflete a realidade) seu dinheiro estava perdendo cerca de 4,0% de valor ao ano.
 
 ###Como vencer a inflação?
 
@@ -55,9 +51,9 @@ Muitos acham que ser rico é ganhar muito dinheiro, mas isso não é bem verdade
 
 Riqueza está relacionada a patrimônio. E não é qualquer patrimônio, mas sim patrimônio de valor, aquele que valoriza ao longo do tempo ou lhe proporciona uma fonte de renda para você pagar as contas. Se você é dono de um empresa que cresce e ainda dá lucro, esta empresa é um patrimônio de valor. Se você tem um carro que desvaloriza com o tempo e ainda exige gastos de manutenção, isto não é patrimônio de valor.
 
-Quanto maior o seu patrimônio, mais rico você é, por isso só ganhar muito dinheiro não é suficiente para enriquecer se não sobrar nada no final do mês.
+Quanto maior o seu patrimônio, mais rico você é. Por isso, só ganhar muito dinheiro não é suficiente para enriquecer se não sobrar nada no final do mês.
 
-Investir nada mais é do que utilizar o seu dinheiro para adquirir patrimônio de valor. Aos poucos, o dinheiro investido irá lhe dar retorno, seja na valorização ou nos rendimentos que você irá receber. Ao final você acabará aumentando a sua renda, pois estará ganhando mais dinheiro. Com uma renda maior você pode gastar em coisas melhores para você e sua família e, consequentemente, sua qualidade de vida irá melhorar.
+Investir nada mais é do que utilizar o seu dinheiro para adquirir patrimônio de valor. Aos poucos, o dinheiro investido irá lhe dar retorno, seja na valorização ou nos rendimentos que você irá receber. Ao final, você acabará aumentando a sua renda, pois estará ganhando mais dinheiro. Com uma renda maior você pode gastar em coisas melhores para você e sua família e, consequentemente, sua qualidade de vida irá melhorar.
 
 ##Investir pode aumentar o seu patrimônio!
 
@@ -65,11 +61,11 @@ Quer comprar alguma coisa e não possui o dinheiro? Melhor do que fazer uma dív
 
 Investindo em aplicações de Renda Fixa, em que você sabe o retorno antes de investir, você pode se programar e utilizar os rendimentos para conseguir chegar ao valor que deseja juntar mais rápido.
 
-Investindo em ações de boas empresas, ou em cotas de fundos imobiliários, você começará a receber parte dos lucros ao mesmo tempo em que vê as empresas e os prédios se valorizarem. Você aumenta sua renda e o seu patrimônio de uma só vez.
+Investindo em ações de boas empresas, ou em cotas de Fundos Imobiliários, você começará a receber parte dos lucros ao mesmo tempo em que vê as empresas e os prédios se valorizarem. Você aumenta sua renda e o seu patrimônio de uma só vez.
 
 ##Investir pode lhe propocionar independência financeira!
 
-O objetivo final de um investidor é conseguir viver do rendimento de seus próprios investimentos, deixando de ser obrigado a trabalhar para pagar as contas, é a almejada independência financeira.
+O objetivo final de um investidor é conseguir viver do rendimento de seus próprios investimentos, deixando de depender de terceiros para pagar as contas: é a almejada independência financeira.
 
 Quem não é obrigado a trabalhar costuma ter tempo de sobra para fazer o que gosta. Quem faz o que gosta costuma alcançar mais sucesso e riqueza.
 

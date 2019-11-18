@@ -16,9 +16,9 @@ order: 9
 
 Pouco se discute hoje em dia em nossa sociedade se realmente é válida a intervenção do Estado na economia. Essa questão é deixada de lado e o foco concentra-se na questão de **como o Estado deve interferir**.
 
-Essa visão parcial majoritária não surpreende quando se tem em mente que grande parte do setor acadêmico e da mídia tem financiamento público. Não é inteligente esperar que haja muitas críticas ao sistema que é fonte de suas receitas.
+Essa visão parcial majoritária não surpreende quando se tem em mente que grande parte do setor acadêmico e da mídia tem financiamento público. Não é inteligente esperar que haja muitas críticas ao sistema que financia quem emite a opinião.
 
-Além disso, há sempre o forte apelo emocional que problemas inerentes à existência humana, tais como "injustiça social" e "desigualdade", exercem nas pessoas e que, acredita-se, o governo poderá resolver intervindo.
+Além disso, há sempre o forte apelo emocional que problemas inerentes à existência humana, tais como "injustiça social" e "desigualdade", exercem nas pessoas e que, acredita-se, o governo poderá resolver através da sua interferência.
 
 Diferente das ciências como a física e matemática, a economia sofre a interferência dos interesses pessoais de quem a aplica. Assim, determinados grupos estão constatemente atuando de forma a manipular as coisas e serem beneficiados.
 
@@ -65,10 +65,10 @@ Defensores dessas políticas apontam que, deixados a agir livremente, os agentes
 
 Podemos dividir essas políticas em quatro tipos:
 
-- [Política Monetária](/financas/economia/politica-monetaria);
-- [Política Fiscal](/financas/economia/politica-fiscal);
-- [Política de Rendas](/financas/economia/politica-de-rendas); e
-- [Política Cambial](/financas/economia/politica-cambial).
+- [Política Monetária](/aprenda/financas/economia/politica-monetaria);
+- [Política Fiscal](/aprenda/financas/economia/politica-fiscal);
+- [Política de Rendas](/aprenda/financas/economia/politica-de-rendas); e
+- [Política Cambial](/aprenda/financas/economia/politica-cambial).
 
 
 <div class="referencias">

@@ -41,13 +41,13 @@ No entanto, o BACEN não imprime ou destrói dinheiro diretamente. A política m
 
 ###Depósito Compulsório
 
-De todo o dinheiro que um banco recebe em forma de depósitos - por exemplo, quando você deposita algum dinheiro na sua conta corrente - ele mantém apenas uma parte guardada. O restante ele utilizará em empréstimos a terceiros ou outras de suas atividades.
+De todo o dinheiro que um banco recebe em forma de depósitos — por exemplo, quando você deposita algum dinheiro na sua conta corrente — ele mantém apenas uma parte guardada. O restante ele utilizará em empréstimos a terceiros ou outras de suas atividades.
 
 A quantidade de dinheiro que o banco mantém guardado é chamado de **reserva**.
 
-Esse sistema onde os bancos mantêm apenas uma parte de seus depósitos guardada, é chamada de [**sistema de reservas fracionárias**](/financas/economia/sistema-bancario).
+Esse sistema onde os bancos mantêm apenas uma parte de seus depósitos guardada, é chamada de [sistema de reservas fracionárias](/aprenda/financas/economia/sistema-bancario).
 
-Em outras palavras, se todos os correntistas de um banco resolverem sacar todo o dinehiro de uma só vez, o banco não terá o dinheiro disponível para cumprir essa obrigação, pois ele não manteve 100% dos valores guardados, tendo destinado parte do dinheiro para outros fins.
+Em outras palavras, se todos os correntistas de um banco resolverem sacar todo o dinheiro de uma só vez, o banco não terá o dinheiro disponível para cumprir essa obrigação, pois ele não manteve 100% dos valores guardados, tendo destinado parte do dinheiro para outros fins.
 
 O sistema de reservas fracionárias é muito vantajoso para os bancos porque permite que eles recebam juros sobre o dinheiro dos correntistas sem necessariamente ter de repassar esse lucro aos verdadeiros donos do dinheiro.
 
@@ -67,7 +67,7 @@ Assim, definindo diferentes taxas de depósito compulsório, o BACEN controla qu
 - **Depósito compulsório alto**: menos dinheiro em circulação; e
 - **Depósito compulsório baixo**: mais dinheiro em circulação.
 
-Para entender mais a fundo esse processo, dê uma olhada no artigo sobre a [inflação e a base monetária M1](/financas/economia/inflacao#m1).
+Para entender mais a fundo esse processo, dê uma olhada no artigo sobre a [inflação e a base monetária M1](/aprenda/financas/economia/inflacao#m1).
 
 ###Redesconto
 
@@ -149,9 +149,9 @@ O governo pode também atuar de forma mais direta, determinando taxas de juros e
 
 A política monetária é subordinada às metas de inflação.
 
-Assim, o governo - atráves do [Conselho Monetário Nacional](/financas/economia/sistema-financeiro#conselho-monetário-nacional-cmn) — estipula metas para a inflação, e o BACEN exerce as políticas monetárias para que essas metas sejam atingidas.
+Assim, o governo — atráves do [Conselho Monetário Nacional](/aprenda/financas/economia/sistema-financeiro#conselho-monetário-nacional-cmn) — estipula metas para a inflação, e o BACEN exerce as políticas monetárias para que essas metas sejam atingidas.
 
-O principal recurso utilizado para alcançar as metas é a manipulação da [taxa SELIC](/financas/economia/taxa-selic).
+O principal recurso utilizado para alcançar as metas é a manipulação da [taxa SELIC](/aprenda/financas/economia/taxa-selic).
 
 Trimestralmente, o BACEN emite um [relatório de inflação](https://www.bcb.gov.br/publicacoes/ri) que apresenta as diretrizes e os resultados da política monetária.
 

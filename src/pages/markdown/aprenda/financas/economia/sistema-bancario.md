@@ -41,7 +41,7 @@ Em troca da guarda do dinheiro, o banco cobra uma taxa, de onde vem a sua receit
 
 Sabemos também que bancos ganham dinheiro emprestando a juros. Quanto mais dinheiro emprestar, mais lucro terá o banco.
 
-Por esse motivo, bancos também oferecem a modalidade de **depósito a prazo** (que nada mais são do que investimentos como o [CDB](/renda-fixa/certificado-de-deposito-bancario)), onde o cliente deposita o dinheiro e, em troca de compromoter-se a retirá-lo apenas algum tempo depois, ganha uma taxa de rendimento sobre o depósito. Os bancos, então, emprestam o dinheiro dos clientes, cobrando juros acima da taxa que pagarão aos mesmos e auferindo lucro na operação.
+Por esse motivo, bancos também oferecem a modalidade de **depósito a prazo** (que nada mais são do que investimentos como o CDB), onde o cliente deposita o dinheiro e, em troca de compromoter-se a retirá-lo apenas algum tempo depois, ganha uma taxa de rendimento sobre o depósito. Os bancos, então, emprestam o dinheiro dos clientes, cobrando juros acima da taxa que pagarão aos mesmos e auferindo lucro na operação.
 
 ###Origem do Sistema de Reservas Fracionárias
 
@@ -49,7 +49,7 @@ Não é de hoje que os banqueiros perceberam o potencial de lucro existente em t
 
 Dezenas de teses de doutorado e livros foram escritos discutindo-se sobre a moralidade e a legalidade de um banco emprestar um dinheiro que, teoricamente, deveria estar disponível para resgate a qualquer momento[*](#nota1).
 
-Historicamente, os banco sempre possuiram um aliado de peso para defender essa sua atitude duvidosa, porém muito lucrativa: o governo.
+Historicamente, os bancos sempre possuiram um aliado de peso para defender essa sua atitude duvidosa, porém muito lucrativa: o governo.
 
 Sem ter fontes de receitas que não os impostos, governos sempre se veem em dificuldade de conseguir manter seus elevados gastos sem ter de aumentar demasiadamente os impostos. O problema é que impostos demais podem causar revoltas sociais que, geralmente, custam a cabeça dos governantes.
 
@@ -93,7 +93,7 @@ O valor dos depósitos que deve permanecer sob a guarda dos bancos é chamado de
 
 Assim, se o critério para a reserva obrigatória for de 10%, para cada R\$100,00 que o banco receber em depósitos, deverá guardar R\$10,00. Os R\$90,00 restantes ele poderá investir ou emprestar a juros.
 
-O governo controla o valor das reservas - chamado de **depósito compulsório** - como uma forma de exercer a sua [política monetária](/financas/economia/politica-monetaria).
+O governo controla o valor das reservas — chamado de **depósito compulsório** — como uma forma de exercer a sua [política monetária](/aprenda/financas/economia/politica-monetaria).
 
 ###Aspectos Negativos
 
@@ -113,14 +113,14 @@ Quando os empréstimos e investimentos de um banco dão errado e ele não tem ma
 
 Ao saber que um banco declarou falência porque tinha investimentos e empréstimos que deram errado, as pessoas ficam preocupadas que os outros bancos também possam estar com problemas e, para evitarem terem o mesmo destino que você, correm aos bancos para sacarem seu dinheiro.
 
-O problema é que, mesmo em condições normais, os bancos não tem esse dinheiro em mãos. Com as pessoas sacando o dinheiro, os bancos vão esgotando as reserva que possuem e acabam tendo de declarar falência.
+O problema é que, mesmo em condições normais, os bancos não tem esse dinheiro em mãos. Com as pessoas sacando o dinheiro, os bancos vão esgotando as reservas que possuem e acabam tendo de declarar falência.
 
 Ou seja, a crise se alastra por todo o sistema bancário e uma quantidade muito grande de dinheiro é perdida. Como o dinheiro nada mais é do que um meio de se obter riqueza e representa também a poupança e a produção da sociedade, crises assim causam uma destruição enorme de riqueza e a sociedade como um todo termina mais pobre e o país em sérias dificuldades econômicas.
 
 
 ####Cartelização
 
-Voltemos ao nosso exemplo:
+Acompanhe o seguinte exemplo:
 
 - Digamos que o valor do depósito compulsório estabelecido seja de 20%;
 - Você vai até o BANCO A e deposita R\$100,00 em uma conta corrente; e
@@ -153,7 +153,7 @@ Para atingirem esse objetivo, essas instituições exercem forte pressão sobre 
 
 ####Ciclos Econômicos
 
-[Ciclos econômicos](/financas/economia/ciclos-economicos) são movimentos de ajuste naturais da economia, onde se alternam fases de crescimento e contração.
+[Ciclos econômicos](/aprenda/financas/economia/ciclos-economicos) são movimentos de ajuste naturais da economia, onde se alternam fases de crescimento e contração.
 
 Críticos do sistema de reservas fracionárias apontam que capacidade de geração de crédito sem fundamento desse sistema envia sinais errados para os agentes econômicos, que passam a tomar decisões de investimento e empreendimentos que mais tarde se mostrarão falhas, gerando uma destruição de riqueza (recessão).
 
@@ -205,7 +205,7 @@ Entre os argumentos utilizados para defender a existência do Banco Central est�
 
 - Necessidade de o governo manter o poder de compra da moeda;
 - Necessidade de regulamentar o sistema financeiro e manter sua solidez; e
-- Necessidade do Estado interferir na economia de forma a alcançar um ponto de equiíbrio ótimo (através das [políticas econômicas](/financas/economia/politicas-economicas)).
+- Necessidade do Estado interferir na economia de forma a alcançar um ponto de equiíbrio ótimo (através das [políticas econômicas](/aprenda/financas/economia/politicas-economicas)).
 
 
 <div class="borderBox">

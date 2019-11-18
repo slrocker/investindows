@@ -20,11 +20,11 @@ Há aqueles que caracterizam a inflação como o **aumento contínuo e generaliz
 
 ##Por que existe inflação?
 
-Economistas apontam que a inflação existe, basicamente, por três motivos:
+A teoria econômica em voga aponta que a inflação existe, basicamente, por três motivos:
 
-- Demanda: quando a demanda por produtos e serviços aumenta porém a oferta permanece estagnada;
-- Custos: Quando o preço de insumos na produção de bens e serviços aumenta e o custo maior é repassado; e
-- Inercial: Quando as pessoas praticam aumento sistemático de preços para se resguardarem de uma inflação que elas acreditam que ocorrerá no futuro.
+- **Demanda**: quando a demanda por produtos e serviços aumenta porém a oferta permanece estagnada;
+- **Custos**: Quando o preço de insumos na produção de bens e serviços aumenta e o custo maior é repassado; e
+- **Inercial**: Quando as pessoas praticam aumento sistemático de preços para se resguardarem de uma inflação que elas acreditam que ocorrerá no futuro.
 
 No entanto, para entender a inflação é preciso entender o que motiva esses três fatores.
 
@@ -33,13 +33,13 @@ No entanto, para entender a inflação é preciso entender o que motiva esses tr
 
 Na teoria econômica, diz-se que o preço é o resultado da oferta e demanda por um produto. Supondo uma oferta constante:
 
-- Quanto maior a demanda, maior o preço que alguns estarão dispostos a pagar pelo produto e o preço tende a subir; e
-- Quanto menor a demanda, menos as pessoas estarão dispostas a pagar pelo produto e há uma tendência de queda no preço.
+- **Quanto maior a demanda**, maior o preço que alguns estarão dispostos a pagar pelo produto e o preço tende a subir; e
+- **Quanto menor a demanda**, menos as pessoas estarão dispostas a pagar pelo produto e há uma tendência de queda no preço.
 
 O raciocínio é semelhante para a oferta. Supondo uma demanda constante:
 
-- Quanto maior a oferta, menor será o preço que as pessoas estarão dispostas a pagar pelo produto e o preço tende a cair; e
-- Quanto menor a oferta, mais raro o produto e maior o preço pelo qual as pessoas estarão dispostas a adquiri-lo, havendo uma tendência de aumento do preço.
+- **Quanto maior a oferta**, menor será o preço que as pessoas estarão dispostas a pagar pelo produto e o preço tende a cair; e
+- **Quanto menor a oferta**, mais raro o produto e maior o preço pelo qual as pessoas estarão dispostas a adquiri-lo, havendo uma tendência de aumento do preço.
 
 Você pode se aprofundar neste assunto lendo o artigo sobre a [Lei da Oferta e da Procura](https://pt.wikipedia.org/wiki/Lei_da_oferta_e_da_procura) na Wikipedia.
 
@@ -49,7 +49,7 @@ Imagine que, do dia para a noite, a quantidade de dinheiro em poder de todas as 
 
 Com mais dinheiro em mãos, as pessoas passarão a querer comprar produtos mais caros aos quais não tinham acesso antes.
 
-Isso gera um aumento na demanda por esses produtos sem que haja aumento na oferta. Conforme a lei da oferta e da demanda, o preço do produto irá subir até atingir um novo equilíbrio. Isso irá se repetir para todos os produtos.
+Isso gera um aumento na demanda por esses produtos sem que haja aumento na oferta. Conforme a lei da oferta e da demanda, o preço do produto irá subir até atingir um novo equilíbrio. Isso se repetirá para todos os produtos.
 
 Ou seja, o aumento na quantidade de dinheiro causará um aumento generalizado nos preços de forma que o poder aquisitivo das pessoas não se altera. Não há um aumento **real** do poder aquisitivo, apenas um aumento **nominal**.
 
@@ -68,12 +68,12 @@ Ocorre, então, uma transferência de riqueza dentro do sistema econômico, pois
 - Há um grupo que é atingido pelo aumento dos preços antes de receber o novo dinheiro.
 
 ```mermaid
-graph LR
+graph TD
 
 E[Aumento da Oferta Monetária] --> A
 E --> C
 
-A((Primeiros receber $$)) --> B[Recebem mais antes dos preços aumentarem]
+A((Primeiros a receber)) --> B[Recebem mais antes dos preços aumentarem]
 
 C((Últimos a receber)) --> D[Pagam preços mais altos antes de receber amis]
 
@@ -83,9 +83,12 @@ style E fill:#bbb, stroke:#000, stroke-width:1px
 
 ```
 
+<p class="legenda" style="text-align: center">Figura 1 - Quando ocorre um aumento da oferta monetária, a distribuição é feita de forma desigual, beneficiando os que recebem o novo dinheiro primeiro em detrimento daqueles que recebem por último.</p>
+
+
 Quem são os primeiros da fila a receber o aumento da oferta monetária? 
 
-São os governos e alguns poucos grupos com acesso a investimentos que os protegem do aumento dos preços.
+São os grupos próximos aos governos e alguns poucos indivíduos com acesso a investimentos que os protegem do aumento dos preços.
 
 Quem são os últimos da fila?
 
@@ -111,7 +114,7 @@ No entanto, imprimir dinheiro não é uma forma mágica de gerar riqueza e esses
 
 Como já vimos, quem acabará pagando serão os últimos a receberem o novo dinheiro, que terão seu poder de compra reduzido, ficando mais pobres.
 
-Houve, assim, uma trasnferência de riqueza dessas pessoas para o governo, o que caracteriza um imposto.
+Houve, assim, uma transferência de riqueza dessas pessoas para o governo e do governo para os grupos que são beneficiados com gastos estatais, o que caracteriza um imposto.
 
 A inflação acaba sendo um imposto pago pela população que vem disfarçado de outro nome.
 
@@ -119,7 +122,7 @@ A inflação acaba sendo um imposto pago pela população que vem disfarçado de
 
 <h4>Imprimindo dinheiro?</h4>
 
-Na prática, o governo não precisa imprimir dinheiro diretamente para se financiar. Ele faz isso de maneira indireta através dos [bancos](/financas/economia/sistema-bancario).
+Na prática, o governo não precisa imprimir dinheiro diretamente para se financiar. Ele faz isso de maneira indireta através dos [bancos](/aprenda/financas/economia/sistema-bancario).
 
 Assim, quando precisa de dinheiro, o governo emite títulos de dívidas, que são comprados pelos bancos.
 
@@ -127,7 +130,7 @@ A partir daí, o governo já conseguiu o dinheiro que precisava para se financia
 
 No entanto, os bancos só compram esses títulos, financiando o governo, porque sabem que poderão vendê-los para o Banco Central.
 
-O Banco central compra os títulos dos bancos, aumentando o valor do [depósito compulsório](/financas/economia/politica-monetaria#depósito-compulsório) dos bancos em suas contas no Banco central.
+O Banco central compra os títulos dos bancos, aumentando o valor do [depósito compulsório](/aprenda/financas/economia/politica-monetaria#depósito-compulsório) dos bancos em suas contas no Banco central.
 
 Com valores maiores nas suas contas de compulsório, os Bancos podem injetar mais dinheiro através de empréstimos e investimentos.
 
@@ -163,7 +166,7 @@ Essa teoria é um dos pilares para justificar a centralização do sistema finan
 
 Com esses pontos em mente, o Estado controlaria a quantidade de moeda de forma a suprir a necessidade de liquidez e evitar um excesso de inflação.
 
-Daí surge a legislação atual, onde o Estado, através do Banco Central, exerce sua [política monetária](/financas/economia/politica-monetaria) (que é a política que controla a quantidade de dinheiro em circulação na economia) através de **metas para a inflação**.
+Daí surge a legislação atual, onde o Estado, através do Banco Central, exerce sua [política monetária](/aprenda/financas/economia/politica-monetaria) (que é a política que controla a quantidade de dinheiro em circulação na economia) através de **metas para a inflação**.
 
 ##Como medir a inflação?
 
@@ -175,9 +178,9 @@ A teoria econômica em que se baseiam as legislações atuais defende o foco ape
 
 Como forma de se proteger da inflação, o mercado financeiro também utiliza a apuração da variação dos preços, utilizando-na para corrigir o valor de contratos, empréstimos e investimentos, defendendo o poder de compra do dinheiro aplicado.
 
-Para fazer essa análise, utilizam-se os [índices de preço](/financas/economia/indice-de-precos).
+Para fazer essa análise, utilizam-se os [índices de preço](/aprenda/financas/economia/indice-de-precos).
 
-O critérios de cada índice variam, mas de maneira geral, eles funcionam da seguinte maneira:
+Os critérios de apuração de cada índice variam, mas, de maneira geral, eles funcionam da seguinte maneira:
 
 - Define-se qual setor da economia deseja-se avaliar;
 - Selecionam-se os bens, serviços e regiões que acredita-se representar melhor tal setor;
@@ -187,7 +190,7 @@ O critérios de cada índice variam, mas de maneira geral, eles funcionam da seg
 
 Os índices costuma ter avaliação mensal e são expressos em taxas percentuais. 
 
-O Governo Brasileiro definiu que o índice oficial para se avaliar a inflação do país seria o [Índice Nacional de Preços ao Consumidor Amplo (IPCA)](/financas/economia/indice-de-precos#IPCA), passando esse a ser o índice utilizado para balizar as políticas econômicas.
+O Governo Brasileiro definiu que o índice oficial para se avaliar a inflação do país seria o [Índice Nacional de Preços ao Consumidor Amplo (IPCA)](/aprenda/financas/economia/indice-de-precos#IPCA), passando esse a ser o índice utilizado para balizar as políticas econômicas.
 
 A medição através de índices apresenta algumas desvantagens:
 
@@ -200,7 +203,7 @@ Assim, além do IPCA, existem outros índices de inflação criados para serem u
 
 Medir quantidades de dinheiro em uma economia é mais difícil do que parece.
 
-Por exemplo, digamos que, inicialmente, havia R\$1.000,00 em circulação. Em seguida:
+Por exemplo, digamos que, inicialmente, haja R\$1.000,00 em circulação. Em seguida:
 
 - Parte do dinheiro é depositado em uma conta corrente;
 - Parte é utilizado para investir em CDB;
@@ -211,7 +214,9 @@ Poderíamos dizer que o valor que sobrasse seria o equivalente ao dinheiro em ci
 
 Ou seja, medir apenas a quantidade de papel moeda em circulação não necessariamente irá refletir a realidade total dos valores que estão sendo movimentados e que exercem a função de moeda (meio de troca).
 
-Dependendo de qual conceito de moeda deseja-se utilizar, acaba-se chegando a valores diferentes de moeda total em circulaço (oferta monetária). Na prática, utilizam-se diferentes conceitos de moeda padronizados, chamados de **agregados monetários** ou **meios de pagamento**, que são conhecidos pelas siglas M, M1, M2, M3 e M4.
+Dependendo de qual conceito de moeda deseja-se utilizar, acaba-se chegando a valores diferentes de moeda total em circulação (oferta monetária).
+
+Na prática, utilizam-se diferentes conceitos padronizados de moeda, chamados de **agregados monetários** ou **meios de pagamento**, que são conhecidos pelas siglas M, M1, M2, M3 e M4.
 
 No Brasil, o critério utilizado está relacionado ao tipo de instituição emissora. Em outros paises, utiliza-se o critério de liquidez.
 
@@ -230,7 +235,7 @@ Podemos dizer que M0 é o dinheiro que existe de fato.
 
 ####M1
 
-A partir das suas reservas disponíveis no Banco Central, os [bancos](/financas/economia/sistema-bancario) são capazes de multiplicar a moeda através de crédito e investimentos.
+A partir das suas reservas disponíveis no Banco Central, os [bancos](/aprenda/financas/economia/sistema-bancario) são capazes de multiplicar a moeda através de crédito e investimentos.
 
 Esse dinheiro criado pelos bancos não existe realmente, é apenas um número de computador e, por isso, é chamada de moeda escritural.
 
