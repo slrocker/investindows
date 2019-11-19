@@ -1,6 +1,6 @@
 ---
 title: "Finanças"
-date: "2019-18-06"
+date: "2019-06-18"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Finanças"

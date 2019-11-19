@@ -45,15 +45,15 @@ No sistema do Tesouro Direto você pode fazer as seguintes operações:
 
 **Investimento tradicional:**
 
-- [Compra](/renda-fixa/tesouro-direto/compra-tesouro-direto) de títulos; e
-- [Venda](/renda-fixa/tesouro-direto/venda-tesouro-direto) de títulos.
+- [Compra](./compra-tesouro-direto) de títulos; e
+- [Venda](./venda-tesouro-direto) de títulos.
 
 **Investimento programado:**
 
-- [Agendamento de compra](/renda-fixa/tesouro-direto/compra-tesouro-direto);
-- [Agendamento de venda](/renda-fixa/tesouro-direto/venda-tesouro-direto);
-- [Reinvestimento de cupons](/renda-fixa/tesouro-direto/reinvestimento-tesouro-direto); e
-- [Reinvestimento de títulos](/renda-fixa/tesouro-direto/reinvestimento-tesouro-direto) resgatados no vencimento.
+- [Agendamento de compra](./compra-tesouro-direto);
+- [Agendamento de venda](./venda-tesouro-direto);
+- [Reinvestimento de cupons](./reinvestimento-tesouro-direto); e
+- [Reinvestimento de títulos](./reinvestimento-tesouro-direto) resgatados no vencimento.
 
 
 ##Consulta

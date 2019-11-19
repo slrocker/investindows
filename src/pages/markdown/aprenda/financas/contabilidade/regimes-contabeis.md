@@ -21,7 +21,7 @@ Calcular o lucro dessa empresa parece fácil, certo? Basta subtrair as despesas 
 
 Na realidade, as coisas podem ser mais complicadas. Digamos, por exemplo, que dos R\$100.000,00 de receitas:
 
-- R\$50.000,00 foram pagos a vista; e
+- R\$50.000,00 foram pagos à vista; e
 - R\$50.000,00 serão pagos a prazo, com recebimento somente no ano seguinte.
 
 Como calcular o resultado? Consideramos somente o dinheiro recebido? Consideramos o valor total mesmo que ainda não tenha sido recebido?
@@ -55,7 +55,7 @@ As vantagens desse tipo de apuração incluem:
 
 ##Regime de Caixa
 
-Muitas vezes a apuração pelo regime de competência pode se tornar deceptiva, tendo seu resultado influenciado por lançamentos contábeis que não ocorreram efetivamente. Em resumo, pode-se chegar a um lucro ou a um prejuízo que não representa o dinheiro que realmente entrou nos bolsos da empresa.
+Muitas vezes, a apuração pelo regime de competência pode se tornar deceptiva, tendo seu resultado influenciado por lançamentos contábeis que não ocorreram efetivamente em dinheiro. Em resumo, pode-se chegar a um lucro ou a um prejuízo que não representa o dinheiro que realmente entrou no bolso da empresa.
 
 Para permitir uma análise mais realista do fluxo de valores dentro da empresa, utiliza-se o regime de caixa.
 

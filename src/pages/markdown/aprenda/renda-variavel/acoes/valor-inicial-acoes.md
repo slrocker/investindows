@@ -25,7 +25,7 @@ $$
 
 **O mínimo que uma pessoa pode comprar na Bolsa de Valores é uma unidade de ação** (em países como os EUA é possível comprar frações de ações).
 
-O que pode confundir algumas pessoas, é que na Bolsa de Valores do Brasil há dois [tipos de mercado](/renda-variavel/bolsa-de-valores/tipos-de-mercado):
+O que pode confundir algumas pessoas, é que na Bolsa de Valores do Brasil há dois [tipos de mercado](/aprenda/renda-variavel/bolsa-de-valores/tipos-de-mercado):
 
 - **À vista**: onde as ações são negociadas em múltiplos de 100; e
 - **Fracionário**: onde as ações são negociadas em unidades.
@@ -38,7 +38,7 @@ De maneira geral, R\$100,00 já são suficientes para comprar uma ação e cobri
 
 O preço das ações varia de empresa para empresa. No entanto, nas empresas cujas ações há liquidez suficiente para investimento, o preço normalmente se encontra dentro de uma faixa entre R\$5,00 e R\$100,00.
 
-Por exemplo, se observamos a faixa de preço das ações que compõem o índice IBOVESPA, chegamos aos dados abaixo:
+Por exemplo, se observamos a faixa de preço das ações que compõem o índice IBOVESPA em nov/2019, chegamos aos dados abaixo:
 
 <table class="regularTable" id="figura1">
 <thead>
@@ -75,7 +75,7 @@ Por exemplo, se observamos a faixa de preço das ações que compõem o índice 
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center">Figura 1  - Distribuição de preço das ações do IBOVESPA.</p>
+<p class="legenda" style="text-align:center">Figura 1  - Distribuição de preço das ações do IBOVESPA em nov/2019.</p>
 
 Observe que a grande maioria se encontra na faixa entre R\$5,00 e R\$50,00.
 

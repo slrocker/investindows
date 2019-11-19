@@ -17,7 +17,7 @@ A assembleia de cotistas é uma **reunião dos cotistas realizada para que se to
 
 ##Assuntos de Deliberação
 
-A assembleia de cotistas é convocada pela [instituição administradora](/renda-variavel/fundos-imobiliarios/administracao-do-fii) para tomar decisões que não lhe são permitadas legalmente ou pelo regulamento do FII.
+A assembleia de cotistas é convocada pela [instituição administradora](./administracao-do-fii) para tomar decisões que não lhe são permitadas legalmente ou pelo regulamento do FII.
 
 Entre os assuntos a serem deliberados exclusivamente pela assembleia estão:
 
@@ -88,11 +88,11 @@ Se não houver o quórum mínimo, o admistrador terá de ficar reconvocando a as
 
 ##Comunicação
 
-As decisões tomadas em assembleia são comunicadas aos cotistas através de [fatos relevantes](/renda-variavel/bolsa-de-valores/divulgacao-de-informacoes) e correspondência enviada aos cotistas.
+As decisões tomadas em assembleia são comunicadas aos cotistas através de [fatos relevantes](/aprenda/renda-variavel/bolsa-de-valores/divulgacao-de-informacoes) e correspondência enviada aos cotistas.
 
 ##Assembleia e o Investidor
 
-Normalmente as assembleias de cotistas são realizadas nas sedes das admnistradoras de FII, em sua maioria localizadas na cidade de São Paulo-SP.
+Normalmente, as assembleias de cotistas são realizadas nas sedes das administradoras de FII, em sua maioria localizadas na cidade de São Paulo-SP.
 
 Apesar de não ser obrigatório o comparecimento, o investidor que não participar das assembleias não poderá executar seu poder de voto nas decisões tomadas.
 
@@ -100,4 +100,4 @@ Apesar de não ser obrigatório o comparecimento, o investidor que não particip
 
 Alguns poucos FII permitem que o investidor vote à distância através do envio de correspondência devidamente preenchida.
 
-Nos demais casos, para aquele cotista que não pode participar da assembleia mas deseja exercer seu poder de voto, será preciso enviar procuração para que outro cotista ou o próprio admnistrador do FII exerça o voto por ele.
+Nos demais casos, para aquele cotista que não pode participar da assembleia mas deseja exercer seu poder de voto, será preciso enviar procuração para que outro cotista ou o próprio administrador do FII exerça o voto por ele.

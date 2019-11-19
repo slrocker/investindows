@@ -61,7 +61,7 @@ Por exemplo, imagine uma empresa em que o valor do lucro líquido variou conform
 </div>
 <p class="legenda" style="text-align:center">Figura 1 - Apuração de Lucro</p>
 
-Escolhendo o ano de 2017 como o ano base, estabelecmos que o valor de R\$100.000,00 referente ao lucro daquele ano será utilizado como índice de referência 100. A partir daí, calculamos os índices para os outros anos (figura 2):
+Escolhendo o ano de 2017 como o ano base, estabelecemos que o valor de R\$100.000,00 referente ao lucro daquele ano será utilizado como índice de referência 100. A partir daí, calculamos os índices para os outros anos (figura 2):
 
 <div class="overflow responsiveTable">
 <table id="figura2">

@@ -71,10 +71,10 @@ const PlanilhasPage = () => {
                 </div>
 
                 <ul>
-                    <li><Link to="planilhas/excel/download-excel">Download</Link></li>
-                    <li><Link to="planilhas/excel/instrucoes-excel">Instruções de Uso</Link></li>
-                    <li><Link to="planilhas/excel/faq-excel">Dúvidas Frequentes</Link></li>
-                    <li><Link to="planilhas/excel/atualizacoes-excel">Registro de Atualizações</Link></li>
+                    <li><Link to="planilhas/excel/download">Download</Link></li>
+                    <li><Link to="planilhas/excel/instrucoes">Instruções de Uso</Link></li>
+                    <li><Link to="planilhas/excel/faq">Dúvidas Frequentes</Link></li>
+                    <li><Link to="planilhas/excel/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
 
                 <h2>Google Sheets</h2>
@@ -96,10 +96,10 @@ const PlanilhasPage = () => {
                 </div>
 
                 <ul>
-                    <li><Link to="planilhas/google-sheets/download-sheets">Download</Link></li>
-                    <li><Link to="planilhas/google-sheets/instrucoes-sheets">Instruções de Uso</Link></li>
-                    <li><Link to="planilhas/google-sheets/faq-sheets">Dúvidas Frequentes</Link></li>
-                    <li><Link to="planilhas/google-sheets/atualizacoes-sheets">Registro de Atualizações</Link></li>
+                    <li><Link to="planilhas/google-sheets/download">Download</Link></li>
+                    <li><Link to="planilhas/google-sheets/instrucoes">Instruções de Uso</Link></li>
+                    <li><Link to="planilhas/google-sheets/faq">Dúvidas Frequentes</Link></li>
+                    <li><Link to="planilhas/google-sheets/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
 
             </div>

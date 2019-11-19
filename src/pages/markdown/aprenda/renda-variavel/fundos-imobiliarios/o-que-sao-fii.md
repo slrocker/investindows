@@ -164,18 +164,18 @@ Diferente dos fundos de investimento que comumente são organizados na forma de 
 - **condomínio aberto**: em um fundo aberto, o número de cotas varia dia-a-dia à medida que os investidores resgatam ou aplicam mais dinheiro. O resgate é feito em solicitação direta ao fundo, que tem de vender ativos para pagar os cotistas que resgatam cotas.
 - **condomínio fechado**: em um fundo fechado, o número de cotas é definido no momento de sua criação e não se altera a não ser que se faça um novo processo de emissão de cotas. Nestes fundos o investidor não pode resgatar suas cotas. Caso deseje obter o dinheiro investido, deve encontrar outro investidor disposto a comprar as suas cotas.
 
-Por serem organizados em condomínio fechado, a maneira encontrada para possibilitar aos investidores de FII de resgatarem seus recursos foi fazer a negociação das cotas desses fundos em ambiente de [Bolsa de Valores](/renda-variavel/bolsa-de-valores).
+Por serem organizados em condomínio fechado, a maneira encontrada para possibilitar aos investidores de FII de resgatarem seus recursos foi fazer a negociação das cotas desses fundos em ambiente de [Bolsa de Valores](/aprenda/renda-variavel/bolsa-de-valores).
 
 Assim, um investidor que deseja comprar cotas de um FII, pode fazê-lo de duas formas:
 
-- Na emissão de cotas, que pode ocorrer quando o [fundo é constituído](/renda-variavel/eventos-acionarios/ipol) ou quando está [emitindo novas cotas para poder crescer](/renda-variavel/eventos-acionarios/emissao-follow-on); e
+- Na emissão de cotas, que pode ocorrer quando o [fundo é constituído](/aprenda/renda-variavel/eventos-acionarios/ipol) ou quando está [emitindo novas cotas para poder crescer](/aprenda/renda-variavel/eventos-acionarios/emissao-follow-on); e
 - Comprando as cotas na Bolsa de Valores.
 
 ##Patrimônio
 
 Apesar do cotista ser o "dono do FII", ele não tem qualquer direito sobre os imóveis e ativos de um FII.
 
-Todo o patrimônio do FII fica sob controle da [instituição administradora](/renda-variavel/fundos-imobiliarios/admnistracao-de-fii).
+Todo o patrimônio do FII fica sob controle da [instituição administradora](./admnistracao-de-fii).
 
 Na prática, isso quer dizer que o investidor não pode, por exemplo:
 

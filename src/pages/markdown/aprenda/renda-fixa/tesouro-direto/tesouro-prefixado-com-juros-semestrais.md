@@ -15,7 +15,7 @@ showIndex: "false"
 
 ##O que são as Notas do Tesouro Nacional Série F?
 
-As Notas do Tesouro Nacional Série F (NTN-F), também chamadas de Tesouro Prefixado com Juros Semestrais, são títulos [prefixados](/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
+As Notas do Tesouro Nacional Série F (NTN-F), também chamadas de Tesouro Prefixado com Juros Semestrais, são títulos [prefixados](/aprenda/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
 
 Esses títulos se diferenciam das Letras do Tesouro Nacional (LTN) pelo fato de pagarem cupons de rendimento semestrais equivalentes a uma taxa de 10,00% ao ano.
 
@@ -314,7 +314,7 @@ Ao comprar um título prefixado, o investidor fica com seu rendimento travado at
 
 **Aumento da Inflação**
 
-Caso ocorra alguma alteração econômica onde haja, por exemplo, aumento da taxa de inflação, o [rendimento real](/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
+Caso ocorra alguma alteração econômica onde haja, por exemplo, aumento da taxa de inflação, o [rendimento real](/aprenda/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
 
 **Marcação a Mercado**
 

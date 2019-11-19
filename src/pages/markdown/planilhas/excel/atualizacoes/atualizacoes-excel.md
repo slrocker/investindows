@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
 subcategory: "Atualizações"
-subcategorySlug: "atualizacoes-excel"
+subcategorySlug: "atualizacoes"
 featuredImage: "excel"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 214
 ---
 
@@ -37,11 +36,15 @@ indexOrder: 214
 </svg>
 </div>
 
-##Versão 1.4.4
+
+
+
+
+## Versão 1.4.4
 
 Data da versão: 02/10/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -54,11 +57,12 @@ Data da versão: 02/10/2019
 </div>
 
 
+
 ##Versão 1.4.3
 
 Data da versão: 17/09/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -73,7 +77,7 @@ Data da versão: 17/09/2019
 
 Data da versão: 03/09/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -90,7 +94,7 @@ Data da versão: 03/09/2019
 
 Data da versão: 31/07/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -113,7 +117,7 @@ Data da versão: 31/07/2019
 
 Data da versão: 28/07/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -137,7 +141,7 @@ Data da versão: 28/07/2019
 
 Data da versão: 05/07/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -151,7 +155,7 @@ Data da versão: 05/07/2019
 
 Data da versão: 27/03/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -165,7 +169,7 @@ Data da versão: 27/03/2019
 
 Data da versão: 27/01/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -184,7 +188,7 @@ Data da versão: 27/01/2019
 
 Data da versão: 19/01/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -204,7 +208,7 @@ Data da versão: 19/01/2019
 Data da versão: 23/12/2018
 
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 

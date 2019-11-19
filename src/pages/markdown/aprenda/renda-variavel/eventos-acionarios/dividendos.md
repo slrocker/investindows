@@ -36,7 +36,7 @@ acionária final registrada no dia 15.08.2019.
 
 ###Dividendo é obrigatório?
 
-A lei (Lei 6.404 de 1975 - Lei das S.A. ) estabelece que, **havendo lucro**, as empresas são obrigadas a distribuir dividendos. No, entanto, não há valores mínimos obrigatórios a serem pagos. Caso seja de interesse da empresa, os valores mínimos devem ser estabelecidos em seu estatuto social.
+A lei (Lei 6.404 de 1975 - Lei das S.A.) estabelece que, **havendo lucro**, as empresas são obrigadas a distribuir dividendos. No entanto, não há valores mínimos obrigatórios a serem pagos. Caso seja de interesse da empresa, os valores mínimos devem ser estabelecidos em seu estatuto social.
 
 No caso de omissão da determinação do dividendo mínimo no estatuto, o valor será de 50% do lucro apurado.
 

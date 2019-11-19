@@ -73,7 +73,7 @@ Digamos que voce queira comprar 1K ativos cujo livro de ofertas é representado 
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 1 - Livro de Ofertas</p>
+<p class="legenda" style="text-align:center;">Figura 1 - Livro de Ofertas.</p>
 
 Digamos que você só aceite pagar R\$10,03 por esse ativo. A melhor oferta de venda é de R\$10,05. Assim, você terá de especificar qeu deseja pagar R\$10,03 na sua ordem.
 
@@ -173,7 +173,7 @@ Por exemplo:
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 2 - Fluxo de uma ordem START</p>
+<p class="legenda" style="text-align:center;">Figura 2 - Fluxo de uma ordem START.</p>
 
 Observe que a ordem pode ser tanto de COMPRA quanto de VENDA, o funcionamento é mesmo.
 
@@ -256,7 +256,7 @@ Algumas corretoras chamam essa ordem de ***STOP LOSS***, pois caracteriza um pre
 </tbody>
 </table>
 
-<p class="legenda" style="text-align:center;">Figura 3 - Fluxo de uma ordem STOP</p>
+<p class="legenda" style="text-align:center;">Figura 3 - Fluxo de uma ordem STOP.</p>
 
 Nessa ordem são especificados:
 
@@ -273,7 +273,7 @@ Por exemplo:
 - Você comprou uma ação por R\$10,00;
 - Você estabelece um **preço de disparo** de venda em R\$9,50 para evitar ter prejuízo elevado;
 - Você estabelece um **preço limite** de venda em R\$9,00;
-- Você deseja que, caso o preço da ação no mercado suba para, por exemplo, R\$10,50 — **preço de início**, os preços de disparo e limite do STOP acompanhem essa variação positiva de R\$0,50, passando a serem R\$10,00 e R\$9,50, respectivamente, aumentando a sua proteção.
+- Você deseja que, caso o preço da ação no mercado suba para, por exemplo, R\$10,50 — **preço de início** —, os preços de disparo e limite do STOP acompanhem essa variação positiva de R\$0,50, passando a serem R\$10,00 e R\$9,50, respectivamente, aumentando a sua proteção.
 - A partir daí, você quer que para cada movimentação de R$0,50 — **preço de ajuste** — o valor das suas ordens também seja ajustado nesse montante.
 
 <table class="regularTable" id="figura4">

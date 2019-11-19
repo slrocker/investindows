@@ -32,15 +32,15 @@ Os títulos do Tesouro Direto podem ser:
 - **prefixados**: é determinada uma taxa fixa de rendimento. Ex: 5,00% ao ano; e
 - **pós-fixados**: a taxa de rendimento inclui algum índice cuja variação só será conhecida no futuro. Ex: IPCA + 5,00% ao ano.
 
-São títulos prefixados as [Letras do Tesouro Nacional (LTN ou Tesouro Prefixado)](/renda-fixa/tesouro-direto/tesouro-prefixado) e as [Notas do Tesouro Nacional Série F (NTN-F ou Tesouro Prefixado com Juros Semestrais)](/renda-fixa/tesouro-direto/tesouro-prefixado-com-juros-semestrais).
+São títulos prefixados as [Letras do Tesouro Nacional (LTN ou Tesouro Prefixado)](./tesouro-prefixado) e as [Notas do Tesouro Nacional Série F (NTN-F ou Tesouro Prefixado com Juros Semestrais)](./tesouro-prefixado-com-juros-semestrais).
 
-São títulos pós-fixados as [Letras FInanceiras do Tesouro (LFT ou Tesouro SELIC)](/renda-fixa/tesouro-direto/tesouro-selic), as [Notas do Tesouro Nacional Séria B (NTN-B ou Tesouro IPCA+ com Juros Semestrais)](/renda-fixa/tesouro-direto/tesouro-ipca-com-juros-semestrais) e as [Notas do Tesouro Nacional Séria B Principal (NTN-B ou Tesouro IPCA+)](/renda-fixa/tesouro-direto/tesouro-ipca).
+São títulos pós-fixados as [Letras FInanceiras do Tesouro (LFT ou Tesouro SELIC)](./tesouro-selic), as [Notas do Tesouro Nacional Séria B (NTN-B ou Tesouro IPCA+ com Juros Semestrais)](./tesouro-ipca-com-juros-semestrais) e as [Notas do Tesouro Nacional Séria B Principal (NTN-B ou Tesouro IPCA+)](./tesouro-ipca).
 
 **É importante atentar que a taxa de rendimento do dia da compra do título só será recebida pelo investidor se ele carregar o títulos até o vencimento**.
 
 ###Negociação
 
-Os títulos do Tesouro são negociados diariamente por diversos investidores. Isso faz com que haja uma [variação do preço](/renda-fixa/generalidades/preco-de-ativo-de-renda-fixa) à medida que a opinião dos investidores sobre o valor dos títulos se modifica.
+Os títulos do Tesouro são negociados diariamente por diversos investidores. Isso faz com que haja uma [variação do preço](/aprenda/renda-fixa/generalidades/preco-de-ativo-de-renda-fixa) à medida que a opinião dos investidores sobre o valor dos títulos se modifica.
 
 Isso torna possível a um investidor vender algum título antes do seu vencimento por um preço acima do qual pagou no dia da compra, tendo um lucro na operação.
 

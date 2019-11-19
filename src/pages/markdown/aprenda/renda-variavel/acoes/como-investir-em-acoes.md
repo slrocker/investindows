@@ -15,18 +15,18 @@ showIndex: "false"
 
 Antes de começar a investir em renda variável:
 
-- Forme uma [reserva de emergência](/financas/iniciantes/reserva-de-emergencia); e
-- Tenha uma [estratégia](/financas/estrategia).
+- Forme uma [reserva de emergência](/aprenda/financas/iniciantes/reserva-de-emergencia); e
+- Tenha uma [estratégia](/aprenda/financas/estrategia).
 
-É interessante que você também tenha uma boa diversificação em investimentos de renda fixa, especialmente pela segurança psicológica que a renda fixa irá lhe proporcionar quando a Bolsa estiver despencando e o preço das ações estiver derretendo.
+É interessante que você também tenha uma boa diversificação em investimentos de renda fixa, especialmente pela segurança psicológica que a renda fixa irá lhe proporcionar quando a Bolsa estiver despencando e o preço das ações estiver "derretendo".
 
 Estando devidamente preparado para começar a investir em renda variável, os passos para comprar sua primeira ação se resumem a:
 
-1. Abrir conta em uma [corretora de valores](/renda-variavel/bolsa-de-valores/corretora-de-valores);
+1. Abrir conta em uma [corretora de valores](/aprenda/renda-variavel/bolsa-de-valores/corretora-de-valores);
 2. Enviar o dinheiro para a conta da corretora;
 3. Selecionar as empresas em que deseja investir;
-4. Utilizar o [homebroker](/renda-variavel/homebroker) para comprar as ações; e
-5. Fazer um bom [controle](/financas/controle) do seu patrimônio.
+4. Utilizar o [homebroker](/aprenda/renda-variavel/homebroker) para comprar as ações; e
+5. Fazer um bom [controle](/aprenda/financas/controle) do seu patrimônio.
 
 ##Estratégia para Ações
 
@@ -57,7 +57,7 @@ No entanto, como isso não é possível, uma das melhores estratégias é compra
 
 Dessa forma, você acabará comprando tanto em momentos de preços baixos quanto em momentos de preço alto.
 
-Isso evitará que vocÊ tenha o azar de comprar sempre no pico histórico de preços, e, mais importante, **evitará que você fique fora da Bolsa nos momentos de alta**.
+Isso evitará que você tenha o azar de comprar sempre no pico histórico de preços, e, mais importante, **evitará que você fique fora da Bolsa nos momentos de alta**.
 
 ###Acompanhe
 

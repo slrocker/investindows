@@ -24,7 +24,7 @@ Legalmente, os FII devem distribuir aos seus cotistas quase a totalidade (95%) d
 
 Na prática, isso faz com que os FII distribuam rendimentos aos seus cotistas de maneira periódica (a grande maioria o faz mensalmente).
 
-Além disso, muitos admnistradores se esforçam para fazer as distribuições serem equilibradas ao longo do tempo, sem que haja grandes variações.
+Além disso, muitos administradores se esforçam para fazer as distribuições serem equilibradas ao longo do tempo, sem que haja grandes variações.
 
 Esses fatos fazem com que os FII gerem uma renda periódica aos seus cotistas, que podem utilizar o dinheiro para consumo ou para novos investimentos.
 
@@ -56,7 +56,7 @@ Por exemplo:
 
 O valor do prêmio irá depender das características de cada FII.
 
-Observe na figura 1 abaixo como o IFIX (índice que avalia a movimentação geral no preço das cotas de FII) tem uma movimentação inversa à [taxa SELIC](/financas/economia/taxa-selic), que é uma taxa de referência para remunerar títulos de renda fixa.
+Observe na figura 1 abaixo como o IFIX (índice que avalia a movimentação geral no preço das cotas de FII) tem uma movimentação inversa à [taxa SELIC](/aprenda/financas/economia/taxa-selic), que é uma taxa de referência para remunerar títulos de renda fixa.
 
 <div style="text-align:center;max-width:90%;margin:auto;" id="figura1">
 <svg  viewBox="0 0 390 275">
@@ -219,9 +219,9 @@ O crescimento patrimonial do FII pode ser oriundo de:
 
 No entanto, como os FII tem de distribuir a maior parte do lucro e não podem se endividar, é raro que algum FII consiga alcançar crescimento significativo que realmente impacte no seu patrimônio.
 
-Por isso, a maior parte dos FII lança mão de [novas emissões](/renda-variavel/eventos-acionarios/emissao-follow-on) de cotas para poder crescer.
+Por isso, a maior parte dos FII lança mão de [novas emissões](/aprenda/renda-variavel/eventos-acionarios/emissao-follow-on) de cotas para poder crescer.
 
-Outra dificuldade nesse ponto é o fato de que os FII precisam reavaliar anualmente o valor de cada ativo que possuem. Como essa avaliação é feita levando-se em conta fatores que se alteram dependendo das condições econômicas, é comum que o patrimônio do FII aumente em épocas de crescimento econômico, onde a aavaliação dos seus ativos é mais positiva e se reduza em épocas de crise, onde as avaliações se tornam mais pessimistas.
+Outra dificuldade nesse ponto é o fato de que os FII precisam reavaliar anualmente o valor de cada ativo que possuem. Como essa avaliação é feita levando-se em conta fatores que se alteram dependendo das condições econômicas, é comum que o patrimônio do FII aumente em épocas de crescimento econômico, onde a avaliação dos seus ativos é mais positiva e se reduza em épocas de crise, onde as avaliações se tornam mais pessimistas.
 
 Devido a essas questões, **a expectativa é que o valor patrimonial dos FII**, supondo que não haja novas aquisições ou aspectos que degradem o valor dos ativos do fundo, **reflita a tendência dos imóveis de apenas acompanhar a inflação ao longo do tempo**.
 
@@ -234,7 +234,7 @@ No entanto, não se deve levar isso como regra, pois sempre haverá casos em que
 
 ###Fundos de Papel
 
-Fundos de papel são aqueles cujo [mandato](/renda-variavel/fundos-imobiliarios/tipos-de-fii) consiste em investir em títulos e valores mobiliários.
+Fundos de papel são aqueles cujo [mandato](./tipos-de-fii) consiste em investir em títulos e valores mobiliários.
 
 Nesses fundos, o valor patrimonial da cota tende a:
 

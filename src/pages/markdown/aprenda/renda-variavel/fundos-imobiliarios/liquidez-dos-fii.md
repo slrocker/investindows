@@ -30,7 +30,7 @@ Para analisar a liquidez de uma cota, observe os seguintes aspectos:
 
 ##Livro de Ofertas
 
-O livro de ofertas é a tela do [*homebroker*](/renda-variavel/homebroker) onde são mostradas as ordens de compra e venda que já estão registradas no sistema da Bolsa (figura 1).
+O livro de ofertas é a tela do [*homebroker*](/aprenda/renda-variavel/homebroker) onde são mostradas as ordens de compra e venda que já estão registradas no sistema da Bolsa (figura 1).
 
 <table class="regularTable responsiveTable" id="figura1" style="max-width:60%;margin:auto">
 <thead>

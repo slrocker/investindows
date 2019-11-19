@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: "Download"
-subcategorySlug: "download-sheets"
+subcategorySlug: "download"
 featuredImage: "google-sheets"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 221
 ---
 

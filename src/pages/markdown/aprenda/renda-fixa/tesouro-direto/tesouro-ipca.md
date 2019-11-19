@@ -15,11 +15,11 @@ showIndex: "false"
 
 ##O que são as Notas do Tesouro Nacional Série B Principal?
 
-As Notas do Tesouro Nacional Série B Principal (NTN-B Principal), também chamadas de Tesouro IPCA+, são títulos [pós-fixados](/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
+As Notas do Tesouro Nacional Série B Principal (NTN-B Principal), também chamadas de Tesouro IPCA+, são títulos [pós-fixados](/aprenda/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
 
 ##Rendimento
 
-No vencimento de uma NTN-B Principal, o investidor receberá o valor pago na compra do título corrigido pela variação do [IPCA](/financas/economia/indice-de-precos) mais o rendimento contratado na data da compra.
+No vencimento de uma NTN-B Principal, o investidor receberá o valor pago na compra do título corrigido pela variação do [IPCA](/aprenda/financas/economia/indice-de-precos) mais o rendimento contratado na data da compra.
 
 Dessa forma, o preço de uma NTN-B é composto de duas partes:
 
@@ -316,7 +316,7 @@ Essa variação, chamada de **marcação a mercado**, faz com que não seja poss
 
 Um investidor que tenha de fazer a venda antecipada dos seus títulos pode até mesmo acabar vendendo seus títulos por um preço menor do que comprou, tendo um prejuízo.
 
-Também é possível, no caso de uma redução nas taxas de rendimento, um investidor que venda seus títulos antecipadamente, pode obter um retorno maior do que o esperado.
+Também é possível que, no caso de uma redução nas taxas de rendimento, um investidor que venda seus títulos antecipadamente possa obter um retorno maior do que o esperado.
 
 Dessa forma, **a taxa de rendimento contratada no momento da compra do título só será recebida se o mesmo for levado até o seu vencimento**.
 

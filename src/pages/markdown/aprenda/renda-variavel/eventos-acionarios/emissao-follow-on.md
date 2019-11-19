@@ -16,7 +16,7 @@ order: 2
 
 Quando uma empresa já possui capital aberto — isto é, já tem ações sendo negociadas na Bolsa de Valores — e resolve emitir novas emissões, esse processo é chamado de **oferta ou emissão *follow on***.
 
-A emissão *follow on* é chamada dessa forma para diferenciar-se da [Oferta Pública Inicial (IPO)](/renda-variavel/eventos-acionarios/ipo) — quando uma empresa emite ações ao mercado pela primeira vez. 
+A emissão *follow on* é chamada dessa forma para diferenciar-se da [Oferta Pública Inicial (IPO)](.s/ipo) — quando uma empresa emite ações ao mercado pela primeira vez. 
 
 O objetivo da emissão *follow on* é arrecadar mais recursos para que a empresa possa manter ou expandir suas atividades.
 
@@ -31,7 +31,7 @@ A emissão *follow on* pode ser:
 
 O processo de emissão de ações é trabalhoso e caro. Por isso, é relativamente incomum que empresas façam emissões *follow on*.
 
-###Bookbuilding
+### *Bookbuilding*
 
 O preço pelo qual as ações serão vendidas é determinado levando em conta fatores como:
 

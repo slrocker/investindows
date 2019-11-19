@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: "Atualizações"
-subcategorySlug: "atualizacoes-sheets"
+subcategorySlug: "atualizacoes"
 featuredImage: "google-sheets"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 224
 ---
 
@@ -38,7 +37,7 @@ indexOrder: 224
 
 Data da versão: 14/02/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -55,7 +54,7 @@ Data da versão: 14/02/2019
 
 Data da versão: 14/02/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -69,7 +68,7 @@ Data da versão: 14/02/2019
 
 Data da versão: 12/01/2019
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 
@@ -87,7 +86,7 @@ Data da versão: 12/01/2019
 
 Data da versão: 23/12/2018
 
-###Atualizações:
+####Atualizações:
 
 <div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
 

@@ -35,7 +35,7 @@ Dessa forma, há uma espécie de "pirâmide" financeira sobre os títulos da dí
 
 ##Política Monetária
 
-Os títulos públicos também exercem papel importante na [política monetária](/financas/economia/politica-monetaria), sendo utilizados como lastro para a criação de moeda fiduciária (dinheiro de papel).
+Os títulos públicos também exercem papel importante na [política monetária](/aprenda/financas/economia/politica-monetaria), sendo utilizados como lastro para a criação de moeda fiduciária (dinheiro de papel).
 
 Em outras palavras, os títulos de dívida do governo federal são parte da garantia por trás do papel colorido e dos números eletrônicos que você conhece como dinheiro.
 
@@ -72,7 +72,7 @@ Como os credores do governo são os primeiros a receber o dinheiro, é possível
 
 ###Liquidez
 
-Como vimos no artigo sobre a [liquidez](/renda-fixa/tesouro-direto/liquidez-tesouro-direto) do Tesouro Direto, a liquidação dos títulos varia **entre 1 a 2 dias úteis**.
+Como vimos no artigo sobre a [liquidez](./liquidez-tesouro-direto) do Tesouro Direto, a liquidação dos títulos varia **entre 1 a 2 dias úteis**.
 
 Para investidores que precisem de dinheiro de maneira emergencial, esse prazo pode ser inadequado.
 
@@ -80,13 +80,13 @@ Além disso, **é comum que o Tesouro cancele as negociações em momentos de va
 
 ###Inflação
 
-Para os investidores que compram títulos prefixados ou não indexados a algum índice infllacionário, o aumento da inflação pode acabar gerando um [rendimento real](/financas/iniciantes/rendimento) negativo.
+Para os investidores que compram títulos prefixados ou não indexados a algum índice infllacionário, o aumento da inflação pode acabar gerando um [rendimento real](/aprenda/financas/iniciantes/rendimento) negativo.
 
 Em outras palavras, se a inflação for muito elevada o investidor desses títulos pode perder dinheiro.
 
 ###Marcação a Mercado
 
-Como discutido no artigo sobre [o preço dos títulos de renda fixa](/renda-fixa/generalidades-renda-fixa/preco-de-ativos-de-renda-fixa), variações nas taxas de juros podem influenciar no preço dos títulos:
+Como discutido no artigo sobre [o preço dos títulos de renda fixa](/aprenda/renda-fixa/generalidades-renda-fixa/preco-de-ativos-de-renda-fixa), variações nas taxas de juros podem influenciar no preço dos títulos:
 
 
 - Quando a taxa aumenta, o preço do título diminui; e

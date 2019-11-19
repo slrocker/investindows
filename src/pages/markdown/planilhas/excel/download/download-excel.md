@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
 subcategory: "Download"
-subcategorySlug: "download-excel"
+subcategorySlug: "download"
 featuredImage: "excel"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 211
 ---
 

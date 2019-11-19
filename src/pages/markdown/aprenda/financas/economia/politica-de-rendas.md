@@ -26,7 +26,7 @@ Teoricamente, a intenção dessas interferências seria atingir objetivos como:
 - Garantir o poder de compra dos assalariados; e
 - Aumentar a concorrência.
 
-Na prática, essas medidas costumam ser catastróficas para economia e pouco eficientes a longo prazo, gerando mais inflação e desemprego do que o existente antes das políticas serem implementadas[*](#nota1).
+Na prática, essas medidas costumam ser catastróficas para economia e pouco eficientes a longo prazo, gerando mais inflação e desemprego do que o existente antes das políticas serem implementadas[¹](#nota1).
 
 ##Tabelamento de Preços
 
@@ -81,7 +81,7 @@ Da mesma forma que no tabelamento de preços, os resultados negativos das primei
 
 **Notas**
 
-<p id="nota1">²Para compreender melhor por que isso ocorre, recomenda-se a leitura do livro <strong>Economia Numa Única Lição</strong> de Henry Hazlitt, disponível gratuitamente em <a href="https://www.mises.org.br/Ebook.aspx?id=25">https://www.mises.org.br/Ebook.aspx?id=25</a> </p>
+<p id="nota1">¹Para compreender melhor por que isso ocorre, recomenda-se a leitura do livro <strong>Economia Numa Única Lição</strong> de Henry Hazlitt, disponível gratuitamente em <a href="https://www.mises.org.br/Ebook.aspx?id=25">https://www.mises.org.br/Ebook.aspx?id=25</a> </p>
 
 **Referências**:
 

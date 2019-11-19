@@ -12,12 +12,14 @@ pageType: "page"
 order: 4
 ---
 
-Após definir os seus [objetivos](./escolhendo-um-investimento) e definir onde irá aplicaar seu dinheiro, sua estratégia deve se basear em reduzir os riscos.
+Após definir os seus [objetivos](./escolhendo-um-investimento) e escolher onde aplicará o seu dinheiro, sua estratégia deve se basear em reduzir sua exposição aos riscos, evitando as perdas.
 
-Para isso há alguns passos que, além de reduzirem sua exposição ao risco inerente aos investimentos, evitam sua própria sabotagem pessoal nas decisões  que toma, que,por vezes, pode acabar influenciada por fatores emocionais.
+Para isso há alguns passos que, além de reduzirem sua exposição ao risco inerente aos investimentos, evitam sua própria sabotagem pessoal nas decisões  que toma.
+
+De maneira geral, uma estratégia de investimento adequada para pequenos investidores iniciantes consiste-se em:
 
 1. Faça uma Reserva de Emergência;
-2. Invista em renda fixa;
+2. Invista parte do seu dinheiro em renda fixa;
 3. Diversifique;
 4. Defina objetivos;
 5. Mantenha anotações;
@@ -45,24 +47,25 @@ Isso trará um conforto psicológico e irá balancear momentos de queda na renda
 
 A melhor forma de reduzir a exposição ao risco é diversificar. 
 
-Diversificar significa dividir o dinheiro investido em diversos investimentos, áreas, empresas, fundos.
+Diversificar significa dividir o dinheiro investido em diversos investimentos, áreas, empresas, fundos etc.
 
-Ao investir em diversoso tipos de ativos, um mau desempenho será contrabalanceado por um bom desempenho, especialmente se você tiver feito uma boa diversificação, evitando dividir seu dinheiro em investimentos cujos resultados são afetados pelos mesmos fatores.
+Ao investir em diversos tipos de ativos, um mau desempenho será contrabalanceado por um bom desempenho, especialmente se você tiver feito uma boa diversificação. 
 
 Assim, quando for investir na **renda fixa**:
-- Respeite os limites do [Fundo Garantidor de Crédito](../economia/fundo-garantidor-de-credito); e
+- Respeite os limites do [Fundo Garantidor de Crédito](/aprenda/renda-fixa/generalidades/fundo-garantidor-de-credito); e
 - Aplique em diferentes tipos de títulos, com diferentes datas de vencimento e diferentes índices.
 
 Quando for investir em **ações**:
-- Invista em várias empresas;e
-- Selecione emresas de diferentes áreas de atuação.
+- Invista em várias empresas; e
+- Selecione empresas de diferentes segmentos de atuação.
 
 Quando for investir em **fundos imobiliários**:
 - Selecione diversos FII; e
 - Selecione FII com estratégias e com imóveis em diferentes localidades.
 
 Quando for investir em **fundos de investimento**:
-- Procure diversificar em fundos com diferentes estratégias
+
+- Procure diversificar em fundos com diferentes estratégias.
 
 ##Defina Objetivos
 
@@ -78,7 +81,9 @@ Assim, um investidor pode definir como objetivo investir 60% em renda fixa e 30%
 | Renda Variável | 30% | 
 | Fundos | 10% | 
 
-Dentro de cada categoria, defina quanto irá investir em cad ativo. Por exemplo, um investidor pode definir que dentro da renda fixa, 50% será aplicado em Tesouro Direto e 50% em CDB.
+<p class="legenda" style="text-align:center;">Figura 1 - Exemplo de alocação de investimentos.</p>
+
+Dentro de cada categoria, defina quanto irá investir em cada ativo. Por exemplo, um investidor pode definir que dentro da renda fixa, 50% será aplicado em Tesouro Direto e 50% em CDB.
 
 ##Mantenha Anotações
 

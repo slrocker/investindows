@@ -27,7 +27,7 @@ A DVA tem uma organização bem simples, dividindo-se em:
 - Resultado Adicionado; e
 - Distribuição.
 
-Sua apuração é feita através do [regime de competência](/financas/contabilidade/regimes-contabeis).
+Sua apuração é feita através do [regime de competência](./regimes-contabeis).
 
 ##Modelo
 

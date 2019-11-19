@@ -6,9 +6,8 @@ sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: "FAQ"
-subcategorySlug: "faq-sheets"
+subcategorySlug: "faq"
 featuredImage: "google-sheets"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 223
 ---

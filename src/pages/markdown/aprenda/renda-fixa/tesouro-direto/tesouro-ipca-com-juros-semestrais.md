@@ -15,7 +15,7 @@ showIndex: "false"
 
 ##O que são as Notas do Tesouro Nacional Série B?
 
-As Notas do Tesouro Nacional Série B (NTN-B), também chamadas de Tesouro IPCA+ com Juros Semestrais, são títulos [pós-fixados](/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
+As Notas do Tesouro Nacional Série B (NTN-B), também chamadas de Tesouro IPCA+ com Juros Semestrais, são títulos [pós-fixados](/aprenda/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
 
 As NTN-B se diferenciam das NTN-B Principal por pagarem **cupons de rendimento** semestrais.
 
@@ -468,9 +468,9 @@ Dessa forma, **a taxa de rendimento contratada no momento da compra do título s
 
 Apesar de não ser um risco, a NTN-B possui a desvantagem de pagar imposto de renda sobre os valores recebidos como cupom.
 
-Como a cobrança do imposto é feita através da tabela regressiva, onde quanto maior o período de aplicação, menor a taxa paga, o investidor que comprar um NTN-B pagará mais imposto do que pagaria se comprasse um título que não pagasse os cupons.
+Como a cobrança do imposto é feita através da tabela regressiva onde, quanto maior o período de aplicação, menor a taxa paga, o investidor que comprar um NTN-B pagará mais imposto do que pagaria se comprasse um título que não pagasse os cupons.
 
-Isso resultará em um rendimmento real menor para o investidor, quando comparado ao título sem cupons.
+Isso resultará em um rendimento real menor para o investidor, quando comparado ao título sem cupons.
 
 ##Estratégia de Investimento
 

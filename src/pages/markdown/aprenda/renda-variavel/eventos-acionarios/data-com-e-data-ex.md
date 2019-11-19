@@ -52,7 +52,7 @@ Data “EX” é o dia a partir do qual quem possuir a ação não será afetado
 
 **As ações serão negociadas ex-dividendos a partir do dia 16/08/2019.**
 
-Durante os nove pregões seguintes a uma data de evento acionário, a Bolsa de Valores insere um [código informativo](/renda-variavel/bolsa-de-valores/codigos-de-negociacao) na ação no *homebroker*, avisando sobre o evento:
+Durante os nove pregões seguintes a uma data de evento acionário, a Bolsa de Valores insere um [código informativo](/aprenda/renda-variavel/bolsa-de-valores/codigos-de-negociacao) na ação no *homebroker*, avisando sobre o evento:
 
 | Código Pesquisado | Informações            |
 |-------------------|------------------------|

@@ -105,7 +105,7 @@ Assim, duas ordens com o mesmo preço serão registradas em ordem de envio. Já 
 
 Quando uma ordem de compra e uma ordem de venda são enviadas contemplando o mesmo preço, é fechado um negócio.
 
-###Liquidação
+### Liquidação
 
 O processo de transferir dinheiro da conta do comprador para o vendedor e transferir o ativo financeiro da conta do vendedor para o comprador é chamado de **liquidação**.
 
@@ -126,7 +126,7 @@ O processo funciona assim:
 
 Assim, se o comprador não tiver dinheiro para pagar a compra que fez, o problema será dele com a Bolsa de Valores e o vendedor ficará resguardado.
 
-###Custódia
+### Custódia
 
 Antigamente, os títulos financeiros eram representados por certificados de papel físico, que tinham que ficar guardados em algum lugar como, por exemplo, um cofre.
 
@@ -136,11 +136,11 @@ A Central de Custódia da Bolsa de Valores é a parte responsável pela guarda d
 
 A Central de Custódia também é a responsável por efetuar cálculos relativos ao recebimento de dividendos e outros direitos acinários do investidor e de efetuar o pagamento dos valores ao mesmo.
 
-##Corretoras de Valores
+## Corretoras de Valores
 
 As corretoras de valores são intermediários entre os investidores e a Bolsa de Valores.
 
-Somente elas têm acesso ao sistema da Bolsa.
+Somente elas têm acesso ao sistema de ordens da Bolsa.
 
 Quando o investidor faz uma conta em uma corretora ele a autoriza a atuar como seu **agente de custódia**, isto é, um representante com autoridade para movimentar a conta de custódia do investidor.
 

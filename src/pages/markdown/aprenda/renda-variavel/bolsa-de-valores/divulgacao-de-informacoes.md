@@ -12,14 +12,14 @@ pageType: "page"
 order: 7
 ---
 
-Para que não haja a possibilidade de que investidores que possuam informação privelegiada a utilizem para obter ganhos na Bolsa, empresas que tem suas ações negociadas na Bolsa de Valores devem seguir diversas regras de transparência, especialmente no que diz respeito à divulgação de informações que possam influenciar no preço de seus ativos.
+Para que não haja a possibilidade de que investidores que possuam informação privelegiada a utilizem para obter ganhos na Bolsa, empresas que têm suas ações negociadas na Bolsa de Valores devem seguir diversas regras de transparência, especialmente no que diz respeito à divulgação de informações que possam influenciar no preço de seus ativos.
 
 Para que todos os investidores tenham acesso às mesmas informações ao mesmo tempo, **a divulgação de informações a respeito de empresas e FII é feita através do *site* da B3**, com a divulgação de documentos como:
 
-- **Fatos relevantes**;
+- **Fatos Relevantes**;
 - **Avisos**;
 - **Calendário de Eventos**; e
-- **Informações financeiras padronizadas**.
+- **Informações Financeiras Padronizadas**.
 
 ##Fatos Relevantes e Avisos
 
@@ -37,7 +37,7 @@ São documentos que informam ao acionista sobre acontecimentos corriqueiros da e
 - Data de Assembleias
 
 
-##Informações financeiras padronizadas
+##Informações Financeiras Padronizadas
 
 São as demonstrações contábeis oficiais divulgadas pela empresa, tais como:
 

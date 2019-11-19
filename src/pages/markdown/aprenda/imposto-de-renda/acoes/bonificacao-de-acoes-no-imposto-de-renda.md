@@ -12,11 +12,11 @@ pageType: "page"
 order: 10
 ---
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox">
 
-<h4>Atenção</h4>
+<h4>ATENÇÃO</h4>
 
-As informações aqui contidas podem conter erros ou estarem desatualizadas. Antes de fazer a sua declaração, consulte a legislação em vigor ou algum profissional de sua confiança.
+As informações aqui mostradas podem conter erros ou estarem desatualizadas. Antes de fazer a sua apuração e declaração de imposto de renda, consulte a legislação em vigor ou algum profissional de sua confiança.
 
 **Este *site* e seu proprietário não se responsabilizam por eventuais prejuízos ou problemas fiscais que o investidor possa ter ao utilizar as informações aqui mostradas.**
 
@@ -26,6 +26,9 @@ Utilize este guia por sua conta e risco.
 </div>
 
 Quando as empresas fazem bonificações, elas informam o preço de cada ação para fins de cômputo e lançamento no Imposto de Renda. O investidor deve considerar como se as ações bonificadas tivessem sido compradas pelo preço informado pela empresa.
+
+
+## Rendimentos Isentos
 
 Registre o valor total (número de ações recebidas na bonificação multiplicado pelo preço informado pela empresa) na aba “Rendimentos Isentos e não Tributáveis“, no item “Incorporação de reservas ao capital/Bonificação em ações“.
 
@@ -97,3 +100,7 @@ Registre o valor total (número de ações recebidas na bonificação multiplica
 
 
 <p class="legenda" style="text-align:center">Figura 1 - Declaração de ações bonificadas.</p>
+
+## Bens e Direitos
+
+Lembre-se que as ações bonificadas devem ser computadas na declaração das ações que o investidor possui, registradas na aba ["Bens e Direitos"](./imposto-de-renda/acoes/declarar-acoes-que-possui).

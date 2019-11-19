@@ -16,6 +16,8 @@ O dinamismo do mercado pode levar os investidores a atuarem como apostadores em 
 
 Para ser um investidor de sucesso, não basta ter o conhecimento adequado e boas estratégias, é preciso também ter o sangue frio de não se deixar levar pelas variações sem fundamento da Bolsa.
 
+##Fatores Essenciais
+
 Fatores essenciais a qualquer investidor são:
 
 - Conhecimento adequado para agir por conta própria;
@@ -38,6 +40,8 @@ Reconhecer suas próprias falhas o levará a:
 
 Tais fatores farão você sobreviver no mercado financeiro e obter sucesso na sua estratégia de investimentos.
 
+##Especulação
+
 É comum que os iniciantes queiram começar na Bolsa pela atividade de especulação, o campo dos experts. Como resultado, perdem dinheiro e atribuem a culpa do seu fracasso aos outros. 
 
 Infelizmente, a atividade de especulação é a atividade mais incentivada pelas corretoras e pelo governo, pois é através delas que essas instituições e o Estado conseguem arrecadar mais dinheiro.
@@ -48,7 +52,9 @@ Já o investidor tende a fazer poucas operações, às vezes não vendendo suas 
 
 A Bolsa de Valores também se beneficia com as operações constantes, pois cobra taxas sobre cada operação. Além disso, ela prioriza sua atenção aos grandes investidores estrangeiros, que são a grande fonte das suas receitas, não se dedicando à educação e ao estímulo do pequeno investidor.
 
-É por essas razões que o investidor sujeito às suas próprias falhas psicológicas, também é exposto a um sistema que não o estimula a seguir o caminho do sucesso.
+##Confiança
+
+É pelas razões apontadas anteriormente que o investidor, já sujeito às suas próprias falhas psicológicas, também é exposto a um sistema que não o estimula a seguir o caminho do sucesso.
 
 **É necessário, então, um esforço pessoal e solitário, cujo resultado só será visto depois de alguns anos.**
 

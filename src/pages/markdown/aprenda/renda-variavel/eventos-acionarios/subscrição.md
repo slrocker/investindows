@@ -18,7 +18,7 @@ order: 3
 
 O investidor precisa estar atento quando decidir por subscrever algum ativo pois este é um dos únicos casos no mercado financeiro onde o patrimônio do investidor pode ser acionado judicialmente.
 
-Por exemplo, ao informar sua corretora que deseja subscrever R$1.000,00 em ações, caso você não tenha o dinheiro disponível na conta no dia previsto, pode ser acionado judicialmente e ter algum dos seus bens confiscados a fim de quitar a dívida.
+Por exemplo, ao informar a sua corretora que deseja subscrever R$1.000,00 em ações, caso você não tenha o dinheiro disponível na conta no dia previsto, pode ser acionado judicialmente e ter algum dos seus bens confiscados a fim de quitar a dívida.
 
 Em uma subscrição é preciso estar atento aos seguintes fatores:
 
@@ -59,7 +59,7 @@ Ao receber direitos de subscrição o investidor pode:
 
 Na prática, os direitos de subscrição aparecem na custódia da corretora do investidor com códigos semelhantes ao ativo principal porém com um [número diferente](/renda-variavel/bolsa-de-valores/codigos-de-negociacao#direitos-de-subscrição), que varia de acordo com cada ativo.
 
-###Exercício
+### Exercício
 
 Todo direito de subscrição terá:
 
@@ -68,38 +68,38 @@ Todo direito de subscrição terá:
 
 O investidor que deseja exercer seus direitos de subscrição transmite essa informação à sua corretora e dispobiliza o dinheiro em sua conta na data prevista.
 
-###Vencimento
+### Vencimento
 
 Caso o investidor opte por não exercer os direitos, na data prevista para o vencimento, o direito de subscrição deixará de existir e desaparecerá da custódia na corretora.
 
-###Negociação
+### Negociação
 
 Alguns direitos de subscrição podem ser negociados no *homebroker* como qualquer outro ativo, bastando digitar o seu respectivo código.
 
 Como os direitos são distribuidos gratuitamento aos investidores, alguns veêm vantagem em vendê-los a outros investidores, obtendo um pequeno ganho com a venda.
 
-##Recibos de Subscrição
+## Recibos de Subscrição
 
 Após exercer seus direitos de subscrição, é comum que o investidor recebe os **recibos de subscrição**.
 
-Os recibos são ativos que permanecerão na custódia do investidor, comprovando o exercício dos direitos, até que todo o processo de emissão de açõs (ou cotas) esteja encerrado.
+Os recibos são ativos que permanecerão na custódia do investidor, comprovando o exercício dos direitos, até que todo o processo de emissão de ações (ou cotas) esteja encerrado.
 
 Nesse meio tempo, os recibos recebem remuneração diferenciada das ações ou cotas. Normalmente o rendimento é oriundo de aplicações de renda fixa realizadas no processo de emissão.
 
 Os recibos de subscrição aparecem na custódia da corretora do investidor com códigos semelhantes ao ativo principal porém com um [número diferente](/renda-variavel/bolsa-de-valores/codigos-de-negociacao#recibos-de-subscrição), que varia de acordo com cada ativo.
 
-##Bônus de Subscrição
+## Bônus de Subscrição
 
 Bônus de subscrição são ativos que as empresas costumam distribuir aos seus diretores ou funcionários como forma de remunerá-los e recompensá-los.
 
-O bônus confere ao seu titular o direito de subscrever ações da companhia conforme as condições particulares de cada bonus.
+O bônus confere ao seu titular o direito de subscrever ações da companhia conforme as condições particulares de cada bônus.
 
-Por exemplo, uma empresa pode remunerar seus diretores com bonnus de subcrição a um preço X. Caso a empresa tenha um bom desempenho e suas ações na Bolsa comecem a negociar a um preço acima de X, os diretores podem exerce seus direitos e vender as ações, obtendo ganhos.
+Por exemplo, uma empresa pode remunerar seus diretores com bônus de subcrição a um preço X. Caso a empresa tenha um bom desempenho e suas ações na Bolsa comecem a negociar a um preço acima de X, os diretores podem exerce seus direitos e vender as ações, obtendo ganhos.
 
 ##Sobras
 
 Em alguns casos, parte dos direitos de subscrição emitidos não são totalmente exercidos pelos investidores.
 
-O emissor, então, faz um "segundo round" de direitos de subscrição, oferecendo esses ativos restantes aos investidores com o intuito de alcançar a venda do montante total planejado inicialmente.
+O emissor, então, faz um "segundo *round*" de direitos de subscrição, oferecendo esses ativos restantes aos investidores com o intuito de alcançar a venda do montante total planejado inicialmente.
 
 O usual é que a corretora informe ao investidor que o mesmo tem direito às sobras e o questione a respeito da sua intenção de exercer esses direitos.

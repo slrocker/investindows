@@ -15,7 +15,7 @@ showIndex: "false"
 
 ##O que são as Letras do Tesouro Nacional?
 
-As Letras do Tesouro Nacional (LTN), também chamadas de Tesouro Prefixado, são títulos [prefixados](/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
+As Letras do Tesouro Nacional (LTN), também chamadas de Tesouro Prefixado, são títulos [prefixados](/aprenda/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
 
 ##Rendimento
 
@@ -40,7 +40,7 @@ Na prática, o comportamento das taxas e preços se dará da seguinte maneira:
 - Quanto maior for a procura por um título, **menor será sua taxa de rendimento e maior será o seu preço atual**; e
 - Quanto menor for a procura por um título, **maior será sua taxa de rendimento e menor será o seu preço atual**.
 
-Se quiser se apronfundar mais a respeito, leia o artigo sobre a [marcação a mercado](/renda-fixa/tesouro-direto/marcacao-a-mercado).
+Se quiser se apronfundar mais a respeito, leia o artigo sobre a [marcação a mercado](/aprenda/renda-fixa/generalidades/preco-de-ativo-de-renda-fixa).
 
 No caso das LTN, conhecida a taxa de rendimento, o preço atual será dado pela resposta à seguinte pergunta:
 
@@ -56,7 +56,7 @@ A fórmula para o cálculo do PU de uma Letra do Tesouro Nacional é a seguinte:
 
 $$
 
-PU = { 1000  \over { \bigg(1 + \Large {taxa \over 100}\bigg)^{du \over 252} }}
+PU = { 1.000  \over { \bigg(1 + \Large {taxa \over 100}\bigg)^{du \over 252} }}
 
 $$
 
@@ -64,17 +64,11 @@ $$
 
 Onde:
 
-$$
 
-taxa = taxa\,de\,juros\,que\,remunera\,o\,título
+- **taxa** = taxa de juros que remunera o título; e
+- **du** = dias úteis até o vencimento do título.
 
-$$
 
-$$
-
-du = dias\,úteis\,até\,o\,vencimento\,do\,título
-
-$$
 
 **OBS**: Para fins oficiais, o cálculo do PU é feito com oito casas decimais (pois este é o parâmetro exigido para registro do preço do título no SELIC).
 
@@ -121,7 +115,7 @@ Agora basta inserir os dados na fórmula do PU:
 
 $$
 
-PU = { 1000  \over { \bigg(1 + \Large {4,99 \over 100}\bigg)^{550 \over 252} }} = 899,17410453
+PU = { 1.000  \over { \bigg(1 + \Large {4,99 \over 100}\bigg)^{550 \over 252} }} = 899,17410453
 
 $$
 
@@ -199,7 +193,7 @@ Ao comprar um título prefixado, o investidor fica com seu rendimento travado at
 
 **Aumento da Inflação**
 
-Caso ocorra alguma alteração econômica onde haja, por exemplo, aumento da taxa de inflação, o [rendimento real](/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
+Caso ocorra alguma alteração econômica onde haja, por exemplo, aumento da taxa de inflação, o [rendimento real](/aprenda/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
 
 **Marcação a Mercado**
 

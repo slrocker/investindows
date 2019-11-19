@@ -15,9 +15,9 @@ showIndex: "false"
 
 ##Instituição Administradora
 
-A gestão e admnistração de um Fundo de Investimento Imobiliário (FII) é feita por uma empresa especializada chamada de **institução admnistradora**, a qual deve definir um profissional específico, o diretor, para admnistração do fundo.
+A gestão e admnistração de um Fundo de Investimento Imobiliário (FII) é feita por uma empresa especializada chamada de **institução admnistradora**, a qual deve definir um profissional específico, o diretor, para administração do fundo.
 
-A instituição admnistradora é responsável por:
+A instituição administradora é responsável por:
 
 - Toda a burocracia do FII; e
 - A gestão dos imóveis e tivos do fundo.

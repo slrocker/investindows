@@ -15,18 +15,18 @@ showIndex: "false"
 
 Antes de começar a investir em renda variável:
 
-- Forme uma [reserva de emergência](/financas/iniciantes/reserva-de-emergencia); e
-- Tenha uma [estratégia](/financas/estrategia).
+- Forme uma [reserva de emergência](/aprenda/financas/iniciantes/reserva-de-emergencia); e
+- Tenha uma [estratégia](/aprenda/financas/estrategia).
 
 É interessante que você também tenha uma boa diversificação em investimentos de renda fixa, especialmente pela segurança psicológica que a renda fixa irá lhe proporcionar quando a Bolsa estiver despencando e o preço das cotas de FII estiver derretendo.
 
 Estando devidamente preparado para começar a investir em renda variável, os passos para comprar sua primeira cota de FII se resumem a:
 
-1. Abrir conta em uma [corretora de valores](/renda-variavel/bolsa-de-valores/corretora-de-valores);
+1. Abrir conta em uma [corretora de valores](/aprenda/renda-variavel/bolsa-de-valores/corretora-de-valores);
 2. Enviar o dinheiro para a conta da corretora;
 3. Selecionar os FII em que deseja investir;
-4. Utilizar o [homebroker](/renda-variavel/homebroker) para comprar as cotas; e
-5. Fazer um bom [controle](/financas/controle) do seu patrimônio.
+4. Utilizar o [homebroker](/aprenda/renda-variavel/homebroker) para comprar as cotas; e
+5. Fazer um bom [controle](/aprenda/financas/controle) do seu patrimônio.
 
 ##Estratégia para FII
 

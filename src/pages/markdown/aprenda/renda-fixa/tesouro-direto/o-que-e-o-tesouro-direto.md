@@ -22,9 +22,9 @@ O governo dispõe de duas fontes de renda:
 - Impostos; e
 - Empréstimos.
 
-O tradicional é que o governo seja deficitário, isto é, gaste mais do que consegue arrecadar com impostos. Como nem sempre aumentar os impostos é uma alternativa viável, resta ao governo pegar dinheiro emprestado.
+Normalmente, governos são deficitários, isto é, gastam mais do que conseguem arrecadar com impostos. Nem sempre aumentar os impostos é uma alternativa viável, restando a opção de pegar dinheiro emprestado.
 
-Assim, o Tesouro Nacional emite **títulos de dívida** que possuem características de:
+Assim, para conseguir obter empréstimos, o Tesouro Nacional — entidade que cuida das contas do governo — emite **títulos de dívida** que possuem características de:
 
 - Prazo; e
 - Rentabildade.
@@ -55,8 +55,8 @@ Para ter acesso ao sistema, o investidor precisa:
 
 Leia os demais artigos dessa seção para:
 
-- [Saber mais sobre os títulos públicos](/renda-fixa/tesouro-direto/os-titulos-publicos);
-- [Entender qual o rendimento pago](/renda-fixa/tesouro-direto/rendimento-tesouro-direto);
-- [Aprender quais os custos envolvidos](/renda-fixa/tesouro-direto/custos-tesouro-direto);
-- [Conhecer os riscos do investimento em títulos públicos](/renda-fixa/tesouro-direto/riscos-tesouro-direto); e
-- [Aprender a utilizar o sistema](/renda-fixa/tesouro-direto/como-investir-no-tesouro-direto).
+- [Saber mais sobre os títulos públicos](./os-titulos-publicos);
+- [Entender qual o rendimento pago](./rendimento-tesouro-direto);
+- [Aprender quais os custos envolvidos](./custos-tesouro-direto);
+- [Conhecer os riscos do investimento em títulos públicos](./riscos-tesouro-direto); e
+- [Aprender a utilizar o sistema](./como-investir-no-tesouro-direto).

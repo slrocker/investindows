@@ -6,17 +6,18 @@ sectionSlug: "aprenda"
 category: "Imposto de Renda"
 categorySlug: "imposto-de-renda"
 subcategory: "FII"
-subcategorySlug: "fii"
+subcategorySlug: "fundos-imobiliarios"
 featuredImage: "imposto-de-renda"
 pageType: "page"
 order: 6
 ---
 
-<div class="borderBox" style="border: 1px dashed red">
 
-<h4>Atenção</h4>
+<div class="dashedBox">
 
-As informações aqui contidas podem conter erros ou estarem desatualizadas. Antes de fazer a sua declaração, consulte a legislação em vigor ou algum profissional de sua confiança.
+<h4>ATENÇÃO</h4>
+
+As informações aqui mostradas podem conter erros ou estarem desatualizadas. Antes de fazer a sua apuração e declaração de imposto de renda, consulte a legislação em vigor ou algum profissional de sua confiança.
 
 **Este *site* e seu proprietário não se responsabilizam por eventuais prejuízos ou problemas fiscais que o investidor possa ter ao utilizar as informações aqui mostradas.**
 
@@ -27,13 +28,20 @@ Utilize este guia por sua conta e risco.
 
 ##Rendimentos Isentos
 
-Rendimentos de Fundos de Investimento Imobiliário (FII) recebidos por pessoa física **serão isentos** se o investidor e o FII atenderem aos seguintes critérios:
+RRendimentos recebidos de FII serão isentos se forem cumpridas as seguintes exigências (consideradas no dia em que é feita  adeclaração do pagamento):
 
-- O investidor não possuir 10% ou mais das cotas do Fundo;
-- O Fundo deverá ter no mínimo 50 cotistas Pessoas Físicas; e
-- Ter suas cotas exclusivamente negociadas em Bolsa ou mercado de balcão organizado.
+Para o Fundo de Investimento Imobiliário:
 
-Na prática a grande maioria dos investidores atenderá a estes critérios.
+- Ter as cotas negociadas exclusivamente em bolsas de valores ou no mercado de balcão organizado; e
+- Possuir, no mínimo, 50 cotistas.
+
+Para o cotista:
+
+- Possuir quantidade de cotas menor que 10% do total de cotas emitidas pelo FII;
+- Possuir quantidade de cotas que lhe deem direito a receber menos de 10% do total de rendimentos do Fundo; e
+- Ser pessoa física.
+
+Na prática, a grande maioria dos investidores atenderá a estes critérios.
 
 Registre o valor recebido em Rendimentos na aba “Rendimentos isentos e não tributáveis“, item “Outros“.
 

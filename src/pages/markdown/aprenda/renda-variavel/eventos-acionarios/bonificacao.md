@@ -138,6 +138,6 @@ Assim, é natural que, se o somatório do preço de todas as ações na Bolsa (c
 
 Os motivos para a realização de uma bonificação são variados. Entre os principais, podemos citar:
 
-- Empresa não possui dinheiro em caixa para pagar dividendos.A bonificação é uma alternativa para remunerar os acionistas;
+- Empresa não possui dinheiro em caixa para pagar dividendos. A bonificação é uma alternativa para remunerar os acionistas;
 - Tornar a empresa mais atrativa para investidores por aumentar o capital social; e
 - Aumentar o número de ações em circulação.

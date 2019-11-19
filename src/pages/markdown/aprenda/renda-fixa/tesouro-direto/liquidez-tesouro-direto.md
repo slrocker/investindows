@@ -17,7 +17,7 @@ showIndex: "false"
 
 A liquidez do Tesouro Direto indica a facilidade para negociar os títulos.
 
-Especial atenção deve ser dada ao rpocesso e o tempo necessário para que um investidor possa transformar valores investidos em títulos em dinheiro disponível na sua carteira.
+Especial atenção deve ser dada ao processo e o tempo necessário para que um investidor possa transformar valores investidos em títulos em dinheiro disponível para uso imediato.
 
 Para transformar os valores investidos em títulos do Tesouro Direto em dinheiro será preciso:
 

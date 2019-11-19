@@ -76,17 +76,17 @@ Cotas de Fundos de Investimento Imobiliário (FII) são negociadas com o número
 - HGLG11: Cotas do FII CSHG Logistica;
 - XPCM11: Cotas do FII XP Corporate Macaé.
 
-Alguns FII apresentam a letra **B** após o código de negociação da cota, indicando que as cotas são negociadas em [mercado de balcão](/renda-variavel/bolsa-de-valores/tipos-de-mercado):
+Alguns FII apresentam a letra **B** após o código de negociação da cota, indicando que as cotas são negociadas em [mercado de balcão](./tipos-de-mercado):
 
 <p style="text-align:center; font-size: 1.5rem;">XXXX11B</p>
 
-- CXCE11B: Cotas do FII CAixa CEDADE que são negociadas em mercadod e balcão.
+- CXCE11B: Cotas do FII Caixa CEDADE que são negociadas em mercadod e balcão.
 
 
 ##Outros ativos
 ###BDR
 
-[*Brazilian Depositary Receipts* (BDR)](/renda-variavel/acoes/tipos-de-acoes) são ativos com lastro em ações de empresas estrangeiras que servem como opção para investidores que não podem comprar ações diretamente em outros países.
+[*Brazilian Depositary Receipts* (BDR)](/aprenda/renda-variavel/acoes/tipos-de-acoes) são ativos com lastro em ações de empresas estrangeiras que servem como opção para investidores que não podem comprar ações diretamente em outros países.
 
 O código de negociação dos BDR inclui o número **34** após as letras identificadoras da empresa emissora:
 
@@ -150,7 +150,7 @@ Algumas vezes o código indica que houve algum evento acionário recente e que a
 
 **Níveis de Governança**
 
-a Bolsa de Valores estabelece diferentes níveis de governança corporativa, chamados de [segmentos de listagem](/renda-variavel/bolsa-de-valores/segmentos-de-listagem), nos quais as empresas se enquadam à medida que cumprem certos requisitos.
+a Bolsa de Valores estabelece diferentes níveis de governança corporativa, chamados de [segmentos de listagem](./segmentos-de-listagem), nos quais as empresas se enquadam à medida que cumprem certos requisitos.
 
 Os códigos que indicam o nível de governança são:
 

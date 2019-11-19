@@ -12,11 +12,11 @@ pageType: "page"
 order: 9
 ---
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox">
 
-<h4>Atenção</h4>
+<h4>ATENÇÃO</h4>
 
-As informações aqui contidas podem conter erros ou estarem desatualizadas. Antes de fazer a sua declaração, consulte a legislação em vigor ou algum profissional de sua confiança.
+As informações aqui mostradas podem conter erros ou estarem desatualizadas. Antes de fazer a sua apuração e declaração de imposto de renda, consulte a legislação em vigor ou algum profissional de sua confiança.
 
 **Este *site* e seu proprietário não se responsabilizam por eventuais prejuízos ou problemas fiscais que o investidor possa ter ao utilizar as informações aqui mostradas.**
 
@@ -30,6 +30,8 @@ Juros Sobre Capital (JCP) em trânsito são valores que a empresa computou como 
 Para saber esse valor, é preciso ter em mãos o Informe de Rendimentos enviado pela empresa. Caso não teha recebido, entre em contato com o Relação com Investidores da empresa.
 
 Em último caso, observe os anúncios de pagamento de JCP beneficiando os portadores de ação no ano (último dia COM no ano), mas cujo pagamento só será realizado no ano seguinte. Multiplique o valor a ser pago pelo número de suas ações que foram beneficiadas e você terá o valor dos Juros Sobre Capital em trânsito.
+
+## Bens e Direitos
 
 Registre o valor de JCP a receber na aba “Bens e Direitos” com o código “Outros bens e direitos“.
 

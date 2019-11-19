@@ -25,7 +25,7 @@ A DRE apura as receitas e despesas da empresa para conseguir ao final computar q
 No demonstrativo, as receitas e despesas são divididas em três grupos:
 
 - **Operacional**: receitas e despesas diretamente ligadas ao negócio da empresa;
-- **Administrativas e vendas**: receitas e despesas ligadas a manutenção admnistrativa do negócio; e
+- **Administrativas e vendas**: receitas e despesas ligadas a manutenção administrativa do negócio; e
 - **Financeiro**: receitas e despesas de investimentos, dívidas etc.
 
 ###Operacional
@@ -35,7 +35,7 @@ Nesta parte são computadas as receitas e despesas diretamente ligadas ao funcio
 - Receita de bens e serviços; e
 - Custo de produtos;
 
-Ao final da apuração desse resultado, chega-se ao **lucro/prejuízo bruto**.
+Ao final da apuração desse resultado, chega-se ao **resultado operacional bruto**.
 
 ###Administrativo
 
@@ -46,7 +46,6 @@ Nesta parte são computadas as receitas e despesas ligadas a logística de venda
 - Despesas com material de escritório; e 
 - Despesa com pessoal.
 
-Ao final dessa apuração chega-se ao **lucro/prejuízo operacional**
 
 ###Financeiro
 
@@ -56,7 +55,7 @@ Nesta parte são computadas as receitas e despesas financeiras. Por exemplo:
 - Pagamento de Juros; e
 - Valores devidos a terceiros.
 
-Ao final dessa apuração chega-se ao **resultado operacional**.
+Ao final dessa apuração chega-se ao **resultado operacional antes do imposto de renda e da contribuição social sobre o lucro**.
 
 ###Impostos
 
@@ -142,7 +141,7 @@ A DRE permite ao investidor analisar se a empresa consegue gerar resultado ao se
 
 Através da DRE é possível analisar aspectos como:
 
-- Se a empresa dá lucro, que de onde efetivamente virá o ganho do acionista;
+- Se a empresa dá lucro, fonte do ganho do acionista;
 - Quais são as margens que a empresa possui quando comparamos suas despesas com suas receitas. Se a margem for muito baixa, isto é, despesas que são quase iguais as receitas, qualquer aumento de custos poderá fazer a empresa passar a operar no vermelho; e
 - Quanto o pagamento de juros está afetando o resultado final da empresa e se a dívida pode estar fora de controle.
 

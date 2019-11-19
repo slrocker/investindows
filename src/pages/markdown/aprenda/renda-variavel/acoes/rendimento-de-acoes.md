@@ -10,7 +10,6 @@ subcategorySlug: "acoes"
 order: 3
 featuredImage: "renda-variavel"
 pageType: "page"
-showIndex: "false"
 ---
 
 Basicamente, há duas maneiras do investidor obter ganhos investindo em ações:
@@ -22,7 +21,7 @@ Basicamente, há duas maneiras do investidor obter ganhos investindo em ações:
 
 Ao comprar uma ação, o investidor está, na verdade, tornando-se um sócio da empresa, passando a ter direito de receber a sua parte do lucro.
 
-Todos os anos, quando as empresas apuram seus resultados, os gestores podem em **reinvestir o lucro obtido na própria empresa**, buscando um crescimento da empresa, ou em **distribuir os lucros para os acionistas** para que cada um utiliza o dinheiro como bem entender.
+Todos os anos, quando as empresas apuram seus resultados, os gestores podem optar entre **reinvestir o lucro obtido na própria empresa**, buscando um crescimento da empresa, ou em **distribuir os lucros para os acionistas** para que cada um utiliza o dinheiro como bem entender.
 
 Essa distribuição ocorre através dos:
 
@@ -50,7 +49,7 @@ De maneira geral, todo empresário espera obter mais ganhos em seu empreendiment
 
 **Geração de Riqueza**
 
-As empresas são os principais empreendimentos humanos onde é gerado riqueza, pois através da tecnologia e de práticas mais eficientes de produção, as empresas conseguem produzir mais e melhor utilizando a mesma quantidade de recursos.
+As empresas são os principais empreendimentos humanos onde é gerado riqueza, pois, através da tecnologia e de práticas mais eficientes de produção, as empresas conseguem produzir mais e melhor utilizando a mesma quantidade de recursos.
 
 Assim, há uma tendência natural de crescimento em uma empresa caso ela seja bem gerida e consiga manter-se lucrativa.
 
@@ -75,7 +74,7 @@ Obviamente, para que suas ações se valorizem ao longo do tempo, a empresa prec
 
 Podemos observar a tendência de longo prazo do preço das ações ao acompanharmos o desempenho de um índice tal como o [IBOVESPA](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/ibovespa.htm) que condensa o resultado das empresas com mais relevância no Brasil (figura 1)
 
-![homebroker - Cesta de Ordens](../img/ibovusd.png)
+![homebroker - IBOV em US$](../img/ibovusd.png)
 
 
 <p class="legenda" style="text-align:center;">Figura 1 - Gráfico do IBOVESPA em US$ de 1995 a 2019. Observe como as crises econômicas geram grande perda de valor nas ações (2008 e 2012 em diante). Observe também como há uma tendência de crescimento ao longo do tempo (linha vermelha). Fonte: http://www.investing.com</p>
@@ -92,7 +91,7 @@ Na figura 2, temos o resultado do investimento de R$1.000,00 em alguma empresas 
 
 <div class="dashedBox">
 
-<h3>ATENÇÃO</h3>
+<h4>ATENÇÃO</h4>
 
 O estudo abaixo não deve ser considerado como indicação de investimento ou análise profissional.
 

@@ -43,7 +43,7 @@ Essa taxa é cobrada:
 - Quando ocorre algum evento de custódia, como venda antecipada, vencimento do título ou recebimento de cupons.
 
 
-A taxa é debitada automaticamente da conta corrente da corretora do investidor. **Por isso, é importante estar atento e deixar o dinheiro para pagemento das taxas disponível na corretora**.
+A taxa é debitada automaticamente da conta corrente da corretora do investidor. **Por isso, é importante estar atento e deixar o dinheiro para pagamento das taxas disponível na corretora**.
 
 ##IOF
 

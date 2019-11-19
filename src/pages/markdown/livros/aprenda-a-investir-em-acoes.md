@@ -9,7 +9,6 @@ subcategory: ""
 subcategorySlug: ""
 featuredImage: "capa-acoes"
 pageType: "category"
-showIndex: "false"
 indexOrder: 420
 ---
 

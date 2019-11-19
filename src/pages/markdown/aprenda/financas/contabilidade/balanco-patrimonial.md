@@ -41,7 +41,9 @@ O Balanço Patrimonial divide-se em três partes:
 </tbody>
 </table>
 
-O método utilizado para apuração do Balanço Patrimonial é chamado de [método das partidas dobradas](https://pt.wikipedia.org/wiki/M%C3%A9todo_das_partidas_dobradas)
+<p class="legenda" style="text-align:center">Figura 1 - Estrutura básica de um Balanço Patrimonial.</p>
+
+O método utilizado para apuração do Balanço Patrimonial é chamado de [método das partidas dobradas](https://pt.wikipedia.org/wiki/M%C3%A9todo_das_partidas_dobradas).
 
 De forma simplificada, o método funciona de tal maneira que, para cada valor registrado no ativo, deve haver um valor correspondente no passivo, de forma que o **valor total de ambos seja coincidente**.
 
@@ -62,8 +64,8 @@ O ativo representa os bens e direitos da empresa, tais como:
 
 Dentro do ativo existem algumas subdivisões:
 
-- **Ativo Circulante**: direitos cujo recebimento se dará nos próximos 12 meses (curto prazo);
-- **Ativo Não Circulante**: direitos cujo recebimento se dará em prazo acima de 12 meses (médio e longo prazo);
+- **Ativo Circulante**: direitos cujo recebimento se dará nos próximos 12 meses (curto prazo); e
+- **Ativo Não Circulante**: direitos cujo recebimento se dará em prazo acima de 12 meses (médio e longo prazo).
 
 ###Passivo
 
@@ -71,14 +73,14 @@ O ativo representa as obrigações e deveres da empresa, tais como:
 
 - Dívidas;
 - Obrigações trabalhistas e sociais;
-- Obrigações Fiscais;
+- Obrigações Fiscais; e
 - Dividendos a pagar;
 
 Dentro do ativo existem algumas subdivisões:
 
 - **Ativo Circulante**: deveres cujo pagamento se dará nos próximos 12 meses (curto prazo);
-- **Ativo Não Circulante**: deveres cujo pagamento se dará em prazo acima de 12 meses (médio e longo prazo);
-- **Patrimônio Líquido**: valores pertencente aos acionistas (Patrimônio Líquido)
+- **Ativo Não Circulante**: deveres cujo pagamento se dará em prazo acima de 12 meses (médio e longo prazo); e
+- **Patrimônio Líquido**: valores pertencente aos acionistas (Patrimônio Líquido).
 
 ###Patrimônio Líquido
 
@@ -88,7 +90,7 @@ Como os credores da empresa (terceiros) tem prioridade sobre os bens da mesma em
 
 
 $$
-Patrimônio Líquido = Ativo - Passivo
+Patrimônio\,Líquido = Ativo - Passivo
 $$
 
 

@@ -14,7 +14,7 @@ order: 5
 
 ##O que é um desdobramento?
 
-Um *split* (palavra inglesa que significa dividir) ou desdobramento ocorre quando a empresa aumenta o número de ações que compõem o seu [capital social](/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total do mesmo.
+Um *split* (palavra inglesa que significa dividir) ou desdobramento ocorre quando a empresa aumenta o número de ações que compõem o seu [capital social](/aprenda/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total do mesmo.
 
 Em outras palavras, cria-se mais ações, mas o valor total das ações permanece o mesmo. Por exemplo:
 
@@ -39,7 +39,7 @@ ITAÚ UNIBANCO HOLDING S.A. (“Companhia”) comunica aos seus acionistas que o
 
 <p class="legenda" style="text-align:center;">Figura 1 - Trecho de fato relevante do BANCO ITAÚ.</p>
 
-Nesse fato relevante, o desdobramento é informado em percentual.
+Nesse fato relevante, o desdobramento é informado das duas maneiras.
 
 ##Desdobramento e o Investidor
 

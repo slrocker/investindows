@@ -6,7 +6,7 @@ sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
 subcategory: "Instruções"
-subcategorySlug: "instrucoes-excel"
+subcategorySlug: "instrucoes"
 featuredImage: "excel"
 pageType: "page"
 order: 7

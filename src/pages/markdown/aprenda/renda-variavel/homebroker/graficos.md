@@ -25,6 +25,8 @@ O gráfico de linha é uma representação do preço de cada negócio realizado 
 
 O eixo de tempo pode ser ajustado para o período desejado. Por exemplo: diário, mensal, hora, segundo etc. O preço utilizado será o preço do último negócio no período selecionado.
 
+<div style="text-align:center">
+
 <svg class="svg-vertical-limit" viewBox="0 0 250 150">
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.7572;stroke-miterlimit:10;}
@@ -47,8 +49,9 @@ O eixo de tempo pode ser ajustado para o período desejado. Por exemplo: diário
 <rect x="208.2" y="66.8" width="4.7" height="4.7"/>
 <polygon points="40.8 98.4 40.2 96.5 77 85.5 118.1 68.1 160.8 51.6 209.8 68.1 209.1 70 160.9 53.8 118.8 70 77.7 87.4"/>
 </svg>
+</div>
 
-<p class="legenda" style="text-align:center;">Figura 1 - Gráfico de linha</p>
+<p class="legenda" style="text-align:center;">Figura 1 - Gráfico de linha.</p>
 
 Vantagens:
 
@@ -81,6 +84,7 @@ O corpo da vela será codificado de acordo com a relação entre o preço de abe
 
 Com essas informações em mãos, basta desenhar a vela:
 
+<div style="text-align:center">
 <svg class="svg-vertical-limit svg-horizontal-limit" viewBox="0 0 125 75">
 <style type="text/css">
 	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
@@ -98,9 +102,10 @@ Com essas informações em mãos, basta desenhar a vela:
 <line class="st3" x1="57.4" y1="70.3" x2="80.3" y2="70.3"/>
 <path d="M83.9,15.5V4.7h-3v10.8h-7.1v44h7.1v10.8h3V59.5h7.1v-44H83.9z M87.9,56.5h-11v-38h11V56.5z"/>
 </svg>
+</div>
+<p class="legenda" style="text-align:center;">Figura 2 - Vela com preço de abertura menor do que preço de fechamento.</p>
 
-<p class="legenda" style="text-align:center;">Figura 2 - Vela com preço de abertura menor do que preço de fechamento</p>
-
+<div style="text-align:center">
 <svg class="svg-vertical-limit svg-horizontal-limit" viewBox="0 0 125 75">
 
 <path class="st0" d="m240.8 47"/>
@@ -116,12 +121,12 @@ Com essas informações em mãos, basta desenhar a vela:
 <line class="st3" x1="67.8" x2="71.9" y1="59.6" y2="59.6"/>
 <line class="st3" x1="57.4" x2="80.3" y1="70.3" y2="70.3"/>
 </svg>
-
-<p class="legenda" style="text-align:center;">Figura 3 - Vela com preço de abertura maior do que preço de fechamento</p>
+</div>
+<p class="legenda" style="text-align:center;">Figura 3 - Vela com preço de abertura maior do que preço de fechamento.</p>
 
 Quando o preço máximo ou mínimo coincide com o preço de abertura ou fechamento, a vela fica sem o pavio:
 
-
+<div style="text-align:center">
 <svg class="svg-vertical-limit svg-horizontal-limit" viewBox="0 0 125 75">
 <style type="text/css">
 	
@@ -139,8 +144,8 @@ Quando o preço máximo ou mínimo coincide com o preço de abertura ou fechamen
 <rect x="76.9" y="18.5" class="st4" width="11" height="38"/>
 <path d="M84.7,4.7h-0.7h-3h-0.2h-6.9v52.6h7.1v13h3v-13h7.1V4.7H84.7z M87.9,53.8h-11V8.3h11V53.8z"/>
 </svg>
-
-<p class="legenda" style="text-align:center;">Figura 4 - Vela com preço de fechamento igual ao preço máximo</p>
+</div>
+<p class="legenda" style="text-align:center;">Figura 4 - Vela com preço de fechamento igual ao preço máximo.</p>
 
 Plotando-se as velas em um gráfico com eixo vertical de preço e eixo horizontal de tempo, obtem-se o gráfico de velas.
 
@@ -151,6 +156,7 @@ Observe que em um gráfico de velas é possível ajustar dois períodos:
 
 Assim, você pode, por exemplo, ter um gráfico que engloba um ano inteiro e com velas cujo período é de um dia.
 
+<div style="text-align:center">
 <svg class="svg-vertical-limit" viewBox="0 0 250 150">
 
 <polyline class="st0" points="222,125 28,125 28,25 "/>
@@ -178,8 +184,9 @@ Assim, você pode, por exemplo, ter um gráfico que engloba um ano inteiro e com
 <polygon points="85.1,67.2 81.5,67.2 81.5,61.8 80,61.8 80,67.2 76.4,67.2 76.4,78.2 85.1,78.2 "/>
 <polygon points="113.1,56.9 109.5,56.9 109.5,51.5 108,51.5 108,56.9 104.4,56.9 104.4,67.9 113.1,67.9 "/>
 </svg>
+</div>
 
-<p class="legenda" style="text-align:center;">Figura 5 - Gráfico de velas</p>
+<p class="legenda" style="text-align:center;">Figura 5 - Gráfico de velas.</p>
 
 A medida que os preços vão evoluindo ao longo do tempo, as velas formam diversos tipos diferentes de desenho. Alguns analistas utilizam esses [padrões](https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp) como uma maneira de tentar antecipar os movimentos de preço.
 
@@ -193,6 +200,7 @@ Vantagens:
 
 Gráficos de barras, também chamados de OHLC (*Open-High-Low-Close*) funcionam de maneira semelhante ao gráfico de velas, sendo a diferença principal o fato de que as barras não são coloridas.
 
+<div style="text-align:center">
 <svg class="svg-vertical-limit" viewBox="0 0 125 75" >
 
 <path class="st0" d="M240.8,47"/>
@@ -209,8 +217,8 @@ Gráficos de barras, também chamados de OHLC (*Open-High-Low-Close*) funcionam 
 <polygon points="93,23.6 85.6,23.6 85.6,4.7 82.6,4.7 82.6,49.5 75.3,49.5 75.3,52.5 82.6,52.5 82.6,70.3 85.6,70.3 85.6,26.6 
 	93,26.6 "/>
 </svg>
-
-<p class="legenda" style="text-align:center;">Figura 6 - Barra com preço de abertura menor que preço de fechamento</p>
+</div>
+<p class="legenda" style="text-align:center;">Figura 6 - Barra com preço de abertura menor que preço de fechamento.</p>
 
 
 Um barra é composta de três partes:
@@ -219,6 +227,7 @@ Um barra é composta de três partes:
 - Corpo; e
 - Barra horizontal à direita (preço de fechamento).
 
+<div style="text-align:center">
 <svg class="svg-vertical-limit" viewBox="0 0 250 150">
 
 <polyline class="st0" points="222,125 28,125 28,25 "/>
@@ -250,8 +259,8 @@ Um barra é composta de três partes:
 <polygon points="222.1,75.1 218,75.1 218,72.1 217,72.1 217,82.1 212.8,82.1 212.8,83.1 217,83.1 217,85.3 218,85.3 218,76.1 
 	222.1,76.1 "/>
 </svg>
-
-<p class="legenda" style="text-align:center;">Figura 7 - Gráfico de barras</p>
+</div>
+<p class="legenda" style="text-align:center;">Figura 7 - Gráfico de barras.</p>
 
 Vantagens:
 

@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
 subcategory: "Instruções"
-subcategorySlug: "instrucoes-excel"
+subcategorySlug: "instrucoes"
 featuredImage: "excel"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 212
 ---
 
@@ -47,7 +46,7 @@ A maioria dos dados são inseridos manualmente pelo usuário, oriundos das notas
 
 A configuração atual da tabela é fruto do desenvolvimento e da experiência pessoal do autor que a utiliza para controlar seus investimentos desde o ano de 2012.
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox">
 
 <h4>ATENÇÃO</h4>
 

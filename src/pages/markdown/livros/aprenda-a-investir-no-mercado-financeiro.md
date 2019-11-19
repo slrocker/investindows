@@ -9,7 +9,6 @@ subcategory: ""
 subcategorySlug: ""
 featuredImage: "capa-mercado-financeiro"
 pageType: "category"
-showIndex: "false"
 indexOrder: 410
 ---
 

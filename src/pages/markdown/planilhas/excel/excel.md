@@ -9,7 +9,6 @@ subcategory: ""
 subcategorySlug: ""
 featuredImage: "excel"
 pageType: "category"
-showIndex: "false"
 indexOrder: 210
 ---
 
@@ -41,7 +40,7 @@ A tabela de controle de custódia foi criada com a finalidade de auxiliar no con
 
 **Ela não é recomendada para efetuar o controle de operações de compra e venda constantes (*trades*).**
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox" >
 
 <h4>ATENÇÃO</h4>
 

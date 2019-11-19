@@ -65,9 +65,11 @@ Existem opções que dependem da disponibilidade oferecida pela sua corretora. Q
 
 ##*Layout*
 
-Ao abrir o seu *homebroker* você poderá se deparar com algo semelhante à imagem abaixo:
+Ao abrir o seu *homebroker* você verá algo semelhante à imagem abaixo:
 
 ![Exemplo de tela do homebroker](../img/homebroker.jpg)
+
+<p class="legenda" style="text-align:center">Figura 1 - Tela inicial de um <em>homebroker</em>.</p>
 
 Todos os *homebroker*s costumam apresentar as mesmas informações básicas que são mostradas em áreas que subdividem a janela principal. São elas:
 
@@ -84,6 +86,8 @@ Todos os *homebroker*s costumam apresentar as mesmas informações básicas que 
 ###Cesta de Ordens
 
 ![homebroker - Cesta de Ordens](../img/homebroker-ordens.jpg)
+
+<p class="legenda" style="text-align:center">Figura 2 - Cesta de Ordens.</p>
 
 A cesta de ordens é a parte do *homebroker* em que você poderá ver os detalhes de todas as ordens que enviou. Você pode também verificar a situação das suas ordens ou cancelar orden que enviou e deseja retirar ou mudar.
 
@@ -102,6 +106,8 @@ Indicam o quanto de dinheiro você tem disponível na conta da corretora para po
 
 ![homebroker - Carteira de Ações](../img/homebroker-carteira.jpg)
 
+<p class="legenda" style="text-align:center">Figura 3 - Carteira de Ações.</p>
+
 A carteira de ações é uma forma rápida de visualizar diversas informações sobre as ações ou ativos em que você está interessado. Basta digitar o código da ação e você terá acesso a:
 
 - Valor do último negócio;
@@ -119,11 +125,15 @@ A carteira de ações é uma forma rápida de visualizar diversas informações 
 
 ![homebroker - Boleta de Ordens](../img/homebroker-boleta.jpg)
 
+<p class="legenda" style="text-align:center">Figura 4 - Boleta de Ordens.</p>
+
 A boleta de ordens é um formulário que você deve preencher com as informações da compra ou venda que deseja fazer.
 
 ###Livro de Ofertas (*Book*)
 
 ![homebroker - Livro de ofertas](../img/homebroker-book.jpg)
+
+<p class="legenda" style="text-align:center">Figura 5 - Livro de Ofertas.</p>
 
 O livro de ofertas mostra quais ordens estão no sistema da Bolsa de Valores para uma determinada ação. Ao digitar o código da ação você verá:
 
@@ -135,6 +145,8 @@ O livro de ofertas mostra quais ordens estão no sistema da Bolsa de Valores par
 ###Gráfico
 
 ![homebroker - Gráfico](../img/homebroker-grafico.jpg)
+
+<p class="legenda" style="text-align:center">Figura 6 - Gráfico.</p>
 
 O gráfico demonstra de forma visual a variação dos preços ao longo dos dias.
 

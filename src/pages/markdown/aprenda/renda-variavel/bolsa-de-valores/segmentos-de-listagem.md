@@ -1,6 +1,6 @@
 ---
 title: "Segmentos de Listagem"
-date: "2019-10-06"
+date: "2019-06-10"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Variável"
@@ -15,7 +15,7 @@ order: 6
 
 ##O que são segmentos de listagem?
 
-Segmentos de listagem, também chamados de **níveis de governança corporativa**, são como grupos ou categorias que dividem as empresas cujas ações são negociadas na Bolsa de Valores.
+Segmentos de listagem, também chamados de **níveis de governança corporativa**, são como grupos ou categorias que classificam as empresas cujas ações são negociadas na Bolsa de Valores.
 
 Para entrar em determinado grupo, as empresas devem cumprir certas regras de Governança Corporativa que buscam dar mais estabilidade e confiança aos investidores.
 
@@ -39,11 +39,13 @@ Entre as exigências estão aspectos como:
 
 ##Composição Acionária
 
-No Brasil, é possível as empresas emitir dois [tipos de ação](/renda-variavel/acoes/tipos-de-acoes): ordinárias (ON) e preferencias (PN).
+No Brasil, é possível as empresas emitir dois [tipos de ação](/aprenda/renda-variavel/acoes/tipos-de-acoes): ordinárias (ON) e preferencias (PN).
 
 A principal diferença está no fato de que as ações **ordinárias** dão direito a voto nas assembleias que decidem sobre o funcionamento da empresa.
 
-Empresas que não querem perder o controle acionário, costumam emitir ações preferencias. No entanto, este é um sinal de que a empres anão está muito interessada em te rnovos sócios e sim em arrecadar dinheiro. Essa visão pode acabar fazendo a diretoria tomar decisões que não sejam benéficas aos investidores que compram as ações na Bolsa.
+Empresas que não querem perder o controle acionário, costumam emitir ações preferencias. No entanto, este é um sinal de que a empresa não está muito interessada em ter novos sócios, mas sim apenas em arrecadar dinheiro. 
+
+Empresas com uma visão negativa em relação a perda de controle podem ter diretorias que acabam por tomar decisões que não sejam benéficas aos investidores que compram as ações na Bolsa.
 
 Por isso, a emissão de apenas ações ordinárias é um sinal positivo de governança corporativa, indicando que a empresa está interessada não só em arrecadar recursos mas em também aumentar sua base de acionista e beneficiar a todos.
 
@@ -67,9 +69,9 @@ Este percentual é representado pelo *Tag Along*.
 
 Um *Tag Along* de 100% indica que o comprador terá de oferecer pagar o mesmo preço que irá pagar pelas ações dos sócios majoritários também pela ações dos sócios minoritários (pequenos investidores).
 
-Dessa forma , você tem garantido o direito de vender suas ações por um preço justo caso não concorde com a troca de controladores.
+Dessa forma, o investidor minoritário tem garantido o direito de vender suas ações por um preço justo caso não concorde com a troca de controladores.
 
-Um &Tag Along de 100%* demonstra que a empresa não quer prejudicar seus investidores caso haja troca de controle.
+Um *Tag Along* de 100% demonstra que a empresa não quer prejudicar seus investidores caso haja troca de controle.
 
 
 ##Regras de Transparência

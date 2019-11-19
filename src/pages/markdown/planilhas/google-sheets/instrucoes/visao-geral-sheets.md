@@ -6,7 +6,7 @@ sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: "Instruções"
-subcategorySlug: "instrucoes-sheets"
+subcategorySlug: "instrucoes"
 featuredImage: "google-sheets"
 pageType: "page"
 order: 1

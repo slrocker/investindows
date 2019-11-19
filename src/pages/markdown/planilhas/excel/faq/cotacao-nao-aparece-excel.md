@@ -6,7 +6,7 @@ sectionSlug: "planilhas"
 category: "Excel"
 categorySlug: "excel"
 subcategory: "FAQ"
-subcategorySlug: "faq-excel"
+subcategorySlug: "faq"
 featuredImage: "excel"
 pageType: "page"
 order: 4

@@ -39,11 +39,10 @@ Para descobrir qual o preço do título na data da emissão, será preciso desco
 
 Em outras palavras, o preço do título em uma data qualquer antes do vencimento será a resposta para a seguinte pergunta:
 
-<div class="citacao">
 
-**"Qual o valor que rendendo a taxa de juros contratada, de hoje até a data de vencimento do título, resultará em R\$1.000,00?"**
+***"Qual o valor que rendendo a taxa de juros contratada, de hoje até a data de vencimento do título, resultará em R\$1.000,00?"***
 
-</div>
+
 
 Por exemplo: digamos que o título da INVESTINDO S.A. irá vencer em um prazo de um ano e promete pagar 10,00% ao ano de juros.
 
@@ -60,6 +59,8 @@ $$
 PU = {Valor\,de\,face \over \Bigg ( 1+ \large {taxa \over 100}  \Bigg )^ {\Large du \over 252}}
 
 $$
+
+<p class="legenda" style="text-align:center">Fórmula 1 - Cálculo do PU de um título de renda fixa.</p>
 
 Onde:
 
@@ -78,7 +79,7 @@ PU = {1.000 \over \Bigg ( 1+ \large {10 \over 100}  \Bigg )^ {\Large 252 \over 2
 
 $$
 
-<p class="legenda" style="text-align:center">Fórmula 1 - Cálculo do PU de um título de renda fixa.</p>
+
 
 Ou seja, R\$909,0909 aplicados a uma taxa de 10,00% ao ano resultarão em R\$1.000,00 após o período de um ano.
 
@@ -144,7 +145,7 @@ Temos então:
 |Taxa de Rendimento|Dias úteis|PU|
 |------------------|----------|--|
 |5,00% a.a.|252|952,38|
-|10,00 a.a.|252|909,09|
+|10,00% a.a.|252|909,09|
 |15,00% a.a.|252|869,56|
 
 <p class="legenda" style="text-align:center">Figura 2 - Relação entre PU e taxa de rendimento.</p>

@@ -62,7 +62,7 @@ Em geral, as taxas são informadas da seguinte forma:
 
 - **Ordens pela mesa de operações**: caso não queira utilizar o *homebroker*, você pode ligar na corretora e solicitar que o operador envie a ordem para você. Este método é chamado de ordem via mesa de operações. Estas taxas de corretagem costumam ser mais elevadas.
 
-Algumas corretoras informam as taxas fazendo referência à atividade de especulação, também chamado de *trade*. Assim:
+Algumas corretoras informam as taxas fazendo referência à atividade de especulação (*trade*). Assim:
 
 - **Daytrade**: é a operação que começa e se encerra no mesmo dia. Esta operação, independente do mercado onde é executada — à vista ou fracionário — é diferenciada das demais não só na cobrança de taxas como também na do imposto.
 
@@ -114,6 +114,6 @@ Os valores exatos podem ser conferidos no [*site*](http://www.b3.com.br/pt_br/pr
 
 É comum que as corretoras não repassem essa tarifa ao investidor caso ele faça uma operação no mês que pague taxa de corretagem ou outro pré-requisito qualquer.
 
-##Imposto de Renda
+##Tributação
 
 A alíquota de imposto de renda que incide sobre ganho de capital nas operações com cotas de FII é de **20% sobre o lucro das operações**.

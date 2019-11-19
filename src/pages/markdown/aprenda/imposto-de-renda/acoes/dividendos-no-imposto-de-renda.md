@@ -12,11 +12,11 @@ pageType: "page"
 order: 6
 ---
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox">
 
-<h4>Atenção</h4>
+<h4>ATENÇÃO</h4>
 
-As informações aqui contidas podem conter erros ou estarem desatualizadas. Antes de fazer a sua declaração, consulte a legislação em vigor ou algum profissional de sua confiança.
+As informações aqui mostradas podem conter erros ou estarem desatualizadas. Antes de fazer a sua apuração e declaração de imposto de renda, consulte a legislação em vigor ou algum profissional de sua confiança.
 
 **Este *site* e seu proprietário não se responsabilizam por eventuais prejuízos ou problemas fiscais que o investidor possa ter ao utilizar as informações aqui mostradas.**
 
@@ -24,6 +24,10 @@ Utilize este guia por sua conta e risco.
 
 
 </div>
+
+Dividendos recebidos por pessoa física são isentos de imposto.
+
+## Rendimentos Isentos
 
 Registre o valor recebido em Dividendos na seção “Rendimentos isentos e não tributáveis“, item “Lucros e dividendos recebidos“.
 

@@ -35,11 +35,11 @@ O processo de compra de uma ação se divide nos seguintes passos:
 
 Suponha que você deseja **comprar R\$1.000,00 em ações ordinárias do Itaú Unibanco**.
 
-O [código de negociação](/renda-variavel/bolsa-de-valores/codigos-de-negociacao) dessas ações é ITUB3.
+O [código de negociação](/aprenda/renda-variavel/bolsa-de-valores/codigos-de-negociacao) dessas ações é ITUB3.
 
 ##Verificar o Livro de Ofertas
 
-O [livro de ofertas](/renda-variavel/homebroker/livro-de-ofertas) é a área do *homebroker* que mostras as ordens de compra e venda registradas no sistema da Bolsa e o último preço de negociação.
+O [livro de ofertas](/aprenda/renda-variavel/homebroker/livro-de-ofertas) é a área do *homebroker* que mostras as ordens de compra e venda registradas no sistema da Bolsa e o último preço de negociação.
 
 Suponha que, no momento da compra, o livro de ITUB3 fosse conforme a figura 1:
 
@@ -206,6 +206,7 @@ O acompanhamento da ordem é feito através da janela do *homebroker* chamada CE
 
 ![homebroker - Cesta de Ordens](../img/homebroker-ordens.jpg)
 
+<p class="legenda" style="text-align:center;">Figura 3 - Cesta de Ordens.</p>
 
 Após clicar em "ENVIAR" na boleta, os dados da sua ordem aparecerão na CESTA DE ORDENS.
 

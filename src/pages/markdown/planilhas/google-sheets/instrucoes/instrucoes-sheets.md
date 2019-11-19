@@ -6,10 +6,9 @@ sectionSlug: "planilhas"
 category: "Google Sheets"
 categorySlug: "google-sheets"
 subcategory: "Instruções"
-subcategorySlug: "instrucoes-sheets"
+subcategorySlug: "instrucoes"
 featuredImage: "google-sheets"
 pageType: "subcategory"
-showIndex: "false"
 indexOrder: 222
 ---
 
@@ -44,7 +43,7 @@ A maioria dos dados são inseridos manualmente pelo usuário, oriundos das notas
 
 A versão da tabela  para *Google Sheets* foi criada para usuários que não possuem o Excel 2016 para o *Windows OS*.
 
-<div class="borderBox" style="border: 1px dashed red">
+<div class="dashedBox">
 
 <h4>ATENÇÃO</h4>
 

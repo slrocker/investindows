@@ -35,7 +35,7 @@ A oferta pública pode ser:
 
 O processo do IPO é trabalhoso e caro. A empresa precisa passar por várias auditorias, produzir inúmeros documentos e obter autorizações oficiais. Por isso, apenas empresas com certa solidez abrem seu capital na Bolsa.
 
-###Bookbuilding
+### *Bookbuilding*
 
 O preço pelo qual as ações serão vendidas é determinado levando em conta fatores como:
 

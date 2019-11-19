@@ -14,7 +14,7 @@ order: 6
 
 ##O que é um grupamento?
 
-Um grupamento (também chamado no Brasil de *inplit* e de *reverse split* no exterior) ocorre quando a empresa reduz o número de ações que compõem o seu [capital social](/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total do mesmo.
+Um grupamento (também chamado no Brasil de *inplit* e de *reverse split* no exterior) ocorre quando a empresa reduz o número de ações que compõem o seu [capital social](/aprenda/renda-variavel/acoes/o-que-sao-acoes), mas não muda o valor total do mesmo.
 
 Em outras palavras, reduz-se o número de ações, mas o valor total delas permanece o mesmo. Por exemplo:
 

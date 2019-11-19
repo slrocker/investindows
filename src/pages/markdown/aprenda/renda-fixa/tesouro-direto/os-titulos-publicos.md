@@ -18,9 +18,10 @@ O governo dispõe de duas fontes de renda:
 - Impostos; e
 - Empréstimos.
 
-O tradicional é que o governo seja deficitário, isto é, gaste mais do que consegue arrecadar com impostos. Como nem sempre aumentar os impostos é uma alternativa viável, resta ao governo pegar dinheiro emprestado.
+Normalmente, governos são deficitários, isto é, gastam mais do que conseguem arrecadar com impostos. Nem sempre aumentar os impostos é uma alternativa viável, restando a opção de pegar dinheiro emprestado.
 
-Assim, o Tesouro Nacional emite **títulos de dívida** que possuem características de:
+Assim, para conseguir obter empréstimos, o Tesouro Nacional — entidade que cuida das contas do governo — emite **títulos de dívida** que possuem características de:
+
 
 - Prazo; e
 - Rentabildade.
@@ -29,7 +30,7 @@ Investidores interessados em emprestar para o governo podem comprar esses títul
 
 As características dos títulos são determinadas por lei ([Lei 10.179 de 2001](http://www.planalto.gov.br/ccivil_03/LEIS/LEIS_2001/L10179.htm) e [Decreto 9.292 de 2018](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9292.htm#art27)).
 
-A disponibilidade de cada título irá depender de como o governo deseja estruturar sua dívida. Se ele quer, por exemplo, evitar ter dívida indexada ao dólar, retirará de circulação os títulos que remuneram a variação do dólar.
+A disponibilidade de cada título dependerá de como o governo deseja estruturar sua dívida. Se ele quer, por exemplo, evitar ter dívida indexada ao dólar, retirará de circulação os títulos que remuneram a variação do dólar.
 
 ##Tipos de Títulos
 
@@ -41,9 +42,9 @@ Atualmente, existem três tipos de títulos a venda:
 
 ##Letras do Tesouro Nacional (LTN)
 
-A LTN são ítulos [prefixados](financas/iniciantes/rendimento), isto é, sua taxa de rendimento é conhecida no momento da emissão do título.
+A LTN são ítulos [prefixados](/aprenda/financas/iniciantes/rendimento), isto é, sua taxa de rendimento é conhecida no momento da emissão do título.
 
-Apesar de não existir regra específica, as LTN têm sido emitidas com datas de vencimento que se enquadram no primeiro dia de cada trimestre
+Apesar de não existir regra específica, as LTN têm sido emitidas com datas de vencimento no primeiro dia útil do ano.
 
 ###Rentabilidade LTN
 
@@ -51,7 +52,7 @@ No vencimento de uma LTN, o investidor receberá R\$1.000,00 para cada título q
 
 Assim, a sua rentabilidade será dada pela diferença entre R\$1.000,00 e o preço de compra do título.
 
-Em uma esquematização comumente utilizada no mercado financeiro para representar o fluxo de um título, o fluxo da LTN seria assim:
+Em um esquema gráfico comumente utilizada no mercado financeiro para representar o fluxo de um título, o fluxo da LTN seria assim:
 
 <div style="text-align:center" id="figura1">
 <svg viewBox="0 0 313.9 144">
@@ -88,11 +89,11 @@ Em uma esquematização comumente utilizada no mercado financeiro para represent
 
 ##Letras Financeiras do Tesouro (LFT)
 
-A LFT são títulos [pós-fixados](financas/iniciantes/rendimento), isto é, sua taxa de rendimento acompanha a variação de um índice e o resultado exato só será conhecido no vencimento do título.
+A LFT são títulos [pós-fixados](/aprenda/financas/iniciantes/rendimento), isto é, sua taxa de rendimento acompanha a variação de um índice e o resultado exato só será conhecido no vencimento do título.
 
-O índice utilizado para remunerar as LFT é a [taxa SELIC](/financas/economia/taxa-selic).
+O índice utilizado para remunerar as LFT é a [taxa SELIC](/aprenda/financas/economia/taxa-selic).
 
-Apesar de não existir regra específica, as LFT têm sido emitidas com datas de vencimento que se enquadram no primeiro dia do mês de março.
+Apesar de não existir regra específica, as LFT têm sido emitidas com datas de vencimento no primeiro dia do mês de março.
 
 ###Rentabilidade LFT
 
@@ -132,12 +133,12 @@ Por exemplo:
 
 ##Notas do Tesouro Nacional (NTN)
 
-As NTN são títulos que podem ser [pós-fixados](financas/iniciantes/rendimento) (NTN-B) ou [prefixados](financas/iniciantes/rendimento) (NTN-F).
+As NTN são títulos que podem ser [pós-fixados](/aprenda/financas/iniciantes/rendimento) (NTN-B) ou [prefixados](/aprenda/financas/iniciantes/rendimento) (NTN-F).
 
 Existem vários tipos de Notas do Tesouro e o índice que as remunera varia conforme o título. No entanto, o Tesouro tem se limitado a emitir as seguintes NTN:
 
-- **Notas do Tesouro Nacional Série B - Principal (NTN-B Principal)**: remunerada pela variação do [IPCA](/financas/economia/indice-de-precos) acrescido de uma taxa de rendimento;
-- **Notas do Tesouro Nacional Série B (NTN-B)**: remunerada pela variação do [IPCA](/financas/economia/indice-de-precos) acrescido de uma taxa de rendimento; paga cupons semestrais; e
+- **Notas do Tesouro Nacional Série B - Principal (NTN-B Principal)**: remunerada pela variação do [IPCA](/aprenda/financas/economia/indice-de-precos) acrescido de uma taxa de rendimento;
+- **Notas do Tesouro Nacional Série B (NTN-B)**: remunerada pela variação do [IPCA](/aprenda/financas/economia/indice-de-precos) acrescido de uma taxa de rendimento; paga cupons semestrais; e
 - **Notas do Tesouro Nacional Série F (NTN-F)**: taxa prefixada; paga cupons semestrais.
 
 ###Rentabilidade NTN
@@ -149,11 +150,11 @@ A rentabilidade de uma NTN-B é composta de dois fatores:
 - A variação da taxa IPCA do dia da compra até a data do vencimento do título;e
 - A taxa combinada.
 
-Os cálculos da rentabilidade de uma NTN-B são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série B](/renda-fixa/tesouro-direto/tesouro-ipca).
+Os cálculos da rentabilidade de uma NTN-B são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série B](./tesouro-ipca).
 
 Já a rentabilidade das NTN-F é dada pela diferença entre R\$1.000,00 e o preço de compra do título.
 
-Os cálculos da rentabilidade de uma NTN-F são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série F](/renda-fixa/tesouro-direto/tesouro-prefixado-com-juros-semestrais).
+Os cálculos da rentabilidade de uma NTN-F são discutidos mais a fundo no artigo específico das [Notas do Tesouro Nacional Série F](./tesouro-prefixado-com-juros-semestrais).
 
 ###Juros Semestrais
 

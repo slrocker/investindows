@@ -9,7 +9,6 @@ subcategory: ""
 subcategorySlug: ""
 featuredImage: "capa-td"
 pageType: "category"
-showIndex: "false"
 indexOrder: 430
 ---
 

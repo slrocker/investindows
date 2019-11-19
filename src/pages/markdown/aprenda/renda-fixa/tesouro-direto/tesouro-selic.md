@@ -15,7 +15,7 @@ showIndex: "false"
 
 ##O que são as Letras Financeiras do Tesouro?
 
-As Letras Financeiras do Tesouro (LFT), também chamadas de Tesouro SELIC, são títulos [pós-fixados](/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
+As Letras Financeiras do Tesouro (LFT), também chamadas de Tesouro SELIC, são títulos [pós-fixados](/aprenda/financas/iniciantes/rendimento) do governo federal disponíveis para negociação no Tesouro Direto.
 
 ##Rendimento
 
@@ -261,13 +261,13 @@ Ao comprar um título pós-fixado, o investidor fica exposto ao risco de variaç
 
 **Redução das Taxas**
 
-A taxa SELIC é uma das ferramentas utilizadas pelo Banco Central em sua [política monetária](/financas/economia/politica-monetaria). Quando o governo deseja estimular o crescimento econômico, ele estabelece metas mais baixas para a taxa SELIC.
+A taxa SELIC é uma das ferramentas utilizadas pelo Banco Central em sua [política monetária](/aprenda/financas/economia/politica-monetaria). Quando o governo deseja estimular o crescimento econômico, ele estabelece metas mais baixas para a taxa SELIC.
 
 Apesar de não ter ocorrido no Brasil, há o risco de que governos queiram forçar o crescimento através das manipulações das taxas básicas de juros, o que pode gerar até mesmo taxas negativas ([como ocorre na Europa](https://www.sunoresearch.com.br/noticias/paises-europa-juros-negativos/)).
 
 **Aumento da Inflação**
 
-Como a LFT não corrige seu valor pela inflação, caso ocorra alguma alteração econômica onde haja, por exemplo, aumento demasiado da taxa de inflação, o [rendimento real](/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
+Como a LFT não corrige seu valor pela inflação, caso ocorra alguma alteração econômica onde haja, por exemplo, aumento demasiado da taxa de inflação, o [rendimento real](/aprenda/financas/iniciantes/rendimento) do seu investimento será afetado, podendo, inclusive, ficar negativo.
 
 
 ##Estratégia de Investimento

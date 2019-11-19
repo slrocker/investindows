@@ -32,6 +32,14 @@ No Brasil, seguindo as regras da Bolsa de Valores, as empresas de capital aberto
 - **Informações Trimestrais (ITR)**: até 45 dias após o fim de cada trimestre, apurando os resultados do trimestre; e
 - **Informações Financeiras Padronizadas (DFP)**: até 3 meses após o fim do último trimestre, apurando os resultados anuais.
 
+##Período de Apuração
+
+O período considerado para apuração de uma demonstração é chamado de **exercício fiscal**.
+
+Esse período é escolhido pela própria empresa.
+
+De maneira geral, o exercício social das empresas segue o ano calendário, isto é, considera o período compreendido entre janeiro e dezembro de um mesmo ano.
+
 ##Tipos
 
 Dentre as demonstrações padronizadas, as de maior interesse para o investidor são:
