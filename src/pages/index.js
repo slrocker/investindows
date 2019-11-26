@@ -17,7 +17,7 @@ const IndexPage = () => {
                 eq: "jpg" 
             }
             name: {
-                eq: "index-featured"
+                eq: "general-featured"
             }
         ){
             publicURL

@@ -4,13 +4,13 @@ import { Link, graphql, useStaticQuery} from 'gatsby'
 
 import Head from '../components/head'
 import Layout from '../components/layout'
-import aprendaStyles from '../styles/aprenda.module.scss'
+import enciclopediaStyles from '../styles/enciclopedia.module.scss'
 
 
 
 
 
-const AprendaPage = () => {
+const EnciclopediaPage = () => {
 
     const data = useStaticQuery (graphql `
     query {
@@ -19,7 +19,7 @@ const AprendaPage = () => {
                 eq: "jpg" 
             }
             name: {
-                eq: "aprenda-featured"
+                eq: "enciclopedia-featured"
             }
         ){
             publicURL
@@ -27,12 +27,14 @@ const AprendaPage = () => {
         itens: allMarkdownRemark (
             filter:{
             frontmatter: {
-                    pageType: {
-                        ne: "page"
-                    }
+                    
                     sectionSlug: {
-                        eq: "aprenda"
+                        eq: "enciclopedia"
                     }
+                    pageType: {
+                        eq: "subcategory"
+                    }
+                    
             }
             }
             sort: {
@@ -63,40 +65,25 @@ const AprendaPage = () => {
     return (
         <Layout>
             <Head 
-                title = "Aprenda" 
-                description = "Aprenda a investir em renda variável, renda fixa, fundos e outros ativos financeiros de forma simples e rápida."
+                title = "Enciclopédia" 
+                description = "Termos relacionados à finanças e economia explicados para iniciantes."
                 featuredImage = {data.file.publicURL}
                 url = ""
             />
-            <h1 className={aprendaStyles.title}>Aprenda</h1>
-            <p className={aprendaStyles.subtitle}>Tudo o que você precisa saber para começar a investir.</p>
-            <div className ={aprendaStyles.content}>
+            <h1 className={enciclopediaStyles.title}>Enciclopédia</h1>
+            <p className={enciclopediaStyles.subtitle}>Termos relacionados à finanças e economia explicados.</p>
+            <div className ={enciclopediaStyles.content}>
                 
                     
                     {data.itens.edges.map((edge) => {
 
-                        if(edge.node.frontmatter.subcategorySlug === ""){
-
-                            return (
-                                
-                                <h3 className = {aprendaStyles.categoryTitle}>             
-                                    <Link
-                                        to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}`}
-                                        className = {aprendaStyles.categoryLink}
-                                    >
-                                        
-                                        {edge.node.frontmatter.title}
-                                    </Link>
-                                </h3>
-                            )
-
-                        }
+                        
                         return(
                             
-                            <p className = {aprendaStyles.subcategoryTitle}>            
+                            <p className = {enciclopediaStyles.subcategoryTitle}>            
                                  <Link
                                     to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
-                                    className = {aprendaStyles.subcategoryLink}
+                                    className = {enciclopediaStyles.subcategoryLink}
                                 >
                                     
                                     {edge.node.frontmatter.title}
@@ -111,4 +98,4 @@ const AprendaPage = () => {
     )
 }
 
-export default AprendaPage
+export default EnciclopediaPage
