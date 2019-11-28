@@ -235,7 +235,7 @@ Assim que as coisas começam a se mostrar mais controladas, o Banco Central inic
 
 A oferta monetária é quantidade de dinheiro em circulação. De maneira simplificada, podemos dizer que a oferta monetária é soma de todo o dinheiro e crédito em circulação.
 
-Como o governo está constatemente aumentando a disponibilidade da oferta monetária (figura 4) com a intenção de tentar pagar os seus déficits e controlar os ciclos e a produção de novos bens e serviços não acompanha esse aumento, o resultado tem sido um lento e contínuo aumento dos preços ao longo do tempo.
+Como o governo está constantemente aumentando a disponibilidade da oferta monetária (figura 4) com a intenção de tentar pagar os seus déficits e controlar os ciclos, porém a produção de novos bens e serviços não acompanha esse aumento, o resultado tem sido um lento e contínuo aumento dos preços ao longo do tempo.
 
 <div style="text-align:center;">
 <svg viewBox="0 0 250 150">

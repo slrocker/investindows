@@ -19,6 +19,7 @@ Durante um dia, acontece um grande fluxo de dinheiro em um banco.
 O dinheiro pode sair das contas do banco na forma de empréstimos, investimentos, pagamentos e transferências e entrar como depósitos, transferências etc.
 
 
+<div style="text-align:center">
 
 ```mermaid
 graph TD
@@ -29,6 +30,8 @@ graph TD
 ```
 
 <p class="legenda" style="text-align:center">Figura 1 - Fluxo de dinheiro em um banco.</p>
+
+</div>
 
 Em um sistema de [reservas fracionárias](/aprenda/financas/economia/sistema-bancario), como é o sistema bancário brasileiro, os bancos mantém em sua posse apenas uma fração do dinheiro total que movimentam.
 
@@ -53,6 +56,7 @@ Esse ambiente de negociação entre bancos é chamado de **mercado interbancári
 
 Parte dos empréstimos realizados pelos bancos no mercado interbancário se dá utilizando titulos de dívida pública como garantia.
 
+<div style="text-align:center">
 
 ```mermaid
 graph LR
@@ -62,6 +66,8 @@ graph LR
 ```
 
 <p class="legenda" style="text-align:center">Figura 2 - Estrutura básica de um empréstimo interbancário no SELIC.</p>
+
+</div>
 
 Esses empréstimos são registrados em um sistema eletrônico chamado Sistema Especial de Liquidação e Custódia (SELIC).
 
@@ -79,6 +85,9 @@ Nesse caso, o banco emite um título, chamado de Certificado de Depósito Interb
 
 Na realidade, um banco que empresta dinheiro a outro banco comprará um CDI.
 
+
+<div style="text-align:center">
+
 ```mermaid
 graph LR
     A[BANCO A] -. $$ .-> B[BANCO B]
@@ -87,6 +96,8 @@ graph LR
 ```
 
 <p class="legenda" style="text-align:center">Figura 3 - Estrutura de um empréstimo interbancário fora do SELIC.</p>
+
+</div>
 
 Os CDI também são chamados de **depósitos interfinanceiros (DI)**.
 
@@ -142,7 +153,7 @@ Assim, se compararmos ambas as taxas ao longo do tempo, veremos que elas tem uma
 | nov-18 | 6,4           | 6,4        |
 | dez-18 | 6,4           | 6,4        |
 
-<p class="legenda">Figura 4 - Taxa DI Média e Taxa Selic no ano de 2018.</p>
+<p class="legenda" style="text-align:center">Figura 4 - Taxa DI Média e Taxa Selic no ano de 2018.</p>
 
 ##DI Futuro
 

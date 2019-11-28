@@ -1,6 +1,6 @@
 ---
-title: "Alfa"
-date: "2019-11-25"
+title: "Alfa de Jensen"
+date: "2019-11-26"
 section: "Enciclopédia"
 sectionSlug: "enciclopedia"
 category: "Termos"
@@ -12,9 +12,12 @@ pageType: "page"
 order: 0
 ---
 
-## O que é Alfa?
+## O que é Alfa de Jensen?
 
-Alfa (da letra grega α, ou alpha) é um termo utilizado para avaliar a taxa de rendimento de um investimento.
+Alfa (da letra grega α, ou alpha) de Jensen é um índice utilizado para avaliar a taxa de rendimento de um investimento em relação ao risco tomado pelo investidor.
+
+O índice foi criado pelo economista [Michael C. Jensen](https://en.wikipedia.org/wiki/Michael_C._Jensen).
+
 
 É importante levar em consideração que:
 
@@ -32,31 +35,47 @@ Como o fundo obteve 15%, a diferença de 3% a mais obtida pelo fundo é o **alfa
 
 ## Origem
 
-O alfa foi criado como uma forma de medir se a performance de um investimento justifica o risco tomado pelo investidor ao aplicar seu dinheiro no mesmo.
-
-Costuma ser utilizado em conjunto com modelos teóricos que buscam encontrar formas estatísticas eficazes de analisar aspectos como: preço de ativos; risco intrínseco do ativo; gestão do risco/retorno etc. 
-
-São modelos como:
-
-- [Teoria Moderna do Portfolio (TMP)](/enciclopedia/termos/t/teoria-moderna-do-portfolio), ou *modern portfolio theory* (MPT) em inglês; e
-- [Modelo de Precificação de Ativos Financeiros (MPAF)](/enciclopedia/termos/m/mpaf), ou *capital asset pricing model* (CAPM) em inglês.
+O alfa foi criado como uma forma de medir a performance de um investimento dentro do [Modelo de Precificação de Ativos Financeiros (MPAF)](/enciclopedia/termos/m/mpaf), ou *capital asset pricing model* (CAPM) em inglês.
 
 ## Como calcular?
 
-De maneira simplificada, o alfa é calculado da seguinte maneira:
+A fórmula para o cálculo do alfa de Jensen é:
 
 $$
 
-Alfa = Retorno\,Obtido - Retorno\,Esperado
+A = {R(i) - (Rf + B \times (Rm - Rf))}
 
 $$
 
-O retorno esperado pode ser obtido:
+Onde:
 
-- Através de modelos como os citados no item anterior; ou
-- Através da comparação com índices ([*benchmark*](/enciclopedia/termos/b/benchmark)).
+- **Ri** = Rendimento do investimento analisado ;
+- **Rm** = Rendimento do [*benchmark*](/enciclopedia/termos/b/benchmark) utilizado;
+- **Rf** = Custo de carregamento ; e
+- **B** = [beta](/enciclopedia/termos/b/beta) do investimento analisado.
 
-Uma forma de calcular o alfa é através da fórmula do [*Alfa de Jensen*](./alfa-de-jensen).
+**Nota**: O custo de carregamento é a taxa de rendimento gerada pelo ativo financeiro com menor risco. Normalmente são utilizados o rendimento de [títulos públicos](/aprenda/renda-fixa/tesouro-direto) ou a [taxa DI](enciclopedia/termos/t/taxa-di) ou até mesmo o [DI futuro](/enciclopedia/termos/d/di-futuro).
+
+
+### Exemplo
+
+Digamos que um fundo de ações investimento teve um rendimento de 15,00% em um determinado ano.
+
+Um *benchmark* apropriado para esse fundo seria o [IBOVESPA](/enciclopedia/termos/i/ibovespa). 
+
+Suponha que:
+
+- O IBOVESPA tenha rendido 12,00% no mesmo período;
+- O beta do fundo em relação ao IBOVESPA é de 1.2; e
+- O custo de carregamento foi de 3,00% no ano.
+
+Cálculo do alfa:
+
+$$
+
+A = {15\% - (3\% + 1.2 \times (12\%-3\%))} = 1,2\%
+
+$$
 
 ### Análise
 
@@ -65,7 +84,9 @@ De forma geral:
 - **alfa positivo**: indica uma performance acima da média. Quanto maior, melhor; e
 - **alfa negativo**: indica uma performance abaixo da média.
 
-Por exemplo, se um fundo de investimento possui um alfa histórico de 3,00% e acredita-se que ele manterá essa performance no futuro, espera-se que ele obtenha um retorno pelo menos 3,00% superior ao retorno de referência. 
+No exemplo acima, como o beta é acima de 1.0, de acordo com o modelo, o risco desse fundo seria superior ao do IBOVESPA e, portanto, deveria entregar resultados acima do índice.
+
+Como o alfa foi positivo, conclui-se que o gestor do fundo foi capaz de cumprir essa meta e entregou resultados vantajosos aos seus cotistas.
 
 ## Alfa e o Mercado
 
@@ -92,7 +113,7 @@ Sempre que se deparar com a análise do rendimento de um ativo e, especialmente,
 - Considerar se o resultado informado já considera todas as taxas que terão de ser pagas por ele; e
 - Analisar se o [*benchmark*](/enciclopedia/termos/b/benchmark) utilizado realmente tem sentido.
 
-Por exemplo, é comum que administradores de Fundos de Investimento Imobiliário (FII) comparem o desempenho da cota do fundo frente ao [IFIX](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/indice-de-fundos-de-investimentos-imobiliarios-ifix.htm), que é um índice que avalia o mercado de FII como um todo.
+Por exemplo, é comum que administradores de Fundos de Investimento Imobiliário (FII) comparem o desempenho da cota do fundo frente ao [IFIX](/enciclopedia/termos/i/ifix), que é um índice que avalia o mercado de FII como um todo.
 
 No entanto, é possível que FII de um segmento específico, tal como o de hóteis, por exemplo, tenha uma expectativa de desempenho que não seja bem refletida pelo IFIX.
 
