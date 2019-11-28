@@ -14,7 +14,7 @@ order: 0
 
 ## O que é IBOVESPA?
 
-IBOVESPA é a sigla  para o índice BOVESPA (que, por sua vez, é o antigo nome da Bolsa de Valores de São Paulo, atual B3).
+IBOVESPA é a sigla  para o Índice BOVESPA (que, por sua vez, é o antigo nome da Bolsa de Valores de São Paulo, atual B3).
 
 O objetivo do índice é acompanhar o desempenho do mercado de ações brasileiro como um todo.
 
@@ -24,7 +24,7 @@ Em outras palavras, o índice tenta refletir qual seria o seu desempenho finance
 
 Criado em 1968, o índice reflete o desempenho de uma carteira teórica de ações que são selecionadas de acordo com critérios estabelecidos na [metodologia](http://www.b3.com.br/data/files/1C/56/F7/D5/96E615107623A41592D828A8/IBOV-Metodologia-pt-br.pdf).
 
-Entre eles, podemos citar:
+Entre os critérios, podemos citar:
 
 - Ter grande liquidez; e
 - Ter ação negociada a valores acima de R\$1,00 (não ser [*penny stock*](/enciclopedia/termos/p/pennystock)).
@@ -54,7 +54,7 @@ O cálculo segue o definido no [Manual de Procedimentos dos Índices da B3](http
 
 Como no Brasil é comum que haja a inflação de preços, para que um inveatidor realmente tenha um [ganho real](/aprenda/financas/iniciantes/rendimento), é preciso, inicialmente, superar o efeito depreciativo da inflação.
 
-Ou seja, em um cenário de inflação anual de 6,00%, uma empresa precisa aumentar seus ganhos em mais do que 6,00% caso deseje ter um crescimento efetivo nos seus ganhos.
+Ou seja, em um cenário de inflação anual de 6,00%, uma empresa precisa aumentar seus ganhos em mais do que 6,00% caso deseje ter um crescimento efetivo.
 
 Em cenários inflacionários, quando analisamos a performance de uma empresa ou de algum investimento, não podemos nos deixar enganar por crescimentos nominais.
 

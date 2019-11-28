@@ -55,6 +55,7 @@ Quando toda a burocracia é cumprida, a empresa emite um documento chamado de **
 
 - Informações da empresa;
 - Características da oferta;
+- Datas Importantes;
 - Riscos;
 - Destinação dos recursos; e
 - Demonstrações financeiras.
@@ -71,7 +72,19 @@ Já no caso da emissão secundária, o dinheiro irá para o bolso de algum sóci
 
 Há casos em que a emissão é primária e secundária simultaneamente. Nesses casos avalie, através da leitura do prospecto, quanto dinheiro obtido na emissão será direcionado para ser investido na empresa e quanto será direcionado para o sócio que está vendendo as ações.
 
-##Como comprar em um IPO?
+### Datas
+
+Em todo processo de emissão haverá algumas datas de importância para o investidor:
+
+
+- **Período de reserva**: é o período onde os investidores manifestam a quantidade ou o volume de dinheiro que desejam aplicar;
+- **Prazo para manifestar intenção**: data final do período de reserva;
+- **Divulgação de rateio**: data em que é divulgada quanto das ações desejadas cada investidor conseguirá comprar; 
+- **Data de início**: data em que se dá início ao processo e serve de referência para que ocorra a liquidação;
+- **Início das negociações**: data em que os ativos começam a ser negociados na Bolsa de Valores; e
+- **Data de ecerramento**: data em que todo o processo é finalizado. Essa data serve de referência para conversão de direitos de subscrição, pagamento de dividendos e rendimentos aos ativos emitidos etc.
+
+## Como comprar em um IPO?
 
 Parte da função do coordenador líder é fazer o trabalho de propaganda da emissão. Para isso, ele normalmente se utiliza de outras instituições, tais como as corretoras de valores, que oferecem para os seus clientes a oportunidade de adquirir as ações sendo emitidas.
 

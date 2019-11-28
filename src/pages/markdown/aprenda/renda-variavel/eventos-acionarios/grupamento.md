@@ -101,3 +101,5 @@ Assim, é natural que, se o somatório do preço de todas as ações na Bolsa (c
 Os motivos para a realização de um grupamento são variados. Entre os principais, podemos citar:
 
 - Aumentar o preço das ações sendo negociadas na Bolsa de Valores.
+
+A Bolsa de Valores possui uma [regra](http://www.b3.com.br/pt_br/regulacao/regulacao-de-emissores/atuacao-orientadora/cartilhas-e-orientacoes.htm) que obriga as empresas a realizarem  o grupamento de suas ações para que o preço retorne a patamares aceitáveis (acima de R\$1,00) sempre que permanecer abaixo dessa faixa durante 30 pregões consecutivos.
