@@ -14,7 +14,7 @@ order: 0
 
 ## O que é taxa DI?
 
-Taxa DI, ou taxa de depósitos interfinanceiros é a taxa média dos juros cobrados nos empréstimos que os bancos fazem no mercado interbancário emitindo CDI.
+Taxa Média de Depósitos Interfinancerios (taxa DI) é a taxa média dos juros cobrados nos empréstimos que os bancos fazem no mercado interbancário emitindo CDI.
 
 Para saber como a taxa é calculada, de uma olhada na [metodologia oficial](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/metodologia-do-di.htm).
 

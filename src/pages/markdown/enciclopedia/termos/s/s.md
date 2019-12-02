@@ -11,3 +11,7 @@ featuredImage: "enciclopedia-featured"
 pageType: "subcategory"
 indexOrder: 530
 ---
+
+
+
+Termos começados com a letra "S".

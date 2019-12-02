@@ -155,7 +155,7 @@ VNA\,Projetado = 10.378,287814 \times \Bigg [ ( 1 + 0,055 ) ^ {\large 1 \over 25
 
 $$
 
-**2. Cálculo dos dias úteis**
+**3. Cálculo dos dias úteis**
 
 Em cálculos que envolvem títulos de renda fixa, o mercado conveciona utilizar 252 dias úteis como sendo o período de um ano.
 
@@ -173,7 +173,7 @@ du = 1.344
 
 $$
 
-**3. Cálculo da Cotação**
+**4. Cálculo da Cotação**
 
 $$
 
@@ -182,7 +182,7 @@ Cotação = { 100  \over { \bigg(1 + \Large {0,02 \over 100}\bigg)^{1.344 \over 
 $$
 
 
-**4.Cálculo do PU**
+**5.Cálculo do PU**
 
 $$
 

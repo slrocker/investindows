@@ -91,7 +91,7 @@ Olhando o [*site*](http://www.tesouro.gov.br/tesouro-direto-precos-e-taxas-dos-t
 
 Vamos calcular o preço da LTN com vencimento em 01/01/2022, cuja taxa de rendimento é de 4,99% ao ano.
 
-**1 - Cálculo dos dias úteis**
+**1. Cálculo dos dias úteis**
 
 Em cálculos que envolvem títulos de renda fixa, o mercado conveciona utilizar 252 dias úteis como sendo o período de um ano.
 

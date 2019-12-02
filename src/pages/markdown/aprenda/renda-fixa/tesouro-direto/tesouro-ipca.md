@@ -79,14 +79,14 @@ $$
 
 **OBS**: o preço do título é truncado em 2 casas decimais.
 
-###Valor Nominal Atualizado
+### Valor Nominal Atualizado
 
 Como o IPCA só é apurado mensalmente e divulgado no dia 15 de cada mês, o cálculo do VNA de uma NTN-B envolve duas etapas:
 
 1. Cálculo do VNA considerando o IPCA divulgado; e
 2. Cálculo do VNA projetado, que considera o período compreendido entre o último dia 15 (último IPCA divulgado) e a data de negociação do título.
 
-**1. Cálculo do VNA**
+#### 1. VNA
 
 
 O valor nominal atualizado de uma NTN-B pode ser obtido no [*site*](http://www.tesouro.gov.br/-/balanco-e-estatisticas) do Tesouro Direto;
@@ -107,7 +107,7 @@ $$
 
 
 
-###VNA Projetado
+#### 2. VNA Projetado
 
 Como a negociação dos títulos não se limita aos dias em que há divulgação do IPCA, o VNA utilizado para calcular o preço dos títulos que aparece no sistema do Teosuro Direto é o **VNA Projetado**, que faz uma projeção do IPCA (baseado em pesquisas com participantes do mercado) para o período compreendido entre as divulgações oficiais do IPCA.
 

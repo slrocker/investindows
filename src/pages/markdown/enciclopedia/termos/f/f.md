@@ -11,3 +11,6 @@ featuredImage: "enciclopedia-featured"
 pageType: "subcategory"
 indexOrder: 517
 ---
+
+
+Termos começados com a letra "F".
