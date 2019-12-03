@@ -1,5 +1,5 @@
 ---
-title: "Lock Up"
+title: "Lock-Up"
 date: "2019-11-28"
 section: "Enciclopédia"
 sectionSlug: "enciclopedia"
@@ -12,13 +12,13 @@ pageType: "page"
 order: 0
 ---
 
-## O que é o período de *lock up*?
+## O que é o período de *lock-up*?
 
-Um período de *lock up* (travar), é um período em que investidores não podem vender ou resgatar ações ou cotas de um investimento.
+Um período de *lock-up* (travar), é um período em que investidores não podem vender ou resgatar ações ou cotas de um investimento.
 
 Costuma ser utilizado em fundos de investimento e [*Initial Public Offerings* (IPO)](/aprenda/renda-variavel/eventos-acionarios/ipo).
 
-## *Lock Up* de Fundos de Investimento
+## *Lock-Up* de Fundos de Investimento
 
 A restrição de liquidez para o resgate de cotas (prazo de resgate) em alguns fundos de investimento serve para possibilitar que o gestor do fundo tenha tempo hábil de adequar os pedidos de resgate com a estratégia de investimento do Fundo.
 
@@ -30,7 +30,7 @@ As restrições são informadas no formato "D+30", onde D é o dia em que o coti
 
 Esse prazo permite ao gestor verificar sua necessidade de capital para honrar os resgates das cotas e planejar sua estratégia de acordo.
 
-## IPO *Lock Up*
+## IPO *Lock-Up*
 
 Um IPO (Oferta Pública Inicial em português) é o momento em que uma empresa abre seu capital e começa a negociar sua ações na Bolsa de Valores.
 
@@ -39,11 +39,11 @@ Em alguns casos é previsto um período após o IPO em que os acionistas majorit
 - Passar confiança quanto a solidez da empresa; e
 - Evitar um excesso de vendedores da ação, o que pode gerar uma queda nos preços.
 
-É possível que o *lock up* seja aplicado também aos investidores que adquiriram as ações no IPO. O principal objetivo dessa restrição é evitar a [flipagem](/enciclopedia/termos/f/flipagem).
+É possível que o *lock-up* seja aplicado também aos investidores que adquiriram as ações no IPO. O principal objetivo dessa restrição é evitar a [flipagem](/enciclopedia/termos/f/flipagem).
 
-"Flipar" (da expressão inglesa *flipping*) é a estratégia de comprar ações em um IPO e vendê-las assim que se iniciarem as negociações na Bolsa de Valores.
+"Flipar" (da expressão inglesa *to flip*) é a estratégia de comprar ações em um IPO e vendê-las assim que se iniciarem as negociações na Bolsa de Valores.
 
-Por exemplo, a VIVARA S.A, especificou no prospecto do seu IPO que investidores dispostos a aceitar um período de *lock up*, teriam vantagem na distribuição das ações ([rateio](/enciclopedia/termos/r/rateio)):
+Por exemplo, a VIVARA S.A, especificou no prospecto do seu IPO que investidores dispostos a aceitar um período de *lock-up*, teriam vantagem na distribuição das ações ([rateio](/enciclopedia/termos/r/rateio)):
 
 <div class="citacao">
 
@@ -64,11 +64,11 @@ Em um IPO, a informação disponível ao mercado é muito restrita. Sócios majo
 
 Isso torna possível a majoritários mal intencionados venderem as ações de sua empresa a preços atrativos no IPO e, logo em seguida, vender grande parte de suas ações antes que a "parte podre" da empresa venha a tona, "passando o problema" para os investidores que participaram da abertura de capital.
 
-O período de *lock up* evita que o acesso às informações privilegiadas permitam essa manobra e coloca os sócios majoritários em patamar de igualdade aos minoritários.
+O período de *lock-up* evita que o acesso às informações privilegiadas permitam essa manobra e coloca os sócios majoritários em patamar de igualdade aos minoritários.
 
 ## Aspectos Negativos
 
-Por outro lado, o *lock up* pode ter o efeito inverso do desejado.
+Por outro lado, o *lock-up* pode ter o efeito inverso do desejado.
 
 No caso de uma empresa que não deixe bem claro no prospecto do IPO aspectos negativos que possam impactar sua performance no futuro, é possível arrecadar muito dinheiro no IPO e, em seguida, liberar a "bomba" de informações negativas.
 
@@ -80,9 +80,9 @@ Mantendo o preço da ação estável, a empresa mantém uma aura de sucesso.
 
 Quando o mercado se der conta de que nem tudo era como parecia ser, já será tarde demais.
 
-## *Lock Up* e o Investidor
+## *Lock-Up* e o Investidor
 
-É importante que o investidor tenha consciência da existência de períodos de *lock up* seja no caso dos fundos de investimento ou nos IPO.
+É importante que o investidor tenha consciência da existência de períodos de *lock-up* seja no caso dos fundos de investimento ou nos IPO.
 
 No caso dos fundos de investimento é preciso atentar que o resgate será feito pelo preço da cota no dia especificado e não no dia que o investidor comandou o resgate.
 
