@@ -71,7 +71,7 @@ O ideal seria sempre obter valores acima de 1 ou 100%. No entanto, o mais comum 
 
 O Índice Sharpe é muito utilizado por investidores de fundos de investimento, os quais utilizam o índice como uma forma de analisar se o risco tomado pelo gestor do fundo em suas estratégias têm gerado resultado superior.
 
-É importante ter em mente que o índice leva em conta princípios estatísticos:
+É importante ter em mente que o índice leva em conta dois princípios:
 
 - Considera-se que o preço dos ativos obedecen à uma distribuição normal; e
 - A [volatilidade](/enciclopedia/termos/v/volatilidade) é entendida como o risco de um ativo.

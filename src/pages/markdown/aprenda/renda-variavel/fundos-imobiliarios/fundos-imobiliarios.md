@@ -12,4 +12,6 @@ pageType: "subcategory"
 indexOrder: 35
 ---
 
-Fundos de Investimento imobiliário, popularmente chamados de **FII**, são fundos de investimento cujos recursos devem ser aplicados em ativos relacionados ao mercado imobiliário. Eles fornecem ao pequeno investidor a chance de ser proprietário de imóveis corporativos e receber sua parte dos alguéis milionários.
+Fundos de Investimento imobiliário, popularmente chamados de **FII**, são fundos de investimento cujos recursos devem ser aplicados em ativos relacionados ao mercado imobiliário. 
+
+FII dão ao pequeno investidor a chance de ser proprietário de imóveis corporativos e receber sua parte dos alguéis milionários.

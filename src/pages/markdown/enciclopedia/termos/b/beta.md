@@ -106,9 +106,12 @@ Por exemplo, não faz sentido utilizar como referência para o beta de Fundos de
 
 ## Aspectos Negativos
 
-Toda a teoria por trás do beta assume que o preço das ações segue uma distribuição normal do ponto de vista estatístico, isto é, movimentações extremas seriam a exceção.
+A teoria do Beta leva em conta dois princípios:
 
-No entanto, movimentações extremas são mais do que comuns na renda variável.
+- Considera-se que o preço dos ativos obedecen à uma distribuição normal; e
+- A volatilidade é entendida como o risco de um ativo.
+
+No entanto, no mundo aleatório do mercado financeiro, a movimentação dos preços não se preocupa com valores médios e desvio padrão. Movmentos de preço extremos são prováveis mesmo em ativos com longo histórico de baixa volatilidade.
 
 Além disso, volatilidade não necessariamente se iguala a risco.
 
