@@ -28,8 +28,9 @@ A estratégia específica dependerá do gestor ou do fundo de investimento. Algu
 
 - [*Long and Short*](/enciclopedia/termos/l/long-and-short);
 - [Valuation](/enciclopedia/termos/v/valuation);
-- Seleção de empresas (*stock picking*); e
-- [Alavancagem](/enciclopedia/termos/a/alavancagem).
+- Seleção de empresas (*stock picking*);
+- [Alavancagem](/enciclopedia/termos/a/alavancagem); e 
+- [Arbitragem](/enciclopedia/termos/a/arbitragem).
 
 Para guiar suas escolhas o gestor pode utiliar todo tipo de análise econômica, financeira, estatística ou qualquer outro recurso a sua disposição. Há gestores utilizando até mesmo imagens de satélite para analisar plantações, fábricas, malha logística etc.
 
