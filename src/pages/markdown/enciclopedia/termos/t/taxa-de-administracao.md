@@ -124,11 +124,12 @@ $$
 
 ## Taxas e o Investidor
 
-A forma de cobrança mais benéfica para o investidor é a taxa cobrada sobre as receitas do fundo. Dessa forma, se o fundo é efetivo em gerar dinheiro, tanto administradores quanto investidores saem ganhando.
+A forma como as taxas de administração são cobradas podem fazer diferença para o resultado final do investidor. Por exemplo:
 
-**Taxas cobradas sobre o valor do patrimônio líquido** podem influenciar os administradores a inflarem o fundo, adquirindo ativos com baixo retorno mas grande valor patrimonial, aumentando a taxa de administração.
 
-**Taxas cobradas sobre o valor de mercado** podem influenciar os administradores a buscar ganhos de curto prazo em detrimento ao longo prazo, visando aumentar o preço das cotas. Essa política acabará prejudicando os resultados do investidor.
+- **Taxas cobradas sobre o valor do patrimônio líquido** podem influenciar os administradores a inflarem o fundo, adquirindo ativos com baixo retorno mas grande valor patrimonial, aumentando a taxa de administração; ou
+
+- **Taxas cobradas sobre o valor de mercado** podem influenciar os administradores a buscar ganhos de curto prazo em detrimento ao longo prazo, visando aumentar o preço das cotas. Essa política acabará prejudicando os resultados do investidor.
 
 Dessa forma, em qualquer análise de fundos de investimento, o investidor deve estudar com cuidado as taxas cobradas e se elas são proporcionais aos resultados entregues pela administração.
 
