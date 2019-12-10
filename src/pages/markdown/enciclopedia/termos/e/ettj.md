@@ -1,146 +1,20 @@
 ---
-title: "Mercado de Juros"
-date: "2019-06-26"
-section: "Aprenda"
-sectionSlug: "aprenda"
-category: "Finanças"
-categorySlug: "financas"
-subcategory: "Economia"
-subcategorySlug: "economia"
-featuredImage: "financas"
+title: "Estrutura a Termo de Taxa de Juros"
+date: "2019-12-09"
+section: "Enciclopédia"
+sectionSlug: "enciclopedia"
+category: "Termos"
+categorySlug: "termos"
+subcategory: "E"
+subcategorySlug: "e"
+featuredImage: "enciclopedia-featured"
 pageType: "page"
-order: 5
+order: 0
 ---
 
-##O que são Juros?
+## O que é a estrutura a termo de taxa de juros?
 
-Os juros são o preço do dinheiro.
-
-A existência dos juros está a ligada a um conceito econômico chamado de **preferência temporal**.
-
-###Preferência Temporal
-
-Qual seria a sua escolha entre:
-
-- Receber R$100,00 agora; ou
-- Receber R$100,00 daqui a um ano.
-
-Quando confrontados entre a escolha de receber um bem imediatamente ou receber o mesmo bem no futuro, os seres humanos optam pela primeira opção.
-
-Há um mecanismo psicológico em nós que avalia **bens disponíveis no presente como sendo mais valiosos do que os mesmos bens disponíveis no futuro**. Isso pode ter várias explicações, entre elas a imprevisibilidade que temos a respeito do futuro.
-
-Assim, é razoável que uma pessoa, ao sacrificar a posse de um bem no presente para obtê-la somente em data futura, exija alguma compensação em troca do seu sacrifício.
-
-Qual seria sua escolha entre:
-
-- Receber R$100,00 agora; ou
-- Receber R$120,00 daqui a um ano.
-
-O interessante é que nem todas as pessoas pensam da mesma maneira. Algumas pessoas, mesmo sabendo da possibilidade de obterem ganhos maiores no futuro, preferem os bens presentes. Esse tipo de pessoa tem **alta preferência temporal**.
-
-Já outras pessoas não se importam em sacrificar um pouco do seu tempo e optam por receber mais bens no futuro. Esse tipo de pessoa tem **baixa preferencia temporal**.
-
-Assim, em troca de não consumir seu dinheiro agora, a pessoa que faz um empréstimo espera receber algum tipo de recompensa pelo seu sacrifício, cobrando um preço sobre o dinheiro emprestado, chamado de juro.
-
-###Juros e Poupança
-
-Quando alguém pega dinheiro emprestado é preciso que, antes, outra pessoa tenha deixado de gastar esse dinheiro.
-
-Quanto mais as pessoas estiverem poupando, mais dinheiro para ser emprestado estará disponível. Quanto mais as pessoas estiverem consumindo e deixarem de poupar, mais escasso será o dinheiro disponível para outras coisas.
-
-O dinheiro segue a lei da [oferta e da demanda](https://pt.wikipedia.org/wiki/Lei_da_oferta_e_da_procura) como qualquer outro bem ou serviço, ou seja:
-
-- Quanto maior a oferta, menor o preço; e
-- Quanto menor a oferta, maior o preço.
-
-Assim, em uma sociedade onde há uma predominância de poupadores, haverá maior oferta de dinheiro e os juros cobrados sobre empréstimos terão uma tendência de se reduzirem.
-
-Por que isso é relevante?
-
-##Taxa Natural de Juros
-
-###Juros e o Empreendedor
-
-Quando um empreendedor avalia a concepção de um negócio, precisa levar em consideração se os recursos que ele precisará estarão disponíveis. 
-
-Quando a sociedade tem preferência pelo consumo em detrimento da poupança, resultado da sua alta preferência temporal, poucos recursos como mão de obra e bens industriais, por exemplo, estão disponíveis para serem adquiridos e utilizados em outras atividades.
-
-Com pouca oferta, esses recursos ficam mais caros. No entanto, como as pessoas não estão poupando, a disponibilidade de dinheiro para que o empreendedor possar arcar com seus custos enquanto seu projeto não rende lucros também está baixa. 
-
-A baixa disponibilidade de dinheiro aumenta os juros cobrados pelos empréstimos e, colocando os custos no seu planejamento, o empreendedor conclui que o seu projeto não tem condições de ser executado e o abandona.
-
-Assim, em uma sociedade onde há pouca disponibilidade de recursos, há pouco incentivo para que empreendedores se arrisquem implementando indústrias e métodos que exijam grande quantidade de capital (que normalmente são aquelas mais tecnologicamente avançadas e mais eficientes) e o desenvolvimento da sociedade acaba ficando limitado.
-
-Pode-se dizer que os juros atuam como um sinal que a sociedade entrega para os empreendedores a respeito do que é viável de ser feito em relação aos recursos disponíveis.
-
-###Definição
-
-Teoricamente, em um mercado livre, a taxa de juros (o preço do dinheiro) resultaria de um equilíbrio entre a demanda e a oferta por dinheiro, resultado do nível de poupança e disponibilidade de recursos para investimento e da absorção desses recursos pelos empreendedores.
-
-Essa taxa, que propicia o equilíbrio natural, é chamada de **taxa de juros natural**.
-
-É interessante ter em mente que, você sendo um empreendedor, só verá sentido em realizar um empreendimento se for capaz de gerar um rendimento acima da taxa de juros natural. Do contrário, é mais fácil ficar em casa e emprestar o seu dinheiro.
-
-##Taxa de Juros Neutra
-
-Há economistas que defendem que, deixado ao seu bel prazer, o mercado se tornará ineficiente, gerando uma má utilização dos recursos disponíveis e desemprego em excesso.
-
-Entre outras justificativas por trás dessa teoria, estariam o fato do nível de poupança ser resultado apenas da faixa de rendimento das pessoas e da tendência de que possa haver uma acumulação injsutificável — uma acumulação de dinheiro com o único objetivo de acumular mais dinheiro, sem realizar investimentos ou empreendimentos (o que implicaria em dinheiro sendo retirado de circulação). 
-
-Essas tendências "indesejáveis" das pessoas resultariam em uma taxa de juros ineficiente que impediria o correto desenvolvimento econômico.
-
-Defende-se, então, que o governo interfira, manipulando o mercado de forma a atingir a taxa de juros que geraria o equilíbrio perfeito entre:
-
-- **Pressões inflacionárias**: oriundas de uma taxa de juros baixa e um excesso de oferta de dinheiro estimulando o consumo acima da capacidade da economia de suprir a oferta; e
-- **Desaquecimento econômico**: falta de estímulo para o crescimento dos negócios, geração de emprego etc. resultando em ociosidade dos meios de produção.
-
-A taxa de juros que, teoricamente, seria responsável por prover esse equilíbrio, objetivo da interferência governamental, é chamada de **taxa de juros neutra**.
-
-##Juros e  os Ciclos Econômicos
-
-Os [ciclos econômicos](/aprenda/financas/economia/ciclos-economicos) são períodos de expansão e contração da economia que ocorrem ao longo do tempo.
-
-Há diversas teorias econômicas que tentam explicar esse fenomeno.
-
-Uma delas, a teoria dos ciclos da escola austríaca, aponta que, ao influenciar a taxa de juros e tornar o crédito barato, o governo acaba mandando um sinal errado para os agentes ecônomicos, que iniciam projetos (iniciando o ciclo de expansão) que no futuro se mostrarão inviáveis e terão de ser terminados (gerando a contração).
-
-Por exemplo, ao reduzir a taxa de juros para patamares abaixo do equilíbrio natural entre a poupança e a demanda por recursos, o governo envia um sinal de que há dinheiro e recursos disponíveis a um preço baixo.
-
-Projetos que antes eram inviáveis devido ao seu custo passam a ser considerados viáveis e são iniciados. Ocorre, então, um aumento da demanda por recursos e financiamento sem que tenha realmente ocorrido aumento na oferta desses itens.
-
-Isso gerará um aumento do preço dos recursos demandandos pelos empreendedores e os empreendimentos se tornam inviáveis. Para evitar a inevitável contração econômica que a falência desses empreendimentos irá gerar, só haverá uma opção: baixar ainda mais os juros e aumentar a disponbilidade de crédito.
-
-No entanto, cedo ou tarde a realidade se mostrará mais forte e os agentes serão obrigados a reconhecer a inviabilidade de certos projetos. Isso resultará em declarações de falência, calotes nos empréstimos, demissões e gastos disperdiçados, ou seja, riqueza será distruída. 
-
-Essa correção gera um encolhimento da economia, dando início ao ciclo de contração, chamado de recessão.
-
-
-##Juros e o Mercado Financeiro
-
-Os investidores também utilizam os juros como uma maneira de avaliar a viabilidade de seus investimentos e ajudar na tomada de decisão.
-
-A partir de uma taxa de juros de referência, considerada como a que remunera o investimento de menor risco, também chamada de **taxa de custo de oportunidade**, os investidores comparam outros investimentos e precificam cada um de acordo com o risco e o retorno percebido.
-
-A taxa utilizada como referência pelo mercado financeiro é a [taxa SELIC](/aprenda/financas/economia/taxa-selic), que também é a taxa manipulada pelo governo para obter a taxa natural.
-
-No entanto, como os agentes do mercado financeiro raciocinam sempre com as condições futuras, o comum é empregar-se as taxas de juros negociadas em contratos futuros de DI (veja o artigo sobre o [mercado interbancário](/aprenda/financas/economia/mercado-interbancario)).
-
-<div class="borderBox">
-
-<h4>Estímulo a Especulação</h4>
-
-
-Uma das consequências da queda forçada dos juros pelo Governo na tentativa de "aquecer a economia" é que os juros se tornam tão baixos que investimentos de alto risco passam a ser vantajosos na visão dos investidores. 
-
-Essa visão distorcida gera um fluxo de dinheiro para mercados especulativos, tais como a Bolsa de Valores, onde ocorre uma valorização desproporcional das ações das empresas e outros ativos financeiros.
-
-Gera-se um clima de excessiva confiança que intensifica ainda mais o ciclo econômico de expansão, e que pode resultar em uma bolha (quando o valor dos ativos no mercado financeiro não corresponde a realidade).
-
-</div>
-
-##Estrutura a Termo de Taxa Juros (ETTJ)
-
-A Estrutura a Termo de Taxa de Juros é uma maneira de se tentar obter valores de taxas de juros para um período cuja taxa é desconhecida mas se encontra entre dois períodos com taxas conhecidas (chamados de vértices).
+A Estrutura a Termo de Taxa de Juros (ETTJ) é uma maneira de se tentar obter valores de taxas de juros para um período cuja taxa é desconhecida mas se encontra entre dois períodos com taxas conhecidas (chamados de vértices).
 
 Por exemplo, em uma situação onde você conheça a taxa de juros para um título com vencimento em três anos e um título com vencimento em cinco anos, como saber qual será a taxa para um título com vencimento em quatro anos?
 
@@ -171,14 +45,26 @@ Por exemplo, em uma situação onde você conheça a taxa de juros para um títu
 
 A lógica por trás da teoria da ETTJ nos diz que a taxa de juros para o título de quatro anos está ímplicita nas outras duas taxas e que, a partir de uma fórmula matemática que envolve os valores conhecidos, podemos chegar a ela.
 
+## Cálculo da ETTJ
 
-###Análise da ETTJ
+A ETTJ é determinada através de um estudo estatístico de regressão.
+
+O cálculo pode ser feito através do Excel. Para isso:
+
+1. Encontre os vértices (em dias úteis); 
+2. Encontre a taxa para cada vértice;
+3. Plote os valores em um gráfico de dispersão (DU x Taxa);
+4. Retire valores que fogem da curva através de uma avaliação visual do gráfico do passo 3;
+5. Gere a linha de tendência: clique com o botão direito sobre o gráfico > adicionar linha de tendência > selecione regressão polinomial de ordem 4.
+6. Após clicar em OK, o Excel calculará a linha de tendência e a plotará no gráfico.
+
+## Análise da ETTJ
 
 Um uso comum da ETTJ é a obtenção da curva dos juros pagos pelos títulos públicos federais.
 
 Ao se plotar em um gráfico a ETTJ desses títulos, obtêm-se uma curva que pode ser indicativa de algumas tendências econômicas.
 
-####Curva Positiva
+### Curva Positiva
 
 Em situações normais, espera-se que títulos cujo vencimento se dê em prazos mais longos, paguem juros (rendimentos) maiores do que aqueles cujo vencimento seja mais próximo.
 
@@ -226,7 +112,7 @@ Por isso, ao plotarmos uma ETTJ, o normal é que ela tenha um curva ascendente, 
 
 <p class="legenda" style="text-align: center">Figura 1 - ETTJ positiva.</p>
 
-####Curva Neutra ou Negativa
+### Curva Neutra ou Negativa
 
 Se a ETTJ resulta em uma curva neutra (taxas próximas iguais às taxas distantes) ou descendente (taxas próximas maiores do que taxas distante) há alguma característica que afetou a percepção de risco do investidores, fazendo a curva se alterar.
 
@@ -310,7 +196,7 @@ Quando a curva passa de sua forma positiva para uma forma negativa, diz-se que h
 
 Por que isso ocorre?
 
-####Inversão 
+### Inversão 
 
 **Visão dos Investidores**
 
@@ -360,14 +246,4 @@ Teoricamente, todo esse movimento pode ser percebido observando a ETTJ dos títu
 
 
 
- <div class="referencias">
 
-**Referências**:
-
-<p id="1">FORTUNA, Eduardo. <strong>Mercado Financeiro: produtos e serviço</strong>. 18 ed. Rio de Janeiro. Qualitymark, 2010.</p>
-<p id="2">BERGER, Paulo Lamosa. <strong>Mercado de Renda Fixa no Brasil: Ênfase em Títulos Públicos</strong>. 1ª ed. Rio de Janeiro. Interciência, 2015.</p>
-<p id="3">GARRISON, Roger W. <strong>A taxa de juros natural e a taxa de juros neutra</strong>. IMB, 2010. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=606">https://www.mises.org.br/Article.aspx?id=606</a> </p>
-<p id="3">ROQUE, Leandro <strong>Juros, preferência temporal e ciclos econômicos</strong>. IMB, 2009. Disponível em <a href="https://www.mises.org.br/Article.aspx?id=552">https://www.mises.org.br/Article.aspx?id=552</a> </p>
-
-
-</div>

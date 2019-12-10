@@ -41,7 +41,7 @@ Derivativos são negociados em contratos padronizados, tendo previamente especif
 - Prazo de liquidação; e
 - Forma de cotação do ativo-objeto sobre os quais se efetuam as negociações.
 
-Esse tipo de padornização facilita a negociação e a análise dos ativos pelos investidores.
+Esse tipo de padronização facilita a negociação e a análise dos ativos pelos investidores.
 
 ## Utilização
 

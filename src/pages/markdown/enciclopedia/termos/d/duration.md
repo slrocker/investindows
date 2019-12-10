@@ -127,7 +127,7 @@ O cálculo do *duration* de Macaulay funciona da seguinte maneira (fórmula 2):
 
 $$
 
-MacD = { \stackrel{n}{\sum_{\mathclap{t=1}}} \Bigg ( ti \times {VPi \over V} \Bigg) }
+MacD = { \displaystyle\sum_{t=1}^n \Bigg ( ti \times {VPi \over V} \Bigg) }
 
 $$
 
@@ -303,7 +303,7 @@ No Brasil, uma determinação do Conselho Monetário Nacional define a fórmula 
 
 $$
 
-PMP = { \stackrel{n}{\sum_{\mathclap{t=1}}} \Bigg ( ti \times {PVi \over V} \Bigg) \times {1 \over 252} }
+PMP = { \displaystyle\sum_{t=1}^n \Bigg ( ti \times {PVi \over V} \Bigg) \times {1 \over 252} }
 
 $$
 
