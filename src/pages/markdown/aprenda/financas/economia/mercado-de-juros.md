@@ -102,7 +102,7 @@ Os [ciclos econômicos](/aprenda/financas/economia/ciclos-economicos) são perí
 
 Há diversas teorias econômicas que tentam explicar esse fenomeno.
 
-Uma delas, a teoria dos ciclos da escola austríaca, aponta que, ao influenciar a taxa de juros e tornar o crédito barato, o governo acaba mandando um sinal errado para os agentes ecônomicos, que iniciam projetos (iniciando o ciclo de expansão) que no futuro se mostrarão inviáveis e terão de ser terminados (gerando a contração).
+Uma delas, a teoria dos ciclos da escola austríaca, aponta que, ao influenciar a taxa de juros e tornar o crédito barato, o governo acaba mandando um sinal errado para os agentes econômicos, que iniciam projetos (iniciando o ciclo de expansão) que no futuro se mostrarão inviáveis e terão de ser terminados (gerando a contração).
 
 Por exemplo, ao reduzir a taxa de juros para patamares abaixo do equilíbrio natural entre a poupança e a demanda por recursos, o governo envia um sinal de que há dinheiro e recursos disponíveis a um preço baixo.
 

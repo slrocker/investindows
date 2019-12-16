@@ -24,7 +24,7 @@ Atualmente, a principal moeda utilizada para transações internacionais é o d�
 
 <h4>Por que o dólar?</h4>
 
-Atualmente o dólar americano é utilizado como uma espécie de "moeda mundial", sendo a moeda oficial de praticamente todas as negociações internacionais.
+Atualmente, o dólar americano é utilizado como uma espécie de "moeda mundial", sendo a moeda oficial de praticamente todas as negociações internacionais.
 
 Essa situação não ocorreu por acaso.
 
@@ -94,7 +94,7 @@ Essa interferência terá duas consequências:
 - O Banco Central ficará com reservas em dólar; e 
 - O Banco Central precisará imprimir mais reais para poder comprar os dólares.
 
-Segundo o próprio [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais), a função das reservas internacionais é permitir ao país fazer frente às suas obrigações internacionais (pagar suas dívidas) e financiar os importadores — além de servir como lastro para a emissão da moeda nacional
+Segundo o próprio [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/reservasinternacionais), a função das reservas internacionais é permitir ao país fazer frente às suas obrigações internacionais (pagar suas dívidas) e financiar os importadores — além de servir como lastro para a emissão da moeda nacional.
 
 Tendo de imprimir mais reais, a nova oferta monetária acabará trazendo efeitos indesejáveis, como a inflação, prejudicando a [política monetária](/aprenda/financas/economia/politica-monetaria) do governo.
 
@@ -159,13 +159,13 @@ O controle se justificaria porque é através do mercado de câmbio que essas at
 
 Assim, todas as operações de câmbio feitas pelos meios oficiais são reportadas ao governo, não existindo qualquer tipo de confidencialidade. Enviar dinheiro para o exterior sem avisar o governo constitui crime, chamado de evasão de divisas.
 
-Historicamente, controles estatais totalitários sobre qualquer tipo de atividade humana têm resultado basicamente na perda da liberdade dos cidadãos e suas consequências nefastas.
+Historicamente, controles estatais totalitários sobre qualquer tipo de atividade humana têm resultado, basicamente, na perda da liberdade dos cidadãos e suas consequências nefastas.
 
 Ainda que o combate ao crime seja usado como justificativa, determinações como a de que qualquer operação realizada por um cidadão em determinada atividade tenha de ser reportada ao governo precisam ser avaliadas com cautela. 
 
 No fundo, isso representa apenas uma perda da liberdade pessoal e a possibilidade de que governantes exerçam o poder coercitivo do Estado para atender aos próprios interesses e controlar as pessoas.
 
-A remessa de valores para o exterior sempre foi controlada de perto pelos governos, especialmente pelos governos totalitários, pois representa a possibilidade de que o cidadão, em última instância, envie seus recursos para outro país e abandone o barco, protegendo sua liberdade.
+A remessa de valores para o exterior sempre foi controlada de perto pelos governos, especialmente pelos governos totalitários, pois representa a possibilidade de que o cidadão, em última instância, envie seus recursos para outro país e "abandone o barco", protegendo sua liberdade.
 
 </div>
 

@@ -222,7 +222,6 @@ A alternativa para um sistema bancário totalmente regulado é conhecida como *f
 
 Com o recurso de serem salvos por dinheiro público através do Banco Central, há um certo estímulo de que os bancos analisem de forma mais relaxada os riscos em que se envolvem nas suas atividades e acabem entrando em dificuldades com mais frequência.
 
-Artigo interessante sobre o sistema bancário e suas alternativas pode ser lido no *site* do [Instituto Mises Brasil](https://www.mises.org.br/Article.aspx?id=311).
 
 </div>
 
