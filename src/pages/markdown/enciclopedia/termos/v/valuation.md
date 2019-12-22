@@ -186,9 +186,13 @@ Assim, **a correção da análise depende muito mais da habilidade do analista e
 Antes de sair querendo se aproveitar da "ineficiência do mercado", o investidor iniciante precisa verificar qual o custo-benefício em se manter fora do mercado buscando "ações com desconto" em relação à outras estratégias mais simples como a diversificação, formação de preço-médio etc.
 
 
-Alguns investidores optam por seguir as recomendações dos analistas profissionais. Sempre que utilizar análises de terceiros, deverá verificar os parâmetros e premissas utilizadas pelo analista para ver se concorda com elas.
+Alguns investidores optam por seguir as recomendações dos analistas profissionais.
+
+Sempre que utilizar análises de terceiros, é importante que o investidor verifique os parâmetros e premissas utilizadas pelo analista para ver se concorda com elas.
 
 
 
-Por fim, além de não haver garantias de acerto na análise, a estratégia também não garante maiores retornos. Há muitas empresas consideradas "caras" ou sobrevalorizadas que continuam dando retorno e satisfação aos seus acionistas ano após ano. Nesses casos, o critério **boa empresa** mostrou-se mais importante do que o **estar subvalorizado** para o rendimento final do investidor.
+Por fim, além de não haver garantias de acerto na análise, a estratégia também não garante maiores retornos.
+
+ Há muitas empresas consideradas "caras" ou sobrevalorizadas que continuam dando retorno e satisfação aos seus acionistas ano após ano. Nesses casos, o critério **boa empresa** mostrou-se mais importante do que o **estar subvalorizado** para o rendimento final do investidor.
 
