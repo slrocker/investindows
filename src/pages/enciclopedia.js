@@ -71,7 +71,7 @@ const EnciclopediaPage = () => {
                 url = ""
             />
             <h1 className={enciclopediaStyles.title}>Enciclopédia</h1>
-            <p className={enciclopediaStyles.subtitle}>Termos relacionados à finanças e economia explicados.</p>
+            <p className={enciclopediaStyles.subtitle}>Em dúvida sobre algo? Dê uma olhada na nossa enciclopédia.</p>
             <div className ={enciclopediaStyles.content}>
                 
                     

@@ -23,7 +23,7 @@ A estratégia de operar utilizando o momento tem como objetivo ganhar com a cont
 
 As explicações para que essa tendência exista são variadas, incluindo [aspectos psicológicos](/aprenda/financas/psicologia/vieses-psicologicos) do comportamento humano.
 
-Para a tomada de decisão decompra e venda de ativos são utilizados indicadores de análise técnica e estatísticos, tais como:
+Para a tomada de decisão de compra e venda de ativos são utilizados indicadores de análise técnica e estatísticos, tais como:
 
 - [Médias móveis](/enciclopedia/termos/m/media-movel); 
 - [Taxa de Variação](/enciclopedia/termos/t/taxa-de-variacao) (*Rate of Change*); e
@@ -45,7 +45,7 @@ Ajustar o momento pelo risco nada mais é do que comparar algum índicador de mo
 
 ### Exemplo
 
-Na [metodologia de cálculo](https://portugues.spindices.com/documents/methodologies/methodology-sp-b3-indices-portuguese.pdf?force_download=true) do índice de Momento da B3, vemos que o **momento** é calculado utilizandos a variação do preço em um período de 12 meses.
+Na [metodologia de cálculo](https://portugues.spindices.com/documents/methodologies/methodology-sp-b3-indices-portuguese.pdf?force_download=true) do Índice de Momento da B3, vemos que o **momento** é calculado utilizandos a variação do preço em um período de 12 meses.
 
 $$
 

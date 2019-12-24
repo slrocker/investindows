@@ -45,7 +45,7 @@ Assim, comparando uma empresa com empresas semelhantes ou que atuam em setores p
 
 ## Exemplo
 
-Vamos apresentar um exemplo do cálculo do fluxo de caixa descontado bastante simplificado apenas para que você tenha uma ideia geral do que seria fazer um *valuation*.
+Vamos apresentar um exemplo do cálculo do fluxo de caixa descontado bastante simplificado, apenas para que você tenha uma ideia geral do que seria fazer um *valuation*.
 
 Suponha que você vai comprar a empresa INVESTINDO S.A.
 
@@ -59,9 +59,9 @@ Essas características devem adicionar algum valor na empresa, certo?
 
 Como seria muito difícil tentar precificar essas coisas sem usar algum aspecto concreto de análise, vamos tentar encontrar uma preço adequado para a empresa considerando a sua perspectiva de ganhos futuros. 
 
-Assim, somando o patrimônio da empresa com a sua perspectiva de ganhos, chegaríamos a um **preço justo** a pagar pela empresa.
+Assim, analisando o patrimônio da empresa e a sua perspectiva de ganhos, chegaríamos a um **preço justo** a pagar pela empresa.
 
-Acima desse preço, o comprador estaria pagando caro e reduzindo os seus retornos futuros com a empresa.
+Acima desse preço, o comprador estaria pagando caro e reduzindo a possibilidade de ter bons retornos futuros com a empresa.
 
 Abaixo desse valor, o vendedor estaria recebendo menos do que a empresa valeria.
 
@@ -72,7 +72,7 @@ Para saber quanto seria justo pagar pelas ações dessa empresa vamos projetar o
 
 Digamos que o lucro da empresa no ano tenha sido de R\$10.000,00.
 
-Através de cálculos cuja complexidade vai além do exemplo, estimamos uma taxa de crescimento de 10% para o lucro dos anos vindouros.
+Através de cálculos cuja complexidade vai além do escopo deste exemplo, estimamos uma taxa de crescimento de 10% para o lucro dos anos vindouros.
 
 Teremos, então, a seguinte perspectiva de lucros:
 
