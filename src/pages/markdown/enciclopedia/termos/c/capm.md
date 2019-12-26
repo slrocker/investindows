@@ -70,9 +70,8 @@ No Brasil, pode-se utilizar também a [taxa DI](/aprenda/financas/economia/taxa-
 
 ### Beta
 
-O [beta](/enciclopedia/termos/b/beta) é a covariância do ativo analisado em relação ao mercado.
+O [beta](/enciclopedia/termos/b/beta) é uma medida da correlação do ativo analisado em relação ao mercado.
 
-Covariância é um termos estatístico que relaciona a variação de dois conjuntos de dados.
 
 Por exemplo, imagine uma ação que sobe 20% quando o [IBOVESPA](/enciclopedia/termos/i/ibovespa) sobe 10% e cai 10% quando o IBOVESPA cai 5%.
 
