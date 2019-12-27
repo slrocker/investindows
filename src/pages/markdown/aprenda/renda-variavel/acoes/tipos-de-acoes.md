@@ -13,7 +13,7 @@ pageType: "page"
 showIndex: "false"
 ---
 
-No Brasil, existem dois tipos de ações:
+No Brasil, existem dois tipos (espécie) de ações:
 
 - Ordinárias; e
 - Preferenciais.
@@ -23,7 +23,7 @@ Existem também dois ativos que são negociados como ações, apesar de terem ca
 - Certificado de depósito de ações (UNIT); e
 - Recibo de depósito brasileiro (Brazilian Depositary Receipt - BDR).
 
-##Ações Ordinárias (ON)
+## Ações Ordinárias (ON)
 
 Ações ordinárias são ações que dão direito ao seu possuidor de votar nas assembleias de acionistas da empresa.
 
@@ -49,7 +49,7 @@ O direito de receber parte do valor oferecido por ação aos controladores no ca
 
 </div>
 
-###Código de Negociação
+### Código de Negociação
 
 Ações ordinárias são negociadas na Bolsa com ó número **3** após as letras identificadoras da empresa emissora:
 
@@ -59,7 +59,38 @@ Ações ordinárias são negociadas na Bolsa com ó número **3** após as letra
 - CIEL3: Ações ordinárias da Cielo S.A.;
 - ABEV3: Ações ordinárias da Ambev S.A.
 
-##Ações Preferencias (PN)
+### Classes
+
+Ações Ordinárias podem ter diferentes classes (A, B, C etc.).
+
+Cada classe de ação terá um direito específico previsto no Estatuto Social.
+
+Por exemplo, é comum em empresas estatais privatizadas que o governo possua uma ação de classe diferenciada que lhe dá poderes especiais de votação ou veto, comparado às demais ações.
+
+<div class="citacao">
+
+ART. 9º - A ação ordinária de classe especial confere à União poder de veto nas seguintes matérias:
+ 
+I. Mudança de denominação da Companhia ou de seu objeto social;
+
+II. Alteração e/ou aplicação da logomarca da Companhia;
+
+III. Criação e/ou alteração de programas militares, que envolvam ou não a República Federativa do Brasil;
+
+IV. Capacitação de terceiros em tecnologia para programas militares;
+
+V. Interrupção de fornecimento de peças de manutenção e reposição de aeronaves militares;
+
+VI. Transferência do controle acionário da Companhia;
+
+VII. Quaisquer alterações: (i) às disposições deste artigo, do art. 4, do caput do art. 10, dos arts. 11, 14 e 15, do inciso III do art.18, dos parágrafos 1º. e 2º. do art. 27, do inciso X do art. 33, do inciso XII do art. 39 ou do Capítulo VII; ou ainda (ii) de direitos atribuídos por este Estatuto Social à ação de classe especial.
+
+
+</div>
+
+<p class="legenda" style="text-align:center">Figura 1 - Trecho do Estatuto Social da EMBRAER S.A. que trata a respeito da ação de classe especial (<em>golden share</em>) do governo brasileiro.</p>
+
+## Ações Preferencias (PN)
 
 Ações preferenciais podem ser entendidas como uma espécie de título de dívida.
 
@@ -161,3 +192,4 @@ Caso ocorra uma situação onde a empresa não possa pagar dividendos às açõe
 Além disso, empresas que só possuem ações preferenciais ou UNIT estão dando um claro sinal ao investidor de que elas não estão preocupadas com seu sócios minoritários e estão na Bolsa apenas para se financiarem.
 
 No final das contas, você terá de avaliar caso a caso e concluir qual a melhor opção para a sua estratégia de investimento.
+

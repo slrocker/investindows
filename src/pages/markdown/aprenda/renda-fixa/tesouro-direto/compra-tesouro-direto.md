@@ -16,82 +16,76 @@ showIndex: "false"
 <p style="color:red"><strong>OBS:</strong> As imagens mostradas nesta página são apenas representações dos sistemas oficiais e podem não estar condizentes com o que o investidor verá acessando o sistema.</p>
 
 
-##Como comprar um título do Tesouro Direto?
+## Como comprar um título do Tesouro Direto?
 
-1. Inicialmente, acesse o [sistema](https://tesourodireto.bmfbovespa.com.br/portalinvestidor/) utilizando o seu *login* e senha.
+1. Inicialmente, acesse o [sistema](https://www.tesourodireto.com.br/) utilizando o seu *login* e senha.
 
-2. Para comprar um título dentro do sistema do Tesouro Direto, acesse "INVESTIR E RESGATAR", opção "INVESTIR":
+2. Para comprar um título dentro do sistema do Tesouro Direto, acesse a opção "INVESTIR" do menu lateral;
 
-![Tesouro Direto - Menu](../img/menu-investir-td.jpg)
+3. Serão mostrados os títulos disponíveis para a venda:
 
-<p class="legenda" style="text-align:center">Figura 1 - Menu do Tesouro Direto.</p>
+![Tesouro Direto - Titulos à Venda](../img/comprar-td-001.jpg)
 
-3. Selecione a opção "Investir" e a corretora que utilizará como intermediária.
-
-4. Observe os títulos disponíveis para compra:
-
-![Tesouro Direto - Titulos à Venda](../img/titulos-para-investir-td.jpg)
-
-<p class="legenda" style="text-align:center">Figura 2 - Tela dos títulos disponíveis para compra no Tesouro Direto.</p>
+<p class="legenda" style="text-align:center">Figura 1 - Tela dos títulos disponíveis para compra no Tesouro Direto.</p>
 
 
-5. Preencha os valores que deseja comprar, seja em quantidade (múltiplos de 0,01) ou montante financeiro (o *site* preencherá automaticamente os outros campos) e clique em "CONTINUAR".
+4. Escolha o título em que deseja investir e clique em "ADICIONAR". O título será adicionado ao carrinho;
 
-6. Confira na tela de confirmação se está tudo correto:
+5. Após adicionar todos os títulos, clique no ícone do carrinho;
 
-![Tesouro Direto - Confirmação de Compra](../img/confirmar-compra-td.jpg)
+6. Escolha a corretora em que deseja executar a compra;
 
-<p class="legenda" style="text-align:center">Figura 3- Tela de confirmação de compra.</p>
+7. Defina os valores que deseja investir e selecione "AGORA" para executar a compra à vista:
 
-7. Confirmada a operação, você verá o protocolo de compra, que comprova a operação que você acabou de executar:
+![Tesouro Direto - Carrinho](../img/comprar-td-002.jpg)
 
-![Tesouro Direto - Protocolo](../img/tela-sucesso-compra-td.jpg)
+<p class="legenda" style="text-align:center">Figura 2 - Carrinho de compras do Tesouro Direto.</p>
 
-<p class="legenda" style="text-align:center">Figura 4 - Protocolo de compra do Tesouro Direto.</p>
+7. Após digitar os valores que deseja, clique em "INVESTIR";
 
-##Agendar uma Compra
+8. Confira se os valores estão corretos e clique em "CONFIRMAR":
+
+![Tesouro Direto - Confirmação](../img/comprar-td-003.jpg)
+
+<p class="legenda" style="text-align:center">Figura 3 - Tela de confirmação.</p>
+
+9. Será mostrado o protocolo de compra:
+
+![Tesouro Direto - Protocolo](../img/comprar-td-004.jpg)
+
+<p class="legenda" style="text-align:center">Figura 4 - Tela de confirmação.</p>
+
+## Agendar uma Compra
 
 Ao agendar uma compra, você terá algumas possibilidades:
 
  - Programar um agendamento único; ou
- - Programar rendimentos periódicos, escolhendo a periodicidade, a data ou número de operações limite ou definindo que sejam executadas até que você comande o cancelamento.
+ - Programar agendamentos mensais, definindo a quantidade de meses.
 
 
+1. Para agendar uma compra, acesse a opção "INVESTIR" do menu lateral;
 
-É possível agendar investimentos em até quatro títulos diferentes.
+2. Serão mostrados os títulos disponíveis para a venda (figura 1);
 
-1. Inicialmente, acesse o menu INVESTIR E RESGATAR e selecione a opção INVESTIR.
+3. Escolha o título em que deseja investir e clique em "ADICIONAR". O título será adicionado ao carrinho;
 
-![Tesouro Direto - Menu](../img/menu-investir-td.jpg)
+4. Após adicionar todos os títulos, clique no ícone do carrinho;
 
-<p class="legenda" style="text-align:center">Figura 5 - Menu do Tesouro Direto</p>
+5. Selecine a quantidade de cada título que deseja comprar;
 
-2. Selecione a opção "Agendar um Investimento" e a corretora que intermediará a compra.
+6. Selecione a opção "AGENDAR";
 
-![Tesouro Direto - Menu](../img/tela-agendamento-compra-td.jpg)
+7. Defina se deseja fazer um agendamento único ou agendamentos mensais;
 
-<p class="legenda" style="text-align:center">Figura 6 - Seleção de Agendamento e Corretora.</p>
+![Tesouro Direto - Agendar Investimento](../img/comprar-td-005.jpg)
 
+<p class="legenda" style="text-align:center">Figura 5 - Agendar Investimento.</p>
 
-3. Selecione as opções de agendamento que deseja e informe no campo "VALOR DESEJADO" o quanto deseja aplicar regularmente. 
+8. Clique em "INVESTIR";
 
-![Tesouro Direto - Opções de Agendamento](../img/opcoes-agendamento-compra-td.jpg)
+9. Confira se as informações estão corretas e clique em "CONFIRMAR";
 
-<p class="legenda" style="text-align:center">Figura 7 - Opções de Agendamento.</p>
-
-![Tesouro Direto - Títulos](../img/titulos-para-agendar-compra-td.jpg)
-
-<p class="legenda" style="text-align:center">Figura 8 - Títulos para Agendamento.</p>
-
-
-4. Clque em continuar e verifique se o fluxo de agendamento está correto:
-
-![Tesouro Direto - Confirmação Agendamento](../img/confirmar-agendamento-compra-td.jpg)
-
-<p class="legenda" style="text-align:center">Figura 9 - Tela de confirmação de compra.</p>
-
-5.Após clicar em "CONFIRMAR", você verá o protocolo de agendamento.
-
+10. Será mostrado o protocolo de agendamento.
 
 <div class="borderBox">
 
@@ -105,16 +99,27 @@ Para evitar problemas, antes de comprar, já tenha disponível o dinheiro em con
 
 </div>
 
-##Cancelando ou Alterando Agendamentos
+## Verificar ou Cancelar um Agendamento
 
-1. Acesse "CONSULTAR", opção "Agendamentos":
+1. Acesse a opção "AGENDAMENTOS" do menu:
 
-![Tesouro Direto - Menu](../img/menu-consulta-agendamentos-td.jpg)
+![Tesouro Direto - Consultar Agendamentos](../img/agendamento-td-001.jpg)
 
-2. Selecione o tipo de agendamento, a data e a corretora custodiante e clique em "CONSULTAR":
+<p class="legenda" style="text-align:center">Figura 6 - Agendar Investimento.</p>
 
-![Tesouro Direto - Titulos](../img/consulta-de-agendamentos-td.jpg)
+2. Clique no agendamento que deseja alterar, serão mostradas as informações do agendamento:
 
-3. Selecione o agendamento e clique em "CANCELAR" para cancelá-lo ou "EDITAR" para alterá-lo.
+![Tesouro Direto - Informações do Agendamento](../img/agendamento-td-002.jpg)
 
-4. Caso decida editar o agendamento, o processo é semelhante ao item anterior.
+<p class="legenda" style="text-align:center">Figura 7 - Agendar Investimento.</p>
+
+3. Caso deseje cancelar o agendamento, clique em "CANCELAR AGENDAMENTO";
+
+4. O sistema mostrará uma mensagem de confirmação;
+
+5. Após confirmar o cancelamento, o agendamento passará para o status "CANCELADO":
+
+![Tesouro Direto - Agendamento Cancelado](../img/agendamento-td-003.jpg)
+
+<p class="legenda" style="text-align:center">Figura 8 - Agendar Investimento.</p>
+
