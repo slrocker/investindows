@@ -13,7 +13,7 @@ pageType: "page"
 showIndex: "false"
 ---
 
-<p style="color:red"><strong>OBS:</strong> As imagens mostradas nesta página são apenas representações dos sistemas oficiais e podem não estar condizentes com o que o investidor verá acessando o sistema.</p>
+<p style="color:red"><strong>OBS:</strong> As imagens mostradas nesta página são apenas representações dos sistemas oficiais e podem estar incondizentes com o que o investidor verá acessando o sistema.</p>
 
 
 ## Como comprar um título do Tesouro Direto?
@@ -62,6 +62,7 @@ Ao agendar uma compra, você terá algumas possibilidades:
  - Programar um agendamento único; ou
  - Programar agendamentos mensais, definindo a quantidade de meses.
 
+### Angendamento Único 
 
 1. Para agendar uma compra, acesse a opção "INVESTIR" do menu lateral;
 
@@ -75,17 +76,34 @@ Ao agendar uma compra, você terá algumas possibilidades:
 
 6. Selecione a opção "AGENDAR";
 
-7. Defina se deseja fazer um agendamento único ou agendamentos mensais;
+7. Selecione "AGENDAMENTO ÚNICO";
+
+8. Seleciona a data do investimento;
+
+9. Clique em "INVESTIR";
+
+10. Confira se as informações estão corretas e clique em "CONFIRMAR"; e
+
+11. Será mostrado o protocolo de agendamento.
+
+### Agendamentos Mensais
+
+1. Para fazer agendamentos mensais, no carrinho selecione "AGENDAMENTOS MENSAIS";
+
+2. Digite a data do primeiro agendamento;
+
+3. Escolha por quantos meses deseja repetir os investimentos:
 
 ![Tesouro Direto - Agendar Investimento](../img/comprar-td-005.jpg)
 
 <p class="legenda" style="text-align:center">Figura 5 - Agendar Investimento.</p>
 
-8. Clique em "INVESTIR";
+4. Clique em "INVESTIR";
 
-9. Confira se as informações estão corretas e clique em "CONFIRMAR";
+5. Confira as informações e clique em "CONFIRMAR"; e
 
-10. Será mostrado o protocolo de agendamento.
+6. Será mostrado o protocolo de agendamento.
+
 
 <div class="borderBox">
 
@@ -105,21 +123,21 @@ Para evitar problemas, antes de comprar, já tenha disponível o dinheiro em con
 
 ![Tesouro Direto - Consultar Agendamentos](../img/agendamento-td-001.jpg)
 
-<p class="legenda" style="text-align:center">Figura 6 - Agendar Investimento.</p>
+<p class="legenda" style="text-align:center">Figura 6 - Consultar agendamentos.</p>
 
 2. Clique no agendamento que deseja alterar, serão mostradas as informações do agendamento:
 
 ![Tesouro Direto - Informações do Agendamento](../img/agendamento-td-002.jpg)
 
-<p class="legenda" style="text-align:center">Figura 7 - Agendar Investimento.</p>
+<p class="legenda" style="text-align:center">Figura 7 - informações de agendamento.</p>
 
 3. Caso deseje cancelar o agendamento, clique em "CANCELAR AGENDAMENTO";
 
 4. O sistema mostrará uma mensagem de confirmação;
 
-5. Após confirmar o cancelamento, o agendamento passará para o status "CANCELADO":
+5. Após confirmar o cancelamento, o agendamento passará para o *status* "CANCELADO":
 
 ![Tesouro Direto - Agendamento Cancelado](../img/agendamento-td-003.jpg)
 
-<p class="legenda" style="text-align:center">Figura 8 - Agendar Investimento.</p>
+<p class="legenda" style="text-align:center">Figura 8 - Agendamento Cancelado.</p>
 

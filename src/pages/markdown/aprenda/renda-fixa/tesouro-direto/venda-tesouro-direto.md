@@ -16,73 +16,73 @@ showIndex: "false"
 <p style="color:red"><strong>OBS:</strong> As imagens mostradas nesta página são apenas representações dos sistemas oficiais e podem não estar condizentes com o que o investidor verá acessando o sistema.</p>
 
 
-##Como vender um título do Tesouro Direto?
+## Como vender um título do Tesouro Direto?
 
-1. Inicialmente, acesse o [sistema](https://tesourodireto.bmfbovespa.com.br/portalinvestidor/) utilizando o seu *login* e senha.
+1. Inicialmente, acesse o [sistema](https://www.tesourodireto.com.br/) utilizando o seu *login* e senha.
 
-2. Para vender um título dentro do sistema do Tesouro Direto, acesse "INVESTIR E RESGATAR", opção "RESGATAR":
+2. No menu lateral, selecione a opção "RESGATAR";
 
-![Tesouro Direto - Menu](../img/menu-resgatar-td.jpg)
+3. Selecione a corretora onde estão custodiados os títulos;
 
-<p class="legenda" style="text-align:center">Figura 1 - Menu do Tesouro Direto.</p>
+![Tesouro Direto - Títulos para Resgate](../img/resgatar-td-001.jpg)
 
-3. Selecione a opção "Resgatar" e a corretora onde seus títulos estão custodiados.
+<p class="legenda" style="text-align:center">Figura 1 - Títulos para resgate.</p>
 
-4. O sistema mostrará os títulos que você possui:
+4. Escolha o título que deseja resgatar e clique em "+ ADICIONAR";
 
-![Tesouro Direto - Títulos em Custódia](../img/titulos-para-resgate-td.jpg)
+5. Selecione o valor que deseja resgatar:
 
-<p class="legenda" style="text-align:center">Figura 2 - Tela dos títulos disponíveis para compra no Tesouro Direto.</p>
+![Tesouro Direto - Selecionar Quantidade](../img/resgatar-td-002.jpg)
+
+<p class="legenda" style="text-align:center">Figura 2 - Selecionar quantidade.</p>
+
+6. Clique em "RESGATAR";
+
+7. Confira os valores e clique em "CONFIRMAR";
+
+8. Será mostrado o protocolo de resgate.
 
 
-5. Preencha os valores que deseja resgatar, seja em quantidade (múltiplos de 0,01) ou montante financeiro (o *site* preencherá automaticamente os outros campos) e clique em "CONTINUAR".
 
-6. Confira na tela de confirmação se está tudo correto:
 
-![Tesouro Direto - Tela de Confirmação](../img/confirmar-venda-td.jpg)
 
-<p class="legenda" style="text-align:center">Figura 3- Tela de confirmação de compra.</p>
+## Agendar uma Venda
 
-7. Confirmada a operação, você verá o protocolo de resgate, que comprova a operação que você acabou de executar:
+1. Para agendar um resgate, no carrinho, selecione "AGENDAR":
 
-![Tesouro Direto - Protocolo](../img/tela-sucesso-venda-td.jpg)
+![Tesouro Direto - Agendar Resgate](../img/resgatar-td-003.jpg)
 
-<p class="legenda" style="text-align:center">Figura 4 - Protocolo de compra do Tesouro Direto.</p>
+<p class="legenda" style="text-align:center">Figura 3 - Agendar resgate.</p>
 
-**Fique atento. Se você fizer uma venda após as 18:00, o sistema procederá da mesma forma que um agendamento para o dia seguinte.**
+2. Selecione a data do resgate;
 
-##Agendar uma Venda
+3. Clique em "RESGATAR";
 
-1. Para vender um título dentro do sistema do Tesouro Direto, acesse "INVESTIR E RESGATAR", opção "RESGATAR":
+4. Confira as informações e clique em "CONFIRMAR";
 
-![Tesouro Direto - Menu](../img/menu-resgatar-td.jpg)
+5. Será mostrado o protocolo de agendamento.
 
-2. Selecione a opção "Agendar um Resgate".
+## Verificar ou Cancelar um Agendamento
 
-3. Selecione a corretora que custodia os títulos e defina a data de resgate e a modalidade:
+1. Acesse a opção "AGENDAMENTOS" do menu:
 
-![Tesouro Direto - Opções](../img/opcoes-agendamento-resgate-td.jpg)
+![Tesouro Direto - Consultar Agendamentos](../img/agendamento-td-001.jpg)
 
-4. Serão mostrados os títulos que você possui.
+<p class="legenda" style="text-align:center">Figura 4 - Consultar agendamentos.</p>
 
-5. Selecione a data de venda e quantidade de cada título;
+2. Clique no agendamento que deseja alterar, serão mostradas as informações do agendamento:
 
-![Tesouro Direto - Titulos](../img/titulos-para-agendamento-resgate-td.jpg)
+![Tesouro Direto - Informações do Agendamento](../img/agendamento-td-002.jpg)
 
-6. Clique em "CONTINUAR" e confira se as informações estão corretas.
+<p class="legenda" style="text-align:center">Figura 5 - informações de agendamento.</p>
 
-7. Caso esteja tudo certo, clique em "CONCLUIR" e você verá o protocolo de resgate.
+3. Caso deseje cancelar o agendamento, clique em "CANCELAR AGENDAMENTO";
 
-##Cancelando ou Alterando Agendamentos
+4. O sistema mostrará uma mensagem de confirmação;
 
-1. Acesse "CONSULTAR", opção "Agendamentos":
+5. Após confirmar o cancelamento, o agendamento passará para o *status* "CANCELADO":
 
-![Tesouro Direto - Menu](../img/menu-consulta-agendamentos-td.jpg)
+![Tesouro Direto - Agendamento Cancelado](../img/agendamento-td-003.jpg)
 
-2. Selecione o tipo de agendamento, a data e a corretora custodiante e clique em "CONSULTAR":
+<p class="legenda" style="text-align:center">Figura 6 - Agendamento Cancelado.</p>
 
-![Tesouro Direto - Titulos](../img/consulta-de-agendamentos-td.jpg)
-
-3. Selecione o agendamento e clique em "CANCELAR" para cancelá-lo ou "EDITAR" para alterá-lo.
-
-4. Caso decida editar o agendamento, o processo é semelhante ao item anterior.
