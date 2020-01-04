@@ -33,7 +33,7 @@ const Footer = () => {
                     </svg></a>
                 </li>
             </ul>
-            <p>INVESTINDO.ORG © 2019</p>
+            <p>INVESTINDO.ORG © 2020</p>
         </footer>
     )
 }
