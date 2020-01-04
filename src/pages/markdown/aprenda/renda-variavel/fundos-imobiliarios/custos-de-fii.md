@@ -19,7 +19,8 @@ As taxas para se investir em cotas de Fundos de Investimento Imobiliário (FII) 
 - **Corretagem**: valor pago à corretora de valores para execução da ordem de compra ou venda;
 - **Emolumentos**: taxa paga à Bolsa de Valores para execução de uma ordem;
 - **Liquidação**: taxa paga à Bolsa de Valores para execução de uma ordem;
-- **Taxa de Custódia**: taxa paga para a Bolsa de Valores para manutenção da conta de custódia; e
+- **Taxa de Custódia**: taxa paga para a Bolsa de Valores para manutenção da conta de custódia;
+- **Taxa de Processamento**: taxa paga no recebimento de rendimentos; e
 - **Imposto de Renda**: cobrado quando você vende uma cota e tem lucro na operação.
 
 ##Corretagem
@@ -102,18 +103,45 @@ R\$100,00(cotas) + R\$0,03(taxas) = R\$100,03
 
 $$
 
-##Taxa de Custódia
+Essas taxas são cobradas no momento da execução da operação, sendo adicionadas ao valor que o investidor pagará na nota de corretagem.
 
-A conta de custódia é a conta eletrônica onde ficam "guardadas" as cotas do investidor. Para manutenção dessa conta a Bolsa cobra uma taxa chamada de taxa de custódia.
+## Taxa de Custódia
 
-Essa taxa é um valor fixo mensal (que na época em que este artigo foi escrito estava em torno de R$10,00 dependendo do valor total investido).
+A conta de custódia é a conta eletrônica onde ficam "guardadas" as ações do investidor. Para manutenção dessa conta a Bolsa cobra uma taxa chamada de taxa de custódia.
 
-Se você for um investidor com altos valores investidos (acima de R\$300.000,00) é cobrada também uma taxa percentual sobre o patrimônio total.
+Essa taxa é um valor percentual mensal cobrado de investidores que **possuem mais de R$20.000,00** em ativos custodiados.
 
-Os valores exatos podem ser conferidos no [*site*](http://www.b3.com.br/pt_br/produtos-e-servicos/tarifas/servicos-da-central-depositaria/tarifas-de-servicos-de-custodia/) da B3.
+A tarifa será calculada diariamente com base no valor da carteira do investidor. É aplicado um percentual (pro rata dia), de forma progressiva de acordo com a tabela constante no [*site*](http://www.b3.com.br/pt_br/produtos-e-servicos/tarifas/servicos-da-central-depositaria/tarifas-de-servicos-de-custodia/) da B3.
 
-É comum que as corretoras não repassem essa tarifa ao investidor caso ele faça uma operação no mês que pague taxa de corretagem ou outro pré-requisito qualquer.
+Essa taxa é descontada da conta corrente da corretora do investidor.
 
-##Tributação
+## Taxa de Processamento
+
+Essa é uma tarifa cobrada para o processamento de rendimentos recebidos pelos investidores que **possuam mais de R$20.000,00** em ativos custodiados.
+
+Na época em que este artigo foi escrito, a taxa cobrada era de 0,12% sobre cada evento, sendo o valor máximo por operação de R\$5.000,00
+
+Essa taxa é descontada dos proventos recebidos pelo investidor.
+
+
+
+## Tributação
+
+### Negociação
 
 A alíquota de imposto de renda que incide sobre ganho de capital nas operações com cotas de FII é de **20% sobre o lucro das operações**.
+
+### Rendimentos
+
+Rendimentos de FII são isentos de imposto desde que se cumpram os seguintes requisitos:
+
+**Para o Fundo de Investimento Imobiliário**:
+
+- Ter as cotas negociadas exclusivamente em bolsas de valores ou no mercado de balcão organizado; e
+- Possuir, no mínimo, 50 cotistas.
+
+**Para o cotista**:
+
+- Possuir quantidade de cotas menor que 10% do total de cotas emitidas pelo FII;
+- Possuir quantidade de cotas que lhe deem direito a receber menos de 10% do total de rendimentos do Fundo; e
+- Ser pessoa física.

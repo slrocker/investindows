@@ -15,68 +15,55 @@ showIndex: "false"
 
 No sistema do Tesouro Direto é possível programar o reinvestimento automático de títulos que irão vencer e cupons que serão recebidos.
 
-##Como programar um reinvestimento automático?
+## Como programar um reinvestimento automático?
 
-###Títulos
+### Títulos
 
-1. Acesse o menu "INVESTIR E RESGATAR", opção "REINVESTIR".
-
-![Tesouro Direto - Menu](../img/menu-reinvestir-td.jpg)
+1. Acesse a opção "REINVESTIR" do menu lateral;
 
 2. Selecione a corretora onde os títulos estão custodiados;
 
-3. Preencha a DATA DE REINVESTIMENTO. O valor será aplicado na data de vencimento do título ou no dia útil seguinte.
+3. Clique em "ADICIONAR" nos títulos para os quais deseja programar o reinvestimento;
 
-4. Serão mostrados os títulos em custódia e os títulos disponíveis para reinvestimento.
+4. Selecione o percentual do título a ser reinvestido;
 
-5. Escolha em qual título deseja reaplicar o título a vencer e qual o percentual do valor resgatado será aplicado no título.
+5. Clique em "SELECIONAR OPÇÃO" e escolha o título em que deseja reinvestir o dinheiro resgatado;
 
-![Tesouro Direto - Cupons](../img/reinvestimento-titulos-td.jpg)
+6. Confira as informações no resumo lateral e clique em "REINVESTIR";
 
-OBS: O site só permite aplicar o valor resgatado (ou parte dele) em um único título.
+![Tesouro Direto - Reinvestir Títulos](../img/reinvestimento-td-001.jpg)
 
-6.Clique em "CONTINUAR" e confira as informações.
+<p class="legenda" style="text-align:center">Figura 1 - Programando um reinvestimento automático de título.</p>
 
-![Tesouro Direto - Confirmação](../img/confirmacao-reinvestimento-titulos-td.jpg)
+7. Será  mostrado o fluxo de reinvestimento. Confira os dados e clique em "REINVESTIR"; e
 
-7. Caso esteja tudo correto, clique em "CONFIRMAR" e você verá o protocolo do agendamento.
+8. Será mostrado o protocolo de reinvestimento.
 
 
+### Cupons
 
-###Cupons
-
-1. Acesse o menu "INVESTIR E RESGATAR", opção "REINVESTIR".
-
-![Tesouro Direto - Menu](../img/menu-reinvestir-td.jpg)
+1. Acesse a opção "REINVESTIR" do menu lateral;
 
 2. Selecione a corretora onde os títulos estão custodiados;
 
-3. Preencha a DATA DE REINVESTIMENTO. Esta data deve coincidir com a data em que você receberá o primeiro cupom.
+3. Clique em "ADICIONAR" nos títulos em que deseja programar o reinvestimento;
 
-4. Serão mostrados os títulos que pagam cupom e os títulos disponíveis para investimento.
+4. Selecione o percentual do cupom a ser reinvestido;
 
-5. Escolha em qual título deseja reaplicar o cupom e qual o percentual do valor recebido do cupom será aplicado no título.
+5. Defina a data inicial do reinvestimento. Essa data deve ser igual ou anterior a data de recebimento do primeiro cupom que você deseja reinvestir;
 
-![Tesouro Direto - Titulos](../img/reinvestimento-cupons-td.jpg)
+![Tesouro Direto - Reinvestir Títulos](../img/reinvestimento-td-002.jpg)
 
-OBS: O site só permite aplicar o cupom (ou parte dele) em um único título.
+<p class="legenda" style="text-align:center">Figura 2 - Programando reinvestimento de cupons.</p>
 
-6.Clique em "CONTINUAR" e confira as informações.
+6. Confira as informações no resumo lateral e clique em "REINVESTIR";
 
-![Tesouro Direto - Confirmação](../img/confirmacao-reinvestimento-cupons-td.jpg)
+7. Será mostrado o fluxo de reinvestimento dos cupons:
 
-7. Caso esteja tudo correto, clique em "CONFIRMAR" e você verá o protocolo do agendamento.
+![Tesouro Direto - Reinvestir Títulos](../img/reinvestimento-td-003.jpg)
 
-##Cancelando ou Alterando Agendamentos
+<p class="legenda" style="text-align:center">Figura 3 - Fluxo de reinvestimento de cupons.</p>
 
-1. Acesse "CONSULTAR", opção "Agendamentos":
+8. Confira as informações e clique em REINVESTIR; e
 
-![Tesouro Direto - Menu](../img/menu-consulta-agendamentos-td.jpg)
-
-2. Selecione o tipo de agendamento, a data e a corretora custodiante e clique em "CONSULTAR":
-
-![Tesouro Direto - Titulos](../img/consulta-de-agendamentos-td.jpg)
-
-3. Selecione o agendamento e clique em "CANCELAR" para cancelá-lo ou "EDITAR" para alterá-lo.
-
-4. Caso decida editar o agendamento, o processo é semelhante ao item anterior.
+9. Será mostrado o protocolo de reinvestimento.
