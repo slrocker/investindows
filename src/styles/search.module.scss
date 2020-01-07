@@ -1,0 +1,71 @@
+.closeButton{
+
+  
+ position: absolute;
+ right:3%;
+ top: 2%;
+
+}
+
+.modalContainer{
+
+    margin-top: 3rem;
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+
+
+.searchForm{
+
+    label{
+
+        margin-bottom: 0.5rem;
+        display:block;
+
+
+    }
+    input{
+
+        border: 1px solid #a4a4a4;
+          border-radius: 4;
+          display: block;          
+          padding: 0.25rem 0.5rem;
+          width: 100%;
+    }
+}
+
+.results{
+
+    display:flex;
+    flex-wrap: wrap;
+
+    h4{
+
+        margin: 2rem 0 0 0;
+        
+    }
+
+    .excerpt{
+
+        margin: 1rem 0 2rem 0;
+    }
+}
+
+.explanation{
+
+            font-size: .85rem;
+            font-style: italic;
+            margin-bottom: 10px;
+            max-width: 30rem;
+
+}
+
+.noResultText{
+
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

@@ -7,6 +7,8 @@ import Footer from '../components/footer'
 import '../styles/main.scss'
 import layoutStyles from '../styles/layout.module.scss'
 
+import GoogleAd from './adsense'
+
 const Layout = (props) => {
     return (
         <div className={layoutStyles.container}>
@@ -14,7 +16,8 @@ const Layout = (props) => {
                 <Header />
                 <Nav />
                 {props.children}
-            </div>        
+            </div>
+        <GoogleAd client="ca-pub-4815974767842427" slot="1215676394" />            
         <Footer />
         </div>        
     )

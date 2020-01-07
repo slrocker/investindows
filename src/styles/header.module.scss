@@ -23,21 +23,36 @@
 
     }
 
-    form {
-	
-        
-        background-color: #ddd;
-        margin: 40px auto;
-        padding: 2px;
-        width: 299px;
+    .search{
 
-        display: flex;
-	    flex-direction: row;
-	    justify-content: center;
-	    flex-wrap:nowrap;
+        text-align:center;
+
+        .searchButton{
+
+            background-color: #fff;
+            border: solid 1px #a4a4a4;
+            margin: 0px auto 40px auto;
+            padding: 10px 5px 10px 5px;
+            width: 260px;
+            display:inline-block;
+    
+        }
+
+        .searchButtonSpan{
+
+            margin-right: 20px;
+            padding: 0px;
+
+        }
+
         
-           
     }
+
+    
+
+ 
+
+    
     
     input[type=search]{
         

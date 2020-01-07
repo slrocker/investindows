@@ -1,11 +1,9 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
+
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
+
+const queries = require('./src/utils/algolia')
 
 module.exports = {
   siteMetadata:{
@@ -15,10 +13,23 @@ module.exports = {
     facebook:'http://www.facebook.com/investindoWS/',
     twitter:'http://www.twitter.com/InvestindoOrg/',
     youtube:'http://youtube.com/+InvestindoOrgWS',
-    url:'http://www.investindo.org'
+    url:'https://www.investindo.org',
+    siteUrl:'https://www.investindo.org'
 
   },
   plugins:[
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-modal-routing',
+    {
+      resolve: 'gatsby-plugin-algolia',
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
+        indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
+        queries,
+        chunkSize: 10000
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
