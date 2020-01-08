@@ -46,7 +46,7 @@ export const query = graphql`
                 }
             }
             sort: {
-                fields: [frontmatter___order]
+                fields: [frontmatter___order,frontmatter___title]
                 order: ASC
             }
         ) {
