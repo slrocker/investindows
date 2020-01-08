@@ -51,7 +51,7 @@ const ContatoPage = () => {
                     <label>Mensagem:</label>
                     <textarea name="message" />
                 </div>
-                <ReCAPTCHA sitekey="SITE_RECAPTCHA_KEY" />
+                <ReCAPTCHA sitekey={process.env.SITE_RECAPTCHA_KEY} />
                 <button type="submit">Enviar</button>
                 </form>
             </div>

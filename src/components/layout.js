@@ -17,7 +17,7 @@ const Layout = (props) => {
                 <Nav />
                 {props.children}
             </div>
-        <GoogleAd client="ca-pub-4815974767842427" slot="1215676394" format="auto" />            
+                    
         <Footer />
         </div>        
     )
