@@ -37,6 +37,20 @@ indexOrder: 214
 </div>
 
 
+## Versão 1.4.5
+
+Data da versão: 06/01/2020
+
+####Atualizações:
+
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
+
+**Corrigido**:
+
+- Cotações do Tesouro Direto.
+
+
+</div>
 
 
 

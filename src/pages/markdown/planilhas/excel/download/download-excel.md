@@ -43,9 +43,9 @@ indexOrder: 211
 
 ##Link
 
-<p><a href="">Versão 1.4.4</a></p>
+<p><a href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.5+Excel+2016+.xlsm">Versão 1.4.5</a></p>
 
-Data da versão: 02/10/2019
+Data da versão: 06/01/2020
 
 ###Atualizações:
 
@@ -53,10 +53,7 @@ Data da versão: 02/10/2019
 
 **Corrigido**:
 
-- Arquivo de ajuda.
+- Cotações do Tesouro Direto.
 
-**Melhorado**:
-
-- Amortização é registrada como uma operação para permitir o cálculo sequencial do preço médio.
 
 </div>
