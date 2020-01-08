@@ -5,7 +5,7 @@ import { Link, graphql, useStaticQuery} from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layout'
 import contatoStyles from '../styles/contato.module.scss'
-import ReCAPTCHA from "react-google-recaptcha";
+
 
 
 
@@ -51,7 +51,7 @@ const ContatoPage = () => {
                     <label>Mensagem:</label>
                     <textarea name="message" />
                 </div>
-                <ReCAPTCHA sitekey={process.env.SITE_RECAPTCHA_KEY} />
+                
                 <button type="submit">Enviar</button>
                 </form>
             </div>
