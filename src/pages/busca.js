@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, graphql, useStaticQuery} from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 
 
@@ -12,7 +12,11 @@ import SearchComponent from '../components/search-component'
 import SearchStyles from '../styles/search.module.scss'
 
 
+
 const ModalExamplePage = () => (
+
+
+
   <ModalRoutingContext.Consumer>
 
   
@@ -32,6 +36,7 @@ const ModalExamplePage = () => (
         ) : (
 
           <Layout>
+           
             <h1>Busca</h1>
             <SearchComponent />
           </Layout>

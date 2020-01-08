@@ -41,8 +41,8 @@ const ContatoPage = () => {
             <p className={contatoStyles.subtitle}>Entre em contato com Investindo.org.</p>
             <p>*Todos os campos são obrigatórios.</p>
             <div className={contatoStyles.content}>
-                <form name="Contact Form" method="POST" data-netlify="true" data-netlify-recaptcha='true' action="/agradecimento">
-                <input type="hidden" name="form-name" value="Contact Form" />
+                <form name="contato" method="post" data-netlify="true" action="/agradecimento">
+                <input type="hidden" name="form-name" value="contato" />
                 <div>
                     <label for="email">Seu Email:</label>
                     <input type="email" name="email" />
