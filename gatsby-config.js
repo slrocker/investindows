@@ -31,7 +31,7 @@ module.exports = {
         respectDNT: true
       },
     },
-    'gatsby-plugin-recaptcha',
+    
     'gatsby-plugin-sitemap',
     'gatsby-plugin-modal-routing',
     {
