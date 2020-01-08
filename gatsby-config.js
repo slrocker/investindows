@@ -18,6 +18,7 @@ module.exports = {
 
   },
   plugins:[
+    'gatsby-plugin-recaptcha',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-modal-routing',
     {
