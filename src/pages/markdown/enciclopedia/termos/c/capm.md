@@ -50,11 +50,11 @@ Por exemplo, imagine que um investidor deseje calcular a taxa de retorno esperad
 
 $$
 
-Re = 5\% + 1.5 \times (8\% - 5\%) = 9,5\%
+Re = 5\% + 1.5 \times (10\% - 5\%) = 12,5\%
 
 $$
 
-Utilizando os 9,5% calculados, o analista pode utlizar outros modelos de precificação, como o [WACC](/enciclopedia/termos/w/wacc) para encontrar uma taxa de desconto com a qual calcular o valor presente da ação.
+Utilizando os 12,5% calculados, o analista pode utlizar outros modelos de precificação, como o [WACC](/enciclopedia/termos/w/wacc) para encontrar uma taxa de desconto com a qual calcular o valor presente da ação.
 
 Em seguida, ele compara o valor calculado com o valor cobrado no mercado, concluindo se a ação está acima ou abaixo do preço considerado adequado para o risco da ação.
 
@@ -64,7 +64,7 @@ O grande desafio deste cálculo é encontrar os valores adequados para serem uti
 
 Uma [taxa livre de risco](/enciclopedia/termos/t/taxa-livre-de-risco) é uma taxa de rendimento que pode ser obtida expondo-se ao menor risco disponível no mercado.
 
-Normalmente, utiliza-se as taxas oferecidas pelos títulos do governo federal como referência para esse parâmetro.
+Normalmente, utilizam-se as taxas oferecidas pelos títulos do governo federal como referência para esse parâmetro.
 
 No Brasil, pode-se utilizar também a [taxa DI](/aprenda/financas/economia/taxa-selic) ou até mesmo uma média de diversos índices.
 
@@ -93,14 +93,14 @@ Por exemplo, pode-se analisar o retorno médio do IBOVESPA nos útlimos 20 anos 
 
 ## Críticas ao CAPM
 
-A despeito das variáveis subjetivas do modelo que podem alterar significamente os resultados, estudos recentes tem concluído que princípios fundamentais por trás do cálculo do CAPM são falhos.
+A despeito das variáveis subjetivas do modelo que podem alterar significamente os resultados, estudos recentes têm concluído que princípios fundamentais por trás do cálculo do CAPM são falhos.
 
 Entre as críticas apontadas, podemos citar:
 
-- No CAPM, o beta é o indicador principal de risco do ativo sendo estudado. No entanto, nem sempre a volatilidade resulta em maiores riscos. Além disso, volatilidade positiva pode ser benéfica ao investidor, ao contrário da volatilidade negativa. Assim variações positivas e negativas não deveriam ser consideradas com o mesmo peso na análise;
+- No CAPM, o beta é o indicador principal de risco do ativo sendo estudado. No entanto, nem sempre a volatilidade resulta em maiores riscos. Além disso, volatilidade positiva pode ser benéfica ao investidor, ao contrário da volatilidade negativa. Assim, variações positivas e negativas não deveriam ser consideradas com o mesmo peso na análise;
 - As taxas livres de risco e o retorno esperado pelo mercado podem variar ao longo do tempo, invalidando o cálculo;
-- O comportamento dos preços no mercado acionário não seguem os modelos estatísticos que baseiam o cálculo de indicadores como o CAPM; 
-- As variáveis do cálculo são obitdas com dados históricos, os quais não têm garantia de se repetirem no futuro; e
+- O comportamento dos preços no mercado acionário não seguemos modelos estatísticos em que se baseiam o cálculo de indicadores como o CAPM; 
+- As variáveis do cálculo são obtidas com dados históricos, os quais não têm garantia de se repetirem no futuro; e
 - A aplicabilidade do modelo se baseia na [hipótese dos mercados eficientes](/enciclopedia/termos/h/hipotese-do-mercado-eficiente), a qual tem sido contestada por diversos estudos comportamentais.
 
 ## CAPM e o Investidor
