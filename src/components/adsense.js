@@ -11,7 +11,7 @@ export default class Ad extends React.Component {
       <div className='ad'>
         <ins className='adsbygoogle'
           style={{ display: 'block' }}
-          data-ad-client='cca-pub-4815974767842427'
+          data-ad-client='ca-pub-4815974767842427'
           data-ad-slot='8542001479'
           data-ad-format='auto' />
       </div>
