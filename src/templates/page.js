@@ -4,7 +4,7 @@ import {graphql, Link} from 'gatsby'
 
 
 import Head from '../components/head'
-import GoogleAd from './adsense'
+import GoogleAd from '../components/adsense'
 
 
 
