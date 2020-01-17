@@ -4,6 +4,7 @@ import {graphql, Link} from 'gatsby'
 
 
 import Head from '../components/head'
+import GoogleAd from './adsense'
 
 
 
@@ -178,6 +179,7 @@ const TemplatePage = (props) => {
                 </ul>
             </div>
 
+            <GoogleAd />
 
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
 

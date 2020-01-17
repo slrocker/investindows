@@ -5,6 +5,7 @@ import { Link, graphql, useStaticQuery} from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layout'
 import planilhasStyles from '../styles/planilhas.module.scss'
+import GoogleAd from './adsense'
 
 
 
@@ -43,6 +44,8 @@ const PlanilhasPage = () => {
                 <h1 className={planilhasStyles.title}>Planilhas</h1>
                 <p className={planilhasStyles.subtitle}>Planilhas de Excel e GoogleSheets para investimentos.</p>
 
+                <GoogleAd />
+
                 <div className={planilhasStyles.warningDiv}>
                     <h2>Atenção</h2>
                     <p>Antes de usar as tabelas, leia o <Link to="/termo-de-uso">Termo de Uso</Link> e a <Link to="/politica-de-privacidade">Política de Privacidade</Link>.</p>
@@ -76,6 +79,8 @@ const PlanilhasPage = () => {
                     <li><Link to="planilhas/excel/faq">Dúvidas Frequentes</Link></li>
                     <li><Link to="planilhas/excel/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
+
+                <GoogleAd />
 
                 <h2>Google Sheets</h2>
 
