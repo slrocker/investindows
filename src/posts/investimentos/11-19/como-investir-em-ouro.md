@@ -12,7 +12,6 @@ pageType: "page"
 order: 0
 ---
 
-![Como investir em ouro?](../img/como-investir-em-ouro.jpg)
 
 Se você decidiu investir uma parte do seu patrimônio em ouro, o próximo passo é decidir como fazer isso.
 

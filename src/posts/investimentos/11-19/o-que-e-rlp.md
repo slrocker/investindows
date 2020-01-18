@@ -13,11 +13,6 @@ order: 0
 ---
 
 
-
-
-![O que é Retail Liquidity Provider](../img/o-que-e-rlp.jpg)
-
-
 Recentemente, a Bolsa de Valores (B3) [divulgou](http://www.b3.com.br/pt_br/regulacao/consulta-publica/rlp-e-novas-regras-para-oferta-direta/) a regulamentação para uma nova modalidade de negócio chamado de [Retail Liquidity Provider (RLP)](http://www.b3.com.br/pt_br/solucoes/plataformas/puma-trading-system/para-participantes-e-traders/regras-e-parametros-de-negociacao/novo-tipo-de-oferta-retail-liquidity-provider-rlp/).
 
 Em tradução livre, o novo sistema significa “Provedor de Liquidez para o Varejo”.

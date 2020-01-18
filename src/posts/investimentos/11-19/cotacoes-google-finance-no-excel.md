@@ -12,9 +12,6 @@ pageType: "page"
 order: 0
 ---
 
-![Cotações do Google Finance no Excel](../img/cotacoes-da-bolsa-no-excel.jpg)
-
-
 Para obter cotações do Google Finance em uma tabela de Excel, faça o seguinte:
 
 1. Crie uma tabela nova no Google Spreadsheets, na coluna A coloque os códigos, e na coluna B a fórmula =googlefinance(A1;”price”):

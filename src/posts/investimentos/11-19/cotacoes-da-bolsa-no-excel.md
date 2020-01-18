@@ -12,7 +12,6 @@ pageType: "page"
 order: 0
 ---
 
-![Cotações da Bolsa no Excel](../img/cotacoes-da-bolsa-no-excel.jpg)
 
 O próprio Excel fornece um meio de se obter cotações e outras informações dos ativos negociados em Bolsa de Valores.
 
