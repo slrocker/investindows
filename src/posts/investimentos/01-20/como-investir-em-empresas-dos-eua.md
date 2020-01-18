@@ -1,5 +1,5 @@
 ---
-title: "Como Investir em Ações de Empresas dos EUA?"
+title: "Como Investir em ações de empresas dos EUA?"
 date: "2020-01-17"
 section: "Blog"
 sectionSlug: "blog"

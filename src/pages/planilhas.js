@@ -6,6 +6,7 @@ import Head from '../components/head'
 import Layout from '../components/layout'
 import planilhasStyles from '../styles/planilhas.module.scss'
 import GoogleAd from '../components/adsense'
+import GoogleAd2 from '../components/adsense2'
 
 
 
@@ -44,7 +45,7 @@ const PlanilhasPage = () => {
                 <h1 className={planilhasStyles.title}>Planilhas</h1>
                 <p className={planilhasStyles.subtitle}>Planilhas de Excel e GoogleSheets para investimentos.</p>
 
-                <GoogleAd />
+                <GoogleAd2 />
 
                 <div className={planilhasStyles.warningDiv}>
                     <h2>Atenção</h2>
@@ -80,7 +81,7 @@ const PlanilhasPage = () => {
                     <li><Link to="planilhas/excel/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
 
-                <GoogleAd />
+                <GoogleAd2 />
 
                 <h2>Google Sheets</h2>
 
