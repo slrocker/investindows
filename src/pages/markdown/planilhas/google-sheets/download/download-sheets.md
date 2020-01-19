@@ -33,12 +33,8 @@ indexOrder: 221
 
 </div>
 
-<div style="background-color:#950707;color:white;border: dashed 2px black;text-align:center;padding:2rem;">
-                    <h2 style="margin-top:0px;margin-bottom:2rem;">Atenção</h2>
-                    <p style="margin:0px;">Antes de usar as tabelas, leia o <a href="/termo-de-uso" style="color:#fff;font-weight:bold;">Termo de Uso</a> e a <a href="/politica-de-privacidade" style="color:#fff;font-weight:bold;">Política de Privacidade</a>.</p>
-</div>
 
-##Link
+## Link
 
 <p><a href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Versão 0.4.0 beta</a></p>
 

@@ -36,12 +36,9 @@ indexOrder: 211
 </svg>
 </div>
 
-<div style="background-color:#950707;color:white;border: dashed 2px black;text-align:center;padding:2rem;">
-                    <h2 style="margin-top:0px;margin-bottom:2rem;">Atenção</h2>
-                    <p style="margin:0px;">Antes de usar as tabelas, leia o <a href="/termo-de-uso" style="color:#fff;font-weight:bold;">Termo de Uso</a> e a <a href="/politica-de-privacidade" style="color:#fff;font-weight:bold;">Política de Privacidade</a>.</p>
-</div>
 
-##Link
+
+## Link
 
 <p><a href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.5+Excel+2016+.xlsm">Versão 1.4.5</a></p>
 

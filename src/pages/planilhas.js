@@ -74,8 +74,11 @@ const PlanilhasPage = () => {
                     </svg>
                 </div>
 
-                <ul>
-                    <li><Link to="planilhas/excel/download">Download</Link></li>
+                <p className={planilhasStyles.downloadVersion}> Versão 1.4.5 (06/01/2020)</p>
+                <a className={planilhasStyles.downloadLink} href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.5+Excel+2016+.xlsm">Download</a>
+                
+
+                <ul>                    
                     <li><Link to="planilhas/excel/instrucoes">Instruções de Uso</Link></li>
                     <li><Link to="planilhas/excel/faq">Dúvidas Frequentes</Link></li>
                     <li><Link to="planilhas/excel/atualizacoes">Registro de Atualizações</Link></li>
@@ -101,8 +104,10 @@ const PlanilhasPage = () => {
 
                 </div>
 
+                <p className={planilhasStyles.downloadVersion}> Versão 0.4.0 beta (14/02/2019)</p>
+                <a className={planilhasStyles.downloadLink} href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Criar Cópia</a>
+
                 <ul>
-                    <li><Link to="planilhas/google-sheets/download">Download</Link></li>
                     <li><Link to="planilhas/google-sheets/instrucoes">Instruções de Uso</Link></li>
                     <li><Link to="planilhas/google-sheets/faq">Dúvidas Frequentes</Link></li>
                     <li><Link to="planilhas/google-sheets/atualizacoes">Registro de Atualizações</Link></li>

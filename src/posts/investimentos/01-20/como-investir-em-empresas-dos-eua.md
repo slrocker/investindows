@@ -54,7 +54,7 @@ O diferencial entre elas estará em pontos como:
 
 <h4>FINRA e SPIC</h4>
 
-Diferente do que ocorre no Brasil, o mercado de capitais americano é descentralizado. Assim, o investidor pode ficar exposto a riscos inerentes às instituições financeiras que utiliza, tal como afalência da mesma.
+Diferente do que ocorre no Brasil, o mercado de capitais americano é descentralizado. Assim, o investidor pode ficar exposto a riscos inerentes às instituições financeiras que utiliza, tal como a falência da mesma.
 
 Buscando minimizar esse risco, existem nos EUA duas entidades que devem ser conhecidas pelo investidor:
 
@@ -68,7 +68,7 @@ Buscando minimizar esse risco, existem nos EUA duas entidades que devem ser conh
 
 O processo de cadastro é bem intuitivo, bastando preencher os formulários e, quando necessário, fazer o *upload* dos documentos solicitados.
 
-Um dos pontos que, talvez, cause mais dúvida é o preenchimento do formulário W-8BEN, solicitado pela Receita Federal Americana (o *Internal Revenue Service* - IRS).
+Um dos procedimentos que causa mais dúvida é o preenchimento do formulário W-8BEN solicitado pela Receita Federal Americana (o *Internal Revenue Service* - IRS).
 
 O preenchimento desse formulário é bem simples, bastando aos cidadãos brasileiros que residem no Brasil preencherem os campos:
 
@@ -88,7 +88,7 @@ Antigamente, este era o processo mais complicado para o pequeno investidor.
 
 Devido às elevadas taxas cobradas pelos bancos e o relativo desconhecimento da operação por parte dos funcionários das agências de varejo, era necessário ter uma grande quantidade de recursos e uma boa dose de paciência para conseguir fazer uma operação de câmbio.
 
-Hoje, com ferramentas como o [*Remessa Online]*(https://www.remessaonline.com.br/), o processo ficou mais fácil e barato.
+Hoje, com ferramentas como o [*Remessa Online*](https://www.remessaonline.com.br/), o processo ficou mais fácil e barato.
 
 Os métodos de envio de dinheiro ao exterior mais comuns são:
 
@@ -116,11 +116,11 @@ O mercado acionário americano apresenta algumas particularidades que, à primei
 - **Várias Bolsas**: nos EUA, há diversas Bolsas de Valores, tais como a NYSE ou a NASDAQ. Será preciso conferir em qual Bolsa a ação é negociada para ter certeza de estar comprando a empresa certa;
 - **Códigos**: diferentemente do Brasil, os códigos das ações nos EUA seguem regras diversas e não são padronizados. Assim, há empresas cujo código de negociação é de apenas um dígito, enquanto outras possuem vários dígitos.
 - **Classes de Ações**: várias empresas famosas entre os investidores possuem mais de uma [classe de ação](/aprenda/renda-variavel/acoes/tipos-de-acoes#classes). As diferentes classes dão diferentes direitos ao seu possuidor. Dessa forma, é interessante checar qual a classe de ação correta deve ser comprada.
-- **Frações de Ações**: é comum nos EUA encontrar ações cuja unidade custa milhares de dólares. É possível aos investidores que querem investir nessa ações comprar frações de ações, pagando uma fração do preço da ação.
-- **Mercado Grande**: o mercado financeiro dos EUA corresponde a mais da metade do volume mundial. Assim, há milhares de empresas sendo negociadas nas Bolsas americanas, além de diversos produtos financeiros, tais como os [ETF](/enciclopedia/termos/e/etf). Esse tamanho pode ser meio intimidador para os iniciantes.
+- **Frações de Ações**: é comum nos EUA encontrar ações cuja unidade custa milhares de dólares. É possível aos investidores que querem investir nessa ações comprar frações da ação, pagando uma fração do preço.
+- **Mercado Grande**: o mercado financeiro dos EUA corresponde a mais da metade do volume mundial. Assim, há milhares de empresas sendo negociadas nas Bolsas americanas, além de diversos produtos financeiros, tais como os [ETF](/enciclopedia/termos/e/etf). Essa diversidade pode ser meio intimidadora para os iniciantes.
 
 
-Caso você já tenha experiência no mercado acionário brasileiro, verá que somos, basicamente, uma cópia reduzida do mercado americano. Você provavelmente se acostumará rapidamente com as diferenças.
+Caso você já tenha experiência no mercado acionário brasileiro, verá que somos, basicamente, uma cópia reduzida do mercado americano. Você se acostumará rapidamente com as diferenças.
 
 Caso você não tenha muita experiência com o mercado acionário, é interessante [aprender sobre o funcionamento do mesmo no Brasil](/aprenda/renda-variavel) para, então, poder compreender as particularidades do mercado americano.
 
@@ -130,7 +130,7 @@ A análise de empresas nos EUA não têm diferenças para a análise de empresas
 
 Demonstrações financeiras e outras documentações seguem padrões internacionais e sua divulgação ocorre de forma [muito semelhante ao que ocorre no Brasil](/aprenda/financas/contabilidade/demonstracoes-financeiras).
 
-Há uma grande quantidade de *sites* onde é possível encontrar as informações condensadas das empresas.
+Há uma grande quantidade de *sites* onde é possível encontrar as informações consolidadas das empresas.
 
 Podemos citar:
 
@@ -186,11 +186,11 @@ Em seguida, faça o mesmo processo de conversão para os valores pagos como impo
 
 <h4>Conversão</h4>
 
-A primeira vista, o processo de conversão pode parecer confuso, mas é bastante simples.
+À primeira vista, o processo de conversão pode parecer confuso, mas é bastante simples.
 
 Suponha que você esteja fazendo a apuração mensal dos dividendos recebidos nos EUA no mês de **novembro de 2019**.
 
-Você verifica, então que recebeu US\$10,00 em rendimentos e pagou US\$3,00 em imposto.
+Você verifica, então, que recebeu US\$10,00 em rendimentos e pagou US\$3,00 em imposto.
 
 - O mês anterior ao mês de novembro/2019 é o mês de outubro/2019;
 - O último dia útil da primeira quinzena é o último dia útil do intervalo de dias compreendido entre 01/10/2019 e 15/10/2019.
