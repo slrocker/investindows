@@ -3,11 +3,8 @@ import React from 'react'
 import algoliasearch from 'algoliasearch/lite'
 import {
   Configure,
-  connectHits,
-  connectPagination,
-  connectSearchBox,
-  connectStateResults,
-  Highlight,
+  connectHits,  
+  connectSearchBox,  
   InstantSearch
 } from 'react-instantsearch-dom'
 
@@ -83,6 +80,7 @@ export default function Search() {
       indexName={process.env.GATSBY_ALGOLIA_INDEX_NAME}
       searchClient={searchClient}
     >
+      <Configure distinct />
       <SearchBox />
       <Hits />
     </InstantSearch>

@@ -27,6 +27,7 @@ const markDownQuery = `
                             date
                             
                         }
+                        html
                     }
                 }
             }
@@ -35,21 +36,63 @@ const markDownQuery = `
     
     `
 
-    const unnestFrontmatter = node => {
-        const { frontmatter, ...rest } = node
+const unnestFrontmatter = node => {
+    const { frontmatter, ...rest } = node
+    
+    return {
+        ...frontmatter,
+        ...rest
+    }
+}
+
+const handleHTML = node => {
+    
+    const { html, ...rest } = node
+  
+   
+    const sections = html.split("\n")
+
+
+    var filtered = sections.filter(function(value,index,arr){
+
+        return value.indexOf('<p>') !== -1
+
+    }) 
+    
+   
+    const records = filtered.map(section => ({
+      ...rest,
+      content: section
+    }))
+  
+    return records
+}
       
-        return {
-          ...frontmatter,
-          ...rest
-        }
-      }
-      
-      const queries = [
-        {
-          query: markDownQuery,
-          transformer: ({ data }) =>
-            data.allMarkdownRemark.edges.map(edge => edge.node).map(unnestFrontmatter)
-        }
-      ]
-      
-      module.exports = queries
+// const queries = [
+//     {
+//         query: markDownQuery,
+//         transformer: ({ data }) =>
+//         data.allMarkdownRemark.edges.map(edge => edge.node).map(unnestFrontmatter)
+//     }
+// ]
+
+const queries = [
+    {
+      query: markDownQuery,
+      settings: {
+        attributeForDistinct: 'title',
+        distinct: 1
+      },
+      transformer: ({ data }) =>
+        data.allMarkdownRemark.edges
+          .map(edge => edge.node)
+          .map(unnestFrontmatter)
+          // Now we take rawBody and manipulate it into many more records
+          .map(handleHTML)
+          // And we flatten those records into a single array
+          // alternatively, flatMap is available wherever ES2019 is implemented
+          .reduce((acc, cur) => [...acc, ...cur], [])
+    }
+  ]
+
+module.exports = queries
