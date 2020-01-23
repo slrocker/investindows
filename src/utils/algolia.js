@@ -83,6 +83,7 @@ const queries = [
         attributeForDistinct: 'title',
         distinct: 1
       },
+      matchFields: ['title', 'date'],
       transformer: ({ data }) =>
         data.allMarkdownRemark.edges
           .map(edge => edge.node)

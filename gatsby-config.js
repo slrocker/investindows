@@ -41,7 +41,9 @@ module.exports = {
         apiKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
         indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
         queries,
-        chunkSize: 10000
+        chunkSize: 10000,
+        enablePartialUpdates: true,
+        matchFields: ['title', 'date']
       }
     },
     'gatsby-plugin-react-helmet',
