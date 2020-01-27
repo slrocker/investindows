@@ -12,7 +12,7 @@ pageType: "page"
 order: 3
 ---
 
-##Organização
+## Organização
 
 A planilha "XXX-LANÇAMENTOS" (onde XXX é o tipo de ativo — ações, fii, tesouro etc.) é o local onde são registrados os dados de:
 

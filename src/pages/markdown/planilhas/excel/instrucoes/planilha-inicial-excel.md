@@ -12,6 +12,7 @@ pageType: "page"
 order: 2
 ---
 
+
 A planilha "INICIAL" apresenta uma visão consolidada de todos os dados registrados na tabela separando os ativos em três grandes grupos:
 
 - **Renda Variável**: engloba ações e fundos de investimento imobiliário (FII);

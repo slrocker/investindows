@@ -1,6 +1,6 @@
 ---
 title: "Códigos de Negociação (ticker)"
-date: "2019-10-03"
+date: "2020-01-27"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Variável"
@@ -146,6 +146,8 @@ Algumas vezes o código indica que houve algum evento acionário recente e que a
 - **EC** : ex-cisão
 - **EG** : ex-grupamento
 - **ER** : ex-restituição
+- **S** : subscrição
+- **ATZ**: ação que sofreu atualização de pouca importância
 
 
 **Níveis de Governança**
@@ -154,7 +156,9 @@ a Bolsa de Valores estabelece diferentes níveis de governança corporativa, cha
 
 Os códigos que indicam o nível de governança são:
 
-- **N2**: Nível 2 de governança corporativa;
 - **N1**: Nível 1 de governança corporativa;
+- **N2**: Nível 2 de governança corporativa;
 - **NM**: Novo Mercado;
+- **MA**: Bovespa Mais; e
+- **M2**: Bovespa Mais Nível 2.
 
