@@ -1,6 +1,6 @@
 ---
 title: "Cartas da Berkshire: Emissão de Ações"
-date: "2020-01-24"
+date: "2020-01-28"
 section: "Blog"
 sectionSlug: "blog"
 category: "Investimentos"
