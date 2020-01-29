@@ -12,7 +12,12 @@ pageType: "page"
 order: 6
 ---
 
-##Visão Geral
+
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/nkd9ycXZSyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Visão Geral
 
 Para registrar uma operação de COMPRA (DEPÓSITO) ou VENDA (RETIRADA), utilize o formulário de registro de operação, acessível através do menu REGISTRO > OPERAÇÃO:
 
