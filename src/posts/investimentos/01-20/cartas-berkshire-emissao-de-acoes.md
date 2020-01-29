@@ -82,24 +82,24 @@ Na Berkshire, ou em qualquer outra empresa onde determinemos a política de admi
 
 Nesse trecho podemos destacar alguns pontos interessantes:
 
-- É comum que empresas tenham interesse em adquirir outras empresas sem, no entanto, ter dinheiro em caixa para isso. Nesses casos, a empresa pode utiliziar a própria ação como moeda de troca na operação.
-- Quando uma empresa inteira está sendo vendida, é mais fácil que seus donos consigam obter o valor real da empresa na operação, diferente do que acontece no mercado acionário, onde o preço da ação pode estar em desacardo com a realidade da empresa.
-- Segundo Buffet, o mais comum para as grandes empresas é que a sua ação esteja desvalorizada na Bolsa.
+- É comum que empresas tenham interesse em adquirir outras empresas sem, no entanto, ter dinheiro em caixa para isso. Nesses casos, a empresa pode utilizar a própria ação como moeda de troca na operação.
+- Quando uma empresa inteira está sendo vendida, é mais fácil que seus donos consigam obter o valor real da empresa na operação, diferente do que acontece no mercado acionário, onde o preço da ação pode estar em desacordo com a realidade da empresa.
+- Segundo Buffett, o mais comum para as grandes empresas é que a sua ação esteja desvalorizada na Bolsa.
 - Dessa forma, ao pagar pela compra de uma empresa avaliada pelo valor real com ações que estão desvalorizadas, a empresa compradora estaria fazendo um mal negócio.
-- Ainda que a empresa adquirida agregue valor aos acionistas, se a operação foi feita com ações subvalorizadas, os acionistas serão diluidos e acabarão prejudicados, terminando com uma participação menor no negócio.
+- Ainda que a empresa incorporada agregue valor aos acionistas, se a operação foi feita com ações subvalorizadas, os acionistas serão diluidos e acabarão prejudicados, terminando com uma participação menor no negócio.
 
 
 Se você acompanhar as empresas de capital aberto mais de perto, verá que são frequentes as aquisições onde empresas utilizam suas próprias ações como forma de pagamento pela aquisição de outras empresas.
 
-O que Buffet destaca é que essas operações podem ser prejudiciais aos sócios da empresa compradora se não forem realizadas de forma adequada.
+O que Buffett destaca é que essas operações podem ser prejudiciais aos sócios da empresa compradora se não forem realizadas de forma adequada.
 
 Por exemplo, suponha que a empresa A irá comprar a empresa B emitindo ações. Para o investidor, essa operação é o mesmo que ele estivesse comprando ações da empresa B e pagando com ações da empresa A.
 
-Se as ações da empresa B estiverem avaliadas por um valor justo (**valor**, não preço) enquanto as ações A estiver subvalorizadas, a operação será um mau negócio para o investidor.
+Se as ações da empresa B estiverem avaliadas por um valor justo (**valor**, não preço) enquanto as ações de A estiverem subvalorizadas, a operação será um mau negócio para o investidor.
 
 Ele não só será diluido devido a emissão de novas ações, como estará entregando mais A do que recebe de B.
 
-O documento que baliza o processo de aquisição é chamado de **protocolo** (veja o [protocolo de incorporação na Avon pela Natura S.A](http://natu.infoinvest.com.br/services/_pub/siteri-1/redirect.asp?grupo=7372&idioma=ptb&arquivo=19550_715909.pdf&tipo=ipe&protocolo_atual=715909)).
+O documento que baliza o processo de aquisição é chamado de **protocolo** (veja, por exemplo, o [protocolo de incorporação na Avon pela Natura S.A.](http://natu.infoinvest.com.br/services/_pub/siteri-1/redirect.asp?grupo=7372&idioma=ptb&arquivo=19550_715909.pdf&tipo=ipe&protocolo_atual=715909)).
 
 Toda a operação é descrita nesse documento, bem como sua justificativa. É comum, por exemplo, que se contratem avaliadores para estimarem o preço justo das ações de ambas as empresas.
 
