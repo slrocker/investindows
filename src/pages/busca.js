@@ -1,10 +1,9 @@
 import React from 'react'
-import { Link, graphql, useStaticQuery} from 'gatsby'
+import { Link } from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 
 
 
-import Head from '../components/head'
 import Layout from '../components/layout'
 
 

@@ -5,7 +5,6 @@ import { Link, graphql, useStaticQuery} from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layout'
 import planilhasStyles from '../styles/planilhas.module.scss'
-import GoogleAd from '../components/adsense'
 import GoogleAd2 from '../components/adsense2'
 
 

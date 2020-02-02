@@ -768,6 +768,8 @@ html {
   //---------------------TABLES-----------------------
   //--------------------------------------------------
 
+// tag <table>
+
 .regularTable{
 
   border: 1px solid black;
@@ -777,25 +779,39 @@ html {
     padding: 0.3rem;
   }
 
-
 }
 
-  .overflow {
+// tag  <div>
+
+.overflow {
 
   overflow: auto;
   margin: 1rem 0;
 
 }
 
+// tag <table>
+
 .controle{
   font-size: 0.7rem;  
 }
+
+// Pode ser na tag <table> ou em uma <div>
 
 .responsiveTable{
 
   font-size: 1.5vh;
 
+  table{
+
+  font-size: 1.5vh;
+  
+  }
+
 }
+
+
+// tabela que não ocupa 100% do width da tela
 
 div.smallTableWrapper {
 
