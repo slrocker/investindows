@@ -1,6 +1,6 @@
 ---
 title: "Como declarar subscrição de Fundos Imobiliários?"
-date: "2019-11-13"
+date: "2020-02-04"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -79,7 +79,7 @@ A apuração é feita mensalmente e o pagamento do imposto deve ser feito até o
 
 #### Valores Isentos
 
-Caso o valores negociado tenha ficado abaixo dos R\$35.000,00, basta declarar o lucro na aba "Rendimentos Isentos e não tributáveis", item "5 - Rendimentos da alienação de bens de pequeno valor,...".
+Caso os valores negociado tenha ficado abaixo dos R\$35.000,00, basta declarar o lucro na aba "Rendimentos Isentos e não tributáveis", item "5 - Rendimentos da alienação de bens de pequeno valor,...".
 
 
 ### Apuração como Cota

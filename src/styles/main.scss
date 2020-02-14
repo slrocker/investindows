@@ -773,11 +773,64 @@ html {
 .regularTable{
 
   border: 1px solid black;
-
+  
  td{
+
     border: 1px solid black;
     padding: 0.3rem;
+    
   }
+
+}
+
+//tag <table>
+
+.balancoTable {
+
+  border: 1px solid black;
+  font-size: 1.5vh;
+
+  thead{
+
+    td{
+      background-color: #444;
+      color: #fff;
+    }
+  }
+
+  td{
+     border: 1px solid black;
+     padding: 0.3rem;
+     
+   }
+
+  td.negativeNumber {
+
+    color: red;
+
+  }
+
+  td.positiveNumber {
+
+    color:#0059b2;
+    
+
+  }
+
+  td.trimHeader{
+    background-color: #888;
+  }
+
+  td.leftAlignCell {
+    text-align: left;
+    padding-left: 1rem;
+  }
+
+  td.rowDescription{
+    font-weight: bold;
+    min-width: 110px;
+  }
+
 
 }
 
@@ -832,45 +885,87 @@ div.smallTableWrapper {
 
 }
 
-  //--------------------------------------------------
-  //-----------------FOOTER - SOCIAL------------------
-  //--------------------------------------------------
-  .social-link {
-	
-    display: inline-block;
-    margin: 0px 10px 0px 10px; 
-  }
-  
-  .social-icon{
-    
-    
-    fill: #222;
-  }
-  
-  .facebook-icon:hover{
-    
-    fill:#3b5998;
-  }
-  
-  .twitter-icon:hover{
-    
-    fill:#1dcaff;
-  }
+//--------------------------------------------------
+//-----------------DADOS - CSS ---------------------
+//--------------------------------------------------
 
-  .youtube-white{
-    fill:#fff;
-  }
-  .youtube-icon:hover .youtube-red{
-    
-    fill:#cd201f;
-  }
+.toggleCommand {
+/* display: none; // You would probably use this. */
+// opacity: .2; /* This is to show how the wiring works. */
+}
+
+/* Default the inputs to not displaying */
+.filter-group-balanco input {
+display: none;
+margin-right: 10px;
+border-color: #666;
+width: 1em;
+height: 1em;
+
+ 
+}
+
+/* Show and hide inline checkboxes */
+#toggleBalanco:not(:checked) ~ .filter-group-balanco label[for=toggleBalanco] input:not(:checked){
+  display: inline-block; 
+}
+
+#toggleBalanco:checked ~ .filter-group-balanco label[for=toggleBalanco] input:checked{
+  display: inline-block; 
+}
+
+/* Do filters */
+#toggleBalanco:not(:checked) ~ * *[data-col="trimBalanco"] {
+  display: none;
+}
+
+/* Avoid clicks on the inactive checkboxes */
+
+label input {
+  pointer-events: none;
+}
+
+
+
+//--------------------------------------------------
+//-----------------FOOTER - SOCIAL------------------
+//--------------------------------------------------
+.social-link {
+
+  display: inline-block;
+  margin: 0px 10px 0px 10px; 
+}
+
+.social-icon{
   
-  .youtube-icon:hover .youtube-white{
-    
-    fill:#ffffff;
-  }
+  
+  fill: #222;
+}
 
-  .instagram-icon:hover {
+.facebook-icon:hover{
+  
+  fill:#3b5998;
+}
 
-    fill: url(#rg);
-  }
+.twitter-icon:hover{
+  
+  fill:#1dcaff;
+}
+
+.youtube-white{
+  fill:#fff;
+}
+.youtube-icon:hover .youtube-red{
+  
+  fill:#cd201f;
+}
+
+.youtube-icon:hover .youtube-white{
+  
+  fill:#ffffff;
+}
+
+.instagram-icon:hover {
+
+  fill: url(#rg);
+}
