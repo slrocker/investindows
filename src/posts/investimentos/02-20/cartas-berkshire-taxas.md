@@ -1,6 +1,6 @@
 ---
 title: "Cartas da Berkshire: Taxas e o Retorno de Investimentos"
-date: "2020-02-13"
+date: "2020-02-24"
 section: "Blog"
 sectionSlug: "blog"
 category: "Investimentos"
@@ -35,13 +35,13 @@ Tem sido fácil para a Berkshire e outros acionistas americanos prosperarem ao l
 
 A explicação de como isso está ocorrendo começa com uma verdade fundamental: com algumas poucas exceções, *o máximo que os donos de empresas em conjunto conseguirão obter entre hoje e o dia do julgamento final será o que as suas empresas em conjunto conseguirão ganhar*.
 
-É verdade, ao comprar e vender de forma esperta ou sortuda, o investidor A pode acabar obtendo um pedaço maior da torta às custas do investidor B. E sim, todos os investidores se sentem mais ricos quando o preço das ações dispara. No entanto, um dono só pode sair do seu negócio se houver alguém para assumir o seu lugar. Se um investidor vende caro, outro investidor deve necessariamente comprar caro. Para os donos, em conjunto, não há mágica — sem chuvas de dinheiro do espaço sideral — que os permitirá extrair riqueza de suas companhias além daquela criada pelas próprias companhias.
+É verdade, ao comprar e vender de forma esperta ou sortuda, o investidor A pode acabar obtendo um pedaço maior da torta às custas do investidor B. E sim, todos os investidores se sentem mais ricos quando o preço das ações dispara. No entanto, um dono só pode sair do seu negócio se houver alguém para assumir o seu lugar. Se um investidor vende caro, outro investidor deve necessariamente comprar caro. Para os donos, em conjunto, não há mágica — sem chuvas de dinheiro do espaço sideral — que os permitirá extrair riqueza de suas firmas além daquela criada pelas próprias firmas.
 
-De fato, os donos precisam receber menos do que as suas companhias conseguem ganahr devido aos custos. E este é o meu ponto: esses custos estão ocorrendo em montantes que levarão os acionistas a ganharam muito menos do que têm ganhado historicamente.
+De fato, os donos precisam receber menos do que as suas firmas conseguem ganhar devido aos custos. E este é o meu ponto: esses custos estão ocorrendo em montantes que levarão os acionistas a ganharam muito menos do que têm ganhado historicamente.
 
-Para entender como essa taxa cresceu, imagine, por um momento, que apenas uma família é e sempre será a dona de todas as corporações americanas. Vamos chamar essa família de *Gotrocks*. Após pagar os impostos sobre os dividendos, essa família — geração após geração — fica mais rica na proporção de ganhos das suas companhias. Hoje, esse valor é de cerca de US\$700 bilhões ao ano. Naturalmente, a família gasta alguns desses dólares. No entanto, a parte poupada continua rendendo continuamente, beneficiando os *Gotrocks*. Na casa dos *Gotrocks*, todos ficam mais ricos no mesmo ritmo e tudo gira em harmonia.
+Para entender como essa taxa cresceu, imagine, por um momento, que apenas uma família é e sempre será a dona de todas as corporações americanas. Vamos chamar essa família de *Gotrocks*. Após pagar os impostos sobre os dividendos, essa família — geração após geração — fica mais rica na proporção de ganhos das suas firmas. Hoje, esse valor é de cerca de US\$700 bilhões ao ano. Naturalmente, a família gasta alguns desses dólares. No entanto, a parte poupada continua rendendo continuamente, beneficiando os *Gotrocks*. Na casa dos *Gotrocks*, todos ficam mais ricos no mesmo ritmo e tudo gira em harmonia.
 
-Vamos supor, agora, que alguns ajudantes bons de lábia queiram persuadir cada um dos membros da família a tentar ganhar mais do que seus parentes comprando alguns dos seus ativos e vendendo-lhes outros. Os ajudantes — em troca de uma taxa, é claro — prestativamente concordam em coordenar essas transações. Os *Gotrocks* ainda são donos de toda a america corporativa; as compras e vendas apenas modificam quem possui o que. Portanto,  os ganhos da família diminuem, sendo iguais aos ganhos das companhias da américa *menos* as taxas pagas. Quanto mais os membros da família operarem, menor será o seu pedaço da torta e maior será o pedaço recebido pelos ajudantes. Esse detalhe não passa despercebido pelos corretores-ajudantes: movimentação é sua amiga e, de várias formas, eles a incentivam.
+Vamos supor, agora, que alguns ajudantes bons de lábia queiram persuadir cada um dos membros da família a tentar ganhar mais do que seus parentes através da negociação de seus ativos. Os ajudantes — em troca de uma taxa, é claro — prestativamente concordam em coordenar essas transações. Os *Gotrocks* ainda são donos de toda a america corporativa; as compras e vendas apenas modificam quem possui o que. Portanto,  os ganhos da família diminuem, sendo iguais aos ganhos das empresas americanas *menos* as taxas pagas. Quanto mais os membros da família operarem, menor será o seu pedaço da torta e maior será o pedaço recebido pelos ajudantes. Esse detalhe não passa despercebido pelos corretores-ajudantes: movimentação é sua amiga e, de várias formas, eles a incentivam.
 
 Após um tempo, a maior parte da família percebe que eles não estão se dando tão bem nese jogo de "ganhe do seu irmão". Surge um novo grupo de ajudantes. Esses recém-chegados explicam a cada membro dos *Gotrocks* que, sozinhos, eles nunca conseguirão superarem o restante da família. A cura sugerida: "Contrate um gestor — sim, nós — e deixe o trabalho ser feito pelos profissionais". Esses gestores-ajudantes continuam a utilizar os corretores-ajudantes para realizar as operações; os gestores podem, até mesmo, aumentarem seu ritmo de operações a fim de permitir aos corretores prosperarem ainda mais. Agora, um grande pedaço da torta vai para as duas classes de ajudantes.
 
@@ -49,9 +49,9 @@ O descontentamento da família aumenta. Cada um dos seus membros está empregand
 
 A ajuda chega na forma de planejadores financeiros e consultores institucionais, que se propõem a auxiliar os *Gotrocks* a selecionar os gestores-ajudantes. A família agradece pela ajuda. Até o momento, seus membros sabem que eles não conseguem escolher nem as melhores ações e nem os melhores escolhedores de ações. Por que, alguém pode se perguntar, eles deveriam esperar ter sucesso em escolher um bom consultor? Mas esse questionamento não ocorre aos *Gotrocks* e, é claro, os consultores-ajudantes não os chamam a atenção para essa questão.
 
-Os *Gotrocks*, agora sustentando três classes de ajudantes caros, veem que seus resultados estão cada vez piores, e entram em desespero. Mas, justo quando a esperança parecia perdida, surge um novo grupo — vamos chamá-los de hyper-ajudantes. Esses indivíduos amigáveis explicam aos *Gotrocks* que seus resultados insatisfatórios estão ocorrendo porque os ajudantes atuais — corretores, gestores e consultores — não estão realmente motivados. "O que," os novos ajudantes perguntam, "você pode esperar desse grupo de zumbis?".
+Os *Gotrocks*, agora sustentando três classes de ajudantes caros, veem que seus resultados estão cada vez piores e entram em desespero. Mas, justo quando a esperança parecia perdida, surge um novo grupo — vamos chamá-los de hyper-ajudantes. Esses indivíduos amigáveis explicam aos *Gotrocks* que seus resultados insatisfatórios estão ocorrendo porque os ajudantes atuais — corretores, gestores e consultores — não estão realmente motivados. "O que," os novos ajudantes perguntam, "você pode esperar desse grupo de zumbis?".
 
-Os recém-chegados propões uma solução cuja simplicidade é de tirar o fôlego: *paguem mais dinheiro*. Esbanjando auto-confiança, os hyper-ajudantes afirmam que enormes pagamentos condicionais — além de taxas fixas — são o que cada membro da família precisa gastar para conseguir ganhar dos seus parentes.
+Os recém-chegados propõem uma solução cuja simplicidade é de tirar o fôlego: *paguem mais dinheiro*. Esbanjando auto-confiança, os hyper-ajudantes afirmam que enormes pagamentos condicionais — além de taxas fixas — são o que cada membro da família precisa gastar para conseguir ganhar dos seus parentes.
 
 Os membros da família mais atentos observam que os hyper-ajudantes são, na verdade, gestores-ajudantes usando novos uniformes com nomes sexy do tipo FUNDO DE HEDGE ou *PRIVATE EQUITY*[²](#2). Apesar disso, os novos ajudantes garantem aos *Gotrocks* que a mudança de vestimenta é super importante, dando aos seus utilizadores poderes mágicos de forma semelhante ao que acontecia com Clark Kent quando este colocava sua roupa de super-homem. Tranqulizados por essa explicação, a família decide pagar os valores pedidos.
 
@@ -59,7 +59,7 @@ E aqui é onde estamos atualmente: uma porção recorde dos ganhos que deveriam 
 
 Um número suficiente de acordos desse tipo — cara, o ajudante leva a maior parte dos ganhos; coroa, os *Gotrocks* perdem e pagam bem pelo privilégio de fazê-lo — faz com que seja mais apropriado chamar a família de *Hadrocks*[³](#3).
 
-Há muito tempo, Sir Isaac Newton nos deu as três leis do movimento, que foram um trabalho de gênio. Mas os talentos de Sir Isaac não incluiam investimentos: ele perdeu um bom dinheiro na bolha do mar do sul, posteriormente se explicando: "Eu consigo calcular o movimento das estrelas, mas não a loucura dos homens". Se ele não tivesse ficado tão traumatizado com sua perda, Sir Isaac poderia muito bem ter descobeto a quarta lei: **para os investidores como um todo, o retorno diminui à medida que aumenta o movimento**.
+Há muito tempo, Sir Isaac Newton nos deu as três leis do movimento, um trabalho de gênio. Mas os talentos de Sir Isaac não incluiam investimentos: ele perdeu um bom dinheiro na bolha do mar do sul, posteriormente se explicando: "Eu consigo calcular o movimento das estrelas, mas não a loucura dos homens". Se ele não tivesse ficado tão traumatizado com sua perda, Sir Isaac poderia muito bem ter descobeto a quarta lei: **para os investidores como um todo, o retorno diminui à medida que aumenta o movimento**.
 
 
 ****Aqui está a resposta para a pergunta proposta no começo desta seção: para ser bem específico, o Dow cresceu de 65,73 para 11.497,12 no século 20, e isso equivale a um ganho de 5,3% ao ano (investidores também receberiam os dividendos). Para obter uma taxa semelhante de retorno no século 21, o Dow terá de subir até precisos 2.011.011,23 até 31 de dezembro de 2099. Eu estou disposto a aceitar 2.000.000; seis anos deste século se passaram e o Dow não ganhou nada.
@@ -75,7 +75,7 @@ Nesse trecho há três aspectos que considero interessantes para o pequeno inves
 
 ### Empresas e a Riqueza
 
-Um ponto que muitos pequenos investidores têm dificuldade em compreender no começo de suas carreiras é que riqueza não surge do nada. É preciso que ela seja produzida de alguma maneira.
+Um ponto que muitos pequenos investidores têm dificuldade em compreender quando iniciam seus investimentos é que riqueza não surge do nada. É preciso que ela seja produzida de alguma maneira.
 
 Os responsáveis por essa tarefa são os empreendedores e as empresas. Através de novas tecnologias e métodos mais eficientes, as empresas não só geram riqueza, como cada vez geram mais riqueza ao longo do tempo.
 
@@ -90,9 +90,11 @@ Essa produção não é tão simples de se medir. Uma forma amplamente utilizada
 
 Observe como, ao longo do tempo, o PIB mundial tem aumentado.
 
+O trabalho do investidor é, basicamente, comprar um pedaço dessas empresas, sentar e esperar receber a sua parte do bolo. Parece simples de aplicar na teoria, mas, na prática, a maioria das pessoas não consegue executar essa "complexa" técnica de investimento. 
+
 No Brasil, é ainda mais díficil às pessoas aceitarem e entenderem o papel das empresas na geração de riqueza.
 
-Mesmo com a já amplamente difundida mentalidade anti-capitalista de nosso país, a mídia e o mercado financeiro ainda bombardeiam constantemente a sociedade com a ideia de que no Brasil os juros são muito elevados e, comparando o desempenho do [IBOVESPA](/enciclopedia/termos/i/ibovespa) com índices de renda fixa, apontam como a Bolsa sempre perde no longo prazo.
+Mesmo com a já amplamente difundida mentalidade anti-capitalista de nosso país, a mídia e o mercado financeiro ainda bombardeiam constantemente a sociedade com a ideia de que no Brasil os juros são muito elevados e, comparando o desempenho do [IBOVESPA](/enciclopedia/termos/i/ibovespa) com índices de renda fixa, apontam como a Bolsa sempre perde no longo prazo e como o investidor deve "se movimentar" caso queira obter resultados adequados.
 
 Não é o intuito deste artigo discutir esse ponto, mas apenas destacar, conforme comenta Buffett, que não existe mágica. O que as empresas gerarem de riqueza será o que os seus donos receberão. 
 

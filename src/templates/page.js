@@ -67,55 +67,8 @@ export const query = graphql `
 `
 
 
-const TemplatePage = (props) => {
-
-  
+const TemplatePage = (props) => {    
     
-    //const featuredImage = props.data.pageFeaturedImage.publicURL ? props.data.pageFeaturedImage.publicURL : props.data.categoryFeaturedImage.publicURL ; 
-    //const featuredImage = props.data.pageFeaturedImage.publicURL || props.data.categoryFeaturedImage.publicURL || "/" ;
-
-    //render blog posts
-    // if(props.data.markdownRemark.frontmatter.category === "Blog"){
-
-    //     return(
-    //         <Layout>
-
-               
-    //             <Head 
-    //                 title = {props.data.markdownRemark.frontmatter.title}
-    //                 description = {props.data.markdownRemark.excerpt}
-    //                 featuredImage = {props.data.file.publicURL}
-    //                 url = {`${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/${props.data.markdownRemark.fields.slug}`}
-    //             />
-
-    //             <div className={pageStyles.breadCrumb}>
-    //                 <p>
-                    
-    //                     <Link to={`${props.data.markdownRemark.frontmatter.categorySlug}/`}>
-    //                             {props.data.markdownRemark.frontmatter.category}
-    //                     </Link>
-    //                     <span>></span>
-    //                     <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/${props.data.markdownRemark.frontmatter.subcategorySlug}/`}>
-    //                         {props.data.markdownRemark.frontmatter.subcategory}
-    //                     </Link>
-    //                     <span>></span>
-    //                 </p>        
-    //             </div>
-
-    //             <div className={pageStyles.header}>
-    //                 <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-    //                 <p>{props.data.markdownRemark.frontmatter.date}</p>
-    //             </div>
-
-                
-    //             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
-
-                
-                
-    //         </Layout>
-    //     )
-    // }
-    //render pages
     return (
         <Layout>
 
@@ -177,9 +130,7 @@ const TemplatePage = (props) => {
                         )}
                     ))}
                 </ul>
-            </div>
-
-            <GoogleAd2 />
+            </div>            
 
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
 

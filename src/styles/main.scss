@@ -630,8 +630,7 @@ html {
     html {
       font-size: 100%;
     }   
-
-    
+   
   }
 
   .katex > .katex-html {
@@ -768,6 +767,7 @@ html {
   //---------------------TABLES-----------------------
   //--------------------------------------------------
 
+
 // tag <table>
 
 .regularTable{
@@ -783,24 +783,56 @@ html {
 
 }
 
+// tag  <div>
+
+.balancoTableWrapper{
+
+    max-height: 500px;
+
+}
+
 //tag <table>
+
 
 .balancoTable {
 
-  border: 1px solid black;
-  font-size: 1.5vh;
+  
+  font-size: 0.7rem;  
+
+  thead{
+    position: sticky;
+    top:0px;
+    z-index: 100;
+    
+  }
+  
+  
 
   thead{
 
-    td{
+    th{
       background-color: #444;
       color: #fff;
+      
     }
+
+    th.trimHeader{
+      background-color: #888;
+    }
+
+    th.dataHeader {
+      background-color: #000;
+      
+      
+    }
+  
   }
 
   td{
-     border: 1px solid black;
+    
      padding: 0.3rem;
+     width: 150px;
+     border: none;
      
    }
 
@@ -817,9 +849,6 @@ html {
 
   }
 
-  td.trimHeader{
-    background-color: #888;
-  }
 
   td.leftAlignCell {
     text-align: left;
@@ -828,11 +857,28 @@ html {
 
   td.rowDescription{
     font-weight: bold;
-    min-width: 110px;
+    min-width: 15vw;
+    background-color:inherit;
+    border: inherit;
+    
+  }
+
+  tr {
+    background-color:#fff;
+    
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  .fixedLeftColumn{
+    position: sticky;
+    left: 0px;
   }
 
 
 }
+
+
 
 // tag  <div>
 
@@ -895,7 +941,7 @@ div.smallTableWrapper {
 }
 
 /* Default the inputs to not displaying */
-.filter-group-balanco input {
+.filter-group-balanco input, .filter-group-dfc input  {
 display: none;
 margin-right: 10px;
 border-color: #666;
@@ -916,6 +962,20 @@ height: 1em;
 
 /* Do filters */
 #toggleBalanco:not(:checked) ~ * *[data-col="trimBalanco"] {
+  display: none;
+}
+
+/* Show and hide inline checkboxes */
+#toggleDFC:not(:checked) ~ .filter-group-dfc label[for=toggleDFC] input:not(:checked){
+  display: inline-block; 
+}
+
+#toggleDFC:checked ~ .filter-group-dfc label[for=toggleDFC] input:checked{
+  display: inline-block; 
+}
+
+/* Do filters */
+#toggleDFC:not(:checked) ~ * *[data-col="trimDFC"] {
   display: none;
 }
 

@@ -121,9 +121,9 @@ Assim, é um índice de referência para investimentos de renda fixa.
 
 ###Qual o rendimento do CDI?
 
-A taxa DI é calculada fazendo-se uma média de todos os empréstimos realizados em um dia no sistema interbancário. Normalmente ela é divulgada em valores anuais, fazendo-se a conversão de taxas.
+A taxa DI é calculada fazendo-se uma média de todos os empréstimos realizados em um dia no sistema interbancário. Normalmente, ela é divulgada em valores anuais, fazendo-se a conversão de taxas.
 
-A instituição que realiza o cálculo do DI e divulga ao mercado é a B3. Você pode conhecer os valorres divulgados do DI/CDI acessando o [*site*](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/serie-historica-do-di.htm) da B3. 
+A instituição que realiza o cálculo do DI e divulga ao mercado é a B3. Você pode conhecer os valores divulgados do DI/CDI acessando o [*site*](http://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/serie-historica-do-di.htm) da B3. 
 
 ##CDI e SELIC
 
