@@ -12,6 +12,10 @@ pageType: "page"
 order: 3
 ---
 
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/SidS__vgfzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Organização
 
 A planilha "XXX-LANÇAMENTOS" (onde XXX é o tipo de ativo — ações, fii, tesouro etc.) é o local onde são registrados os dados de:

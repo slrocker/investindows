@@ -849,6 +849,12 @@ html {
 
   }
 
+  td.positiveNumberGreen {
+
+    color:green;
+    
+
+  }
 
   td.leftAlignCell {
     text-align: left;
@@ -941,7 +947,7 @@ div.smallTableWrapper {
 }
 
 /* Default the inputs to not displaying */
-.filter-group-balanco input, .filter-group-dfc input  {
+.filter-group-balanco input, .filter-group-dfc input, , .filter-group-dre input  {
 display: none;
 margin-right: 10px;
 border-color: #666;
@@ -976,6 +982,20 @@ height: 1em;
 
 /* Do filters */
 #toggleDFC:not(:checked) ~ * *[data-col="trimDFC"] {
+  display: none;
+}
+
+/* Show and hide inline checkboxes */
+#toggleDRE:not(:checked) ~ .filter-group-dre label[for=toggleDRE] input:not(:checked){
+  display: inline-block; 
+}
+
+#toggleDRE:checked ~ .filter-group-dre label[for=toggleDRE] input:checked{
+  display: inline-block; 
+}
+
+/* Do filters */
+#toggleDRE:not(:checked) ~ * *[data-col="trimDRE"] {
   display: none;
 }
 

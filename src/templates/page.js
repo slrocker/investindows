@@ -1,13 +1,7 @@
 
 import React from 'react'
 import {graphql, Link} from 'gatsby'
-
-
 import Head from '../components/head'
-import GoogleAd2 from '../components/adsense2'
-
-
-
 import pageStyles from '../styles/page.module.scss'
 import Layout from '../components/layout'
 import "katex/dist/katex.min.css"

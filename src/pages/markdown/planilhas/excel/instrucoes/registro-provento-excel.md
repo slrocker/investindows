@@ -12,6 +12,10 @@ pageType: "page"
 order: 8
 ---
 
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/5SNbKoBxfck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##Visão Geral
 
 O formulário para registro de proventos é utilizado para registrar o recebimento de:

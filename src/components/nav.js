@@ -22,7 +22,8 @@ const Nav = () => {
                 <li><Link to='/planilhas' className={navStyles.navLink}>Planilhas</Link></li>
                 <li><Link to='/blog' className={navStyles.navLink}>Blog</Link></li>
                 <li><Link to='/livros' className={navStyles.navLink}>Livros</Link></li>
-                <li><Link to='/enciclopedia' className={navStyles.navLink}>Enciclopédia</Link></li>           
+                <li><Link to='/enciclopedia' className={navStyles.navLink}>Enciclopédia</Link></li>
+                <li><Link to='/dados' className={navStyles.navLink}>Dados</Link></li>           
             </ul>
         </nav>
         </div>

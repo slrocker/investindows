@@ -57,7 +57,7 @@ const TermoPage = () => {
 
 
 
-                <p>Desde o começo se interessou muito pelo tema se dedicando a leitura de livros, cursos e muito estudo sobre o mercado financeiro. Com o tempo, percebeu que seus amigos e familiares, assim como as pessoas em geral, ainda tinham dúvidas muito básicas sobre investimentos e que havia uma falta de ensinamentos realmente práticos sobre o assunto.</p>
+                <p>Desde o começo, se interessou muito pelo tema se dedicando a leitura de livros, cursos e muito estudo sobre o mercado financeiro. Com o tempo, percebeu que seus amigos e familiares, assim como as pessoas em geral, ainda tinham dúvidas muito básicas sobre investimentos e que havia uma falta de ensinamentos realmente práticos sobre o assunto.</p>
 
 
 
@@ -69,11 +69,12 @@ const TermoPage = () => {
 
 
 
-                <p>Sempre em busca da melhoria contínua o autor segue estudando
-                e aprendendo cada vez mais, procurando digerir os assuntos e proporcionar mais
-                conhecimento de forma simples e rápida para cada vez mais pessoas, buscando
-                assim possibilitar que mais brasileiros possam investir com segurança, colher
-                os frutos de seus esforços e ajudar a tornar o Brasil um país melhor.</p>
+                <p>Sempre em busca da melhoria contínua, característica desenvolvida ao longo de sua carreira como administrador e piloto, 
+                    o autor segue estudando e aprendendo cada vez mais. Através deste <em>site</em> e dos livros de sua autoria procura tornar a linguagem dos investimentos financeiros mais acessível, 
+                    com foco em entregar conhecimento de forma simples e prática.</p>
+
+                
+                <p>Ampliando o alcance desse conhecimento, espera que cada vez mais pessoas possam investir com segurança, colher os frutos de seus esforços e tornar o Brasil um país melhor.</p>
 
 
                 

@@ -1,6 +1,6 @@
 ---
 title: "O que são Ações?"
-date: "2019-06-06"
+date: "2020-02-27"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Variável"
@@ -18,6 +18,7 @@ Imagine que eu, você e o João resolvamos abrir uma empresa, a INVESTINDO S.A.
 
 Inicialmente, iremos alocar o valor necessário para iniciar a empresa com dinheiro do nosso próprio bolso, de acordo com a figura 1.
 
+<div class="overflow">
 <table class="regularTable responsiveTable" id="figura1">
 <thead>
 <tr>
@@ -40,6 +41,7 @@ Inicialmente, iremos alocar o valor necessário para iniciar a empresa com dinhe
 </tr>
 </tbody>
 </table>
+</div>
 
 <p class="legenda" style="text-align:center;">Figura 1 - Capital Social da INVESTINDO S.A.</p>
 
@@ -51,6 +53,7 @@ Para facilitar a solução de questões como **tomadas de decisão, divisão dos
 
 Assim, vamos supor que o capital social da nossa empresa será dividido em 10.000 ações com valor de R\$100,00 (figura 2):
 
+<div class="overflow">
 <table class="regularTable responsiveTable" id="figura2">
 <thead>
 <tr>
@@ -82,6 +85,7 @@ Assim, vamos supor que o capital social da nossa empresa será dividido em 10.00
 </tr>
 </tbody>
 </table>
+</div>
 
 <p class="legenda" style="text-align:center;">Figura 2 - Posição acionária da INVESTINDO S.A.</p>
 

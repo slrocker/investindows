@@ -1,6 +1,6 @@
 ---
 title: "Como declarar subscrição de Fundos Imobiliários?"
-date: "2020-02-04"
+date: "2020-03-02"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -25,9 +25,38 @@ Utilize este guia por sua conta e risco.
 
 </div>
 
-## Exercício
+Quando um FII que já possui cotas sendo negociadas na Bolsa de Valores faz uma emissão de novas cotas, ele costuma distribuir aos seus atuais cotistas um ativo chamado de **direito de subscrição**.
+
+O direito de subscrição permite ao cotista comprar novas cotas antes dos demais participantes do mercado, de forma a manter a sua participação no fundo.
+
+Ao receber direitos de subscrição o investidor pode:
+
+- Exercer o direito e comprar as novas cotas;
+- Deixar o direito vencer sem exercê-lo; e
+- Quando possível, negociar (vender) os direitos.
+
+Nos casos do **exercício** e da **negociação** dos direitos, será preciso fazer registros na DIRPF.
+
+
+## Exercício dos Direitos
 
 Ao exercer uma subscrição, o investidor está, na verdade, comprando mais cotas. Por isso, basta computar as cotas subscritas como uma nova compra no seu patrimônio total.
+
+Por exemplo:
+
+ - Investidor possui 100 cotas a um preço médio de R\$100,00 (total R\$10.000,00);
+ - Investidor recebe 10 direitos de subscrição que lhe permitem comprar 10 novas cotas pelo preço de R\$102,00; e
+ - Investidor exerce todos os direitos de subscrição.
+
+ Nesse caso, o novo preço médio será a soma dos valores investidos dividida pelo total de cotas ao final da subscrição:
+
+ $$
+
+PM = {(10.000 + 1.020) \over (100 + 10) } = {11.020 \over 110} = 100,18
+
+ $$
+
+ Esse novo valor deverá ser registrado na seção de [Bens e Direitos](/aprenda/imposto-de-renda/fundos-imobiliarios/declarar-fii-que-possui) da DIRPF.
 
 ## Negociação dos Direitos
 
@@ -42,10 +71,10 @@ Normalmente, os investidores optam entre duas opções:
 
 ### Bens de Pequeno Valor
 
-Investidores que consultaram à Receita Federal dizem que a orientação recebida foi de que a tributação de direitos de subscrição segue as regras:
+Investidores que consultaram à Receita Federal dizem que a orientação recebida foi de que a tributação de direitos de subscrição segue as regras dos bens de pequeno valor, ou seja:
 
 - Imposto de 15% sobre o lucro; e
-- Isenção nos bens de pequeno valor (abaixo de R\$35.000,00).
+- Isenção para vendas de até R\$35.000,00.
 
 
 
@@ -72,14 +101,21 @@ Imposto\,Devido = 300,00 \times 0,15 = 45,00
 
 $$
 
+**OBS:** No exemplo acima, ao negociar um total de R\$300,00 em direitos no mês, o investidor se enquadraria na faixa de isenção (veja abaixo).
+
 #### DARF
 
-A apuração é feita mensalmente e o pagamento do imposto deve ser feito até o último dia útil do mês subsequente através de uma [DARF](./como-preencher-darf-fii).
+**A apuração deve ser feita mensalmente** e, caso haja imposto devido, o pagamento do imposto deve ser feito até o último dia útil do mês subsequente através de uma [DARF](./como-preencher-darf-fii).
 
 
 #### Valores Isentos
 
-Caso os valores negociado tenha ficado abaixo dos R\$35.000,00, basta declarar o lucro na aba "Rendimentos Isentos e não tributáveis", item "5 - Rendimentos da alienação de bens de pequeno valor,...".
+Caso o **valor total negociado** no mês tenha ficado abaixo dos R\$35.000,00, declare o valor apurado como **lucro**:
+
+- Na aba "Rendimentos Isentos e não tributáveis"; 
+- Item "5 - Rendimentos da alienação de bens de pequeno valor,...".
+
+
 
 
 ### Apuração como Cota

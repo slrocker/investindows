@@ -9,10 +9,10 @@ subcategory: "FAQ"
 subcategorySlug: "faq"
 featuredImage: "excel"
 pageType: "page"
-order: 1
+order: 2
 ---
 
-##Registrei um ativo e ele não apareceu na custódia.
+## Registrei um Ativo e Ele não Apareceu na Custódia
 
 Toda vez que você registrar um novo ativo (um ativo que ainda não está em sua custódia) é preciso atualizar as tabelas dinâmicas para que os novos ativos apareçam.
 

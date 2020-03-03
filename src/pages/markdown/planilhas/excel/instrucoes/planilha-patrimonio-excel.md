@@ -12,7 +12,13 @@ pageType: "page"
 order: 9
 ---
 
-##Visão Geral
+
+
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/SidS__vgfzM?start=200" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Visão Geral
 
 A planilha patrimônio é uma planilha que consolida as informações de todas as planilhas de custódia.
 

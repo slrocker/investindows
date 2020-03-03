@@ -12,7 +12,11 @@ pageType: "page"
 order: 4
 ---
 
-##Organização
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/SidS__vgfzM?start=42" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Organização
 
 As planilhas "XXX-Custódia" (onde XXX é o tipo de ativo) são divididas em 7 grande grupos:
 
