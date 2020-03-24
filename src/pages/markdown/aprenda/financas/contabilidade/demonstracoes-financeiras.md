@@ -1,6 +1,6 @@
 ---
 title: "Demonstrações Financeiras"
-date: "2019-09-23"
+date: "2020-03-23"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Finanças"
@@ -44,10 +44,10 @@ De maneira geral, o exercício social das empresas segue o ano calendário, isto
 
 Dentre as demonstrações padronizadas, as de maior interesse para o investidor são:
 
-- [Balanço Patrimonial](/financas/contabilidade/balanco-patrimonial);
-- [Demonstração do Resultado do Exercício (DRE)](/financas/contabilidade/dre);
-- [Demonstração dos Fluxos de Caixa (DFC)](/financas/contabilidade/dfc); e
-- [Demonstração do Valor Adicionado (DVA)](/financas/contabilidade/dva).
+- [Balanço Patrimonial](/aprenda/financas/contabilidade/balanco-patrimonial);
+- [Demonstração do Resultado do Exercício (DRE)](/aprenda/financas/contabilidade/dre);
+- [Demonstração dos Fluxos de Caixa (DFC)](/aprenda/financas/contabilidade/dfc); e
+- [Demonstração do Valor Adicionado (DVA)](/aprenda/financas/contabilidade/dva).
 
 ##Onde obter?
 

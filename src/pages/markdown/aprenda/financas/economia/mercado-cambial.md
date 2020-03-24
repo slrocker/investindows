@@ -1,6 +1,6 @@
 ---
 title: "Mercado Cambial"
-date: "2019-06-26"
+date: "2020-03-23"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Finanças"
@@ -42,7 +42,7 @@ Por volta de 1970, quando alguma das políticas intervencionistas começaram a c
 
 Para não ficar sem reservas de ouro, os EUA quebraram a ligação entre a sua moeda e o metal. Na época, o dólar já atuava como moeda padrão para negócios internacionais, além de constituir o lastro das moedas de outros países, assim permanecendo mesmo com a extinção do padrão ouro para o dólar.
 
-Como por trás do dólar está a maior economia do mundo, defende-se de que o dólar é a segunda coisa mais segura depois do [ouro](https://en.wikipedia.org/wiki/Gold_as_an_investment). Assim, ele ainda permanece como referência e lastro para a maioria das moedas mundias.
+Como por trás do dólar está a maior economia do mundo, defende-se de que o dólar é a segunda coisa mais segura depois do [ouro](https://en.wikipedia.org/wiki/Gold_as_an_investment). Assim, ele ainda permanece como referência e lastro para a maioria das moedas mundiais.
 
 Além desse fator, há um outro acordo político que ainda mantém a força do dólar: os petrodoláres.
 
@@ -53,7 +53,7 @@ Como o petróleo é um recurso utilizado por todos os países do mundo em quanti
 
 </div>
 
-##Transações Internacionais
+## Transações Internacionais
 
 Basicamente, as transações internacionais funcionam da seguinte maneira:
 

@@ -12,7 +12,7 @@ featuredImage: "renda-variavel"
 pageType: "page"
 ---
 
-##Capital Social
+## Capital Social
 
 Imagine que eu, você e o João resolvamos abrir uma empresa, a INVESTINDO S.A.
 
