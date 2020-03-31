@@ -25,9 +25,9 @@ Utilize este guia por sua conta e risco.
 
 </div>
 
-##Alíquotas
+## Alíquotas
 
-###Ganhos de Capital
+### Ganhos de Capital
 
 - 15% do lucro em operações do mercado à vista; e
 - 20% do lucro em operações *daytrade*.
@@ -36,21 +36,21 @@ Utilize este guia por sua conta e risco.
 
 São isentos.
 
-###Juros sobre Capital
+### Juros sobre Capital
 
 Incide imposto de 15% sobre o valor recebido. É retido na fonte.
 
-##Isenções
+## Isenções
 
 Há isenção para lucros apurados no mercado à vista desde que o **somatório das vendas em um mês não exceda a R\$20.000,00**.
 
-##Recolhimento
+## Recolhimento
 
 O investidor deve fazer o cômputo mensal das suas operações e, havendo imposto devido, executar o pagamento até o último dia útil do mês seguinte.
 
 O pagamento deve ser feito através da emissão de um Documento de Arrecadação de Receitas Federais (DARF).
 
-##Observações
+## Observações
 
 
 - Prejuízos podem ser compensados nos meses seguintes;
@@ -58,7 +58,7 @@ O pagamento deve ser feito através da emissão de um Documento de Arrecadação
 - Para pagar o imposto, o investidor deve preencher a DARF com o código 6005; e
 - Separar as operações *daytrade* das demais operações.
 
-##Preenchimento da DARF
+## Preenchimento da DARF
 
 <div style="text-align:center;">
 <svg viewBox="62.7 -80.6 351 163">
