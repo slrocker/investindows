@@ -1,6 +1,6 @@
 ---  
 title: "RIO PARANAPANEMA ENERGIA SA (GEPA) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-GEPA3 GEPA4 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,10 +110,10 @@ GEPA3 GEPA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.292,32</td>  
+<td data-col='trimBalanco' class='trimData'>1.292,32</td>  
 <td data-col='trimBalanco' class='trimData'>1.332,54</td>  
 <td data-col='trimBalanco' class='trimData'>1.196,95</td>  
 <td data-col='trimBalanco' class='trimData'>1.260,68</td>  
@@ -166,10 +168,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.121,91</td>  
+<td data-col='trimBalanco' class='trimData'>1.121,91</td>  
 <td data-col='trimBalanco' class='trimData'>1.165,08</td>  
 <td data-col='trimBalanco' class='trimData'>1.039,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.069,84</td>  
@@ -224,10 +226,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0,00</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -282,10 +284,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>3.119,46</td>  
+<td data-col='trimBalanco' class='trimData'>3.119,46</td>  
 <td data-col='trimBalanco' class='trimData'>3.393,96</td>  
 <td data-col='trimBalanco' class='trimData'>3.437,55</td>  
 <td data-col='trimBalanco' class='trimData'>3.209,80</td>  
@@ -340,10 +342,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>4.411,78</td>  
+<td data-col='trimBalanco' class='trimData'>4.411,78</td>  
 <td data-col='trimBalanco' class='trimData'>4.726,50</td>  
 <td data-col='trimBalanco' class='trimData'>4.634,50</td>  
 <td data-col='trimBalanco' class='trimData'>4.470,48</td>  
@@ -398,10 +400,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.722,95</td>  
+<td data-col='trimBalanco' class='trimData'>1.722,95</td>  
 <td data-col='trimBalanco' class='trimData'>1.492,58</td>  
 <td data-col='trimBalanco' class='trimData'>1.227,30</td>  
 <td data-col='trimBalanco' class='trimData'>1.324,51</td>  
@@ -456,10 +458,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>355,38</td>  
+<td data-col='trimBalanco' class='trimData'>355,38</td>  
 <td data-col='trimBalanco' class='trimData'>334,61</td>  
 <td data-col='trimBalanco' class='trimData'>132,79</td>  
 <td data-col='trimBalanco' class='trimData'>221,77</td>  
@@ -514,10 +516,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.138,03</td>  
+<td data-col='trimBalanco' class='trimData'>1.138,03</td>  
 <td data-col='trimBalanco' class='trimData'>1.380,07</td>  
 <td data-col='trimBalanco' class='trimData'>1.607,40</td>  
 <td data-col='trimBalanco' class='trimData'>1.421,34</td>  
@@ -572,10 +574,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.017,17</td>  
+<td data-col='trimBalanco' class='trimData'>1.017,17</td>  
 <td data-col='trimBalanco' class='trimData'>1.009,70</td>  
 <td data-col='trimBalanco' class='trimData'>1.226,55</td>  
 <td data-col='trimBalanco' class='trimData'>1.311,52</td>  
@@ -630,10 +632,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>4.411,78</td>  
+<td data-col='trimBalanco' class='trimData'>4.411,78</td>  
 <td data-col='trimBalanco' class='trimData'>4.726,50</td>  
 <td data-col='trimBalanco' class='trimData'>4.634,50</td>  
 <td data-col='trimBalanco' class='trimData'>4.470,48</td>  
@@ -688,10 +690,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.550,80</td>  
+<td data-col='trimBalanco' class='trimData'>1.550,80</td>  
 <td data-col='trimBalanco' class='trimData'>1.853,85</td>  
 <td data-col='trimBalanco' class='trimData'>1.799,81</td>  
 <td data-col='trimBalanco' class='trimData'>1.724,63</td>  
@@ -748,8 +750,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber'>1.121,91</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>1.121,91</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.165,08</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.039,62</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.069,84</td>  
@@ -804,10 +806,10 @@ GEPA3 GEPA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber'>1.372,55</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>1.372,55</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.344,31</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.359,34</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.533,29</td>  
@@ -864,8 +866,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber'>250,64</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>250,64</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>179,22</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>319,71</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>463,44</td>  
@@ -922,8 +924,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0.75</td>  
+<td data-col='trimBalanco' class='trimData'>0.75</td>  
 <td data-col='trimBalanco' class='trimData'>0.89</td>  
 <td data-col='trimBalanco' class='trimData'>0.98</td>  
 <td data-col='trimBalanco' class='trimData'>0.95</td>  
@@ -980,8 +982,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0.65</td>  
+<td data-col='trimBalanco' class='trimData'>0.65</td>  
 <td data-col='trimBalanco' class='trimData'>0.78</td>  
 <td data-col='trimBalanco' class='trimData'>0.85</td>  
 <td data-col='trimBalanco' class='trimData'>0.81</td>  
@@ -1116,10 +1118,10 @@ GEPA3 GEPA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>1.382,48</td>  
+<td data-col='trimDRE' class='trimData' >316,88</td>  
 <td data-col='trimDRE' class='trimData' >340,30</td>  
 <td data-col='trimDRE' class='trimData' >346,53</td>  
 <td data-col='trimDRE' class='trimData' >378,77</td>  
@@ -1174,10 +1176,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='positiveNumberGreen'>529,21</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >71,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >103,18</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >166,93</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >187,83</td>  
@@ -1232,10 +1234,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='positiveNumberGreen'>464,32</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >48,67</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >87,61</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >154,09</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >173,95</td>  
@@ -1290,10 +1292,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-130,84</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-42,74</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-7,51</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-41,02</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-39,57</td>  
@@ -1348,10 +1350,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='positiveNumberGreen'>333,49</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >5,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >80,10</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >113,07</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >134,38</td>  
@@ -1406,10 +1408,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='positiveNumberGreen'>246,39</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >28,43</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >53,88</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >75,03</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >89,05</td>  
@@ -1464,10 +1466,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>38.28</td>  
+<td data-col='trimDRE' class='trimData'>22.49</td>  
 <td data-col='trimDRE' class='trimData'>30.32</td>  
 <td data-col='trimDRE' class='trimData'>48.17</td>  
 <td data-col='trimDRE' class='trimData'>49.59</td>  
@@ -1522,10 +1524,10 @@ GEPA3 GEPA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>17.82</td>  
+<td data-col='trimDRE' class='trimData'>8.97</td>  
 <td data-col='trimDRE' class='trimData'>15.83</td>  
 <td data-col='trimDRE' class='trimData'>21.65</td>  
 <td data-col='trimDRE' class='trimData'>23.51</td>  
@@ -1582,8 +1584,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>15.89</td>  
+<td data-col='trimDRE' class='trimData'>1.83</td>  
 <td data-col='trimDRE' class='trimData'>2.91</td>  
 <td data-col='trimDRE' class='trimData'>4.17</td>  
 <td data-col='trimDRE' class='trimData'>5.16</td>  
@@ -1640,8 +1642,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>10.52</td>  
+<td data-col='trimDRE' class='trimData'>1.10</td>  
 <td data-col='trimDRE' class='trimData'>1.85</td>  
 <td data-col='trimDRE' class='trimData'>3.32</td>  
 <td data-col='trimDRE' class='trimData'>3.89</td>  
@@ -1698,8 +1700,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>17.01</td>  
+<td data-col='trimDRE' class='trimData'>1.78</td>  
 <td data-col='trimDRE' class='trimData'>2.84</td>  
 <td data-col='trimDRE' class='trimData'>4.80</td>  
 <td data-col='trimDRE' class='trimData'>5.25</td>  
@@ -1834,10 +1836,10 @@ GEPA3 GEPA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>647,39</td>  
+<td data-col='trimDFC' class='trimData' >104,83</td>  
 <td data-col='trimDFC' class='trimData' >139,03</td>  
 <td data-col='trimDFC' class='trimData' >256,48</td>  
 <td data-col='trimDFC' class='trimData' >147,06</td>  
@@ -1892,10 +1894,10 @@ GEPA3 GEPA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>-53,07</td>  
+<td data-col='trimDFC' class='trimData' >-27,98</td>  
 <td data-col='trimDFC' class='trimData' >-13,78</td>  
 <td data-col='trimDFC' class='trimData' >-6,05</td>  
 <td data-col='trimDFC' class='trimData' >-5,27</td>  
@@ -1950,10 +1952,10 @@ GEPA3 GEPA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>-463,51</td>  
+<td data-col='trimDFC' class='trimData' >-120,03</td>  
 <td data-col='trimDFC' class='trimData' >0,22</td>  
 <td data-col='trimDFC' class='trimData' >-280,65</td>  
 <td data-col='trimDFC' class='trimData' >-63,05</td>  
@@ -2010,8 +2012,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td class='positiveNumber'>130,80</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-43,18</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>125,46</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-30,22</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>78,74</td>  
@@ -2068,8 +2070,8 @@ GEPA3 GEPA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td class='positiveNumber'>594,31</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>76,85</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>125,24</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>250,43</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>141,79</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "COMPANHIA HABITASUL DE PARTICIPAÇÕES (HBTS) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-HBTS3 HBTS5 HBTS6 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,10 +110,10 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>134,82</td>  
+<td data-col='trimBalanco' class='trimData'>134,82</td>  
 <td data-col='trimBalanco' class='trimData'>136,53</td>  
 <td data-col='trimBalanco' class='trimData'>135,16</td>  
 <td data-col='trimBalanco' class='trimData'>133,95</td>  
@@ -166,10 +168,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>5,22</td>  
+<td data-col='trimBalanco' class='trimData'>5,22</td>  
 <td data-col='trimBalanco' class='trimData'>6,12</td>  
 <td data-col='trimBalanco' class='trimData'>8,42</td>  
 <td data-col='trimBalanco' class='trimData'>5,30</td>  
@@ -224,10 +226,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0,00</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -282,10 +284,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.062,68</td>  
+<td data-col='trimBalanco' class='trimData'>1.062,68</td>  
 <td data-col='trimBalanco' class='trimData'>1.048,09</td>  
 <td data-col='trimBalanco' class='trimData'>1.050,19</td>  
 <td data-col='trimBalanco' class='trimData'>1.050,46</td>  
@@ -340,10 +342,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.197,49</td>  
+<td data-col='trimBalanco' class='trimData'>1.197,49</td>  
 <td data-col='trimBalanco' class='trimData'>1.184,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.185,35</td>  
 <td data-col='trimBalanco' class='trimData'>1.184,40</td>  
@@ -398,10 +400,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>159,64</td>  
+<td data-col='trimBalanco' class='trimData'>159,64</td>  
 <td data-col='trimBalanco' class='trimData'>247,57</td>  
 <td data-col='trimBalanco' class='trimData'>229,18</td>  
 <td data-col='trimBalanco' class='trimData'>152,02</td>  
@@ -456,10 +458,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>14,42</td>  
+<td data-col='trimBalanco' class='trimData'>14,42</td>  
 <td data-col='trimBalanco' class='trimData'>114,73</td>  
 <td data-col='trimBalanco' class='trimData'>110,39</td>  
 <td data-col='trimBalanco' class='trimData'>112,18</td>  
@@ -514,10 +516,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>804,69</td>  
+<td data-col='trimBalanco' class='trimData'>804,69</td>  
 <td data-col='trimBalanco' class='trimData'>708,75</td>  
 <td data-col='trimBalanco' class='trimData'>704,63</td>  
 <td data-col='trimBalanco' class='trimData'>768,24</td>  
@@ -572,10 +574,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>106,31</td>  
+<td data-col='trimBalanco' class='trimData'>106,31</td>  
 <td data-col='trimBalanco' class='trimData'>2,73</td>  
 <td data-col='trimBalanco' class='trimData'>0,35</td>  
 <td data-col='trimBalanco' class='trimData'>0,58</td>  
@@ -630,10 +632,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>1.197,49</td>  
+<td data-col='trimBalanco' class='trimData'>1.197,49</td>  
 <td data-col='trimBalanco' class='trimData'>1.184,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.185,35</td>  
 <td data-col='trimBalanco' class='trimData'>1.184,40</td>  
@@ -688,10 +690,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>233,16</td>  
+<td data-col='trimBalanco' class='trimData'>233,16</td>  
 <td data-col='trimBalanco' class='trimData'>228,30</td>  
 <td data-col='trimBalanco' class='trimData'>251,54</td>  
 <td data-col='trimBalanco' class='trimData'>264,14</td>  
@@ -748,8 +750,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber'>5,22</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>5,22</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>6,12</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>8,42</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>5,30</td>  
@@ -804,10 +806,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber'>120,73</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>120,73</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>117,46</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>110,75</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>112,76</td>  
@@ -864,8 +866,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber'>115,50</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>115,50</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>111,34</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>102,33</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>107,46</td>  
@@ -922,8 +924,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0.84</td>  
+<td data-col='trimBalanco' class='trimData'>0.84</td>  
 <td data-col='trimBalanco' class='trimData'>0.55</td>  
 <td data-col='trimBalanco' class='trimData'>0.59</td>  
 <td data-col='trimBalanco' class='trimData'>0.88</td>  
@@ -980,8 +982,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
-<td>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td>0.03</td>  
+<td data-col='trimBalanco' class='trimData'>0.03</td>  
 <td data-col='trimBalanco' class='trimData'>0.02</td>  
 <td data-col='trimBalanco' class='trimData'>0.04</td>  
 <td data-col='trimBalanco' class='trimData'>0.03</td>  
@@ -1116,10 +1118,10 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>-6,83</td>  
+<td data-col='trimDRE' class='trimData' >8,63</td>  
 <td data-col='trimDRE' class='trimData' >-24,04</td>  
 <td data-col='trimDRE' class='trimData' >1,43</td>  
 <td data-col='trimDRE' class='trimData' >7,15</td>  
@@ -1174,10 +1176,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-15,40</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >6,11</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-25,60</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-0,41</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >4,50</td>  
@@ -1232,10 +1234,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-113,95</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-18,16</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-52,37</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-22,10</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-21,33</td>  
@@ -1290,10 +1292,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-8,51</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-1,22</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-2,70</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-1,34</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-3,25</td>  
@@ -1348,10 +1350,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-122,46</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-19,37</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-55,07</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-23,45</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-24,57</td>  
@@ -1406,10 +1408,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td class='negativeNumber'>-102,97</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-14,85</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-49,57</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-18,88</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-19,67</td>  
@@ -1464,10 +1466,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>NA</td>  
+<td data-col='trimDRE' class='trimData'>70.78</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>62.93</td>  
@@ -1522,10 +1524,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>NA</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1582,8 +1584,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>NA</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1640,8 +1642,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>NA</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1698,8 +1700,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
-<td>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td>NA</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1834,10 +1836,10 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>-9,56</td>  
+<td data-col='trimDFC' class='trimData' >93,71</td>  
 <td data-col='trimDFC' class='trimData' >-23,20</td>  
 <td data-col='trimDFC' class='trimData' >-75,78</td>  
 <td data-col='trimDFC' class='trimData' >-4,30</td>  
@@ -1892,10 +1894,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>-2,35</td>  
+<td data-col='trimDFC' class='trimData' >-2,17</td>  
 <td data-col='trimDFC' class='trimData' >-0,67</td>  
 <td data-col='trimDFC' class='trimData' >0,86</td>  
 <td data-col='trimDFC' class='trimData' >-0,37</td>  
@@ -1950,10 +1952,10 @@ HBTS3 HBTS5 HBTS6
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td>9,38</td>  
+<td data-col='trimDFC' class='trimData' >-92,43</td>  
 <td data-col='trimDFC' class='trimData' >21,56</td>  
 <td data-col='trimDFC' class='trimData' >78,03</td>  
 <td data-col='trimDFC' class='trimData' >2,21</td>  
@@ -2010,8 +2012,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td class='negativeNumber'>-2,53</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-0,89</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-2,30</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>3,12</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-2,45</td>  
@@ -2068,8 +2070,8 @@ HBTS3 HBTS5 HBTS6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
-<td>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td class='negativeNumber'>-11,91</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>91,54</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-23,86</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-74,92</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-4,67</td>  

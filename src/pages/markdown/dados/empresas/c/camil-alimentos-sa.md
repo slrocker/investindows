@@ -1,6 +1,6 @@
 ---  
 title: "CAMIL ALIMENTOS S/A (CAML) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-CAML3 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -73,7 +75,7 @@ CAML3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>2.483,57</td>  
 <td data-col='trimBalanco' class='trimData'>2.483,57</td>  
@@ -96,7 +98,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>2.379,83</td>  
 <td data-col='trimBalanco' class='trimData'>2.379,83</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>365,30</td>  
 <td data-col='trimBalanco' class='trimData'>365,30</td>  
@@ -119,7 +121,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>139,70</td>  
 <td data-col='trimBalanco' class='trimData'>139,70</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>31,24</td>  
 <td data-col='trimBalanco' class='trimData'>31,24</td>  
@@ -142,7 +144,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>470,68</td>  
 <td data-col='trimBalanco' class='trimData'>470,68</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>1.953,09</td>  
 <td data-col='trimBalanco' class='trimData'>1.953,09</td>  
@@ -165,7 +167,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>1.450,81</td>  
 <td data-col='trimBalanco' class='trimData'>1.450,81</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>4.436,66</td>  
 <td data-col='trimBalanco' class='trimData'>4.436,66</td>  
@@ -188,7 +190,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>3.830,64</td>  
 <td data-col='trimBalanco' class='trimData'>3.830,64</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>1.107,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.107,62</td>  
@@ -211,7 +213,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>1.410,37</td>  
 <td data-col='trimBalanco' class='trimData'>1.410,37</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>514,11</td>  
 <td data-col='trimBalanco' class='trimData'>514,11</td>  
@@ -234,7 +236,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>780,17</td>  
 <td data-col='trimBalanco' class='trimData'>780,17</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>1.159,92</td>  
 <td data-col='trimBalanco' class='trimData'>1.159,92</td>  
@@ -257,7 +259,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>1.059,55</td>  
 <td data-col='trimBalanco' class='trimData'>1.059,55</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>914,75</td>  
 <td data-col='trimBalanco' class='trimData'>914,75</td>  
@@ -280,7 +282,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>877,12</td>  
 <td data-col='trimBalanco' class='trimData'>877,12</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>4.436,66</td>  
 <td data-col='trimBalanco' class='trimData'>4.436,66</td>  
@@ -303,7 +305,7 @@ CAML3
 <td data-col='trimBalanco' class='trimData'>3.830,64</td>  
 <td data-col='trimBalanco' class='trimData'>3.830,64</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>2.169,11</td>  
 <td data-col='trimBalanco' class='trimData'>2.169,11</td>  
@@ -349,7 +351,7 @@ CAML3
 <td class='positiveNumber trimData' data-col='trimBalanco'>139,70</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>139,70</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>1.428,86</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.428,86</td>  
@@ -486,7 +488,7 @@ CAML3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>4.748,82</td>  
 <td data-col='trimDRE' class='trimData' >844,63</td>  
@@ -509,7 +511,7 @@ CAML3
 <td data-col='trimDRE' class='trimData' >1.273,07</td>  
 <td data-col='trimDRE' class='trimData' >1.136,22</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>1.221,76</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >308,59</td>  
@@ -532,7 +534,7 @@ CAML3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >352,93</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >293,86</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>381,98</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >180,79</td>  
@@ -555,7 +557,7 @@ CAML3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >155,61</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >103,37</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-15,97</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >32,44</td>  
@@ -578,7 +580,7 @@ CAML3
 <td data-col='trimDRE' class='trimData negativeNumber' >-52,66</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-32,71</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>366,01</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >213,23</td>  
@@ -601,7 +603,7 @@ CAML3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >102,96</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >70,66</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>362,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >206,38</td>  
@@ -624,7 +626,7 @@ CAML3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >63,54</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >50,83</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>25.73</td>  
 <td data-col='trimDRE' class='trimData'>36.54</td>  
@@ -647,7 +649,7 @@ CAML3
 <td data-col='trimDRE' class='trimData'>27.72</td>  
 <td data-col='trimDRE' class='trimData'>25.86</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>7.63</td>  
 <td data-col='trimDRE' class='trimData'>24.43</td>  
@@ -784,7 +786,7 @@ CAML3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>93,91</td>  
 <td data-col='trimDFC' class='trimData' >109,39</td>  
@@ -807,7 +809,7 @@ CAML3
 <td data-col='trimDFC' class='trimData' >-224,69</td>  
 <td data-col='trimDFC' class='trimData' >20,60</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>61,74</td>  
 <td data-col='trimDFC' class='trimData' >321,96</td>  
@@ -830,7 +832,7 @@ CAML3
 <td data-col='trimDFC' class='trimData' >-54,16</td>  
 <td data-col='trimDFC' class='trimData' >-20,97</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-61,44</td>  
 <td data-col='trimDFC' class='trimData' >-271,40</td>  

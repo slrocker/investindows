@@ -249,8 +249,6 @@ Neste método, a cobrança é feita da mesma maneira que o método Ativo. No ent
 
 Por exemplo, o fundo INVEST MULTIMERCADO com taxa de performance de 20,00% sobre o que exceder o IBOVESPA, vamos supor que:
 
-Digamos que:
-
 - Preço base da cota é de R\$100,00;
 - Entre janeiro e junho, o desempenho do fundo foi de 15,00%;
 - Entre janeiro e junho, o desempenho do IBOVESPA foi de 10,00%; e
@@ -333,7 +331,7 @@ Ao final do período de apuração, que costuma ser semestral, calcula-se a taxa
 No caso de troca de gestor de um fundo, pode ocorrer uma revisão do preço da cota-base (linha d'água). Para isso, é preciso que:
 
 - O novo gestor não pertença ao mesmo grupo econômico do anterior; e
-- Tal situação, esteja previsto no regulamento do fundo.
+- Tal situação esteja prevista no regulamento do fundo.
 
 Ou seja, ao ocorrer uma troca de gestão que cumpra os requisitos acima, a contagem para a performance pode ser reiniciada.
 

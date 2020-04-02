@@ -28,7 +28,7 @@ Normalmente, a taxa é expressa em um valor percentual sobre o rendimento em exc
 
 ## Performance Individual
 
-Normalmente, a taxa de performance é cobrada em períodos semestrais e o preço da cota ao final de cada período serve de referência para a cobrança da taxa. Por exemplo:
+Normalmente, a taxa de performance é cobrada em períodos semestrais e o preço da cota ao final de cada período serve de referência para a cobrança da taxa.
 
 No entanto, nem todos os investidores do fundo terão o mesmo resultado. no período, pois as aplicações podem ter sido feitas em datas diferentes com preços de cotas diferentes.
 
@@ -64,7 +64,7 @@ Temos então:
 - **Cota base ajustada pela performance do fundo**: R\$115,00; e
 - **Cota base ajustada pela performance do IBOV**: R\$110,00.
 
-Nesse caso, a performance do Fundo superou o *benchmark* e haverá cobrança da taxa de perfomrnance.
+Nesse caso, a performance do Fundo superou o *benchmark* e haverá cobrança da taxa de performance.
 
 A partir desse período, o preço de referência (linha d'água) para cobrança da taxa de performance será R\$115,00. Ou seja, o fundo não cobrará taxa de performance se não conseguir, ao final de um período de apuração, superar os R\$115,00.
 

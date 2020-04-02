@@ -1,6 +1,6 @@
 ---  
 title: "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO (PCAR) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-PCAR3 PCAR4 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,7 +110,7 @@ PCAR3 PCAR4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>19.892,00</td>  
 <td data-col='trimBalanco' class='trimData'>19.892,00</td>  
@@ -166,7 +168,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>7.954,00</td>  
 <td data-col='trimBalanco' class='trimData'>7.954,00</td>  
@@ -224,7 +226,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -282,7 +284,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>38.099,00</td>  
 <td data-col='trimBalanco' class='trimData'>38.099,00</td>  
@@ -340,7 +342,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>57.991,00</td>  
 <td data-col='trimBalanco' class='trimData'>57.991,00</td>  
@@ -398,7 +400,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>23.135,00</td>  
 <td data-col='trimBalanco' class='trimData'>23.135,00</td>  
@@ -456,7 +458,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>3.488,00</td>  
 <td data-col='trimBalanco' class='trimData'>3.488,00</td>  
@@ -514,7 +516,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>21.345,00</td>  
 <td data-col='trimBalanco' class='trimData'>21.345,00</td>  
@@ -572,7 +574,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>10.706,00</td>  
 <td data-col='trimBalanco' class='trimData'>10.706,00</td>  
@@ -630,7 +632,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>57.991,00</td>  
 <td data-col='trimBalanco' class='trimData'>57.991,00</td>  
@@ -688,7 +690,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>13.511,00</td>  
 <td data-col='trimBalanco' class='trimData'>13.511,00</td>  
@@ -804,7 +806,7 @@ PCAR3 PCAR4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>14.194,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>14.194,00</td>  
@@ -1116,10 +1118,10 @@ PCAR3 PCAR4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>56.635,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >17.321,00</td>  
 <td data-col='trimDRE' class='trimData' >13.524,00</td>  
 <td data-col='trimDRE' class='trimData' >13.081,00</td>  
 <td data-col='trimDRE' class='trimData' >12.709,00</td>  
@@ -1174,15 +1176,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>12.184,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.687,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.881,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.820,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.796,00</td>  
 <td class='positiveNumberGreen'>11.609,00</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.195,00</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.250,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.714,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >3.098,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.547,00</td>  
@@ -1232,15 +1234,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>1.948,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >635,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >456,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >399,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >458,00</td>  
 <td class='positiveNumberGreen'>2.630,00</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >754,00</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1.207,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >392,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >750,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >281,00</td>  
@@ -1290,15 +1292,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-1.206,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-497,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-147,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-273,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-289,00</td>  
 <td class='negativeNumber'>-1.061,00</td>  
-<td data-col='trimDRE' class='trimData negativeNumber' >-60,00</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-647,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-135,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-147,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-132,00</td>  
@@ -1348,15 +1350,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>742,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >138,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >309,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >126,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >169,00</td>  
 <td class='positiveNumberGreen'>1.569,00</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >694,00</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >560,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >257,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >603,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >149,00</td>  
@@ -1406,15 +1408,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>836,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >72,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >166,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >379,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >219,00</td>  
 <td class='positiveNumberGreen'>1.284,00</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >291,00</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >395,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >138,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >525,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >226,00</td>  
@@ -1464,15 +1466,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>21.51</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>21.29</td>  
 <td data-col='trimDRE' class='trimData'>21.30</td>  
 <td data-col='trimDRE' class='trimData'>21.56</td>  
 <td data-col='trimDRE' class='trimData'>22.00</td>  
 <td>23.51</td>  
-<td data-col='trimDRE' class='trimData'>22.80</td>  
+<td data-col='trimDRE' class='trimData'>23.20</td>  
 <td data-col='trimDRE' class='trimData'>22.14</td>  
 <td data-col='trimDRE' class='trimData'>26.31</td>  
 <td data-col='trimDRE' class='trimData'>22.45</td>  
@@ -1522,15 +1524,15 @@ PCAR3 PCAR4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>1.48</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.42</td>  
 <td data-col='trimDRE' class='trimData'>1.23</td>  
 <td data-col='trimDRE' class='trimData'>2.90</td>  
 <td data-col='trimDRE' class='trimData'>1.72</td>  
 <td>2.60</td>  
-<td data-col='trimDRE' class='trimData'>2.08</td>  
+<td data-col='trimDRE' class='trimData'>2.82</td>  
 <td data-col='trimDRE' class='trimData'>1.13</td>  
 <td data-col='trimDRE' class='trimData'>4.46</td>  
 <td data-col='trimDRE' class='trimData'>1.99</td>  
@@ -1583,12 +1585,12 @@ PCAR3 PCAR4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>6.19</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.53</td>  
 <td data-col='trimDRE' class='trimData'>1.53</td>  
 <td data-col='trimDRE' class='trimData'>3.53</td>  
 <td data-col='trimDRE' class='trimData'>1.60</td>  
 <td>9.76</td>  
-<td data-col='trimDRE' class='trimData'>2.09</td>  
+<td data-col='trimDRE' class='trimData'>2.83</td>  
 <td data-col='trimDRE' class='trimData'>1.00</td>  
 <td data-col='trimDRE' class='trimData'>3.82</td>  
 <td data-col='trimDRE' class='trimData'>1.70</td>  
@@ -1641,12 +1643,12 @@ PCAR3 PCAR4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>3.36</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.09</td>  
 <td data-col='trimDRE' class='trimData'>1.08</td>  
 <td data-col='trimDRE' class='trimData'>1.21</td>  
 <td data-col='trimDRE' class='trimData'>0.79</td>  
 <td>4.24</td>  
-<td data-col='trimDRE' class='trimData'>1.43</td>  
+<td data-col='trimDRE' class='trimData'>2.28</td>  
 <td data-col='trimDRE' class='trimData'>0.82</td>  
 <td data-col='trimDRE' class='trimData'>1.61</td>  
 <td data-col='trimDRE' class='trimData'>0.62</td>  
@@ -1699,12 +1701,12 @@ PCAR3 PCAR4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>6.51</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.12</td>  
 <td data-col='trimDRE' class='trimData'>2.23</td>  
 <td data-col='trimDRE' class='trimData'>2.15</td>  
 <td data-col='trimDRE' class='trimData'>1.69</td>  
 <td>12.26</td>  
-<td data-col='trimDRE' class='trimData'>3.30</td>  
+<td data-col='trimDRE' class='trimData'>5.28</td>  
 <td data-col='trimDRE' class='trimData'>1.44</td>  
 <td data-col='trimDRE' class='trimData'>2.97</td>  
 <td data-col='trimDRE' class='trimData'>1.09</td>  
@@ -1834,15 +1836,15 @@ PCAR3 PCAR4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>1.135,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >4.882,00</td>  
 <td data-col='trimDFC' class='trimData' >228,00</td>  
 <td data-col='trimDFC' class='trimData' >633,00</td>  
 <td data-col='trimDFC' class='trimData' >-4.608,00</td>  
 <td>4.267,00</td>  
-<td data-col='trimDFC' class='trimData' >6.430,00</td>  
+<td data-col='trimDFC' class='trimData' >8.111,00</td>  
 <td data-col='trimDFC' class='trimData' >-953,00</td>  
 <td data-col='trimDFC' class='trimData' >2.457,00</td>  
 <td data-col='trimDFC' class='trimData' >-5.348,00</td>  
@@ -1892,15 +1894,15 @@ PCAR3 PCAR4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-3.266,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-3.729,00</td>  
 <td data-col='trimDFC' class='trimData' >-681,00</td>  
 <td data-col='trimDFC' class='trimData' >1.759,00</td>  
 <td data-col='trimDFC' class='trimData' >-615,00</td>  
 <td>-1.897,00</td>  
-<td data-col='trimDFC' class='trimData' >-495,00</td>  
+<td data-col='trimDFC' class='trimData' >-493,00</td>  
 <td data-col='trimDFC' class='trimData' >-562,00</td>  
 <td data-col='trimDFC' class='trimData' >-415,00</td>  
 <td data-col='trimDFC' class='trimData' >-427,00</td>  
@@ -1950,15 +1952,15 @@ PCAR3 PCAR4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>1.894,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-5.966,00</td>  
 <td data-col='trimDFC' class='trimData' >8.404,00</td>  
 <td data-col='trimDFC' class='trimData' >-1.342,00</td>  
 <td data-col='trimDFC' class='trimData' >798,00</td>  
 <td>-1.641,00</td>  
-<td data-col='trimDFC' class='trimData' >-909,00</td>  
+<td data-col='trimDFC' class='trimData' >-2.592,00</td>  
 <td data-col='trimDFC' class='trimData' >570,00</td>  
 <td data-col='trimDFC' class='trimData' >-348,00</td>  
 <td data-col='trimDFC' class='trimData' >729,00</td>  
@@ -2011,7 +2013,7 @@ PCAR3 PCAR4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='negativeNumber'>-237,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-4.813,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>7.951,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>1.050,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-4.425,00</td>  
@@ -2069,12 +2071,12 @@ PCAR3 PCAR4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='negativeNumber'>-2.131,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>1.153,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-453,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2.392,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-5.223,00</td>  
 <td class='positiveNumber'>2.370,00</td>  
-<td data-col='trimDFC' class='trimData positiveNumber'>5.935,00</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>7.618,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.515,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2.042,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-5.775,00</td>  

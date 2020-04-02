@@ -1,6 +1,6 @@
 ---  
 title: "SUL AMERICA S/A (SULA) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-SULA11 SULA3 SULA4 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,7 +110,7 @@ SULA11 SULA3 SULA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>20.270,36</td>  
 <td data-col='trimBalanco' class='trimData'>20.270,36</td>  
@@ -166,7 +168,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>744,98</td>  
 <td data-col='trimBalanco' class='trimData'>744,98</td>  
@@ -224,7 +226,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>16.225,13</td>  
 <td data-col='trimBalanco' class='trimData'>16.225,13</td>  
@@ -282,7 +284,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>8.142,09</td>  
 <td data-col='trimBalanco' class='trimData'>8.142,09</td>  
@@ -340,7 +342,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>28.412,45</td>  
 <td data-col='trimBalanco' class='trimData'>28.412,45</td>  
@@ -398,7 +400,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>10.376,44</td>  
 <td data-col='trimBalanco' class='trimData'>10.376,44</td>  
@@ -456,7 +458,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>178,02</td>  
 <td data-col='trimBalanco' class='trimData'>178,02</td>  
@@ -514,7 +516,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>10.888,30</td>  
 <td data-col='trimBalanco' class='trimData'>10.888,30</td>  
@@ -572,7 +574,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>1.572,33</td>  
 <td data-col='trimBalanco' class='trimData'>1.572,33</td>  
@@ -630,7 +632,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>28.412,45</td>  
 <td data-col='trimBalanco' class='trimData'>28.412,45</td>  
@@ -688,7 +690,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>7.147,70</td>  
 <td data-col='trimBalanco' class='trimData'>7.147,70</td>  
@@ -804,7 +806,7 @@ SULA11 SULA3 SULA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>1.750,35</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.750,35</td>  
@@ -1116,10 +1118,10 @@ SULA11 SULA3 SULA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>21.725,62</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >5.661,52</td>  
 <td data-col='trimDRE' class='trimData' >5.534,82</td>  
 <td data-col='trimDRE' class='trimData' >5.278,59</td>  
 <td data-col='trimDRE' class='trimData' >5.250,69</td>  
@@ -1174,10 +1176,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>2.787,63</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >969,26</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >643,08</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >560,34</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >614,95</td>  
@@ -1232,10 +1234,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>940,88</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >434,83</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >202,51</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >111,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >192,15</td>  
@@ -1290,10 +1292,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='positiveNumberGreen'>615,14</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >137,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >147,08</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >159,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >171,29</td>  
@@ -1348,10 +1350,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>1.556,02</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >572,21</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >349,59</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >270,78</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >363,44</td>  
@@ -1406,10 +1408,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>1.181,63</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >452,81</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >244,99</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >260,50</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >223,33</td>  
@@ -1464,10 +1466,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>12.83</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>17.12</td>  
 <td data-col='trimDRE' class='trimData'>11.62</td>  
 <td data-col='trimDRE' class='trimData'>10.62</td>  
 <td data-col='trimDRE' class='trimData'>11.71</td>  
@@ -1522,10 +1524,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>5.44</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>8.00</td>  
 <td data-col='trimDRE' class='trimData'>4.43</td>  
 <td data-col='trimDRE' class='trimData'>4.94</td>  
 <td data-col='trimDRE' class='trimData'>4.25</td>  
@@ -1583,7 +1585,7 @@ SULA11 SULA3 SULA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>16.53</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>6.33</td>  
 <td data-col='trimDRE' class='trimData'>3.52</td>  
 <td data-col='trimDRE' class='trimData'>3.85</td>  
 <td data-col='trimDRE' class='trimData'>3.43</td>  
@@ -1641,7 +1643,7 @@ SULA11 SULA3 SULA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>3.31</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.53</td>  
 <td data-col='trimDRE' class='trimData'>0.72</td>  
 <td data-col='trimDRE' class='trimData'>0.41</td>  
 <td data-col='trimDRE' class='trimData'>0.74</td>  
@@ -1699,7 +1701,7 @@ SULA11 SULA3 SULA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>-7.69</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>-3.56</td>  
 <td data-col='trimDRE' class='trimData'>-1.72</td>  
 <td data-col='trimDRE' class='trimData'>-0.97</td>  
 <td data-col='trimDRE' class='trimData'>-1.63</td>  
@@ -1834,10 +1836,10 @@ SULA11 SULA3 SULA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>394,02</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >267,35</td>  
 <td data-col='trimDFC' class='trimData' >-168,08</td>  
 <td data-col='trimDFC' class='trimData' >72,04</td>  
 <td data-col='trimDFC' class='trimData' >222,71</td>  
@@ -1892,10 +1894,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-252,80</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-41,30</td>  
 <td data-col='trimDFC' class='trimData' >-170,72</td>  
 <td data-col='trimDFC' class='trimData' >-22,60</td>  
 <td data-col='trimDFC' class='trimData' >-18,17</td>  
@@ -1950,10 +1952,10 @@ SULA11 SULA3 SULA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-25,72</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-340,71</td>  
 <td data-col='trimDFC' class='trimData' >-13,83</td>  
 <td data-col='trimDFC' class='trimData' >332,86</td>  
 <td data-col='trimDFC' class='trimData' >-4,03</td>  
@@ -2011,7 +2013,7 @@ SULA11 SULA3 SULA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='positiveNumber'>115,50</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-114,66</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-352,64</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>382,30</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>200,50</td>  
@@ -2069,7 +2071,7 @@ SULA11 SULA3 SULA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='positiveNumber'>141,22</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>226,05</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-338,81</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>49,44</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>204,53</td>  

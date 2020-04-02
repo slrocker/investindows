@@ -1,6 +1,6 @@
 ---  
 title: "JOAO FORTES ENGENHARIA SA (JFEN) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-JFEN3 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -103,7 +105,7 @@ JFEN3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>1.412,64</td>  
 <td data-col='trimBalanco' class='trimData'>1.412,64</td>  
@@ -156,7 +158,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>16,74</td>  
 <td data-col='trimBalanco' class='trimData'>16,74</td>  
@@ -209,7 +211,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>0,07</td>  
 <td data-col='trimBalanco' class='trimData'>0,07</td>  
@@ -262,7 +264,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>341,51</td>  
 <td data-col='trimBalanco' class='trimData'>341,51</td>  
@@ -315,7 +317,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>1.754,15</td>  
 <td data-col='trimBalanco' class='trimData'>1.754,15</td>  
@@ -368,7 +370,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>927,84</td>  
 <td data-col='trimBalanco' class='trimData'>927,84</td>  
@@ -421,7 +423,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>547,78</td>  
 <td data-col='trimBalanco' class='trimData'>547,78</td>  
@@ -474,7 +476,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>565,47</td>  
 <td data-col='trimBalanco' class='trimData'>565,47</td>  
@@ -527,7 +529,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>72,02</td>  
 <td data-col='trimBalanco' class='trimData'>72,02</td>  
@@ -580,7 +582,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>1.754,15</td>  
 <td data-col='trimBalanco' class='trimData'>1.754,15</td>  
@@ -633,7 +635,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>260,84</td>  
 <td data-col='trimBalanco' class='trimData'>260,84</td>  
@@ -739,7 +741,7 @@ JFEN3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>619,80</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>619,80</td>  
@@ -1026,7 +1028,7 @@ JFEN3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>98,78</td>  
 <td data-col='trimDRE' class='trimData' >8,10</td>  
@@ -1079,7 +1081,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='negativeNumber'>-61,99</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-10,09</td>  
@@ -1132,7 +1134,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='negativeNumber'>-404,71</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-237,59</td>  
@@ -1185,7 +1187,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-32,13</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-6,10</td>  
@@ -1238,7 +1240,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='negativeNumber'>-436,85</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-243,69</td>  
@@ -1291,7 +1293,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='negativeNumber'>-427,82</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-234,52</td>  
@@ -1344,7 +1346,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1397,7 +1399,7 @@ JFEN3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1684,7 +1686,7 @@ JFEN3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>166,35</td>  
 <td data-col='trimDFC' class='trimData' >95,34</td>  
@@ -1737,7 +1739,7 @@ JFEN3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-47,33</td>  
 <td data-col='trimDFC' class='trimData' >-18,83</td>  
@@ -1790,7 +1792,7 @@ JFEN3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-133,49</td>  
 <td data-col='trimDFC' class='trimData' >-71,82</td>  

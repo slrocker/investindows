@@ -1,6 +1,6 @@
 ---  
 title: "ITAÚSA - INVESTIMENTOS ITAÚ S.A. (ITSA) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-ITSA3 ITSA4 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,7 +110,7 @@ ITSA3 ITSA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>6.381,00</td>  
 <td data-col='trimBalanco' class='trimData'>6.381,00</td>  
@@ -166,7 +168,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>2.369,00</td>  
 <td data-col='trimBalanco' class='trimData'>2.369,00</td>  
@@ -224,7 +226,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>1.213,00</td>  
 <td data-col='trimBalanco' class='trimData'>1.213,00</td>  
@@ -282,7 +284,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>61.095,00</td>  
 <td data-col='trimBalanco' class='trimData'>61.095,00</td>  
@@ -340,7 +342,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>67.476,00</td>  
 <td data-col='trimBalanco' class='trimData'>67.476,00</td>  
@@ -398,7 +400,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>2.576,00</td>  
 <td data-col='trimBalanco' class='trimData'>2.576,00</td>  
@@ -456,7 +458,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>878,00</td>  
 <td data-col='trimBalanco' class='trimData'>878,00</td>  
@@ -514,7 +516,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>6.543,00</td>  
 <td data-col='trimBalanco' class='trimData'>6.543,00</td>  
@@ -572,7 +574,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>3.277,00</td>  
 <td data-col='trimBalanco' class='trimData'>3.277,00</td>  
@@ -630,7 +632,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>67.476,00</td>  
 <td data-col='trimBalanco' class='trimData'>67.476,00</td>  
@@ -688,7 +690,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>58.357,00</td>  
 <td data-col='trimBalanco' class='trimData'>58.357,00</td>  
@@ -804,7 +806,7 @@ ITSA3 ITSA4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>4.155,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.155,00</td>  
@@ -1116,10 +1118,10 @@ ITSA3 ITSA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>5.008,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.486,00</td>  
 <td data-col='trimDRE' class='trimData' >1.308,00</td>  
 <td data-col='trimDRE' class='trimData' >1.143,00</td>  
 <td data-col='trimDRE' class='trimData' >1.071,00</td>  
@@ -1174,10 +1176,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>1.290,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >315,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >349,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >346,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >280,00</td>  
@@ -1232,10 +1234,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>10.994,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.890,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.029,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.632,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.443,00</td>  
@@ -1290,10 +1292,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-264,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-188,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-41,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-17,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-18,00</td>  
@@ -1348,10 +1350,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>10.730,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.702,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.988,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.615,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.425,00</td>  
@@ -1406,10 +1408,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>10.569,00</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >3.631,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.958,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.479,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >2.501,00</td>  
@@ -1464,10 +1466,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>25.76</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>21.20</td>  
 <td data-col='trimDRE' class='trimData'>26.68</td>  
 <td data-col='trimDRE' class='trimData'>30.27</td>  
 <td data-col='trimDRE' class='trimData'>26.14</td>  
@@ -1522,10 +1524,10 @@ ITSA3 ITSA4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>211.04</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>244.35</td>  
 <td data-col='trimDRE' class='trimData'>149.69</td>  
 <td data-col='trimDRE' class='trimData'>216.89</td>  
 <td data-col='trimDRE' class='trimData'>233.52</td>  
@@ -1583,7 +1585,7 @@ ITSA3 ITSA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>18.11</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>6.22</td>  
 <td data-col='trimDRE' class='trimData'>3.55</td>  
 <td data-col='trimDRE' class='trimData'>4.48</td>  
 <td data-col='trimDRE' class='trimData'>4.69</td>  
@@ -1641,7 +1643,7 @@ ITSA3 ITSA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>16.29</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>5.77</td>  
 <td data-col='trimDRE' class='trimData'>3.14</td>  
 <td data-col='trimDRE' class='trimData'>4.05</td>  
 <td data-col='trimDRE' class='trimData'>3.93</td>  
@@ -1699,7 +1701,7 @@ ITSA3 ITSA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>12.31</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>4.36</td>  
 <td data-col='trimDRE' class='trimData'>2.37</td>  
 <td data-col='trimDRE' class='trimData'>3.07</td>  
 <td data-col='trimDRE' class='trimData'>2.97</td>  
@@ -1834,10 +1836,10 @@ ITSA3 ITSA4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>802,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >525,00</td>  
 <td data-col='trimDFC' class='trimData' >357,00</td>  
 <td data-col='trimDFC' class='trimData' >-136,00</td>  
 <td data-col='trimDFC' class='trimData' >56,00</td>  
@@ -1892,10 +1894,10 @@ ITSA3 ITSA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>9.437,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >339,00</td>  
 <td data-col='trimDFC' class='trimData' >2.933,00</td>  
 <td data-col='trimDFC' class='trimData' >-30,00</td>  
 <td data-col='trimDFC' class='trimData' >6.195,00</td>  
@@ -1950,10 +1952,10 @@ ITSA3 ITSA4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-10.293,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-527,00</td>  
 <td data-col='trimDFC' class='trimData' >-3.465,00</td>  
 <td data-col='trimDFC' class='trimData' >495,00</td>  
 <td data-col='trimDFC' class='trimData' >-6.796,00</td>  
@@ -2011,7 +2013,7 @@ ITSA3 ITSA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='negativeNumber'>-54,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>337,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-175,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>329,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-545,00</td>  
@@ -2069,7 +2071,7 @@ ITSA3 ITSA4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='positiveNumber'>10.239,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>864,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>3.290,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-166,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>6.251,00</td>  

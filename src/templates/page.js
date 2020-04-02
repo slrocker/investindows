@@ -128,7 +128,7 @@ const TemplatePage = (props) => {
 
             <div className={pageStyles.content} dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
 
-            
+            <div className={pageStyles.lastUpdate}>Última atualização: {props.data.markdownRemark.frontmatter.date}</div>
             
         </Layout>
     )

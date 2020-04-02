@@ -1,6 +1,6 @@
 ---  
 title: "SCHULZ SA (SHUL) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-SHUL3 SHUL4 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,7 +110,7 @@ SHUL3 SHUL4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>857,91</td>  
 <td data-col='trimBalanco' class='trimData'>857,91</td>  
@@ -166,7 +168,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>35,86</td>  
 <td data-col='trimBalanco' class='trimData'>35,86</td>  
@@ -224,7 +226,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>280,77</td>  
 <td data-col='trimBalanco' class='trimData'>280,77</td>  
@@ -282,7 +284,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>539,38</td>  
 <td data-col='trimBalanco' class='trimData'>539,38</td>  
@@ -340,7 +342,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>1.397,29</td>  
 <td data-col='trimBalanco' class='trimData'>1.397,29</td>  
@@ -398,7 +400,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>342,00</td>  
 <td data-col='trimBalanco' class='trimData'>342,00</td>  
@@ -456,7 +458,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>209,28</td>  
 <td data-col='trimBalanco' class='trimData'>209,28</td>  
@@ -514,7 +516,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>435,19</td>  
 <td data-col='trimBalanco' class='trimData'>435,19</td>  
@@ -572,7 +574,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>325,80</td>  
 <td data-col='trimBalanco' class='trimData'>325,80</td>  
@@ -630,7 +632,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>1.397,29</td>  
 <td data-col='trimBalanco' class='trimData'>1.397,29</td>  
@@ -688,7 +690,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>620,10</td>  
 <td data-col='trimBalanco' class='trimData'>620,10</td>  
@@ -804,7 +806,7 @@ SHUL3 SHUL4
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>535,08</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>535,08</td>  
@@ -1116,10 +1118,10 @@ SHUL3 SHUL4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>1.060,40</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >252,62</td>  
 <td data-col='trimDRE' class='trimData' >285,46</td>  
 <td data-col='trimDRE' class='trimData' >285,02</td>  
 <td data-col='trimDRE' class='trimData' >237,31</td>  
@@ -1174,10 +1176,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>230,89</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >55,20</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >61,05</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >63,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >51,38</td>  
@@ -1232,10 +1234,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>96,36</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >15,33</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >30,53</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >29,25</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >21,24</td>  
@@ -1290,10 +1292,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-15,52</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-1,49</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-5,01</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-5,08</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-3,94</td>  
@@ -1348,10 +1350,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>80,84</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >13,85</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >25,52</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >24,17</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >17,30</td>  
@@ -1406,10 +1408,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>97,15</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >21,68</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >30,34</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >26,62</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >18,50</td>  
@@ -1464,10 +1466,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>21.77</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>21.85</td>  
 <td data-col='trimDRE' class='trimData'>21.38</td>  
 <td data-col='trimDRE' class='trimData'>22.20</td>  
 <td data-col='trimDRE' class='trimData'>21.65</td>  
@@ -1522,10 +1524,10 @@ SHUL3 SHUL4
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>9.16</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>8.58</td>  
 <td data-col='trimDRE' class='trimData'>10.63</td>  
 <td data-col='trimDRE' class='trimData'>9.34</td>  
 <td data-col='trimDRE' class='trimData'>7.80</td>  
@@ -1583,7 +1585,7 @@ SHUL3 SHUL4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>15.67</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.50</td>  
 <td data-col='trimDRE' class='trimData'>5.06</td>  
 <td data-col='trimDRE' class='trimData'>4.60</td>  
 <td data-col='trimDRE' class='trimData'>3.31</td>  
@@ -1641,7 +1643,7 @@ SHUL3 SHUL4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>6.90</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.10</td>  
 <td data-col='trimDRE' class='trimData'>2.10</td>  
 <td data-col='trimDRE' class='trimData'>2.07</td>  
 <td data-col='trimDRE' class='trimData'>1.60</td>  
@@ -1699,7 +1701,7 @@ SHUL3 SHUL4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>7.58</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.21</td>  
 <td data-col='trimDRE' class='trimData'>2.49</td>  
 <td data-col='trimDRE' class='trimData'>2.35</td>  
 <td data-col='trimDRE' class='trimData'>1.79</td>  
@@ -1834,10 +1836,10 @@ SHUL3 SHUL4
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>133,09</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >13,07</td>  
 <td data-col='trimDFC' class='trimData' >71,53</td>  
 <td data-col='trimDFC' class='trimData' >25,39</td>  
 <td data-col='trimDFC' class='trimData' >23,10</td>  
@@ -1892,10 +1894,10 @@ SHUL3 SHUL4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-108,82</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-22,03</td>  
 <td data-col='trimDFC' class='trimData' >-20,43</td>  
 <td data-col='trimDFC' class='trimData' >-35,42</td>  
 <td data-col='trimDFC' class='trimData' >-30,94</td>  
@@ -1950,10 +1952,10 @@ SHUL3 SHUL4
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-6,76</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-38,87</td>  
 <td data-col='trimDFC' class='trimData' >-10,01</td>  
 <td data-col='trimDFC' class='trimData' >52,23</td>  
 <td data-col='trimDFC' class='trimData' >-10,12</td>  
@@ -2011,7 +2013,7 @@ SHUL3 SHUL4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='positiveNumber'>17,50</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-47,83</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>41,09</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>42,20</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-17,95</td>  
@@ -2069,7 +2071,7 @@ SHUL3 SHUL4
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='positiveNumber'>24,27</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-8,96</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>51,10</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-10,03</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-7,84</td>  

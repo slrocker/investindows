@@ -1,6 +1,6 @@
 ---  
 title: "NEOENERGIA S.A (NEOE) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-NEOE3 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -108,7 +110,7 @@ NEOE3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>12.931,04</td>  
 <td data-col='trimBalanco' class='trimData'>12.931,04</td>  
@@ -166,7 +168,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>4.040,72</td>  
 <td data-col='trimBalanco' class='trimData'>4.040,72</td>  
@@ -224,7 +226,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>24,91</td>  
 <td data-col='trimBalanco' class='trimData'>24,91</td>  
@@ -282,7 +284,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>41.283,74</td>  
 <td data-col='trimBalanco' class='trimData'>41.283,74</td>  
@@ -340,7 +342,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>54.214,78</td>  
 <td data-col='trimBalanco' class='trimData'>54.214,78</td>  
@@ -398,7 +400,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>9.551,70</td>  
 <td data-col='trimBalanco' class='trimData'>9.551,70</td>  
@@ -456,7 +458,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>3.705,49</td>  
 <td data-col='trimBalanco' class='trimData'>3.705,49</td>  
@@ -514,7 +516,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>25.404,35</td>  
 <td data-col='trimBalanco' class='trimData'>25.404,35</td>  
@@ -572,7 +574,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>18.958,25</td>  
 <td data-col='trimBalanco' class='trimData'>18.958,25</td>  
@@ -630,7 +632,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>54.214,78</td>  
 <td data-col='trimBalanco' class='trimData'>54.214,78</td>  
@@ -688,7 +690,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>19.258,74</td>  
 <td data-col='trimBalanco' class='trimData'>19.258,74</td>  
@@ -804,7 +806,7 @@ NEOE3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>22.663,74</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>22.663,74</td>  
@@ -1116,10 +1118,10 @@ NEOE3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>28.461,31</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >7.453,78</td>  
 <td data-col='trimDRE' class='trimData' >7.177,78</td>  
 <td data-col='trimDRE' class='trimData' >6.725,86</td>  
 <td data-col='trimDRE' class='trimData' >7.103,88</td>  
@@ -1174,10 +1176,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>6.373,98</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1.750,18</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.641,07</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.525,36</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.457,38</td>  
@@ -1232,10 +1234,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>4.273,18</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1.153,79</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.137,84</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >989,63</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >991,92</td>  
@@ -1290,10 +1292,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='negativeNumber'>-1.340,79</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-367,93</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-310,22</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-370,77</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-291,87</td>  
@@ -1348,10 +1350,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>2.932,39</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >785,86</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >827,62</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >618,86</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >700,05</td>  
@@ -1406,10 +1408,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>2.309,32</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >642,63</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >616,91</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >540,07</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >509,72</td>  
@@ -1464,10 +1466,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>22.40</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>23.48</td>  
 <td data-col='trimDRE' class='trimData'>22.86</td>  
 <td data-col='trimDRE' class='trimData'>22.68</td>  
 <td data-col='trimDRE' class='trimData'>20.52</td>  
@@ -1522,10 +1524,10 @@ NEOE3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>8.11</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>8.62</td>  
 <td data-col='trimDRE' class='trimData'>8.59</td>  
 <td data-col='trimDRE' class='trimData'>8.03</td>  
 <td data-col='trimDRE' class='trimData'>7.18</td>  
@@ -1583,7 +1585,7 @@ NEOE3
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>11.99</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.34</td>  
 <td data-col='trimDRE' class='trimData'>3.26</td>  
 <td data-col='trimDRE' class='trimData'>2.95</td>  
 <td data-col='trimDRE' class='trimData'>2.82</td>  
@@ -1641,7 +1643,7 @@ NEOE3
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>7.88</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.13</td>  
 <td data-col='trimDRE' class='trimData'>2.14</td>  
 <td data-col='trimDRE' class='trimData'>2.08</td>  
 <td data-col='trimDRE' class='trimData'>2.09</td>  
@@ -1699,7 +1701,7 @@ NEOE3
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>7.45</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.01</td>  
 <td data-col='trimDRE' class='trimData'>1.96</td>  
 <td data-col='trimDRE' class='trimData'>1.78</td>  
 <td data-col='trimDRE' class='trimData'>1.81</td>  
@@ -1834,10 +1836,10 @@ NEOE3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>3.409,65</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >975,58</td>  
 <td data-col='trimDFC' class='trimData' >1.299,82</td>  
 <td data-col='trimDFC' class='trimData' >524,53</td>  
 <td data-col='trimDFC' class='trimData' >609,72</td>  
@@ -1892,10 +1894,10 @@ NEOE3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-4.395,26</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-950,73</td>  
 <td data-col='trimDFC' class='trimData' >-1.189,95</td>  
 <td data-col='trimDFC' class='trimData' >-1.227,31</td>  
 <td data-col='trimDFC' class='trimData' >-1.027,27</td>  
@@ -1950,10 +1952,10 @@ NEOE3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>1.092,65</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >467,90</td>  
 <td data-col='trimDFC' class='trimData' >711,79</td>  
 <td data-col='trimDFC' class='trimData' >404,19</td>  
 <td data-col='trimDFC' class='trimData' >-491,22</td>  
@@ -2011,7 +2013,7 @@ NEOE3
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='positiveNumber'>107,04</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>492,75</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>821,65</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-298,60</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-908,77</td>  
@@ -2069,7 +2071,7 @@ NEOE3
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='negativeNumber'>-985,61</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>24,86</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>109,87</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-702,78</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-417,55</td>  

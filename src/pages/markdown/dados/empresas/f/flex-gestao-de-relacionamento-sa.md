@@ -1,6 +1,6 @@
 ---  
 title: "FLEX GESTÃO DE RELACIONAMENTO S.A. (FLEX) "  
-date: "2020-03-04"  
+date: "2020-04-02"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,7 +30,9 @@ order: 0
 ## Ativos Listados
 
 
-FLEX3 
+Sem ativos listados.
+
+
 
 
 ## Dados DFP
@@ -78,7 +80,7 @@ FLEX3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -106,7 +108,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -134,7 +136,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -162,7 +164,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -190,7 +192,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -218,7 +220,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -246,7 +248,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -274,7 +276,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -302,7 +304,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -330,7 +332,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -358,7 +360,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -414,7 +416,7 @@ FLEX3
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
@@ -576,7 +578,7 @@ FLEX3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -604,7 +606,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -632,7 +634,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -660,7 +662,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -688,7 +690,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -716,7 +718,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -744,7 +746,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -772,7 +774,7 @@ FLEX3
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -934,7 +936,7 @@ FLEX3
 </tr>  
 </thead>  
 <tbody>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -962,7 +964,7 @@ FLEX3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -990,7 +992,7 @@ FLEX3
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 </tr>  
-<tr>  
+<tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
