@@ -1,6 +1,6 @@
 ---
 title: "CDI"
-date: "2019-11-25"
+date: "2020-04-03"
 section: "Enciclopédia"
 sectionSlug: "enciclopedia"
 category: "Termos"
@@ -14,7 +14,7 @@ order: 0
 
 ## O que é CDI?
 
-CDI é a sigla para Certificado de Depósito Interbancário.
+CDI é a sigla para Certificado de Depósito Interfinanceiro também comumente chamado de Certificado de Depósito Interbancário.
 
 O CDI é um título utilizado pelos bancos no [mercado interbancário](/aprenda/financas/economia/mercado-interbancario) para fazer empréstimos.
 

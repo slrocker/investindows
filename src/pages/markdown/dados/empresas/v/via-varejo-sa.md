@@ -1,6 +1,6 @@
 ---  
 title: "VIA VAREJO S.A. (VVAR) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+VVAR3 
 
 
 ## Dados DFP
@@ -1171,7 +1169,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData' >1.336,02</td>  
 <td data-col='trimDRE' class='trimData' >1.257,47</td>  
 <td>3.962,18</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >3.962,18</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1229,7 +1227,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >237,18</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >265,25</td>  
 <td class='positiveNumberGreen'>667,77</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >667,77</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1287,7 +1285,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >123,78</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >10,56</td>  
 <td class='negativeNumber'>-381,73</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-381,73</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1345,7 +1343,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData negativeNumber' >-77,22</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-27,06</td>  
 <td class='negativeNumber'>-86,95</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-86,95</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1403,7 +1401,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >46,56</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-16,50</td>  
 <td class='negativeNumber'>-468,68</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-468,68</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1461,7 +1459,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >37,19</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-5,93</td>  
 <td class='negativeNumber'>-319,13</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-319,13</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1519,7 +1517,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData'>17.75</td>  
 <td data-col='trimDRE' class='trimData'>21.09</td>  
 <td>16.85</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>16.85</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1577,7 +1575,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData'>2.78</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>NA</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1635,7 +1633,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData'>1.45</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>NA</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1693,7 +1691,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData'>1.25</td>  
 <td data-col='trimDRE' class='trimData'>0.11</td>  
 <td>NA</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1751,7 +1749,7 @@ Sem ativos listados.
 <td data-col='trimDRE' class='trimData'>2.13</td>  
 <td data-col='trimDRE' class='trimData'>0.18</td>  
 <td>NA</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
@@ -1889,7 +1887,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-94,64</td>  
 <td data-col='trimDFC' class='trimData' >-111,72</td>  
 <td>98,31</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >98,31</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1947,7 +1945,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-14,91</td>  
 <td data-col='trimDFC' class='trimData' >-6,64</td>  
 <td>-53,72</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-53,72</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2005,7 +2003,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >84,54</td>  
 <td data-col='trimDFC' class='trimData' >146,33</td>  
 <td>-75,30</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-75,30</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2063,7 +2061,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-25,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>27,97</td>  
 <td class='negativeNumber'>-30,71</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-30,71</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2121,7 +2119,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-109,55</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-118,36</td>  
 <td class='positiveNumber'>44,59</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>44,59</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

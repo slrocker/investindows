@@ -1,6 +1,6 @@
 ---  
 title: "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+CVCB3 
 
 
 ## Dados DFP
@@ -1569,9 +1567,9 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >27,99</td>  
 <td data-col='trimDFC' class='trimData' >47,56</td>  
 <td>-96,44</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-96,44</td>  
+<td data-col='trimDFC' class='trimData' >-132,83</td>  
+<td data-col='trimDFC' class='trimData' >-130,05</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1617,9 +1615,9 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-8,48</td>  
 <td data-col='trimDFC' class='trimData' >-17,87</td>  
 <td>-80,23</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-80,23</td>  
+<td data-col='trimDFC' class='trimData' >-49,27</td>  
+<td data-col='trimDFC' class='trimData' >-33,69</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1665,9 +1663,9 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-18,43</td>  
 <td data-col='trimDFC' class='trimData' >-15,11</td>  
 <td>-67,66</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-67,66</td>  
+<td data-col='trimDFC' class='trimData' >-44,09</td>  
+<td data-col='trimDFC' class='trimData' >-30,28</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1713,9 +1711,9 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>1,08</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>14,58</td>  
 <td class='negativeNumber'>-244,33</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-244,33</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-226,19</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-194,01</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1761,9 +1759,9 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>19,51</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>29,69</td>  
 <td class='negativeNumber'>-176,67</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-176,67</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-182,10</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-163,74</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "MAESTRO LOCADORA DE VEÍCULOS S.A. (MSRO) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+MSRO3 
 
 
 ## Dados DFP
@@ -1269,7 +1267,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >6,53</td>  
 <td data-col='trimDFC' class='trimData' >7,25</td>  
 <td>12,41</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >12,41</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1307,7 +1305,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-8,37</td>  
 <td data-col='trimDFC' class='trimData' >-3,26</td>  
 <td>-2,53</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-2,53</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1345,7 +1343,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >14,44</td>  
 <td data-col='trimDFC' class='trimData' >-3,37</td>  
 <td>-14,70</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-14,70</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1383,7 +1381,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>12,59</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>0,62</td>  
 <td class='negativeNumber'>-4,82</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-4,82</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1421,7 +1419,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-1,85</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>3,98</td>  
 <td class='positiveNumber'>9,88</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>9,88</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

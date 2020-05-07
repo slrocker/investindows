@@ -1,6 +1,6 @@
 ---  
 title: "PETTENATI S.A.IND TEXTIL (PTNT) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+PTNT3 PTNT4 
 
 
 ## Dados DFP
@@ -1689,7 +1687,7 @@ Sem ativos listados.
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>47.134,93</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >47.134,93</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData' >7.632,65</td>  
 <td data-col='trimDFC' class='trimData' >-6.103,17</td>  
@@ -1742,7 +1740,7 @@ Sem ativos listados.
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-48.855,31</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-48.855,31</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData' >-16.872,66</td>  
 <td data-col='trimDFC' class='trimData' >1.479,14</td>  
@@ -1795,7 +1793,7 @@ Sem ativos listados.
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>12.065,43</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >12.065,43</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData' >688,83</td>  
 <td data-col='trimDFC' class='trimData' >2.800,17</td>  
@@ -1848,7 +1846,7 @@ Sem ativos listados.
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='positiveNumber'>10.345,06</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>10.345,06</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-8.551,18</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.823,87</td>  
@@ -1901,7 +1899,7 @@ Sem ativos listados.
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='negativeNumber'>-1.720,37</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-1.720,37</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-9.240,01</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-4.624,03</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "ANIMA HOLDING S/A (ANIM) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+ANIM3 
 
 
 ## Dados DFP
@@ -1579,7 +1577,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >12,77</td>  
 <td data-col='trimDFC' class='trimData' >17,72</td>  
 <td>6,65</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >6,65</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1627,7 +1625,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-47,04</td>  
 <td data-col='trimDFC' class='trimData' >-0,60</td>  
 <td>-10,32</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-10,32</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1675,7 +1673,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >92,32</td>  
 <td data-col='trimDFC' class='trimData' >-14,88</td>  
 <td>-2,25</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-2,25</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1723,7 +1721,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>58,05</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2,25</td>  
 <td class='negativeNumber'>-5,92</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-5,92</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1771,7 +1769,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-34,27</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>17,12</td>  
 <td class='negativeNumber'>-3,67</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-3,67</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

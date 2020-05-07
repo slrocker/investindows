@@ -1,6 +1,6 @@
 ---  
 title: "BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+BRQB3 
 
 
 ## Dados DFP
@@ -1269,7 +1267,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >0,40</td>  
 <td data-col='trimDFC' class='trimData' >-5,10</td>  
 <td>-15,89</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-15,89</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1307,7 +1305,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,59</td>  
 <td data-col='trimDFC' class='trimData' >-1,91</td>  
 <td>-13,84</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-13,84</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1345,7 +1343,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >0,55</td>  
 <td data-col='trimDFC' class='trimData' >2,61</td>  
 <td>18,40</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >18,40</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1383,7 +1381,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>0,36</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-4,39</td>  
 <td class='negativeNumber'>-11,34</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-11,34</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1421,7 +1419,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-0,19</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-7,01</td>  
 <td class='negativeNumber'>-29,73</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-29,73</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

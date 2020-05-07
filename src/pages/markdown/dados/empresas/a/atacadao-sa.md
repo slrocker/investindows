@@ -1,6 +1,6 @@
 ---  
 title: "ATACADÃO S.A. (CRFB) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+CRFB3 
 
 
 ## Dados DFP
@@ -959,7 +957,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >823,00</td>  
 <td data-col='trimDFC' class='trimData' >-1.444,00</td>  
 <td>1.736,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >1.736,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -987,7 +985,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-838,00</td>  
 <td data-col='trimDFC' class='trimData' >-633,00</td>  
 <td>-1.442,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-1.442,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1015,7 +1013,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >337,00</td>  
 <td data-col='trimDFC' class='trimData' >322,00</td>  
 <td>898,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >898,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1043,7 +1041,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>322,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.755,00</td>  
 <td class='positiveNumber'>1.192,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>1.192,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1071,7 +1069,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-15,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-2.077,00</td>  
 <td class='positiveNumber'>294,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>294,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

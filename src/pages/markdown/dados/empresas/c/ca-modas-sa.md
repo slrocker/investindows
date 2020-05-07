@@ -1,6 +1,6 @@
 ---  
 title: "C&A MODAS S.A. (CEAB) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+CEAB3 
 
 
 ## Dados DFP
@@ -649,7 +647,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-159,00</td>  
 <td data-col='trimDFC' class='trimData' >13,91</td>  
 <td>595,52</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >595,52</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -667,7 +665,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-18,32</td>  
 <td data-col='trimDFC' class='trimData' >-94,86</td>  
 <td>-90,15</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-90,15</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -685,7 +683,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >82,49</td>  
 <td data-col='trimDFC' class='trimData' >-91,20</td>  
 <td>-563,32</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-563,32</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -703,7 +701,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-94,83</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-172,14</td>  
 <td class='negativeNumber'>-57,95</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-57,95</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -721,7 +719,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-177,32</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-80,94</td>  
 <td class='positiveNumber'>505,37</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>505,37</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

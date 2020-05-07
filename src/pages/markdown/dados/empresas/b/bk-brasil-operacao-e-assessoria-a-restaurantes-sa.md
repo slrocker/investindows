@@ -1,6 +1,6 @@
 ---  
 title: "BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES S.A. (BKBR) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+BKBR3 
 
 
 ## Dados DFP
@@ -959,7 +957,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-19,39</td>  
 <td data-col='trimDFC' class='trimData' >-49,09</td>  
 <td>87,45</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >87,45</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -987,7 +985,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-49,00</td>  
 <td data-col='trimDFC' class='trimData' >1,03</td>  
 <td>-180,51</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-180,51</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1015,7 +1013,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >53,52</td>  
 <td data-col='trimDFC' class='trimData' >-36,29</td>  
 <td>139,64</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >139,64</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1043,7 +1041,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-14,87</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-84,35</td>  
 <td class='positiveNumber'>46,57</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>46,57</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1071,7 +1069,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-68,39</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-48,06</td>  
 <td class='negativeNumber'>-93,06</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-93,06</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

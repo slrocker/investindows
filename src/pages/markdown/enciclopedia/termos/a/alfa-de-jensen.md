@@ -1,6 +1,6 @@
 ---
 title: "Alfa de Jensen"
-date: "2019-11-26"
+date: "2020-04-29"
 section: "Enciclopédia"
 sectionSlug: "enciclopedia"
 category: "Termos"
@@ -84,9 +84,9 @@ De forma geral:
 - **alfa positivo**: indica uma performance acima da média. Quanto maior, melhor; e
 - **alfa negativo**: indica uma performance abaixo da média.
 
-No exemplo acima, como o beta é acima de 1.0, de acordo com o modelo, o risco desse fundo seria superior ao do IBOVESPA e, portanto, deveria entregar resultados acima do índice.
+No exemplo acima, como o beta é acima de 1.0, de acordo com o modelo, o risco desse fundo seria superior ao do IBOVESPA e, portanto, o fundo deveria entregar resultados acima do índice **mesmo que o gestor não fizesse nada**.
 
-Como o alfa foi positivo, conclui-se que o gestor do fundo foi capaz de cumprir essa meta e entregou resultados vantajosos aos seus cotistas.
+Como o alfa foi positivo, conclui-se que o fundo não só fez jus ao seu risco elevado (beta acima de 1) como o gestor do fundo foi capaz de entregar resultados vantajosos aos seus cotistas através da sua gestão dos ativos (alfa positivo).
 
 ## Alfa e o Mercado
 

@@ -1,6 +1,6 @@
 ---  
 title: "NORTEC QUIMICA S.A. (NRTQ) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+NRTQ3 
 
 
 ## Dados DFP
@@ -1734,7 +1732,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >2,29</td>  
 <td data-col='trimDFC' class='trimData' >0,28</td>  
 <td>10,93</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >10,93</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1787,7 +1785,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,62</td>  
 <td data-col='trimDFC' class='trimData' >-0,50</td>  
 <td>-0,95</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-0,95</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1840,7 +1838,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-1,42</td>  
 <td data-col='trimDFC' class='trimData' >-0,42</td>  
 <td>-1,89</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-1,89</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1893,7 +1891,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>0,25</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-0,65</td>  
 <td class='positiveNumber'>8,10</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>8,10</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1946,7 +1944,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>1,67</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-0,22</td>  
 <td class='positiveNumber'>9,98</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>9,98</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

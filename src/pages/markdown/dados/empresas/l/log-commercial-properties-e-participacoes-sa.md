@@ -1,6 +1,6 @@
 ---  
 title: "LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES S.A. (LOGG) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+LOGG3 
 
 
 ## Dados DFP
@@ -1579,7 +1577,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-2,51</td>  
 <td data-col='trimDFC' class='trimData' >-0,45</td>  
 <td>4,02</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >4,02</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1627,7 +1625,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-86,05</td>  
 <td data-col='trimDFC' class='trimData' >-79,19</td>  
 <td>-274,67</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-274,67</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1675,7 +1673,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >22,87</td>  
 <td data-col='trimDFC' class='trimData' >52,96</td>  
 <td>438,05</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >438,05</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1723,7 +1721,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-65,69</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-26,68</td>  
 <td class='positiveNumber'>167,41</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>167,41</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1771,7 +1769,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-88,56</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-79,64</td>  
 <td class='negativeNumber'>-270,64</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-270,64</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

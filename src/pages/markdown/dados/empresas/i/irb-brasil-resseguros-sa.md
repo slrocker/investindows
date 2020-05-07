@@ -1,6 +1,6 @@
 ---  
 title: "IRB - BRASIL RESSEGUROS S.A. (IRBR) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+IRBR3 
 
 
 ## Dados DFP
@@ -959,7 +957,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >108,77</td>  
 <td data-col='trimDFC' class='trimData' >52,40</td>  
 <td>426,40</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >426,40</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -987,7 +985,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >91,29</td>  
 <td data-col='trimDFC' class='trimData' >443,03</td>  
 <td>26,78</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >26,78</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1015,7 +1013,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-18,25</td>  
 <td data-col='trimDFC' class='trimData' >-490,08</td>  
 <td>-478,67</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-478,67</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1043,7 +1041,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>181,81</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>5,34</td>  
 <td class='negativeNumber'>-25,50</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-25,50</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1071,7 +1069,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>200,06</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>495,42</td>  
 <td class='positiveNumber'>453,17</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>453,17</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

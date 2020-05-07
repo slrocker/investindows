@@ -1,6 +1,6 @@
 ---  
 title: "PETROBRAS DISTRIBUIDORA SA (BRDT) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+BRDT3 
 
 
 ## Dados DFP
@@ -959,7 +957,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >1.163,00</td>  
 <td data-col='trimDFC' class='trimData' >-380,00</td>  
 <td>482,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >482,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -987,7 +985,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-62,00</td>  
 <td data-col='trimDFC' class='trimData' >728,00</td>  
 <td>-2.905,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-2.905,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1015,7 +1013,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-1.027,00</td>  
 <td data-col='trimDFC' class='trimData' >-342,00</td>  
 <td>2.491,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >2.491,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1043,7 +1041,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>74,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>6,00</td>  
 <td class='positiveNumber'>68,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>68,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1071,7 +1069,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>1.101,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>348,00</td>  
 <td class='negativeNumber'>-2.423,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-2.423,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

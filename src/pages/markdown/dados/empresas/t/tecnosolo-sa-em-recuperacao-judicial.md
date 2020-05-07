@@ -1,6 +1,6 @@
 ---  
 title: "TECNOSOLO S.A.- EM RECUPERAÇÃO JUDICIAL (TCNO) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+TCNO3 TCNO4 
 
 
 ## Dados DFP
@@ -1874,8 +1872,8 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-2,44</td>  
 <td data-col='trimDFC' class='trimData' >2,49</td>  
 <td>-9,40</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-9,40</td>  
+<td data-col='trimDFC' class='trimData' >-7,54</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
@@ -1932,8 +1930,8 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,01</td>  
 <td data-col='trimDFC' class='trimData' >-0,01</td>  
 <td>10,29</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >10,29</td>  
+<td data-col='trimDFC' class='trimData' >10,32</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
@@ -1990,8 +1988,8 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >0,08</td>  
 <td data-col='trimDFC' class='trimData' >0,02</td>  
 <td>-2,06</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-2,06</td>  
+<td data-col='trimDFC' class='trimData' >-3,10</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
@@ -2048,8 +2046,8 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-2,36</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2,51</td>  
 <td class='negativeNumber'>-1,17</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-1,17</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-0,33</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  
@@ -2106,8 +2104,8 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-2,44</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2,49</td>  
 <td class='positiveNumber'>0,89</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>0,89</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>2,78</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td>ND</td>  

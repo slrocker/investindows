@@ -1,6 +1,6 @@
 ---  
 title: "IGUA SANEAMENTO S.A. (IGSN) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+IGSN3 
 
 
 ## Dados DFP
@@ -1579,7 +1577,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-11,42</td>  
 <td data-col='trimDFC' class='trimData' >-2,77</td>  
 <td>-99,51</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-99,51</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1627,7 +1625,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-175,25</td>  
 <td data-col='trimDFC' class='trimData' >-26,08</td>  
 <td>-31,75</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-31,75</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1675,7 +1673,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >182,02</td>  
 <td data-col='trimDFC' class='trimData' >34,27</td>  
 <td>68,07</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >68,07</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1723,7 +1721,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-4,65</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>5,42</td>  
 <td class='negativeNumber'>-63,19</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-63,19</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1771,7 +1769,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-186,67</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-28,85</td>  
 <td class='negativeNumber'>-131,26</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-131,26</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

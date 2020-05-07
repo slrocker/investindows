@@ -1,6 +1,6 @@
 ---  
 title: "CENTRO DE IMAGEM DIAGNÓSTICOS S.A. (AALR) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+AALR3 
 
 
 ## Dados DFP
@@ -1114,7 +1112,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >31,77</td>  
 <td data-col='trimDFC' class='trimData' >6,82</td>  
 <td>47,69</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >47,69</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1147,7 +1145,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-21,35</td>  
 <td data-col='trimDFC' class='trimData' >-17,05</td>  
 <td>-128,66</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-128,66</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1180,7 +1178,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-37,67</td>  
 <td data-col='trimDFC' class='trimData' >15,79</td>  
 <td>71,21</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >71,21</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1213,7 +1211,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-27,25</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>5,56</td>  
 <td class='negativeNumber'>-9,77</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-9,77</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1246,7 +1244,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>10,43</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-10,23</td>  
 <td class='negativeNumber'>-80,97</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-80,97</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

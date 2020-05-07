@@ -1,6 +1,6 @@
 ---  
 title: "COSAN LOGÍSTICA S.A. (RLOG) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+RLOG3 
 
 
 ## Dados DFP
@@ -1424,7 +1422,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >105,84</td>  
 <td data-col='trimDFC' class='trimData' >35,35</td>  
 <td>35,35</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >35,35</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1467,7 +1465,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-69,09</td>  
 <td data-col='trimDFC' class='trimData' >484,72</td>  
 <td>484,72</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >484,72</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1510,7 +1508,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >24,73</td>  
 <td data-col='trimDFC' class='trimData' >-17,61</td>  
 <td>-17,61</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-17,61</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1553,7 +1551,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>61,48</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>502,46</td>  
 <td class='positiveNumber'>502,46</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>502,46</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1596,7 +1594,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>36,75</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>520,07</td>  
 <td class='positiveNumber'>520,07</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>520,07</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

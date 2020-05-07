@@ -1,6 +1,6 @@
 ---  
 title: "OMEGA GERAÇÃO S.A. (OMGE) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+OMGE3 
 
 
 ## Dados DFP
@@ -1424,7 +1422,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >16,12</td>  
 <td data-col='trimDFC' class='trimData' >-9,88</td>  
 <td>1,48</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >1,48</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1467,7 +1465,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-40,48</td>  
 <td data-col='trimDFC' class='trimData' >-2,56</td>  
 <td>-139,04</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-139,04</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1510,7 +1508,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >0,43</td>  
 <td data-col='trimDFC' class='trimData' >-4,80</td>  
 <td>173,57</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >173,57</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1553,7 +1551,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-23,92</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-17,24</td>  
 <td class='positiveNumber'>36,01</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>36,01</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1596,7 +1594,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-24,35</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-12,44</td>  
 <td class='negativeNumber'>-137,56</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-137,56</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

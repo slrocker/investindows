@@ -1,6 +1,6 @@
 ---  
 title: "LIFEMED INDUSTRIAL DE EQUIP. E ART. MEDICOS E HOSP. S.A. (LMED) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+LMED3 
 
 
 ## Dados DFP
@@ -649,7 +647,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >4,89</td>  
 <td data-col='trimDFC' class='trimData' >6,56</td>  
 <td>32,05</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >32,05</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -667,7 +665,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-2,26</td>  
 <td data-col='trimDFC' class='trimData' >-2,19</td>  
 <td>-21,57</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-21,57</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -685,7 +683,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-1,31</td>  
 <td data-col='trimDFC' class='trimData' >-3,77</td>  
 <td>-12,11</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-12,11</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -696,14 +694,14 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-4,97</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>4,86</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>0,26</td>  
-<td data-col='trimDFC' class='trimData negativeNumber'>-0,17</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-0,34</td>  
 <td class='negativeNumber'>-0,02</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>0,30</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-2,07</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>1,31</td>  
-<td data-col='trimDFC' class='trimData positiveNumber'>0,59</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>1,19</td>  
 <td class='negativeNumber'>-3,27</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-3,27</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -714,14 +712,14 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-6,75</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>9,62</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-12,93</td>  
-<td data-col='trimDFC' class='trimData negativeNumber'>-2,15</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-4,30</td>  
 <td class='positiveNumber'>1,02</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-10,61</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1,18</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2,62</td>  
-<td data-col='trimDFC' class='trimData positiveNumber'>4,37</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>8,73</td>  
 <td class='positiveNumber'>20,96</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>20,96</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

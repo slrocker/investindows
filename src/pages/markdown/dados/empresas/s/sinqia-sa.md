@@ -1,6 +1,6 @@
 ---  
 title: "SINQIA S.A. (SQIA) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+SQIA3 
 
 
 ## Dados DFP
@@ -1734,7 +1732,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >67.895,00</td>  
 <td data-col='trimDFC' class='trimData' >-399.510,00</td>  
 <td>1.289.395,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >1.289.395,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1787,7 +1785,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >1.162.857,00</td>  
 <td data-col='trimDFC' class='trimData' >1.030.383,00</td>  
 <td>-4.579.777,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-4.579.777,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1840,7 +1838,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-1.504.931,00</td>  
 <td data-col='trimDFC' class='trimData' >-1.384.071,00</td>  
 <td>-1.591.938,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-1.591.938,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1893,7 +1891,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-274.179,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-753.198,00</td>  
 <td class='negativeNumber'>-4.882.320,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-4.882.320,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1946,7 +1944,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>1.230.752,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>630.873,00</td>  
 <td class='negativeNumber'>-3.290.382,00</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-3.290.382,00</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "HAGA S.A.INDÚSTRIA E COMÉRCIO (HAGA) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+HAGA3 HAGA4 
 
 
 ## Dados DFP
@@ -1884,7 +1882,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-145,08</td>  
 <td data-col='trimDFC' class='trimData' >2.698,66</td>  
 <td>6.743,32</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >6.743,32</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1942,7 +1940,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-351,05</td>  
 <td data-col='trimDFC' class='trimData' >-642,24</td>  
 <td>-1.888,35</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-1.888,35</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2000,7 +1998,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >0,00</td>  
 <td data-col='trimDFC' class='trimData' >0,00</td>  
 <td>-1.164,62</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-1.164,62</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2058,7 +2056,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-496,12</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2.056,42</td>  
 <td class='positiveNumber'>3.690,34</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>3.690,34</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -2116,7 +2114,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-496,12</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2.056,42</td>  
 <td class='positiveNumber'>4.854,97</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>4.854,97</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

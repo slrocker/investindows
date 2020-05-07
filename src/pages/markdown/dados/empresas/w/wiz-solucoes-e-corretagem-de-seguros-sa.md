@@ -1,6 +1,6 @@
 ---  
 title: "WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZS) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+WIZS3 
 
 
 ## Dados DFP
@@ -1269,7 +1267,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >25,66</td>  
 <td data-col='trimDFC' class='trimData' >15,92</td>  
 <td>79,10</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >79,10</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1307,7 +1305,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-4,04</td>  
 <td data-col='trimDFC' class='trimData' >7,21</td>  
 <td>-86,72</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-86,72</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1345,7 +1343,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-22,65</td>  
 <td data-col='trimDFC' class='trimData' >-21,76</td>  
 <td>5,39</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >5,39</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1383,7 +1381,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-1,02</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>1,36</td>  
 <td class='negativeNumber'>-2,23</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-2,23</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1421,7 +1419,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>21,63</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>23,12</td>  
 <td class='negativeNumber'>-7,63</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-7,63</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

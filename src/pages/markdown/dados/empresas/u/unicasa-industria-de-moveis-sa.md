@@ -1,6 +1,6 @@
 ---  
 title: "UNICASA INDÚSTRIA DE MÓVEIS S.A. (UCAS) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+UCAS3 
 
 
 ## Dados DFP

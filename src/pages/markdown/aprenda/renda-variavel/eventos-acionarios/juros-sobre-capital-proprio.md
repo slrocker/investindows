@@ -1,6 +1,6 @@
 ---
 title: "Juros Sobre Capital Próprio"
-date: "2019-10-09"
+date: "2020-04-23"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Variável"
@@ -12,7 +12,7 @@ pageType: "page"
 order: 9
 ---
 
-##O que são juros sobre capital próprio?
+## O que são juros sobre capital próprio?
 
 Juros sobre capital próprio (JCP) representam o dinheiro que uma empresa paga aos seus acionistas a título de remunerar o capital que os mesmos investiram na empresa.
 
@@ -35,9 +35,42 @@ A diferença entre os dividendos e o JCP é que o JCP pode ser considerado como 
 
 Por isso, os JCP são tributados em 15% antes de chegarem aos bolsos dos acionistas.
 
+## Cálculo do Juros sobre Capital
+
+Legalmente, o cálculo do JCP é feito aplicando-se a [Taxa de Longo Prazo (TLP)](/enciclopedia/termos/t/taxa-de-longo-prazo) sobre o valor do patrimônio líquido da empresa.
+
+Adicionalmente, o valor pago não pode exceder a metade (50%) do maior entre dois valores:
+
+- lucro líquido antes do imposto de renda do exercício e do pagamento de JCP; ou
+- lucros acumulados de exercícios anteriores registrados em reservas da empresa.
+
+Por exemplo, suponha a seguinte situação:
+
+- Lucro antes do JCP e IR = R\$100.000,00;
+- 50% do valor do lucro antes do JCP e IR = R$50.000,00
+- Patrimônio Líquido (PL) = R\$1.000.000,00
+- TLP = 10% a.a.;
+- Lucros acumulados = R\$120.000,00;
+- 50% dos lucros acumulados = R\$60.000,00
+
+Nesse caso, o limite para pagamento de JCP é de R\$60.000,00
+
+Cálculo dos Juros sobre Capital Próprio:
+
+$$
+
+JCP = TLP \times PL = 10\% \times 1.000.000,00 = 100.000,00
+
+$$
+
+<p class="legenda" style="text-align:center">Fórmula 1 - Cálculo do JCP.</p>
+
+Assim, apesar de o rendimento obtido ter sido de R\$100.000,00, devido às demais restrições legais, o valor máximo a ser pago como JCP neste exemplo será de R\$60.000,00.
 
 
-##JCP e o Investidor
+
+
+## JCP e o Investidor
 
 Apesar de terem o apelo psicológico do recebimento de renda pelo acionista, os JCP não trazem nenhum ganho especial ao investidor.
 

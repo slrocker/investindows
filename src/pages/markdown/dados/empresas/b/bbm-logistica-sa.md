@@ -1,6 +1,6 @@
 ---  
 title: "BBM LOGÍSTICA S.A. (BBML) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+BBML3 
 
 
 ## Dados DFP
@@ -714,7 +712,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-5,14</td>  
 <td data-col='trimDFC' class='trimData' >9,00</td>  
 <td>26,13</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >26,13</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -737,7 +735,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,37</td>  
 <td data-col='trimDFC' class='trimData' >-36,73</td>  
 <td>-5,29</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-5,29</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -760,7 +758,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >2,48</td>  
 <td data-col='trimDFC' class='trimData' >5,13</td>  
 <td>14,50</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >14,50</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -783,7 +781,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-3,03</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-22,60</td>  
 <td class='positiveNumber'>35,34</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>35,34</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -806,7 +804,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData negativeNumber'>-5,50</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-27,73</td>  
 <td class='positiveNumber'>20,84</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>20,84</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

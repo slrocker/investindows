@@ -1,6 +1,6 @@
 ---  
 title: "CINESYSTEM S.A. (CNSY) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+CNSY3 
 
 
 ## Dados DFP
@@ -1114,7 +1112,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >3,72</td>  
 <td data-col='trimDFC' class='trimData' >1,34</td>  
 <td>0,26</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >0,26</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1147,7 +1145,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-3,12</td>  
 <td data-col='trimDFC' class='trimData' >-2,86</td>  
 <td>-16,67</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-16,67</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1180,7 +1178,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,02</td>  
 <td data-col='trimDFC' class='trimData' >-1,87</td>  
 <td>20,14</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >20,14</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1213,7 +1211,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>0,58</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-3,38</td>  
 <td class='positiveNumber'>3,73</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>3,73</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -1246,7 +1244,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>0,60</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1,52</td>  
 <td class='negativeNumber'>-16,41</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-16,41</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "BANCO INTER S.A. (BIDI) "  
-date: "2020-04-02"  
+date: "2020-05-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -30,9 +30,7 @@ order: 0
 ## Ativos Listados
 
 
-Sem ativos listados.
-
-
+BIDI11 BIDI3 BIDI4 
 
 
 ## Dados DFP
@@ -719,7 +717,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >69,78</td>  
 <td data-col='trimDFC' class='trimData' >178,26</td>  
 <td>438,05</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >438,05</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -742,7 +740,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-10,68</td>  
 <td data-col='trimDFC' class='trimData' >-58,64</td>  
 <td>-132,79</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-132,79</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -765,7 +763,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData' >-0,09</td>  
 <td data-col='trimDFC' class='trimData' >-3,87</td>  
 <td>-3,38</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-3,38</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -788,7 +786,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>59,01</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>115,75</td>  
 <td class='positiveNumber'>301,88</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>301,88</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
@@ -811,7 +809,7 @@ Sem ativos listados.
 <td data-col='trimDFC' class='trimData positiveNumber'>59,09</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>119,61</td>  
 <td class='positiveNumber'>305,26</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>305,26</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
