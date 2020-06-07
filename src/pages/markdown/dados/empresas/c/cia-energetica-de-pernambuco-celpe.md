@@ -1,6 +1,6 @@
 ---  
 title: "CIA ENERGÉTICA DE PERNAMBUCO - CELPE (CEPE) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ CEPE3 CEPE5 CEPE6
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ CEPE3 CEPE5 CEPE6
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.829,10</td>  
 <td>2.003,99</td>  
 <td data-col='trimBalanco' class='trimData'>2.003,99</td>  
 <td data-col='trimBalanco' class='trimData'>2.161,70</td>  
@@ -168,6 +178,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>614,30</td>  
 <td>261,10</td>  
 <td data-col='trimBalanco' class='trimData'>261,10</td>  
 <td data-col='trimBalanco' class='trimData'>295,87</td>  
@@ -226,6 +241,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>5,80</td>  
 <td>5,93</td>  
 <td data-col='trimBalanco' class='trimData'>5,93</td>  
 <td data-col='trimBalanco' class='trimData'>6,84</td>  
@@ -284,6 +304,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>6.126,70</td>  
 <td>5.936,91</td>  
 <td data-col='trimBalanco' class='trimData'>5.936,91</td>  
 <td data-col='trimBalanco' class='trimData'>5.773,52</td>  
@@ -342,6 +367,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>8.955,80</td>  
 <td>7.940,90</td>  
 <td data-col='trimBalanco' class='trimData'>7.940,90</td>  
 <td data-col='trimBalanco' class='trimData'>7.935,23</td>  
@@ -400,6 +430,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.982,80</td>  
 <td>2.002,03</td>  
 <td data-col='trimBalanco' class='trimData'>2.002,03</td>  
 <td data-col='trimBalanco' class='trimData'>1.984,74</td>  
@@ -458,6 +493,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.878,70</td>  
 <td>870,00</td>  
 <td data-col='trimBalanco' class='trimData'>870,00</td>  
 <td data-col='trimBalanco' class='trimData'>875,06</td>  
@@ -516,6 +556,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.306,00</td>  
 <td>4.309,82</td>  
 <td data-col='trimBalanco' class='trimData'>4.309,82</td>  
 <td data-col='trimBalanco' class='trimData'>4.332,38</td>  
@@ -574,6 +619,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.729,40</td>  
 <td>3.796,91</td>  
 <td data-col='trimBalanco' class='trimData'>3.796,91</td>  
 <td data-col='trimBalanco' class='trimData'>3.906,98</td>  
@@ -632,6 +682,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>8.955,80</td>  
 <td>7.940,90</td>  
 <td data-col='trimBalanco' class='trimData'>7.940,90</td>  
 <td data-col='trimBalanco' class='trimData'>7.935,23</td>  
@@ -690,6 +745,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.667,00</td>  
 <td>1.629,05</td>  
 <td data-col='trimBalanco' class='trimData'>1.629,05</td>  
 <td data-col='trimBalanco' class='trimData'>1.618,10</td>  
@@ -748,6 +808,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>614,30</td>  
 <td class='positiveNumber'>267,04</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>261,10</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>295,87</td>  
@@ -806,6 +871,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>5.608,10</td>  
 <td class='negativeNumber'>4.666,91</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.666,91</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.782,04</td>  
@@ -864,6 +934,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>4.993,80</td>  
 <td class='negativeNumber'>4.399,88</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.405,81</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.486,17</td>  
@@ -922,6 +997,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.95</td>  
 <td>1.00</td>  
 <td data-col='trimBalanco' class='trimData'>1.00</td>  
 <td data-col='trimBalanco' class='trimData'>1.09</td>  
@@ -980,6 +1060,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.21</td>  
 <td>0.13</td>  
 <td data-col='trimBalanco' class='trimData'>0.13</td>  
 <td data-col='trimBalanco' class='trimData'>0.15</td>  
@@ -1058,6 +1143,11 @@ CEPE3 CEPE5 CEPE6
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1118,6 +1208,11 @@ CEPE3 CEPE5 CEPE6
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.553,20</td>  
 <td>6.085,49</td>  
 <td data-col='trimDRE' class='trimData' >1.577,14</td>  
 <td data-col='trimDRE' class='trimData' >1.469,29</td>  
@@ -1176,6 +1271,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >273,20</td>  
 <td class='positiveNumberGreen'>1.025,64</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >279,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >244,19</td>  
@@ -1234,6 +1334,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >138,70</td>  
 <td class='positiveNumberGreen'>569,75</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >167,45</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >120,01</td>  
@@ -1292,6 +1397,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-84,80</td>  
 <td class='negativeNumber'>-337,49</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-79,85</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-82,86</td>  
@@ -1350,6 +1460,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >53,90</td>  
 <td class='positiveNumberGreen'>232,26</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >87,60</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >37,16</td>  
@@ -1408,6 +1523,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >38,80</td>  
 <td class='positiveNumberGreen'>181,32</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >71,43</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >28,84</td>  
@@ -1466,6 +1586,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>17.59</td>  
 <td>16.85</td>  
 <td data-col='trimDRE' class='trimData'>17.71</td>  
 <td data-col='trimDRE' class='trimData'>16.62</td>  
@@ -1524,6 +1649,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.50</td>  
 <td>2.98</td>  
 <td data-col='trimDRE' class='trimData'>4.53</td>  
 <td data-col='trimDRE' class='trimData'>1.96</td>  
@@ -1582,6 +1712,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.33</td>  
 <td>11.13</td>  
 <td data-col='trimDRE' class='trimData'>4.38</td>  
 <td data-col='trimDRE' class='trimData'>1.78</td>  
@@ -1640,6 +1775,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.55</td>  
 <td>7.17</td>  
 <td data-col='trimDRE' class='trimData'>2.11</td>  
 <td data-col='trimDRE' class='trimData'>1.51</td>  
@@ -1698,6 +1838,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.38</td>  
 <td>6.24</td>  
 <td data-col='trimDRE' class='trimData'>1.83</td>  
 <td data-col='trimDRE' class='trimData'>1.30</td>  
@@ -1776,6 +1921,11 @@ CEPE3 CEPE5 CEPE6
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1836,6 +1986,11 @@ CEPE3 CEPE5 CEPE6
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >54,60</td>  
 <td>568,36</td>  
 <td data-col='trimDFC' class='trimData' >270,86</td>  
 <td data-col='trimDFC' class='trimData' >143,98</td>  
@@ -1894,6 +2049,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-158,60</td>  
 <td>-758,79</td>  
 <td data-col='trimDFC' class='trimData' >-218,83</td>  
 <td data-col='trimDFC' class='trimData' >-181,56</td>  
@@ -1952,6 +2112,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >457,20</td>  
 <td>-206,25</td>  
 <td data-col='trimDFC' class='trimData' >-86,79</td>  
 <td data-col='trimDFC' class='trimData' >-60,47</td>  
@@ -2010,6 +2175,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>353,20</td>  
 <td class='negativeNumber'>-396,69</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-34,77</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-98,05</td>  
@@ -2068,6 +2238,11 @@ CEPE3 CEPE5 CEPE6
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-104,00</td>  
 <td class='negativeNumber'>-190,43</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>52,02</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-37,59</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "AZEVEDO & TRAVASSOS SA (AZEV) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

@@ -1,6 +1,6 @@
 ---  
 title: "FLEX GESTÃO DE RELACIONAMENTO S.A. (FLEX) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

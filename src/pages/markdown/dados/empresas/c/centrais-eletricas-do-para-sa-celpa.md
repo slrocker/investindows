@@ -1,6 +1,6 @@
 ---  
 title: "CENTRAIS ELÉTRICAS DO PARÁ S.A.- CELPA (EQPA) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -1842,7 +1842,7 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <td data-col='trimDFC' class='trimData' >127,71</td>  
 <td data-col='trimDFC' class='trimData' >278,08</td>  
 <td>750,37</td>  
-<td data-col='trimDFC' class='trimData' >368,28</td>  
+<td data-col='trimDFC' class='trimData' >368,80</td>  
 <td data-col='trimDFC' class='trimData' >179,18</td>  
 <td data-col='trimDFC' class='trimData' >95,66</td>  
 <td data-col='trimDFC' class='trimData' >106,73</td>  
@@ -1900,7 +1900,7 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <td data-col='trimDFC' class='trimData' >-160,70</td>  
 <td data-col='trimDFC' class='trimData' >-151,14</td>  
 <td>-530,65</td>  
-<td data-col='trimDFC' class='trimData' >-157,08</td>  
+<td data-col='trimDFC' class='trimData' >-157,61</td>  
 <td data-col='trimDFC' class='trimData' >-140,92</td>  
 <td data-col='trimDFC' class='trimData' >-183,35</td>  
 <td data-col='trimDFC' class='trimData' >-48,77</td>  

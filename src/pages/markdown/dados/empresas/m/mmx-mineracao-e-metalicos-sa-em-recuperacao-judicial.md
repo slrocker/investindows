@@ -1,6 +1,6 @@
 ---  
 title: "MMX MINERAÇÃO E METÁLICOS S.A.- EM RECUPERAÇÃO JUDICIAL (MMXM) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

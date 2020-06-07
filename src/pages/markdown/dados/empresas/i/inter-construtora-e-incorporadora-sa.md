@@ -1,6 +1,6 @@
 ---  
 title: "INTER CONSTRUTORA E INCORPORADORA S.A (INNT) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -584,7 +584,7 @@ INNT3
 <td data-col='trimDRE' class='trimData' >57.436,28</td>  
 <td data-col='trimDRE' class='trimData' >40.552,09</td>  
 <td>194,00</td>  
-<td data-col='trimDRE' class='trimData' >75,07</td>  
+<td data-col='trimDRE' class='trimData' >64,06</td>  
 <td data-col='trimDRE' class='trimData' >-73.381,29</td>  
 <td data-col='trimDRE' class='trimData' >37.537,83</td>  
 <td data-col='trimDRE' class='trimData' >35.973,41</td>  
@@ -612,7 +612,7 @@ INNT3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >20.623,05</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >18.492,37</td>  
 <td class='positiveNumberGreen'>69,32</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >28,08</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >18,28</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-31.599,88</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >16.671,48</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >14.979,44</td>  
@@ -640,7 +640,7 @@ INNT3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >5.637,07</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.442,28</td>  
 <td class='positiveNumberGreen'>52,50</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >22,79</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >14,84</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-19.605,79</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >10.139,61</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >9.503,84</td>  
@@ -668,7 +668,7 @@ INNT3
 <td data-col='trimDRE' class='trimData negativeNumber' >-1.157,82</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-1.603,71</td>  
 <td class='positiveNumberGreen'>0,00</td>  
-<td data-col='trimDRE' class='trimData negativeNumber' >-4,69</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >5,09</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >3.247,79</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-2.109,45</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-1.143,43</td>  
@@ -696,7 +696,7 @@ INNT3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >4.479,25</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >6.838,57</td>  
 <td class='positiveNumberGreen'>52,50</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >18,10</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >19,93</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-16.358,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.030,16</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.360,41</td>  
@@ -724,7 +724,7 @@ INNT3
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >4.479,25</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >6.838,57</td>  
 <td class='positiveNumberGreen'>47,30</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >16,71</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >16,97</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-16.360,24</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.030,16</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.360,41</td>  
@@ -752,7 +752,7 @@ INNT3
 <td data-col='trimDRE' class='trimData'>35.91</td>  
 <td data-col='trimDRE' class='trimData'>45.60</td>  
 <td>35.73</td>  
-<td data-col='trimDRE' class='trimData'>37.41</td>  
+<td data-col='trimDRE' class='trimData'>28.54</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>44.41</td>  
 <td data-col='trimDRE' class='trimData'>41.64</td>  
@@ -780,7 +780,7 @@ INNT3
 <td data-col='trimDRE' class='trimData'>7.80</td>  
 <td data-col='trimDRE' class='trimData'>16.86</td>  
 <td>24.38</td>  
-<td data-col='trimDRE' class='trimData'>22.26</td>  
+<td data-col='trimDRE' class='trimData'>26.50</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>21.39</td>  
 <td data-col='trimDRE' class='trimData'>23.24</td>  
@@ -808,7 +808,7 @@ INNT3
 <td data-col='trimDRE' class='trimData'>7.68</td>  
 <td data-col='trimDRE' class='trimData'>12.12</td>  
 <td>193.06</td>  
-<td data-col='trimDRE' class='trimData'>71.36</td>  
+<td data-col='trimDRE' class='trimData'>72.49</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>16.20</td>  
 <td data-col='trimDRE' class='trimData'>16.87</td>  
@@ -836,7 +836,7 @@ INNT3
 <td data-col='trimDRE' class='trimData'>2.22</td>  
 <td data-col='trimDRE' class='trimData'>3.41</td>  
 <td>14.41</td>  
-<td data-col='trimDRE' class='trimData'>5.77</td>  
+<td data-col='trimDRE' class='trimData'>3.76</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>4.69</td>  
 <td data-col='trimDRE' class='trimData'>4.40</td>  
@@ -864,7 +864,7 @@ INNT3
 <td data-col='trimDRE' class='trimData'>3.10</td>  
 <td data-col='trimDRE' class='trimData'>7.42</td>  
 <td>85.66</td>  
-<td data-col='trimDRE' class='trimData'>36.52</td>  
+<td data-col='trimDRE' class='trimData'>23.79</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>10.59</td>  
 <td data-col='trimDRE' class='trimData'>9.93</td>  
@@ -942,7 +942,7 @@ INNT3
 <td data-col='trimDFC' class='trimData' >-26.265,07</td>  
 <td data-col='trimDFC' class='trimData' >1.770,19</td>  
 <td>19,41</td>  
-<td data-col='trimDFC' class='trimData' >20,13</td>  
+<td data-col='trimDFC' class='trimData' >21,42</td>  
 <td data-col='trimDFC' class='trimData' >1.514,89</td>  
 <td data-col='trimDFC' class='trimData' >-207,80</td>  
 <td data-col='trimDFC' class='trimData' >-1.309,10</td>  
@@ -970,7 +970,7 @@ INNT3
 <td data-col='trimDFC' class='trimData' >26.444,85</td>  
 <td data-col='trimDFC' class='trimData' >1.106,50</td>  
 <td>-61,25</td>  
-<td data-col='trimDFC' class='trimData' >-59,73</td>  
+<td data-col='trimDFC' class='trimData' >-61,02</td>  
 <td data-col='trimDFC' class='trimData' >233,91</td>  
 <td data-col='trimDFC' class='trimData' >-627,98</td>  
 <td data-col='trimDFC' class='trimData' >393,83</td>  

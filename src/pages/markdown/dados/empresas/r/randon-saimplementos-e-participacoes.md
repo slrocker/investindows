@@ -1,6 +1,6 @@
 ---  
 title: "RANDON S.A.IMPLEMENTOS E PARTICIPAÇÕES (RAPT) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

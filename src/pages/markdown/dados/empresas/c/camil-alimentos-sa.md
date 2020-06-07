@@ -1,6 +1,6 @@
 ---  
 title: "CAMIL ALIMENTOS S/A (CAML) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -488,13 +488,13 @@ CAML3
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
-<td>4.748,82</td>  
-<td data-col='trimDRE' class='trimData' >844,63</td>  
+<td>5.396,11</td>  
+<td data-col='trimDRE' class='trimData' >1.491,92</td>  
 <td data-col='trimDRE' class='trimData' >1.443,51</td>  
 <td data-col='trimDRE' class='trimData' >1.223,56</td>  
 <td data-col='trimDRE' class='trimData' >1.237,13</td>  
-<td>4.662,94</td>  
-<td data-col='trimDRE' class='trimData' >1.246,10</td>  
+<td>4.748,82</td>  
+<td data-col='trimDRE' class='trimData' >1.331,99</td>  
 <td data-col='trimDRE' class='trimData' >1.266,84</td>  
 <td data-col='trimDRE' class='trimData' >1.145,64</td>  
 <td data-col='trimDRE' class='trimData' >1.004,36</td>  
@@ -511,13 +511,13 @@ CAML3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
-<td class='positiveNumberGreen'>1.221,76</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >308,59</td>  
+<td class='positiveNumberGreen'>1.250,84</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >337,67</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >342,70</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >283,66</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >286,81</td>  
-<td class='positiveNumberGreen'>1.150,47</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >251,12</td>  
+<td class='positiveNumberGreen'>1.221,76</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >322,40</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >319,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >316,14</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >263,28</td>  
@@ -534,13 +534,13 @@ CAML3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
-<td class='positiveNumberGreen'>381,98</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >180,79</td>  
+<td class='positiveNumberGreen'>298,24</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >97,05</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >96,98</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >54,98</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >49,24</td>  
-<td class='positiveNumberGreen'>399,57</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >105,60</td>  
+<td class='positiveNumberGreen'>381,98</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >88,01</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >127,70</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >108,97</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >57,29</td>  
@@ -557,13 +557,13 @@ CAML3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
-<td class='negativeNumber'>-15,97</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >32,44</td>  
+<td class='negativeNumber'>-62,08</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-13,67</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-19,41</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-18,21</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-10,80</td>  
-<td class='negativeNumber'>-74,40</td>  
-<td data-col='trimDRE' class='trimData negativeNumber' >-75,05</td>  
+<td class='negativeNumber'>-15,97</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-16,62</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >18,81</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-6,14</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-12,02</td>  
@@ -580,13 +580,13 @@ CAML3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
-<td class='positiveNumberGreen'>366,01</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >213,23</td>  
+<td class='positiveNumberGreen'>236,16</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >83,38</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >77,57</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >36,77</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >38,44</td>  
-<td class='positiveNumberGreen'>325,17</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >30,55</td>  
+<td class='positiveNumberGreen'>366,01</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >71,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >146,51</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >102,83</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >45,28</td>  
@@ -603,13 +603,13 @@ CAML3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
-<td class='positiveNumberGreen'>362,39</td>  
-<td data-col='trimDRE' class='trimData positiveNumberGreen' >206,38</td>  
+<td class='positiveNumberGreen'>239,63</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >83,62</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >66,10</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >40,12</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >49,79</td>  
-<td class='positiveNumberGreen'>250,66</td>  
-<td data-col='trimDRE' class='trimData negativeNumber' >-11,26</td>  
+<td class='positiveNumberGreen'>362,39</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >100,46</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >150,29</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >79,07</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >32,56</td>  
@@ -626,13 +626,13 @@ CAML3
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
-<td>25.73</td>  
-<td data-col='trimDRE' class='trimData'>36.54</td>  
+<td>23.18</td>  
+<td data-col='trimDRE' class='trimData'>22.63</td>  
 <td data-col='trimDRE' class='trimData'>23.74</td>  
 <td data-col='trimDRE' class='trimData'>23.18</td>  
 <td data-col='trimDRE' class='trimData'>23.18</td>  
-<td>24.67</td>  
-<td data-col='trimDRE' class='trimData'>20.15</td>  
+<td>25.73</td>  
+<td data-col='trimDRE' class='trimData'>24.20</td>  
 <td data-col='trimDRE' class='trimData'>25.25</td>  
 <td data-col='trimDRE' class='trimData'>27.59</td>  
 <td data-col='trimDRE' class='trimData'>26.21</td>  
@@ -649,13 +649,13 @@ CAML3
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
-<td>7.63</td>  
-<td data-col='trimDRE' class='trimData'>24.43</td>  
+<td>4.44</td>  
+<td data-col='trimDRE' class='trimData'>5.61</td>  
 <td data-col='trimDRE' class='trimData'>4.58</td>  
 <td data-col='trimDRE' class='trimData'>3.28</td>  
 <td data-col='trimDRE' class='trimData'>4.02</td>  
-<td>5.38</td>  
-<td data-col='trimDRE' class='trimData'>NA</td>  
+<td>7.63</td>  
+<td data-col='trimDRE' class='trimData'>7.54</td>  
 <td data-col='trimDRE' class='trimData'>11.86</td>  
 <td data-col='trimDRE' class='trimData'>6.90</td>  
 <td data-col='trimDRE' class='trimData'>3.24</td>  
@@ -672,13 +672,13 @@ CAML3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
-<td>16.71</td>  
-<td data-col='trimDRE' class='trimData'>9.51</td>  
+<td>11.05</td>  
+<td data-col='trimDRE' class='trimData'>3.86</td>  
 <td data-col='trimDRE' class='trimData'>3.11</td>  
 <td data-col='trimDRE' class='trimData'>1.78</td>  
 <td data-col='trimDRE' class='trimData'>2.22</td>  
-<td>13.76</td>  
-<td data-col='trimDRE' class='trimData'>NA</td>  
+<td>19.90</td>  
+<td data-col='trimDRE' class='trimData'>5.52</td>  
 <td data-col='trimDRE' class='trimData'>7.19</td>  
 <td data-col='trimDRE' class='trimData'>3.87</td>  
 <td data-col='trimDRE' class='trimData'>1.70</td>  
@@ -695,13 +695,13 @@ CAML3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
-<td>8.61</td>  
-<td data-col='trimDRE' class='trimData'>4.07</td>  
+<td>6.72</td>  
+<td data-col='trimDRE' class='trimData'>2.19</td>  
 <td data-col='trimDRE' class='trimData'>1.87</td>  
 <td data-col='trimDRE' class='trimData'>1.02</td>  
 <td data-col='trimDRE' class='trimData'>0.87</td>  
-<td>10.57</td>  
-<td data-col='trimDRE' class='trimData'>2.79</td>  
+<td>10.10</td>  
+<td data-col='trimDRE' class='trimData'>2.33</td>  
 <td data-col='trimDRE' class='trimData'>2.96</td>  
 <td data-col='trimDRE' class='trimData'>2.48</td>  
 <td data-col='trimDRE' class='trimData'>1.29</td>  
@@ -718,13 +718,13 @@ CAML3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
-<td>7.87</td>  
-<td data-col='trimDRE' class='trimData'>3.73</td>  
+<td>6.15</td>  
+<td data-col='trimDRE' class='trimData'>2.00</td>  
 <td data-col='trimDRE' class='trimData'>1.69</td>  
 <td data-col='trimDRE' class='trimData'>1.00</td>  
 <td data-col='trimDRE' class='trimData'>0.96</td>  
-<td>10.88</td>  
-<td data-col='trimDRE' class='trimData'>2.88</td>  
+<td>10.40</td>  
+<td data-col='trimDRE' class='trimData'>2.40</td>  
 <td data-col='trimDRE' class='trimData'>2.79</td>  
 <td data-col='trimDRE' class='trimData'>2.51</td>  
 <td data-col='trimDRE' class='trimData'>1.48</td>  

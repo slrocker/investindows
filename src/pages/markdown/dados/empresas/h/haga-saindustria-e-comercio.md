@@ -1,6 +1,6 @@
 ---  
 title: "HAGA S.A.INDÚSTRIA E COMÉRCIO (HAGA) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ HAGA3 HAGA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ HAGA3 HAGA4
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>45.080,98</td>  
 <td>45.240,90</td>  
 <td data-col='trimBalanco' class='trimData'>45.240,90</td>  
 <td data-col='trimBalanco' class='trimData'>46.240,84</td>  
@@ -168,6 +178,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1,74</td>  
 <td>6,88</td>  
 <td data-col='trimBalanco' class='trimData'>6,88</td>  
 <td data-col='trimBalanco' class='trimData'>0,94</td>  
@@ -226,6 +241,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>35.940,41</td>  
 <td>35.472,60</td>  
 <td data-col='trimBalanco' class='trimData'>35.472,60</td>  
 <td data-col='trimBalanco' class='trimData'>35.448,75</td>  
@@ -284,6 +304,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>10.702,32</td>  
 <td>11.004,02</td>  
 <td data-col='trimBalanco' class='trimData'>11.004,02</td>  
 <td data-col='trimBalanco' class='trimData'>10.952,45</td>  
@@ -342,6 +367,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>55.783,30</td>  
 <td>56.244,93</td>  
 <td data-col='trimBalanco' class='trimData'>56.244,93</td>  
 <td data-col='trimBalanco' class='trimData'>57.193,29</td>  
@@ -400,6 +430,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>24.196,16</td>  
 <td>23.394,21</td>  
 <td data-col='trimBalanco' class='trimData'>23.394,21</td>  
 <td data-col='trimBalanco' class='trimData'>24.357,57</td>  
@@ -458,6 +493,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>20.578,38</td>  
 <td>20.397,12</td>  
 <td data-col='trimBalanco' class='trimData'>20.397,12</td>  
 <td data-col='trimBalanco' class='trimData'>20.194,97</td>  
@@ -516,6 +556,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>108.547,22</td>  
 <td>108.357,22</td>  
 <td data-col='trimBalanco' class='trimData'>108.357,22</td>  
 <td data-col='trimBalanco' class='trimData'>114.044,87</td>  
@@ -574,6 +619,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>18.091,66</td>  
 <td>18.097,31</td>  
 <td data-col='trimBalanco' class='trimData'>18.097,31</td>  
 <td data-col='trimBalanco' class='trimData'>24.146,26</td>  
@@ -632,6 +682,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>55.783,30</td>  
 <td>56.244,93</td>  
 <td data-col='trimBalanco' class='trimData'>56.244,93</td>  
 <td data-col='trimBalanco' class='trimData'>57.193,29</td>  
@@ -690,6 +745,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco' >-76.960,07</td>  
 <td class='negativeNumber'>-75.506,51</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco' >-75.506,51</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco' >-81.209,15</td>  
@@ -748,6 +808,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>1,74</td>  
 <td class='positiveNumber'>35.479,49</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>6,88</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,94</td>  
@@ -806,6 +871,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>38.670,04</td>  
 <td class='negativeNumber'>38.494,43</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>38.494,43</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>44.341,23</td>  
@@ -864,6 +934,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>38.668,30</td>  
 <td class='negativeNumber'>3.014,95</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>38.487,55</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>44.340,28</td>  
@@ -922,6 +997,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.86</td>  
 <td>1.93</td>  
 <td data-col='trimBalanco' class='trimData'>1.93</td>  
 <td data-col='trimBalanco' class='trimData'>1.90</td>  
@@ -980,6 +1060,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.00</td>  
 <td>1.52</td>  
 <td data-col='trimBalanco' class='trimData'>0.00</td>  
 <td data-col='trimBalanco' class='trimData'>0.00</td>  
@@ -1058,6 +1143,11 @@ HAGA3 HAGA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1118,6 +1208,11 @@ HAGA3 HAGA4
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >4.769,32</td>  
 <td>23.551,59</td>  
 <td data-col='trimDRE' class='trimData' >6.106,07</td>  
 <td data-col='trimDRE' class='trimData' >6.269,43</td>  
@@ -1176,6 +1271,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >678,01</td>  
 <td class='positiveNumberGreen'>5.130,37</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.703,10</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.938,08</td>  
@@ -1234,6 +1334,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-1.041,78</td>  
 <td class='positiveNumberGreen'>4.286,86</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >6.102,03</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >138,66</td>  
@@ -1292,6 +1397,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-333,41</td>  
 <td class='negativeNumber'>-1.391,20</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-304,97</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-261,42</td>  
@@ -1350,6 +1460,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-1.375,19</td>  
 <td class='positiveNumberGreen'>2.895,66</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >5.797,05</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-122,77</td>  
@@ -1408,6 +1523,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-1.453,56</td>  
 <td class='positiveNumberGreen'>2.504,24</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >5.702,64</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-217,22</td>  
@@ -1466,6 +1586,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>14.22</td>  
 <td>21.78</td>  
 <td data-col='trimDRE' class='trimData'>27.89</td>  
 <td data-col='trimDRE' class='trimData'>30.91</td>  
@@ -1524,6 +1649,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>10.63</td>  
 <td data-col='trimDRE' class='trimData'>93.39</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1582,6 +1712,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>-3.32</td>  
 <td data-col='trimDRE' class='trimData'>-7.55</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1640,6 +1775,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>7.62</td>  
 <td data-col='trimDRE' class='trimData'>10.85</td>  
 <td data-col='trimDRE' class='trimData'>0.24</td>  
@@ -1698,6 +1838,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>-3.90</td>  
 <td data-col='trimDRE' class='trimData'>-5.56</td>  
 <td data-col='trimDRE' class='trimData'>-0.13</td>  
@@ -1776,6 +1921,11 @@ HAGA3 HAGA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1836,6 +1986,11 @@ HAGA3 HAGA4
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >650,02</td>  
 <td>2.314,94</td>  
 <td data-col='trimDFC' class='trimData' >519,39</td>  
 <td data-col='trimDFC' class='trimData' >1.118,37</td>  
@@ -1894,6 +2049,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-181,70</td>  
 <td>-1.366,62</td>  
 <td data-col='trimDFC' class='trimData' >-483,94</td>  
 <td data-col='trimDFC' class='trimData' >-246,72</td>  
@@ -1952,6 +2112,11 @@ HAGA3 HAGA4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-5,66</td>  
 <td>-37,50</td>  
 <td data-col='trimDFC' class='trimData' >-5,66</td>  
 <td data-col='trimDFC' class='trimData' >-5,65</td>  
@@ -2010,6 +2175,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>462,67</td>  
 <td class='positiveNumber'>910,81</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>29,79</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>865,99</td>  
@@ -2068,6 +2238,11 @@ HAGA3 HAGA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>468,32</td>  
 <td class='positiveNumber'>948,31</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>35,45</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>871,64</td>  

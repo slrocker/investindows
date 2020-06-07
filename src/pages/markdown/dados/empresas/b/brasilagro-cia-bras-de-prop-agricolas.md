@@ -1,6 +1,6 @@
 ---  
 title: "BRASILAGRO CIA BRAS DE PROP AGRICOLAS (AGRO) "  
-date: "2020-05-06"  
+date: "2020-06-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -107,7 +107,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
 <td>440,83</td>  
 <td data-col='trimBalanco' class='trimData'>440,83</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>556,47</td>  
 <td data-col='trimBalanco' class='trimData'>479,15</td>  
 <td data-col='trimBalanco' class='trimData'>464,28</td>  
 <td>372,28</td>  
@@ -160,7 +160,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
 <td>106,63</td>  
 <td data-col='trimBalanco' class='trimData'>106,63</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>72,70</td>  
 <td data-col='trimBalanco' class='trimData'>89,61</td>  
 <td data-col='trimBalanco' class='trimData'>112,46</td>  
 <td>104,31</td>  
@@ -213,7 +213,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
 <td>4,04</td>  
 <td data-col='trimBalanco' class='trimData'>4,04</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>7,03</td>  
 <td data-col='trimBalanco' class='trimData'>3,93</td>  
 <td data-col='trimBalanco' class='trimData'>4,04</td>  
 <td>11,21</td>  
@@ -266,7 +266,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
 <td>916,79</td>  
 <td data-col='trimBalanco' class='trimData'>916,79</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.377,15</td>  
 <td data-col='trimBalanco' class='trimData'>1.035,94</td>  
 <td data-col='trimBalanco' class='trimData'>1.009,48</td>  
 <td>807,32</td>  
@@ -319,7 +319,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
 <td>1.357,61</td>  
 <td data-col='trimBalanco' class='trimData'>1.357,61</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.933,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.515,09</td>  
 <td data-col='trimBalanco' class='trimData'>1.473,76</td>  
 <td>1.179,60</td>  
@@ -372,7 +372,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
 <td>226,62</td>  
 <td data-col='trimBalanco' class='trimData'>226,62</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>283,63</td>  
 <td data-col='trimBalanco' class='trimData'>228,06</td>  
 <td data-col='trimBalanco' class='trimData'>256,60</td>  
 <td>203,15</td>  
@@ -425,7 +425,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
 <td>76,86</td>  
 <td data-col='trimBalanco' class='trimData'>76,86</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>164,15</td>  
 <td data-col='trimBalanco' class='trimData'>142,44</td>  
 <td data-col='trimBalanco' class='trimData'>131,73</td>  
 <td>70,09</td>  
@@ -478,7 +478,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
 <td>250,46</td>  
 <td data-col='trimBalanco' class='trimData'>250,46</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>546,54</td>  
 <td data-col='trimBalanco' class='trimData'>344,07</td>  
 <td data-col='trimBalanco' class='trimData'>278,31</td>  
 <td>220,58</td>  
@@ -531,7 +531,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
 <td>230,19</td>  
 <td data-col='trimBalanco' class='trimData'>230,19</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>461,44</td>  
 <td data-col='trimBalanco' class='trimData'>315,87</td>  
 <td data-col='trimBalanco' class='trimData'>257,80</td>  
 <td>205,93</td>  
@@ -584,7 +584,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
 <td>1.357,61</td>  
 <td data-col='trimBalanco' class='trimData'>1.357,61</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.933,62</td>  
 <td data-col='trimBalanco' class='trimData'>1.515,09</td>  
 <td data-col='trimBalanco' class='trimData'>1.473,76</td>  
 <td>1.179,60</td>  
@@ -637,7 +637,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
 <td>880,53</td>  
 <td data-col='trimBalanco' class='trimData'>880,53</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.103,45</td>  
 <td data-col='trimBalanco' class='trimData'>942,97</td>  
 <td data-col='trimBalanco' class='trimData'>938,85</td>  
 <td>755,86</td>  
@@ -690,7 +690,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
 <td class='positiveNumber'>110,67</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>106,63</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>72,70</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>89,61</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>112,46</td>  
 <td class='positiveNumber'>115,53</td>  
@@ -743,7 +743,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
 <td class='negativeNumber'>307,05</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>307,05</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>625,58</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>458,31</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>389,52</td>  
 <td class='negativeNumber'>276,02</td>  
@@ -796,7 +796,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
 <td class='negativeNumber'>196,38</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>200,42</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>552,88</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>368,70</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>277,06</td>  
 <td class='negativeNumber'>160,49</td>  
@@ -849,7 +849,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
 <td>1.95</td>  
 <td data-col='trimBalanco' class='trimData'>1.95</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.96</td>  
 <td data-col='trimBalanco' class='trimData'>2.10</td>  
 <td data-col='trimBalanco' class='trimData'>1.81</td>  
 <td>1.83</td>  
@@ -902,7 +902,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
 <td>0.49</td>  
 <td data-col='trimBalanco' class='trimData'>0.47</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.26</td>  
 <td data-col='trimBalanco' class='trimData'>0.39</td>  
 <td data-col='trimBalanco' class='trimData'>0.44</td>  
 <td>0.57</td>  
@@ -1030,7 +1030,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
 <td>555,40</td>  
 <td data-col='trimDRE' class='trimData' >555,40</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >119,90</td>  
 <td data-col='trimDRE' class='trimData' >129,06</td>  
 <td data-col='trimDRE' class='trimData' >219,45</td>  
 <td>384,06</td>  
@@ -1083,7 +1083,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
 <td class='positiveNumberGreen'>236,19</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >236,19</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >42,69</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >55,47</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >60,64</td>  
 <td class='positiveNumberGreen'>155,74</td>  
@@ -1136,7 +1136,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
 <td class='positiveNumberGreen'>186,88</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >186,88</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >33,23</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >42,30</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >47,99</td>  
 <td class='positiveNumberGreen'>160,81</td>  
@@ -1189,7 +1189,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
 <td class='positiveNumberGreen'>12,92</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >12,92</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-15,29</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-10,86</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1,24</td>  
 <td class='negativeNumber'>-8,56</td>  
@@ -1242,7 +1242,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
 <td class='positiveNumberGreen'>199,80</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >199,80</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >17,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >31,45</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >49,23</td>  
 <td class='positiveNumberGreen'>152,26</td>  
@@ -1295,7 +1295,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
 <td class='positiveNumberGreen'>177,08</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >177,08</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >24,62</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >20,40</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >40,58</td>  
 <td class='positiveNumberGreen'>126,34</td>  
@@ -1348,7 +1348,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
 <td>42.53</td>  
 <td data-col='trimDRE' class='trimData'>42.53</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>35.60</td>  
 <td data-col='trimDRE' class='trimData'>42.98</td>  
 <td data-col='trimDRE' class='trimData'>27.63</td>  
 <td>40.55</td>  
@@ -1401,7 +1401,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
 <td>31.88</td>  
 <td data-col='trimDRE' class='trimData'>31.88</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>20.54</td>  
 <td data-col='trimDRE' class='trimData'>15.81</td>  
 <td data-col='trimDRE' class='trimData'>18.49</td>  
 <td>32.90</td>  
@@ -1454,7 +1454,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
 <td>20.11</td>  
 <td data-col='trimDRE' class='trimData'>20.11</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.23</td>  
 <td data-col='trimDRE' class='trimData'>2.16</td>  
 <td data-col='trimDRE' class='trimData'>4.32</td>  
 <td>16.71</td>  
@@ -1507,7 +1507,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
 <td>13.77</td>  
 <td data-col='trimDRE' class='trimData'>13.77</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.72</td>  
 <td data-col='trimDRE' class='trimData'>2.79</td>  
 <td data-col='trimDRE' class='trimData'>3.26</td>  
 <td>13.63</td>  
@@ -1560,7 +1560,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
 <td>11.45</td>  
 <td data-col='trimDRE' class='trimData'>11.45</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.33</td>  
 <td data-col='trimDRE' class='trimData'>2.14</td>  
 <td data-col='trimDRE' class='trimData'>2.61</td>  
 <td>11.58</td>  
@@ -1688,7 +1688,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
 <td>51,34</td>  
 <td data-col='trimDFC' class='trimData' >51,34</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-28,06</td>  
 <td data-col='trimDFC' class='trimData' >15,13</td>  
 <td data-col='trimDFC' class='trimData' >48,32</td>  
 <td>-2,26</td>  
@@ -1741,7 +1741,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
 <td>-21,27</td>  
 <td data-col='trimDFC' class='trimData' >-21,27</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-15,38</td>  
 <td data-col='trimDFC' class='trimData' >-8,01</td>  
 <td data-col='trimDFC' class='trimData' >-9,72</td>  
 <td>-65,70</td>  
@@ -1794,7 +1794,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
 <td>-27,62</td>  
 <td data-col='trimDFC' class='trimData' >-27,62</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >22,18</td>  
 <td data-col='trimDFC' class='trimData' >-29,43</td>  
 <td data-col='trimDFC' class='trimData' >-34,22</td>  
 <td>125,41</td>  
@@ -1847,7 +1847,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
 <td class='positiveNumber'>2,45</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>2,45</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-21,25</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-22,30</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>4,38</td>  
 <td class='positiveNumber'>57,45</td>  
@@ -1900,7 +1900,7 @@ AGRO3
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
 <td class='positiveNumber'>30,07</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>30,07</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-43,44</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>7,12</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>38,60</td>  
 <td class='negativeNumber'>-67,96</td>  
