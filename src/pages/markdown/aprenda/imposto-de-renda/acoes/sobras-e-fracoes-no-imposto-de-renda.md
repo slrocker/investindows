@@ -1,6 +1,6 @@
 ---
 title: "Como declarar sobras e frações?"
-date: "2019-11-13"
+date: "2020-06-30"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -25,19 +25,21 @@ Utilize este guia por sua conta e risco.
 
 </div>
 
-Eventos corporativos que alteram a quantidade de ações do investidor:
+## O que são sobras e frações?
+
+Existem alguns [Eventos Acionários](/aprenda/renda-variavel/eventos-acionarios) que alteram a quantidade de ações possuida pelo investidor, tais como:
 
 - Bonificação;
 - Agrupamento; e
 - Desdobramento.
 
-Quando um destes eventos ocorre, é possível que o investidor termine com uma fração de ação (0,1 ação, por exemplo).
+Quando um destes eventos ocorre, é possível que o investidor termine com um número fracionário de ações. Por exemplo: 10,2 ações.
 
-Nesses casos a emrpesa venderá a parte fracionária, depositando o dinheiro relativo à fração na sua conta da Corretora.
+Como não é possível a um investidor possuir uma fração de ação, a empresa que realizou o evento venderá a parte fracionária de todos os acionistas, depositando o dinheiro relativo à fração de cada um em sua respectiva conta da corretora de valores.
 
-## Rendimentos Isentos
+## Declaração de Sobras e Frações
 
-O valor recebido pelas frações deverá ser registrado na aba “Rendimentos Isentos e não Tributáveis“, no item “Outros“:
+O valor recebido pelas frações deverá ser registrado na aba **“Rendimentos Isentos e não Tributáveis“**, no item **“Outros“**:
 
 - Abra o programa do IRPF;
 - Selecione a seção “Rendimentos Isentos e Não Tributáveis”;

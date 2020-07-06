@@ -1,6 +1,6 @@
 ---  
 title: "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A (EZTC) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

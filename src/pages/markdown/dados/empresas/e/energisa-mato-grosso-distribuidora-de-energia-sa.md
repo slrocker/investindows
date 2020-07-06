@@ -1,6 +1,6 @@
 ---  
 title: "ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A. (ENMT) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

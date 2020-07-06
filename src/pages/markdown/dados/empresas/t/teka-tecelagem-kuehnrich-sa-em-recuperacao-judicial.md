@@ -1,6 +1,6 @@
 ---  
 title: "TEKA TECELAGEM KUEHNRICH S.A.- EM RECUPERAÇÃO JUDICIAL (TEKA) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ TEKA3 TEKA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ TEKA3 TEKA4
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>54,89</td>  
 <td>62,25</td>  
 <td data-col='trimBalanco' class='trimData'>62,25</td>  
 <td data-col='trimBalanco' class='trimData'>53,13</td>  
@@ -168,6 +178,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,09</td>  
 <td>0,57</td>  
 <td data-col='trimBalanco' class='trimData'>0,57</td>  
 <td data-col='trimBalanco' class='trimData'>0,14</td>  
@@ -226,6 +241,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -284,6 +304,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>920,44</td>  
 <td>917,25</td>  
 <td data-col='trimBalanco' class='trimData'>917,25</td>  
 <td data-col='trimBalanco' class='trimData'>918,20</td>  
@@ -342,6 +367,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>975,33</td>  
 <td>979,50</td>  
 <td data-col='trimBalanco' class='trimData'>979,50</td>  
 <td data-col='trimBalanco' class='trimData'>971,33</td>  
@@ -400,6 +430,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.233,64</td>  
 <td>2.206,25</td>  
 <td data-col='trimBalanco' class='trimData'>2.206,25</td>  
 <td data-col='trimBalanco' class='trimData'>2.179,49</td>  
@@ -458,6 +493,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>468,04</td>  
 <td>467,33</td>  
 <td data-col='trimBalanco' class='trimData'>467,33</td>  
 <td data-col='trimBalanco' class='trimData'>455,29</td>  
@@ -516,6 +556,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>338,33</td>  
 <td>337,21</td>  
 <td data-col='trimBalanco' class='trimData'>337,21</td>  
 <td data-col='trimBalanco' class='trimData'>335,42</td>  
@@ -574,6 +619,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1,97</td>  
 <td>1,94</td>  
 <td data-col='trimBalanco' class='trimData'>1,94</td>  
 <td data-col='trimBalanco' class='trimData'>1,33</td>  
@@ -632,6 +682,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>975,33</td>  
 <td>979,50</td>  
 <td data-col='trimBalanco' class='trimData'>979,50</td>  
 <td data-col='trimBalanco' class='trimData'>971,33</td>  
@@ -690,6 +745,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco' >-1.596,64</td>  
 <td class='negativeNumber'>-1.563,97</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco' >-1.563,97</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco' >-1.543,58</td>  
@@ -748,6 +808,11 @@ TEKA3 TEKA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>0,09</td>  
 <td class='positiveNumber'>0,57</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,57</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,14</td>  
@@ -806,6 +871,11 @@ TEKA3 TEKA4
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>470,00</td>  
 <td class='negativeNumber'>469,28</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>469,28</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>456,62</td>  
@@ -864,6 +934,11 @@ TEKA3 TEKA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>469,92</td>  
 <td class='negativeNumber'>468,70</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>468,70</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>456,48</td>  
@@ -922,6 +997,11 @@ TEKA3 TEKA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.02</td>  
 <td>0.03</td>  
 <td data-col='trimBalanco' class='trimData'>0.03</td>  
 <td data-col='trimBalanco' class='trimData'>0.02</td>  
@@ -980,6 +1060,11 @@ TEKA3 TEKA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.00</td>  
 <td>0.00</td>  
 <td data-col='trimBalanco' class='trimData'>0.00</td>  
 <td data-col='trimBalanco' class='trimData'>0.00</td>  

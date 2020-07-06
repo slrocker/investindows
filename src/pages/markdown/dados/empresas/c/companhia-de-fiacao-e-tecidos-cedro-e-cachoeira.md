@@ -1,6 +1,6 @@
 ---  
 title: "COMPANHIA DE FIACAO E TECIDOS CEDRO E CACHOEIRA (CEDO) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ CEDO3 CEDO4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ CEDO3 CEDO4
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>317,10</td>  
 <td>315,25</td>  
 <td data-col='trimBalanco' class='trimData'>315,25</td>  
 <td data-col='trimBalanco' class='trimData'>327,42</td>  
@@ -168,6 +178,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>24,17</td>  
 <td>17,29</td>  
 <td data-col='trimBalanco' class='trimData'>17,29</td>  
 <td data-col='trimBalanco' class='trimData'>17,11</td>  
@@ -226,6 +241,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3,26</td>  
 <td>3,23</td>  
 <td data-col='trimBalanco' class='trimData'>3,23</td>  
 <td data-col='trimBalanco' class='trimData'>3,21</td>  
@@ -284,6 +304,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>423,11</td>  
 <td>417,22</td>  
 <td data-col='trimBalanco' class='trimData'>417,22</td>  
 <td data-col='trimBalanco' class='trimData'>429,06</td>  
@@ -342,6 +367,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>740,22</td>  
 <td>732,47</td>  
 <td data-col='trimBalanco' class='trimData'>732,47</td>  
 <td data-col='trimBalanco' class='trimData'>756,47</td>  
@@ -400,6 +430,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>338,67</td>  
 <td>325,67</td>  
 <td data-col='trimBalanco' class='trimData'>325,67</td>  
 <td data-col='trimBalanco' class='trimData'>345,77</td>  
@@ -458,6 +493,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>93,48</td>  
 <td>90,50</td>  
 <td data-col='trimBalanco' class='trimData'>90,50</td>  
 <td data-col='trimBalanco' class='trimData'>99,05</td>  
@@ -516,6 +556,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>218,88</td>  
 <td>212,03</td>  
 <td data-col='trimBalanco' class='trimData'>212,03</td>  
 <td data-col='trimBalanco' class='trimData'>202,49</td>  
@@ -574,6 +619,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>145,16</td>  
 <td>147,30</td>  
 <td data-col='trimBalanco' class='trimData'>147,30</td>  
 <td data-col='trimBalanco' class='trimData'>134,31</td>  
@@ -632,6 +682,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>740,22</td>  
 <td>732,47</td>  
 <td data-col='trimBalanco' class='trimData'>732,47</td>  
 <td data-col='trimBalanco' class='trimData'>756,47</td>  
@@ -690,6 +745,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>182,66</td>  
 <td>194,78</td>  
 <td data-col='trimBalanco' class='trimData'>194,78</td>  
 <td data-col='trimBalanco' class='trimData'>208,22</td>  
@@ -748,6 +808,11 @@ CEDO3 CEDO4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>24,17</td>  
 <td class='positiveNumber'>20,52</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>17,29</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>17,11</td>  
@@ -806,6 +871,11 @@ CEDO3 CEDO4
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>238,65</td>  
 <td class='negativeNumber'>237,80</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>237,80</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>233,36</td>  
@@ -864,6 +934,11 @@ CEDO3 CEDO4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>214,48</td>  
 <td class='negativeNumber'>217,28</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>220,51</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>216,26</td>  
@@ -922,6 +997,11 @@ CEDO3 CEDO4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.94</td>  
 <td>0.97</td>  
 <td data-col='trimBalanco' class='trimData'>0.97</td>  
 <td data-col='trimBalanco' class='trimData'>0.95</td>  
@@ -980,6 +1060,11 @@ CEDO3 CEDO4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.07</td>  
 <td>0.06</td>  
 <td data-col='trimBalanco' class='trimData'>0.05</td>  
 <td data-col='trimBalanco' class='trimData'>0.05</td>  

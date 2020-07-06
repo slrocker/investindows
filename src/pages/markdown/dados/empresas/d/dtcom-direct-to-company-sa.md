@@ -1,6 +1,6 @@
 ---  
 title: "DTCOM - DIRECT TO COMPANY S.A. (DTCY) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ DTCY3 DTCY4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ DTCY3 DTCY4
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>8,45</td>  
 <td>5,90</td>  
 <td data-col='trimBalanco' class='trimData'>5,90</td>  
 <td data-col='trimBalanco' class='trimData'>5,48</td>  
@@ -168,6 +178,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2,93</td>  
 <td>2,52</td>  
 <td data-col='trimBalanco' class='trimData'>2,52</td>  
 <td data-col='trimBalanco' class='trimData'>0,99</td>  
@@ -226,6 +241,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -284,6 +304,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>22,12</td>  
 <td>22,95</td>  
 <td data-col='trimBalanco' class='trimData'>22,95</td>  
 <td data-col='trimBalanco' class='trimData'>24,92</td>  
@@ -342,6 +367,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>30,57</td>  
 <td>28,85</td>  
 <td data-col='trimBalanco' class='trimData'>28,85</td>  
 <td data-col='trimBalanco' class='trimData'>30,40</td>  
@@ -400,6 +430,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>14,92</td>  
 <td>14,36</td>  
 <td data-col='trimBalanco' class='trimData'>14,36</td>  
 <td data-col='trimBalanco' class='trimData'>14,64</td>  
@@ -458,6 +493,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1,92</td>  
 <td>1,95</td>  
 <td data-col='trimBalanco' class='trimData'>1,95</td>  
 <td data-col='trimBalanco' class='trimData'>3,12</td>  
@@ -516,6 +556,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>9,61</td>  
 <td>9,83</td>  
 <td data-col='trimBalanco' class='trimData'>9,83</td>  
 <td data-col='trimBalanco' class='trimData'>16,64</td>  
@@ -574,6 +619,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,45</td>  
 <td>0,90</td>  
 <td data-col='trimBalanco' class='trimData'>0,90</td>  
 <td data-col='trimBalanco' class='trimData'>1,83</td>  
@@ -632,6 +682,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>30,57</td>  
 <td>28,85</td>  
 <td data-col='trimBalanco' class='trimData'>28,85</td>  
 <td data-col='trimBalanco' class='trimData'>30,40</td>  
@@ -690,6 +745,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>6,04</td>  
 <td>4,66</td>  
 <td data-col='trimBalanco' class='trimData'>4,66</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco' >-0,88</td>  
@@ -748,6 +808,11 @@ DTCY3 DTCY4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>2,93</td>  
 <td class='positiveNumber'>2,52</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>2,52</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,99</td>  
@@ -806,6 +871,11 @@ DTCY3 DTCY4
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>2,36</td>  
 <td class='negativeNumber'>2,84</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2,84</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4,96</td>  
@@ -864,6 +934,11 @@ DTCY3 DTCY4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>-0,57</td>  
 <td class='negativeNumber'>0,32</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>0,32</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>3,97</td>  
@@ -922,6 +997,11 @@ DTCY3 DTCY4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.57</td>  
 <td>0.41</td>  
 <td data-col='trimBalanco' class='trimData'>0.41</td>  
 <td data-col='trimBalanco' class='trimData'>0.37</td>  
@@ -980,6 +1060,11 @@ DTCY3 DTCY4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.20</td>  
 <td>0.18</td>  
 <td data-col='trimBalanco' class='trimData'>0.18</td>  
 <td data-col='trimBalanco' class='trimData'>0.07</td>  

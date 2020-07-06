@@ -1,6 +1,6 @@
 ---  
 title: "M DIAS BRANCO S.A.IND E COM DE ALIMENTOS (MDIA) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

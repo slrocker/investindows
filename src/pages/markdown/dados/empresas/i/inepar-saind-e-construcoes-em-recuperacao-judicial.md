@@ -1,6 +1,6 @@
 ---  
 title: "INEPAR S.A.IND E CONSTRUÇÕES - EM RECUPERAÇÃO JUDICIAL (INEP) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

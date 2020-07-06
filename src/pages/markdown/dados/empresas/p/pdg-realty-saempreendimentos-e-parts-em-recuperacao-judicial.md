@@ -1,6 +1,6 @@
 ---  
 title: "PDG REALTY S.A.EMPREENDIMENTOS E PARTS - EM RECUPERAÇÃO JUDICIAL (PDGR) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

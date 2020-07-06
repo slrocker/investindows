@@ -1,6 +1,6 @@
 ---  
 title: "INDÚSTRIAS ROMI S.A. (ROMI) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

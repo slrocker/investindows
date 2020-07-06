@@ -1,6 +1,6 @@
 ---  
 title: "ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

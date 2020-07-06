@@ -1,6 +1,6 @@
 ---  
 title: "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A. (ADHM) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

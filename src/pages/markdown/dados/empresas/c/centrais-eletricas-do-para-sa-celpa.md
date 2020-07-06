@@ -1,6 +1,6 @@
 ---  
 title: "CENTRAIS ELÉTRICAS DO PARÁ S.A.- CELPA (EQPA) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.701,66</td>  
 <td>3.619,27</td>  
 <td data-col='trimBalanco' class='trimData'>3.619,27</td>  
 <td data-col='trimBalanco' class='trimData'>3.825,59</td>  
@@ -168,6 +178,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.188,06</td>  
 <td>350,94</td>  
 <td data-col='trimBalanco' class='trimData'>350,94</td>  
 <td data-col='trimBalanco' class='trimData'>1.614,60</td>  
@@ -226,6 +241,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>497,85</td>  
 <td>1.121,40</td>  
 <td data-col='trimBalanco' class='trimData'>1.121,40</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -284,6 +304,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>7.530,45</td>  
 <td>6.335,73</td>  
 <td data-col='trimBalanco' class='trimData'>6.335,73</td>  
 <td data-col='trimBalanco' class='trimData'>6.230,10</td>  
@@ -342,6 +367,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>11.232,11</td>  
 <td>9.955,00</td>  
 <td data-col='trimBalanco' class='trimData'>9.955,00</td>  
 <td data-col='trimBalanco' class='trimData'>10.055,69</td>  
@@ -400,6 +430,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.529,19</td>  
 <td>1.319,31</td>  
 <td data-col='trimBalanco' class='trimData'>1.319,31</td>  
 <td data-col='trimBalanco' class='trimData'>1.739,54</td>  
@@ -458,6 +493,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>80,32</td>  
 <td>42,71</td>  
 <td data-col='trimBalanco' class='trimData'>42,71</td>  
 <td data-col='trimBalanco' class='trimData'>134,72</td>  
@@ -516,6 +556,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>6.284,81</td>  
 <td>5.333,81</td>  
 <td data-col='trimBalanco' class='trimData'>5.333,81</td>  
 <td data-col='trimBalanco' class='trimData'>5.035,16</td>  
@@ -574,6 +619,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.686,53</td>  
 <td>3.420,28</td>  
 <td data-col='trimBalanco' class='trimData'>3.420,28</td>  
 <td data-col='trimBalanco' class='trimData'>3.456,80</td>  
@@ -632,6 +682,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>11.232,11</td>  
 <td>9.955,00</td>  
 <td data-col='trimBalanco' class='trimData'>9.955,00</td>  
 <td data-col='trimBalanco' class='trimData'>10.055,69</td>  
@@ -690,6 +745,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.418,10</td>  
 <td>3.301,87</td>  
 <td data-col='trimBalanco' class='trimData'>3.301,87</td>  
 <td data-col='trimBalanco' class='trimData'>3.280,99</td>  
@@ -748,6 +808,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>1.188,06</td>  
 <td class='positiveNumber'>1.472,35</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>350,94</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.614,60</td>  
@@ -806,6 +871,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>3.766,85</td>  
 <td class='negativeNumber'>3.462,99</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>3.462,99</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>3.591,53</td>  
@@ -864,6 +934,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>2.578,80</td>  
 <td class='negativeNumber'>1.990,65</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>3.112,05</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.976,93</td>  
@@ -922,6 +997,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.42</td>  
 <td>2.74</td>  
 <td data-col='trimBalanco' class='trimData'>2.74</td>  
 <td data-col='trimBalanco' class='trimData'>2.20</td>  
@@ -980,6 +1060,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.78</td>  
 <td>1.12</td>  
 <td data-col='trimBalanco' class='trimData'>0.27</td>  
 <td data-col='trimBalanco' class='trimData'>0.93</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "ALUPAR INVESTIMENTO S/A (ALUP) "  
-date: "2020-06-06"  
+date: "2020-07-05"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -50,6 +50,11 @@ ALUP11 ALUP3 ALUP4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimBalanco'>4T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>3T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>2T20</th>  
+<th class='trimHeader' data-col='trimBalanco'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimBalanco'>4T19</th>  
 <th class='trimHeader' data-col='trimBalanco'>3T19</th>  
@@ -110,6 +115,11 @@ ALUP11 ALUP3 ALUP4
 <tbody>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Ativo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.967,97</td>  
 <td>5.441,88</td>  
 <td data-col='trimBalanco' class='trimData'>5.441,88</td>  
 <td data-col='trimBalanco' class='trimData'>4.396,86</td>  
@@ -168,6 +178,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa e Equivalentes de Caixa</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>628,11</td>  
 <td>1.025,20</td>  
 <td data-col='trimBalanco' class='trimData'>1.025,20</td>  
 <td data-col='trimBalanco' class='trimData'>2.438,27</td>  
@@ -226,6 +241,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Aplicações Financeiras</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.793,74</td>  
 <td>2.868,82</td>  
 <td data-col='trimBalanco' class='trimData'>2.868,82</td>  
 <td data-col='trimBalanco' class='trimData'>478,73</td>  
@@ -284,6 +304,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Ativo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>14.952,51</td>  
 <td>13.927,86</td>  
 <td data-col='trimBalanco' class='trimData'>13.927,86</td>  
 <td data-col='trimBalanco' class='trimData'>12.025,75</td>  
@@ -342,6 +367,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaAtivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) Ativo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>19.920,48</td>  
 <td>19.369,73</td>  
 <td data-col='trimBalanco' class='trimData'>19.369,73</td>  
 <td data-col='trimBalanco' class='trimData'>16.422,61</td>  
@@ -400,6 +430,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Passivo Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.048,58</td>  
 <td>2.085,70</td>  
 <td data-col='trimBalanco' class='trimData'>2.085,70</td>  
 <td data-col='trimBalanco' class='trimData'>1.578,31</td>  
@@ -458,6 +493,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Empréstimos e Financiamentos (curto prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>822,22</td>  
 <td>873,66</td>  
 <td data-col='trimBalanco' class='trimData'>873,66</td>  
 <td data-col='trimBalanco' class='trimData'>798,84</td>  
@@ -516,6 +556,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Passivo Não Circulante</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>10.050,41</td>  
 <td>9.743,97</td>  
 <td data-col='trimBalanco' class='trimData'>9.743,97</td>  
 <td data-col='trimBalanco' class='trimData'>7.346,12</td>  
@@ -574,6 +619,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) Empréstimos e Financiamentos (longo prazo)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>7.812,64</td>  
 <td>7.674,46</td>  
 <td data-col='trimBalanco' class='trimData'>7.674,46</td>  
 <td data-col='trimBalanco' class='trimData'>5.728,73</td>  
@@ -632,6 +682,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) Passivo Total</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>19.920,48</td>  
 <td>19.369,73</td>  
 <td data-col='trimBalanco' class='trimData'>19.369,73</td>  
 <td data-col='trimBalanco' class='trimData'>16.422,61</td>  
@@ -690,6 +745,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trContaPassivo'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) Patrimônio Líquido</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>7.821,49</td>  
 <td>7.540,06</td>  
 <td data-col='trimBalanco' class='trimData'>7.540,06</td>  
 <td data-col='trimBalanco' class='trimData'>7.498,18</td>  
@@ -748,6 +808,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(12) Caixa (2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>628,11</td>  
 <td class='positiveNumber'>3.894,02</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.025,20</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>2.438,27</td>  
@@ -806,6 +871,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDividaBruta'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(13) Dívida Bruta (7 + 9)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>8.634,86</td>  
 <td class='negativeNumber'>8.548,12</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>8.548,12</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>6.527,57</td>  
@@ -864,6 +934,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(14) Dívida Líquida  (13 - 12)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>8.006,75</td>  
 <td class='negativeNumber'>4.654,10</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>7.522,91</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.089,30</td>  
@@ -922,6 +997,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(15) Liquidez Corrente (1 / 6)</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.43</td>  
 <td>2.61</td>  
 <td data-col='trimBalanco' class='trimData'>2.61</td>  
 <td data-col='trimBalanco' class='trimData'>2.79</td>  
@@ -980,6 +1060,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(16) Liquidez Imediata  (12 / 6 )</td>  
+<td>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.31</td>  
 <td>1.87</td>  
 <td data-col='trimBalanco' class='trimData'>0.49</td>  
 <td data-col='trimBalanco' class='trimData'>1.54</td>  
@@ -1058,6 +1143,11 @@ ALUP11 ALUP3 ALUP4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1118,6 +1208,11 @@ ALUP11 ALUP3 ALUP4
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.216,93</td>  
 <td>4.592,10</td>  
 <td data-col='trimDRE' class='trimData' >1.369,41</td>  
 <td data-col='trimDRE' class='trimData' >1.259,03</td>  
@@ -1176,6 +1271,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >612,89</td>  
 <td class='positiveNumberGreen'>2.466,77</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >617,54</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >601,35</td>  
@@ -1234,6 +1334,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >581,80</td>  
 <td class='positiveNumberGreen'>2.444,77</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >632,80</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >593,24</td>  
@@ -1292,6 +1397,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-92,27</td>  
 <td class='negativeNumber'>-262,51</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-72,58</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-70,97</td>  
@@ -1350,6 +1460,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >489,53</td>  
 <td class='positiveNumberGreen'>2.182,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >560,22</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >522,27</td>  
@@ -1408,6 +1523,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >377,53</td>  
 <td class='positiveNumberGreen'>1.641,40</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >348,36</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >401,24</td>  
@@ -1466,6 +1586,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>50.36</td>  
 <td>53.72</td>  
 <td data-col='trimDRE' class='trimData'>45.10</td>  
 <td data-col='trimDRE' class='trimData'>47.76</td>  
@@ -1524,6 +1649,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>31.02</td>  
 <td>35.74</td>  
 <td data-col='trimDRE' class='trimData'>25.44</td>  
 <td data-col='trimDRE' class='trimData'>31.87</td>  
@@ -1582,6 +1712,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>4.83</td>  
 <td>21.77</td>  
 <td data-col='trimDRE' class='trimData'>4.62</td>  
 <td data-col='trimDRE' class='trimData'>5.35</td>  
@@ -1640,6 +1775,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.92</td>  
 <td>12.62</td>  
 <td data-col='trimDRE' class='trimData'>3.27</td>  
 <td data-col='trimDRE' class='trimData'>3.61</td>  
@@ -1698,6 +1838,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.95</td>  
 <td>13.23</td>  
 <td data-col='trimDRE' class='trimData'>3.43</td>  
 <td data-col='trimDRE' class='trimData'>3.52</td>  
@@ -1776,6 +1921,11 @@ ALUP11 ALUP3 ALUP4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1836,6 +1986,11 @@ ALUP11 ALUP3 ALUP4
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-108,18</td>  
 <td>-108,21</td>  
 <td data-col='trimDFC' class='trimData' >-250,80</td>  
 <td data-col='trimDFC' class='trimData' >-48,16</td>  
@@ -1894,6 +2049,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >30,27</td>  
 <td>-2.159,35</td>  
 <td data-col='trimDFC' class='trimData' >-1.986,40</td>  
 <td data-col='trimDFC' class='trimData' >-92,98</td>  
@@ -1952,6 +2112,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-325,47</td>  
 <td>317,45</td>  
 <td data-col='trimDFC' class='trimData' >818,66</td>  
 <td data-col='trimDFC' class='trimData' >-232,20</td>  
@@ -2010,6 +2175,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-403,38</td>  
 <td class='negativeNumber'>-1.950,10</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.418,54</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-373,34</td>  
@@ -2068,6 +2238,11 @@ ALUP11 ALUP3 ALUP4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-77,90</td>  
 <td class='negativeNumber'>-2.267,56</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-2.237,21</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-141,14</td>  
