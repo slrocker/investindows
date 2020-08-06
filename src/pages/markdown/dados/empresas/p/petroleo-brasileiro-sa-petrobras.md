@@ -1,6 +1,6 @@
 ---  
 title: "PETRÓLEO BRASILEIRO  S.A. - PETROBRAS (PETR) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>201.926,00</td>  
 <td data-col='trimBalanco' class='trimData'>163.562,00</td>  
 <td>112.101,00</td>  
 <td data-col='trimBalanco' class='trimData'>112.101,00</td>  
@@ -181,7 +181,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>106.598,00</td>  
 <td data-col='trimBalanco' class='trimData'>80.382,00</td>  
 <td>29.714,00</td>  
 <td data-col='trimBalanco' class='trimData'>29.714,00</td>  
@@ -244,7 +244,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.952,00</td>  
 <td data-col='trimBalanco' class='trimData'>3.346,00</td>  
 <td>3.580,00</td>  
 <td data-col='trimBalanco' class='trimData'>3.580,00</td>  
@@ -307,7 +307,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>813.216,00</td>  
 <td data-col='trimBalanco' class='trimData'>808.083,00</td>  
 <td>813.910,00</td>  
 <td data-col='trimBalanco' class='trimData'>813.910,00</td>  
@@ -370,7 +370,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.015.142,00</td>  
 <td data-col='trimBalanco' class='trimData'>971.645,00</td>  
 <td>926.011,00</td>  
 <td data-col='trimBalanco' class='trimData'>926.011,00</td>  
@@ -433,7 +433,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>144.169,00</td>  
 <td data-col='trimBalanco' class='trimData'>134.837,00</td>  
 <td>116.147,00</td>  
 <td data-col='trimBalanco' class='trimData'>116.147,00</td>  
@@ -496,7 +496,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>66.282,00</td>  
 <td data-col='trimBalanco' class='trimData'>59.234,00</td>  
 <td>41.139,00</td>  
 <td data-col='trimBalanco' class='trimData'>41.139,00</td>  
@@ -559,7 +559,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>625.252,00</td>  
 <td data-col='trimBalanco' class='trimData'>601.883,00</td>  
 <td>510.727,00</td>  
 <td data-col='trimBalanco' class='trimData'>510.727,00</td>  
@@ -622,7 +622,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>433.273,00</td>  
 <td data-col='trimBalanco' class='trimData'>404.682,00</td>  
 <td>310.022,00</td>  
 <td data-col='trimBalanco' class='trimData'>310.022,00</td>  
@@ -685,7 +685,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.015.142,00</td>  
 <td data-col='trimBalanco' class='trimData'>971.645,00</td>  
 <td>926.011,00</td>  
 <td data-col='trimBalanco' class='trimData'>926.011,00</td>  
@@ -748,7 +748,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>245.721,00</td>  
 <td data-col='trimBalanco' class='trimData'>234.925,00</td>  
 <td>299.137,00</td>  
 <td data-col='trimBalanco' class='trimData'>299.137,00</td>  
@@ -811,7 +811,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>106.598,00</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>80.382,00</td>  
 <td class='positiveNumber'>33.294,00</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>29.714,00</td>  
@@ -874,7 +874,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>499.555,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>463.916,00</td>  
 <td class='negativeNumber'>351.161,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>351.161,00</td>  
@@ -937,7 +937,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>392.957,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>383.534,00</td>  
 <td class='negativeNumber'>317.867,00</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>321.447,00</td>  
@@ -1000,7 +1000,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.40</td>  
 <td data-col='trimBalanco' class='trimData'>1.21</td>  
 <td>0.97</td>  
 <td data-col='trimBalanco' class='trimData'>0.97</td>  
@@ -1063,7 +1063,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.74</td>  
 <td data-col='trimBalanco' class='trimData'>0.60</td>  
 <td>0.29</td>  
 <td data-col='trimBalanco' class='trimData'>0.26</td>  
@@ -1211,7 +1211,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >50.898,00</td>  
 <td data-col='trimDRE' class='trimData' >75.469,00</td>  
 <td>302.245,00</td>  
 <td data-col='trimDRE' class='trimData' >81.771,00</td>  
@@ -1274,7 +1274,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >18.218,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >31.615,00</td>  
 <td class='positiveNumberGreen'>122.105,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >37.056,00</td>  
@@ -1337,7 +1337,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >9.020,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-45.440,00</td>  
 <td class='positiveNumberGreen'>81.701,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >14.135,00</td>  
@@ -1400,7 +1400,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-12.308,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-21.178,00</td>  
 <td class='negativeNumber'>-34.459,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-6.590,00</td>  
@@ -1463,7 +1463,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-3.288,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-66.618,00</td>  
 <td class='positiveNumberGreen'>47.242,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >7.545,00</td>  
@@ -1526,7 +1526,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-2.813,00</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-49.724,00</td>  
 <td class='positiveNumberGreen'>40.970,00</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8.538,00</td>  
@@ -1589,7 +1589,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>35.79</td>  
 <td data-col='trimDRE' class='trimData'>41.89</td>  
 <td>40.40</td>  
 <td data-col='trimDRE' class='trimData'>45.32</td>  
@@ -1652,7 +1652,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>13.56</td>  
 <td data-col='trimDRE' class='trimData'>10.44</td>  
@@ -1715,7 +1715,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>13.70</td>  
 <td data-col='trimDRE' class='trimData'>2.85</td>  
@@ -1778,7 +1778,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.89</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>8.82</td>  
 <td data-col='trimDRE' class='trimData'>1.53</td>  
@@ -1841,7 +1841,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.94</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
 <td>8.74</td>  
 <td data-col='trimDRE' class='trimData'>1.51</td>  
@@ -1989,7 +1989,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >29.310,00</td>  
 <td data-col='trimDFC' class='trimData' >34.991,00</td>  
 <td>101.766,00</td>  
 <td data-col='trimDFC' class='trimData' >30.693,00</td>  
@@ -2052,7 +2052,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-11.905,00</td>  
 <td data-col='trimDFC' class='trimData' >-6.664,00</td>  
 <td>-7.952,00</td>  
 <td data-col='trimDFC' class='trimData' >-31.937,00</td>  
@@ -2115,7 +2115,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >3.616,00</td>  
 <td data-col='trimDFC' class='trimData' >12.799,00</td>  
 <td>-126.336,00</td>  
 <td data-col='trimDFC' class='trimData' >-26.255,00</td>  
@@ -2178,7 +2178,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>21.021,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>41.126,00</td>  
 <td class='negativeNumber'>-32.522,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-27.499,00</td>  
@@ -2241,7 +2241,7 @@ PETR3 PETR4
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>17.405,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>28.327,00</td>  
 <td class='positiveNumber'>93.814,00</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.244,00</td>  

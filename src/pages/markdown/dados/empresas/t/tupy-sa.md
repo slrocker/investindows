@@ -1,6 +1,6 @@
 ---  
 title: "TUPY SA (TUPY) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -1143,6 +1143,11 @@ TUPY3
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1203,6 +1208,11 @@ TUPY3
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.092,56</td>  
 <td>5.163,59</td>  
 <td data-col='trimDRE' class='trimData' >1.138,31</td>  
 <td data-col='trimDRE' class='trimData' >1.339,13</td>  
@@ -1261,6 +1271,11 @@ TUPY3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >192,56</td>  
 <td class='positiveNumberGreen'>834,95</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >174,40</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >243,30</td>  
@@ -1319,6 +1334,11 @@ TUPY3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >31,00</td>  
 <td class='positiveNumberGreen'>356,59</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >107,61</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >106,34</td>  
@@ -1377,6 +1397,11 @@ TUPY3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-218,49</td>  
 <td class='negativeNumber'>-18,02</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-32,48</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >8,02</td>  
@@ -1435,6 +1460,11 @@ TUPY3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-187,50</td>  
 <td class='positiveNumberGreen'>338,57</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >75,12</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >114,36</td>  
@@ -1493,6 +1523,11 @@ TUPY3
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-207,52</td>  
 <td class='positiveNumberGreen'>278,93</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >72,56</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >66,48</td>  
@@ -1551,6 +1586,11 @@ TUPY3
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>17.62</td>  
 <td>16.17</td>  
 <td data-col='trimDRE' class='trimData'>15.32</td>  
 <td data-col='trimDRE' class='trimData'>18.17</td>  
@@ -1609,6 +1649,11 @@ TUPY3
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>5.40</td>  
 <td data-col='trimDRE' class='trimData'>6.37</td>  
 <td data-col='trimDRE' class='trimData'>4.96</td>  
@@ -1667,6 +1712,11 @@ TUPY3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>11.68</td>  
 <td data-col='trimDRE' class='trimData'>3.04</td>  
 <td data-col='trimDRE' class='trimData'>2.84</td>  
@@ -1725,6 +1775,11 @@ TUPY3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.49</td>  
 <td>6.96</td>  
 <td data-col='trimDRE' class='trimData'>2.10</td>  
 <td data-col='trimDRE' class='trimData'>2.05</td>  
@@ -1783,6 +1838,11 @@ TUPY3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.60</td>  
 <td>7.76</td>  
 <td data-col='trimDRE' class='trimData'>2.34</td>  
 <td data-col='trimDRE' class='trimData'>2.17</td>  
@@ -1861,6 +1921,11 @@ TUPY3
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1921,6 +1986,11 @@ TUPY3
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-34,30</td>  
 <td>566,66</td>  
 <td data-col='trimDFC' class='trimData' >342,02</td>  
 <td data-col='trimDFC' class='trimData' >155,28</td>  
@@ -1979,6 +2049,11 @@ TUPY3
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-41,91</td>  
 <td>-268,55</td>  
 <td data-col='trimDFC' class='trimData' >-100,86</td>  
 <td data-col='trimDFC' class='trimData' >-52,23</td>  
@@ -2037,6 +2112,11 @@ TUPY3
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >486,45</td>  
 <td>-179,61</td>  
 <td data-col='trimDFC' class='trimData' >-5,16</td>  
 <td data-col='trimDFC' class='trimData' >-4,20</td>  
@@ -2095,6 +2175,11 @@ TUPY3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>410,25</td>  
 <td class='positiveNumber'>118,50</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>236,00</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>98,85</td>  
@@ -2153,6 +2238,11 @@ TUPY3
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-76,20</td>  
 <td class='positiveNumber'>298,11</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>241,15</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>103,05</td>  

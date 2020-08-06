@@ -1,6 +1,6 @@
 ---  
 title: "CIA CAT. DE ÁGUAS E SANEAMENTO - CASAN (CASN) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -1143,6 +1143,11 @@ CASN3 CASN4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1203,6 +1208,11 @@ CASN3 CASN4
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >306,23</td>  
 <td>1.124,02</td>  
 <td data-col='trimDRE' class='trimData' >298,42</td>  
 <td data-col='trimDRE' class='trimData' >266,40</td>  
@@ -1261,6 +1271,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >172,13</td>  
 <td class='positiveNumberGreen'>619,09</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >169,89</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >132,36</td>  
@@ -1319,6 +1334,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >101,84</td>  
 <td class='positiveNumberGreen'>271,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >83,54</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >40,36</td>  
@@ -1377,6 +1397,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-45,16</td>  
 <td class='negativeNumber'>-90,76</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-17,60</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-18,11</td>  
@@ -1435,6 +1460,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >56,67</td>  
 <td class='positiveNumberGreen'>180,51</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >65,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >22,24</td>  
@@ -1493,6 +1523,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >37,29</td>  
 <td class='positiveNumberGreen'>119,69</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >44,44</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >14,45</td>  
@@ -1551,6 +1586,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>56.21</td>  
 <td>55.08</td>  
 <td data-col='trimDRE' class='trimData'>56.93</td>  
 <td data-col='trimDRE' class='trimData'>49.68</td>  
@@ -1609,6 +1649,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>12.18</td>  
 <td>10.65</td>  
 <td data-col='trimDRE' class='trimData'>14.89</td>  
 <td data-col='trimDRE' class='trimData'>5.42</td>  
@@ -1667,6 +1712,11 @@ CASN3 CASN4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.88</td>  
 <td>9.52</td>  
 <td data-col='trimDRE' class='trimData'>3.54</td>  
 <td data-col='trimDRE' class='trimData'>1.09</td>  
@@ -1725,6 +1775,11 @@ CASN3 CASN4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.75</td>  
 <td>7.62</td>  
 <td data-col='trimDRE' class='trimData'>2.35</td>  
 <td data-col='trimDRE' class='trimData'>1.14</td>  
@@ -1783,6 +1838,11 @@ CASN3 CASN4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.64</td>  
 <td>7.59</td>  
 <td data-col='trimDRE' class='trimData'>2.34</td>  
 <td data-col='trimDRE' class='trimData'>1.12</td>  
@@ -1861,6 +1921,11 @@ CASN3 CASN4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1921,6 +1986,11 @@ CASN3 CASN4
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >38,43</td>  
 <td>284,15</td>  
 <td data-col='trimDFC' class='trimData' >123,03</td>  
 <td data-col='trimDFC' class='trimData' >73,47</td>  
@@ -1979,6 +2049,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-68,55</td>  
 <td>-316,46</td>  
 <td data-col='trimDFC' class='trimData' >-28,23</td>  
 <td data-col='trimDFC' class='trimData' >-104,12</td>  
@@ -2037,6 +2112,11 @@ CASN3 CASN4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >29,65</td>  
 <td>33,42</td>  
 <td data-col='trimDFC' class='trimData' >-99,45</td>  
 <td data-col='trimDFC' class='trimData' >34,95</td>  
@@ -2095,6 +2175,11 @@ CASN3 CASN4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-0,48</td>  
 <td class='positiveNumber'>1,11</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-4,66</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>4,30</td>  
@@ -2153,6 +2238,11 @@ CASN3 CASN4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-30,12</td>  
 <td class='negativeNumber'>-32,31</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>94,80</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-30,65</td>  

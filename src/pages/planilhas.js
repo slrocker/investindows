@@ -73,8 +73,8 @@ const PlanilhasPage = () => {
                     </svg>
                 </div>
 
-                <p className={planilhasStyles.downloadVersion}> Versão 1.4.5 (06/01/2020)</p>
-                <a className={planilhasStyles.downloadLink} href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.5+Excel+2016+.xlsm">Download</a>
+                <p className={planilhasStyles.downloadVersion}> Versão 1.4.7 (29/07/2020)</p>
+                <a className={planilhasStyles.downloadLink} href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.7+Excel+2016+.xlsm">Download</a>
                 
 
                 <ul>                    
@@ -103,7 +103,7 @@ const PlanilhasPage = () => {
 
                 </div>
 
-                <p className={planilhasStyles.downloadVersion}> Versão 0.4.0 beta (14/02/2019)</p>
+                <p className={planilhasStyles.downloadVersion}> Versão 0.5.0 beta (14/07/2020)</p>
                 <a className={planilhasStyles.downloadLink} href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Criar Cópia</a>
 
                 <ul>

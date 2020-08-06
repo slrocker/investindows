@@ -1,6 +1,6 @@
 ---  
 title: "CENTRAIS ELÉTRICAS DO PARÁ S.A.- CELPA (EQPA) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -1143,6 +1143,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1203,6 +1208,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.284,39</td>  
 <td>5.595,34</td>  
 <td data-col='trimDRE' class='trimData' >1.678,23</td>  
 <td data-col='trimDRE' class='trimData' >1.460,23</td>  
@@ -1261,6 +1271,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >376,74</td>  
 <td class='positiveNumberGreen'>1.497,14</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >555,39</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >422,35</td>  
@@ -1319,6 +1334,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >252,48</td>  
 <td class='positiveNumberGreen'>741,53</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >288,58</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >264,92</td>  
@@ -1377,6 +1397,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-56,39</td>  
 <td class='negativeNumber'>-146,84</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-50,94</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-41,95</td>  
@@ -1435,6 +1460,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >196,09</td>  
 <td class='positiveNumberGreen'>594,70</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >237,64</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >222,96</td>  
@@ -1493,6 +1523,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >109,22</td>  
 <td class='positiveNumberGreen'>469,12</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >190,41</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >179,35</td>  
@@ -1551,6 +1586,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>29.33</td>  
 <td>26.76</td>  
 <td data-col='trimDRE' class='trimData'>33.09</td>  
 <td data-col='trimDRE' class='trimData'>28.92</td>  
@@ -1609,6 +1649,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>8.50</td>  
 <td>8.38</td>  
 <td data-col='trimDRE' class='trimData'>11.35</td>  
 <td data-col='trimDRE' class='trimData'>12.28</td>  
@@ -1667,6 +1712,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.20</td>  
 <td>14.21</td>  
 <td data-col='trimDRE' class='trimData'>5.77</td>  
 <td data-col='trimDRE' class='trimData'>5.47</td>  
@@ -1725,6 +1775,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>2.25</td>  
 <td>7.45</td>  
 <td data-col='trimDRE' class='trimData'>2.90</td>  
 <td data-col='trimDRE' class='trimData'>2.63</td>  
@@ -1783,6 +1838,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.03</td>  
 <td>9.25</td>  
 <td data-col='trimDRE' class='trimData'>3.60</td>  
 <td data-col='trimDRE' class='trimData'>3.33</td>  
@@ -1861,6 +1921,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1921,6 +1986,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >254,51</td>  
 <td>986,03</td>  
 <td data-col='trimDFC' class='trimData' >76,93</td>  
 <td data-col='trimDFC' class='trimData' >503,32</td>  
@@ -1979,6 +2049,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >613,78</td>  
 <td>-1.627,43</td>  
 <td data-col='trimDFC' class='trimData' >-1.124,91</td>  
 <td data-col='trimDFC' class='trimData' >-190,69</td>  
@@ -2037,6 +2112,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-31,17</td>  
 <td>159,15</td>  
 <td data-col='trimDFC' class='trimData' >-215,67</td>  
 <td data-col='trimDFC' class='trimData' >-70,27</td>  
@@ -2095,6 +2175,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>837,11</td>  
 <td class='negativeNumber'>-482,25</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.263,65</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>242,35</td>  
@@ -2153,6 +2238,11 @@ EQPA3 EQPA5 EQPA6 EQPA7
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>868,28</td>  
 <td class='negativeNumber'>-641,40</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.047,98</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>312,63</td>  

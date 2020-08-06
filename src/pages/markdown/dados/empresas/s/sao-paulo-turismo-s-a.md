@@ -1,6 +1,6 @@
 ---  
 title: "SÃO PAULO TURISMO S. A. (AHEB) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -124,7 +124,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>41,86</td>  
 <td data-col='trimBalanco' class='trimData'>18,41</td>  
 <td data-col='trimBalanco' class='trimData'>21,82</td>  
-<td data-col='trimBalanco' class='trimData'>18,57</td>  
+<td data-col='trimBalanco' class='trimData'>41,86</td>  
 <td>22,87</td>  
 <td data-col='trimBalanco' class='trimData'>22,87</td>  
 <td data-col='trimBalanco' class='trimData'>34,72</td>  
@@ -187,7 +187,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>27,23</td>  
 <td data-col='trimBalanco' class='trimData'>10,76</td>  
 <td data-col='trimBalanco' class='trimData'>7,91</td>  
-<td data-col='trimBalanco' class='trimData'>7,99</td>  
+<td data-col='trimBalanco' class='trimData'>27,23</td>  
 <td>14,39</td>  
 <td data-col='trimBalanco' class='trimData'>14,39</td>  
 <td data-col='trimBalanco' class='trimData'>19,07</td>  
@@ -313,7 +313,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>220,78</td>  
 <td data-col='trimBalanco' class='trimData'>222,42</td>  
 <td data-col='trimBalanco' class='trimData'>225,25</td>  
-<td data-col='trimBalanco' class='trimData'>227,00</td>  
+<td data-col='trimBalanco' class='trimData'>220,78</td>  
 <td>232,40</td>  
 <td data-col='trimBalanco' class='trimData'>232,40</td>  
 <td data-col='trimBalanco' class='trimData'>234,18</td>  
@@ -376,7 +376,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>262,64</td>  
 <td data-col='trimBalanco' class='trimData'>240,82</td>  
 <td data-col='trimBalanco' class='trimData'>247,07</td>  
-<td data-col='trimBalanco' class='trimData'>245,57</td>  
+<td data-col='trimBalanco' class='trimData'>262,64</td>  
 <td>255,27</td>  
 <td data-col='trimBalanco' class='trimData'>255,27</td>  
 <td data-col='trimBalanco' class='trimData'>268,90</td>  
@@ -439,7 +439,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>59,32</td>  
 <td data-col='trimBalanco' class='trimData'>37,44</td>  
 <td data-col='trimBalanco' class='trimData'>44,78</td>  
-<td data-col='trimBalanco' class='trimData'>45,17</td>  
+<td data-col='trimBalanco' class='trimData'>59,32</td>  
 <td>33,12</td>  
 <td data-col='trimBalanco' class='trimData'>33,12</td>  
 <td data-col='trimBalanco' class='trimData'>42,40</td>  
@@ -565,7 +565,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>176,11</td>  
 <td data-col='trimBalanco' class='trimData'>188,68</td>  
 <td data-col='trimBalanco' class='trimData'>186,03</td>  
-<td data-col='trimBalanco' class='trimData'>183,05</td>  
+<td data-col='trimBalanco' class='trimData'>176,11</td>  
 <td>182,10</td>  
 <td data-col='trimBalanco' class='trimData'>182,10</td>  
 <td data-col='trimBalanco' class='trimData'>155,77</td>  
@@ -691,7 +691,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>262,64</td>  
 <td data-col='trimBalanco' class='trimData'>240,82</td>  
 <td data-col='trimBalanco' class='trimData'>247,07</td>  
-<td data-col='trimBalanco' class='trimData'>245,57</td>  
+<td data-col='trimBalanco' class='trimData'>262,64</td>  
 <td>255,27</td>  
 <td data-col='trimBalanco' class='trimData'>255,27</td>  
 <td data-col='trimBalanco' class='trimData'>268,90</td>  
@@ -754,7 +754,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>27,22</td>  
 <td data-col='trimBalanco' class='trimData'>14,71</td>  
 <td data-col='trimBalanco' class='trimData'>16,27</td>  
-<td data-col='trimBalanco' class='trimData'>17,34</td>  
+<td data-col='trimBalanco' class='trimData'>27,22</td>  
 <td>40,05</td>  
 <td data-col='trimBalanco' class='trimData'>40,05</td>  
 <td data-col='trimBalanco' class='trimData'>70,73</td>  
@@ -817,7 +817,7 @@ AHEB3 AHEB5 AHEB6
 <td class='positiveNumber trimData' data-col='trimBalanco'>27,23</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>10,76</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>7,91</td>  
-<td class='positiveNumber trimData' data-col='trimBalanco'>7,99</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>27,23</td>  
 <td class='positiveNumber'>14,39</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>14,39</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>19,07</td>  
@@ -943,7 +943,7 @@ AHEB3 AHEB5 AHEB6
 <td class='positiveNumber trimData' data-col='trimBalanco'>-27,23</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-10,76</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-7,91</td>  
-<td class='positiveNumber trimData' data-col='trimBalanco'>-7,99</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>-27,23</td>  
 <td class='positiveNumber'>-14,39</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-14,39</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-19,07</td>  
@@ -1006,7 +1006,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>0.71</td>  
 <td data-col='trimBalanco' class='trimData'>0.49</td>  
 <td data-col='trimBalanco' class='trimData'>0.49</td>  
-<td data-col='trimBalanco' class='trimData'>0.41</td>  
+<td data-col='trimBalanco' class='trimData'>0.71</td>  
 <td>0.69</td>  
 <td data-col='trimBalanco' class='trimData'>0.69</td>  
 <td data-col='trimBalanco' class='trimData'>0.82</td>  
@@ -1069,7 +1069,7 @@ AHEB3 AHEB5 AHEB6
 <td data-col='trimBalanco' class='trimData'>0.46</td>  
 <td data-col='trimBalanco' class='trimData'>0.29</td>  
 <td data-col='trimBalanco' class='trimData'>0.18</td>  
-<td data-col='trimBalanco' class='trimData'>0.18</td>  
+<td data-col='trimBalanco' class='trimData'>0.46</td>  
 <td>0.43</td>  
 <td data-col='trimBalanco' class='trimData'>0.43</td>  
 <td data-col='trimBalanco' class='trimData'>0.45</td>  

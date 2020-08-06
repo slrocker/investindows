@@ -1,6 +1,6 @@
 ---  
 title: "LOCALIZA RENT A CAR SA (RENT) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.460,73</td>  
 <td data-col='trimBalanco' class='trimData'>5.317,30</td>  
 <td>4.494,08</td>  
 <td data-col='trimBalanco' class='trimData'>4.494,08</td>  
@@ -181,7 +181,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.880,30</td>  
 <td data-col='trimBalanco' class='trimData'>2.626,36</td>  
 <td>2.220,10</td>  
 <td data-col='trimBalanco' class='trimData'>2.220,10</td>  
@@ -244,7 +244,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>245,53</td>  
 <td data-col='trimBalanco' class='trimData'>1.267,32</td>  
 <td>610,84</td>  
 <td data-col='trimBalanco' class='trimData'>610,84</td>  
@@ -307,7 +307,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>14.599,90</td>  
 <td data-col='trimBalanco' class='trimData'>15.325,77</td>  
 <td>14.898,88</td>  
 <td data-col='trimBalanco' class='trimData'>14.898,88</td>  
@@ -370,7 +370,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>19.060,64</td>  
 <td data-col='trimBalanco' class='trimData'>20.643,07</td>  
 <td>19.392,96</td>  
 <td data-col='trimBalanco' class='trimData'>19.392,96</td>  
@@ -433,7 +433,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.097,00</td>  
 <td data-col='trimBalanco' class='trimData'>3.667,61</td>  
 <td>3.522,25</td>  
 <td data-col='trimBalanco' class='trimData'>3.522,25</td>  
@@ -496,7 +496,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>745,77</td>  
 <td data-col='trimBalanco' class='trimData'>734,66</td>  
 <td>144,34</td>  
 <td data-col='trimBalanco' class='trimData'>144,34</td>  
@@ -559,7 +559,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>11.502,64</td>  
 <td data-col='trimBalanco' class='trimData'>11.546,04</td>  
 <td>10.423,18</td>  
 <td data-col='trimBalanco' class='trimData'>10.423,18</td>  
@@ -622,7 +622,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>10.440,30</td>  
 <td data-col='trimBalanco' class='trimData'>10.329,16</td>  
 <td>9.235,12</td>  
 <td data-col='trimBalanco' class='trimData'>9.235,12</td>  
@@ -685,7 +685,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>19.060,64</td>  
 <td data-col='trimBalanco' class='trimData'>20.643,07</td>  
 <td>19.392,96</td>  
 <td data-col='trimBalanco' class='trimData'>19.392,96</td>  
@@ -748,7 +748,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>5.461,00</td>  
 <td data-col='trimBalanco' class='trimData'>5.429,42</td>  
 <td>5.447,53</td>  
 <td data-col='trimBalanco' class='trimData'>5.447,53</td>  
@@ -811,7 +811,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>2.880,30</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>2.626,36</td>  
 <td class='positiveNumber'>2.830,94</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>2.220,10</td>  
@@ -874,7 +874,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>11.186,07</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>11.063,82</td>  
 <td class='negativeNumber'>9.379,46</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>9.379,46</td>  
@@ -937,7 +937,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>8.305,78</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>8.437,46</td>  
 <td class='negativeNumber'>6.548,52</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>7.159,36</td>  
@@ -1000,7 +1000,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.13</td>  
 <td data-col='trimBalanco' class='trimData'>1.45</td>  
 <td>1.28</td>  
 <td data-col='trimBalanco' class='trimData'>1.28</td>  
@@ -1063,7 +1063,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.37</td>  
 <td data-col='trimBalanco' class='trimData'>0.72</td>  
 <td>0.80</td>  
 <td data-col='trimBalanco' class='trimData'>0.63</td>  
@@ -1211,7 +1211,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.570,10</td>  
 <td data-col='trimDRE' class='trimData' >2.794,63</td>  
 <td>10.195,64</td>  
 <td data-col='trimDRE' class='trimData' >2.695,47</td>  
@@ -1274,7 +1274,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >347,28</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >742,20</td>  
 <td class='positiveNumberGreen'>2.509,69</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >721,34</td>  
@@ -1337,7 +1337,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >218,37</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >434,36</td>  
 <td class='positiveNumberGreen'>1.489,63</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >412,29</td>  
@@ -1400,7 +1400,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-127,26</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-127,63</td>  
 <td class='negativeNumber'>-409,79</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-112,59</td>  
@@ -1463,7 +1463,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >91,11</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >306,73</td>  
 <td class='positiveNumberGreen'>1.079,83</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >299,70</td>  
@@ -1526,7 +1526,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >89,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >230,87</td>  
 <td class='positiveNumberGreen'>833,94</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >228,36</td>  
@@ -1589,7 +1589,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>22.12</td>  
 <td data-col='trimDRE' class='trimData'>26.56</td>  
 <td>24.62</td>  
 <td data-col='trimDRE' class='trimData'>26.76</td>  
@@ -1652,7 +1652,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>5.73</td>  
 <td data-col='trimDRE' class='trimData'>8.26</td>  
 <td>8.18</td>  
 <td data-col='trimDRE' class='trimData'>8.47</td>  
@@ -1715,7 +1715,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.65</td>  
 <td data-col='trimDRE' class='trimData'>4.25</td>  
 <td>15.31</td>  
 <td data-col='trimDRE' class='trimData'>4.19</td>  
@@ -1778,7 +1778,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.15</td>  
 <td data-col='trimDRE' class='trimData'>2.10</td>  
 <td>7.68</td>  
 <td data-col='trimDRE' class='trimData'>2.13</td>  
@@ -1841,7 +1841,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.07</td>  
 <td data-col='trimDRE' class='trimData'>2.28</td>  
 <td>8.20</td>  
 <td data-col='trimDRE' class='trimData'>2.27</td>  
@@ -1989,7 +1989,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >332,25</td>  
 <td data-col='trimDFC' class='trimData' >-547,06</td>  
 <td>-2.896,18</td>  
 <td data-col='trimDFC' class='trimData' >-1.020,07</td>  
@@ -2052,7 +2052,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-13,38</td>  
 <td data-col='trimDFC' class='trimData' >-37,26</td>  
 <td>-193,69</td>  
 <td data-col='trimDFC' class='trimData' >-115,54</td>  
@@ -2115,7 +2115,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-64,93</td>  
 <td data-col='trimDFC' class='trimData' >990,58</td>  
 <td>3.134,67</td>  
 <td data-col='trimDFC' class='trimData' >1.587,78</td>  
@@ -2178,7 +2178,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>253,94</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>406,25</td>  
 <td class='positiveNumber'>44,80</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>452,17</td>  
@@ -2241,7 +2241,7 @@ RENT3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>318,87</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-584,33</td>  
 <td class='negativeNumber'>-3.089,87</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-1.135,61</td>  

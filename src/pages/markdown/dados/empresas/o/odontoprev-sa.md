@@ -1,6 +1,6 @@
 ---  
 title: "ODONTOPREV S/A (ODPV) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.032,66</td>  
 <td data-col='trimBalanco' class='trimData'>924,08</td>  
 <td>818,48</td>  
 <td data-col='trimBalanco' class='trimData'>818,48</td>  
@@ -181,7 +181,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>33,46</td>  
 <td data-col='trimBalanco' class='trimData'>31,25</td>  
 <td>27,07</td>  
 <td data-col='trimBalanco' class='trimData'>27,07</td>  
@@ -244,7 +244,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>748,51</td>  
 <td data-col='trimBalanco' class='trimData'>625,60</td>  
 <td>517,21</td>  
 <td data-col='trimBalanco' class='trimData'>517,21</td>  
@@ -307,7 +307,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>936,74</td>  
 <td data-col='trimBalanco' class='trimData'>943,75</td>  
 <td>950,26</td>  
 <td data-col='trimBalanco' class='trimData'>950,26</td>  
@@ -370,7 +370,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.969,40</td>  
 <td data-col='trimBalanco' class='trimData'>1.867,83</td>  
 <td>1.768,74</td>  
 <td data-col='trimBalanco' class='trimData'>1.768,74</td>  
@@ -433,7 +433,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>578,90</td>  
 <td data-col='trimBalanco' class='trimData'>526,39</td>  
 <td>499,94</td>  
 <td data-col='trimBalanco' class='trimData'>499,94</td>  
@@ -496,7 +496,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -559,7 +559,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>168,57</td>  
 <td data-col='trimBalanco' class='trimData'>160,18</td>  
 <td>152,31</td>  
 <td data-col='trimBalanco' class='trimData'>152,31</td>  
@@ -622,7 +622,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
 <td>0,00</td>  
 <td data-col='trimBalanco' class='trimData'>0,00</td>  
@@ -685,7 +685,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.969,40</td>  
 <td data-col='trimBalanco' class='trimData'>1.867,83</td>  
 <td>1.768,74</td>  
 <td data-col='trimBalanco' class='trimData'>1.768,74</td>  
@@ -748,7 +748,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.221,92</td>  
 <td data-col='trimBalanco' class='trimData'>1.181,26</td>  
 <td>1.116,49</td>  
 <td data-col='trimBalanco' class='trimData'>1.116,49</td>  
@@ -811,7 +811,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>33,46</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>31,25</td>  
 <td class='positiveNumber'>544,28</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>27,07</td>  
@@ -874,7 +874,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>0,00</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,00</td>  
 <td class='positiveNumber'>0,00</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>0,00</td>  
@@ -937,7 +937,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>-33,46</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-31,25</td>  
 <td class='positiveNumber'>-544,28</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>-27,07</td>  
@@ -1000,7 +1000,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.78</td>  
 <td data-col='trimBalanco' class='trimData'>1.76</td>  
 <td>1.64</td>  
 <td data-col='trimBalanco' class='trimData'>1.64</td>  
@@ -1063,7 +1063,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.06</td>  
 <td data-col='trimBalanco' class='trimData'>0.06</td>  
 <td>1.09</td>  
 <td data-col='trimBalanco' class='trimData'>0.05</td>  
@@ -1211,7 +1211,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >432,96</td>  
 <td data-col='trimDRE' class='trimData' >455,06</td>  
 <td>1.808,93</td>  
 <td data-col='trimDRE' class='trimData' >455,20</td>  
@@ -1274,7 +1274,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >298,84</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >247,18</td>  
 <td class='positiveNumberGreen'>998,56</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >250,38</td>  
@@ -1337,7 +1337,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >170,57</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >105,83</td>  
 <td class='positiveNumberGreen'>386,32</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >94,69</td>  
@@ -1400,7 +1400,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1,18</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1,98</td>  
 <td class='positiveNumberGreen'>19,40</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >4,76</td>  
@@ -1463,7 +1463,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >171,75</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >107,81</td>  
 <td class='positiveNumberGreen'>405,72</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >99,45</td>  
@@ -1526,7 +1526,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >115,83</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >74,82</td>  
 <td class='positiveNumberGreen'>284,82</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >70,63</td>  
@@ -1589,7 +1589,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>69.02</td>  
 <td data-col='trimDRE' class='trimData'>54.32</td>  
 <td>55.20</td>  
 <td data-col='trimDRE' class='trimData'>55.00</td>  
@@ -1652,7 +1652,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>26.75</td>  
 <td data-col='trimDRE' class='trimData'>16.44</td>  
 <td>15.75</td>  
 <td data-col='trimDRE' class='trimData'>15.52</td>  
@@ -1715,7 +1715,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>9.48</td>  
 <td data-col='trimDRE' class='trimData'>6.33</td>  
 <td>25.51</td>  
 <td data-col='trimDRE' class='trimData'>6.33</td>  
@@ -1778,7 +1778,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>8.66</td>  
 <td data-col='trimDRE' class='trimData'>5.67</td>  
 <td>21.84</td>  
 <td data-col='trimDRE' class='trimData'>5.35</td>  
@@ -1841,7 +1841,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>25.59</td>  
 <td data-col='trimDRE' class='trimData'>13.32</td>  
 <td>44.56</td>  
 <td data-col='trimDRE' class='trimData'>10.92</td>  
@@ -1989,7 +1989,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >25,09</td>  
 <td data-col='trimDFC' class='trimData' >18,87</td>  
 <td>308,79</td>  
 <td data-col='trimDFC' class='trimData' >46,57</td>  
@@ -2052,7 +2052,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-9,01</td>  
 <td data-col='trimDFC' class='trimData' >-5,42</td>  
 <td>-38,71</td>  
 <td data-col='trimDFC' class='trimData' >-16,35</td>  
@@ -2115,7 +2115,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-13,86</td>  
 <td data-col='trimDFC' class='trimData' >-9,27</td>  
 <td>-264,16</td>  
 <td data-col='trimDFC' class='trimData' >-30,70</td>  
@@ -2178,7 +2178,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>2,21</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>4,18</td>  
 <td class='positiveNumber'>5,92</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-0,47</td>  
@@ -2241,7 +2241,7 @@ ODPV3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>16,08</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>13,45</td>  
 <td class='positiveNumber'>270,08</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>30,23</td>  

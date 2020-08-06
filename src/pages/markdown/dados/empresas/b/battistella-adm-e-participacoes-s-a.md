@@ -1,6 +1,6 @@
 ---  
 title: "BATTISTELLA ADM E PARTICIPAÇÕES S A (BTTL) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  

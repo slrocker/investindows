@@ -31,7 +31,25 @@ indexOrder: 224
 </g>
 </svg>
 
+
 </div>
+
+
+##Versão 0.5.0 beta
+
+Data da versão: 14/07/2019
+
+####Atualizações:
+
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
+
+**Corrigido:**
+
+- Corrigido erro na função TESOURODIRETO() em obter as cotações corretas.
+
+</div>
+
+
 
 ##Versão 0.4.0 beta
 

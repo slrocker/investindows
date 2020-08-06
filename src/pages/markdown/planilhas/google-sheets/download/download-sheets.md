@@ -36,9 +36,9 @@ indexOrder: 221
 
 ## Link
 
-<p><a href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Versão 0.4.0 beta</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Versão 0.5.0 beta</a></p>
 
-Data da versão: 14/02/2019
+Data da versão: 14/07/2020
 
 ###Atualizações:
 
@@ -47,7 +47,6 @@ Data da versão: 14/02/2019
 **Corrigido:**
 
 - Corrigido erro na função TESOURODIRETO() em obter as cotações corretas.
-- Corrigido erro no cálculo de preço médio nas vendas.
 
 </div>
 

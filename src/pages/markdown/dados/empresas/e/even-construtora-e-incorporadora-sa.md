@@ -1,6 +1,6 @@
 ---  
 title: "EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.718,17</td>  
 <td data-col='trimBalanco' class='trimData'>3.865,04</td>  
 <td>3.550,72</td>  
 <td data-col='trimBalanco' class='trimData'>3.550,72</td>  
@@ -181,7 +181,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>586,96</td>  
 <td data-col='trimBalanco' class='trimData'>640,16</td>  
 <td>496,60</td>  
 <td data-col='trimBalanco' class='trimData'>496,60</td>  
@@ -244,7 +244,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>224,47</td>  
 <td data-col='trimBalanco' class='trimData'>358,35</td>  
 <td>434,80</td>  
 <td data-col='trimBalanco' class='trimData'>434,80</td>  
@@ -307,7 +307,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.096,26</td>  
 <td data-col='trimBalanco' class='trimData'>1.161,03</td>  
 <td>1.432,83</td>  
 <td data-col='trimBalanco' class='trimData'>1.432,83</td>  
@@ -370,7 +370,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.814,44</td>  
 <td data-col='trimBalanco' class='trimData'>5.026,07</td>  
 <td>4.983,55</td>  
 <td data-col='trimBalanco' class='trimData'>4.983,55</td>  
@@ -433,7 +433,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.233,16</td>  
 <td data-col='trimBalanco' class='trimData'>1.557,93</td>  
 <td>1.341,43</td>  
 <td data-col='trimBalanco' class='trimData'>1.341,43</td>  
@@ -496,7 +496,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>287,77</td>  
 <td data-col='trimBalanco' class='trimData'>589,03</td>  
 <td>471,94</td>  
 <td data-col='trimBalanco' class='trimData'>471,94</td>  
@@ -559,7 +559,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.636,83</td>  
 <td data-col='trimBalanco' class='trimData'>1.530,99</td>  
 <td>1.764,67</td>  
 <td data-col='trimBalanco' class='trimData'>1.764,67</td>  
@@ -622,7 +622,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>836,99</td>  
 <td data-col='trimBalanco' class='trimData'>853,38</td>  
 <td>933,82</td>  
 <td data-col='trimBalanco' class='trimData'>933,82</td>  
@@ -685,7 +685,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.814,44</td>  
 <td data-col='trimBalanco' class='trimData'>5.026,07</td>  
 <td>4.983,55</td>  
 <td data-col='trimBalanco' class='trimData'>4.983,55</td>  
@@ -748,7 +748,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.944,44</td>  
 <td data-col='trimBalanco' class='trimData'>1.937,14</td>  
 <td>1.877,44</td>  
 <td data-col='trimBalanco' class='trimData'>1.877,44</td>  
@@ -811,7 +811,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>586,96</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>640,16</td>  
 <td class='positiveNumber'>931,39</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>496,60</td>  
@@ -874,7 +874,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>1.124,75</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.442,40</td>  
 <td class='negativeNumber'>1.405,76</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>1.405,76</td>  
@@ -937,7 +937,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>537,79</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>802,24</td>  
 <td class='negativeNumber'>474,36</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>909,16</td>  
@@ -1000,7 +1000,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.02</td>  
 <td data-col='trimBalanco' class='trimData'>2.48</td>  
 <td>2.65</td>  
 <td data-col='trimBalanco' class='trimData'>2.65</td>  
@@ -1063,7 +1063,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.48</td>  
 <td data-col='trimBalanco' class='trimData'>0.41</td>  
 <td>0.69</td>  
 <td data-col='trimBalanco' class='trimData'>0.37</td>  
@@ -1211,7 +1211,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >374,43</td>  
 <td data-col='trimDRE' class='trimData' >406,88</td>  
 <td>1.913,00</td>  
 <td data-col='trimDRE' class='trimData' >479,64</td>  
@@ -1274,7 +1274,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >90,10</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >117,74</td>  
 <td class='positiveNumberGreen'>475,78</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >113,97</td>  
@@ -1337,7 +1337,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >41,47</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >42,02</td>  
 <td class='positiveNumberGreen'>170,29</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >37,49</td>  
@@ -1400,7 +1400,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1,29</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >9,74</td>  
 <td class='positiveNumberGreen'>12,46</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >5,40</td>  
@@ -1463,7 +1463,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >42,76</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >51,76</td>  
 <td class='positiveNumberGreen'>182,75</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >42,89</td>  
@@ -1526,7 +1526,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >35,47</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >44,22</td>  
 <td class='positiveNumberGreen'>142,74</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >33,62</td>  
@@ -1589,7 +1589,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>24.06</td>  
 <td data-col='trimDRE' class='trimData'>28.94</td>  
 <td>24.87</td>  
 <td data-col='trimDRE' class='trimData'>23.76</td>  
@@ -1652,7 +1652,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>9.47</td>  
 <td data-col='trimDRE' class='trimData'>10.87</td>  
 <td>7.46</td>  
 <td data-col='trimDRE' class='trimData'>7.01</td>  
@@ -1715,7 +1715,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.82</td>  
 <td data-col='trimDRE' class='trimData'>2.28</td>  
 <td>7.60</td>  
 <td data-col='trimDRE' class='trimData'>1.79</td>  
@@ -1778,7 +1778,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.86</td>  
 <td data-col='trimDRE' class='trimData'>0.84</td>  
 <td>3.42</td>  
 <td data-col='trimDRE' class='trimData'>0.75</td>  
@@ -1841,7 +1841,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.21</td>  
 <td data-col='trimDRE' class='trimData'>1.16</td>  
 <td>4.78</td>  
 <td data-col='trimDRE' class='trimData'>1.05</td>  
@@ -1989,7 +1989,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >121,33</td>  
 <td data-col='trimDFC' class='trimData' >-8,42</td>  
 <td>327,66</td>  
 <td data-col='trimDFC' class='trimData' >88,07</td>  
@@ -2052,7 +2052,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >142,41</td>  
 <td data-col='trimDFC' class='trimData' >87,83</td>  
 <td>23,80</td>  
 <td data-col='trimDFC' class='trimData' >142,09</td>  
@@ -2115,7 +2115,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-237,97</td>  
 <td data-col='trimDFC' class='trimData' >207,27</td>  
 <td>-331,92</td>  
 <td data-col='trimDFC' class='trimData' >-187,66</td>  
@@ -2178,7 +2178,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>25,77</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>286,68</td>  
 <td class='positiveNumber'>19,54</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>42,50</td>  
@@ -2241,7 +2241,7 @@ EVEN3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>263,74</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>79,41</td>  
 <td class='positiveNumber'>351,46</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>230,16</td>  

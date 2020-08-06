@@ -1,6 +1,6 @@
 ---
 title: "Registro de Atualizações"
-date: "2019-07-11"
+date: "2020-07-08"
 section: "Planilhas"
 sectionSlug: "planilhas"
 category: "Excel"
@@ -36,6 +36,35 @@ indexOrder: 214
 </svg>
 </div>
 
+## Versão 1.4.7
+
+Data da versão: 29/07/2020
+
+####Atualizações:
+
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
+
+**Corrigido**:
+
+- Cotações do Tesouro Direto.
+
+
+</div>
+
+## Versão 1.4.6
+
+Data da versão: 08/07/2020
+
+####Atualizações:
+
+<div style="font-size: 0.8rem;background-color:#f4f4f4;padding: 1rem;border-bottom:1px solid #444">
+
+**Corrigido**:
+
+- Cotações do Tesouro Direto.
+
+
+</div>
 
 ## Versão 1.4.5
 

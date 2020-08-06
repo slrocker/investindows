@@ -1,6 +1,6 @@
 ---
 title: "Quanto custa investir no Tesouro Direto?"
-date: "2019-10-30"
+date: "2020-08-06"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Fixa"
@@ -21,7 +21,7 @@ As taxas para se investir no Tesouro Direto incluem:
 - **Imposto de Renda**: cobrado sobre o lucro de acordo com a tabela regressiva de renda fixa.
 
 
-##Taxa de Administração
+## Taxa de Administração
 
 Essa é uma taxa cobrada pelas corretoras de valores quando você executa uma compra ou para manutenção dos seus títulos.
 
@@ -31,7 +31,7 @@ Era comum que as corretoras cobrassem taxas entre 0 e 2% ao ano, no entanto, com
 
 É possível conferir as corretoras e as respectivas taxas no [*site*](http://www.tesouro.fazenda.gov.br/web/stn/tesouro-direto-instituicoes-financeiras-habilitadas) do Tesouro Direto.
 
-##Taxa de Custódia
+## Taxa de Custódia
 
 A taxa de custódia é uma taxa cobrada pela Bolsa de Valores para manutenção da conta de custódia (conta eletrônica onde ficam depositados os títulos do investidor).
 
@@ -45,7 +45,23 @@ Essa taxa é cobrada:
 
 A taxa é debitada automaticamente da conta corrente da corretora do investidor. **Por isso, é importante estar atento e deixar o dinheiro para pagamento das taxas disponível na corretora**.
 
-##IOF
+### Isenção
+
+Para investidores que possuam títulos [Tesouro SELIC](/tesouro-selic) até um estoque de R\$10.000,00, não será cobrada a taxa de custódia.
+
+A cobrança da taxa de 0,25% só incidirá sobre os valores acima de R\$10.000,00.
+
+Assim, um investidor que tenha R\$11.000,00 aplicados em títulos Tesouro SELIC, irá pagar 0,25% de taxa de custódia sobre os R\$1.000,00 que excedem o limite de isenção:
+
+
+|Montante Aplicado (R$)|Taxa a pagar|
+|----------------------|-------------|
+|10.000,00              | 0,00 |
+|11.000,00              | 2,50 |
+
+Essa isenção não se aplica para os outros tipos de títulos.
+
+## IOF
 
 O IOF é cobrado sobre o rendimento obtido em um título caso o período de investimento seja inferior a 30 dias.
 

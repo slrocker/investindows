@@ -1,6 +1,6 @@
 ---
 title: "Download"
-date: "2019-07-11"
+date: "2020-07-08"
 section: "Planilhas"
 sectionSlug: "planilhas"
 category: "Excel"
@@ -40,9 +40,9 @@ indexOrder: 211
 
 ## Link
 
-<p><a href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.5+Excel+2016+.xlsm">Versão 1.4.5</a></p>
+<p><a href="https://investindows.s3-sa-east-1.amazonaws.com/Custodia+V1.4.7+Excel+2016+.xlsm">Versão 1.4.7</a></p>
 
-Data da versão: 06/01/2020
+Data da versão: 29/07/2020
 
 ###Atualizações:
 

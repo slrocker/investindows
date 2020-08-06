@@ -1,6 +1,6 @@
 ---  
 title: "CIA ENERG CEARA - COELCE (COCE) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.797,68</td>  
 <td data-col='trimBalanco' class='trimData'>2.483,41</td>  
 <td>2.159,73</td>  
 <td data-col='trimBalanco' class='trimData'>2.159,73</td>  
@@ -181,7 +181,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>239,11</td>  
 <td data-col='trimBalanco' class='trimData'>155,56</td>  
 <td>91,61</td>  
 <td data-col='trimBalanco' class='trimData'>91,61</td>  
@@ -244,7 +244,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>96,88</td>  
 <td data-col='trimBalanco' class='trimData'>79,17</td>  
 <td>77,03</td>  
 <td data-col='trimBalanco' class='trimData'>77,03</td>  
@@ -307,7 +307,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>6.692,14</td>  
 <td data-col='trimBalanco' class='trimData'>6.615,22</td>  
 <td>6.504,98</td>  
 <td data-col='trimBalanco' class='trimData'>6.504,98</td>  
@@ -370,7 +370,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>9.489,82</td>  
 <td data-col='trimBalanco' class='trimData'>9.098,63</td>  
 <td>8.664,71</td>  
 <td data-col='trimBalanco' class='trimData'>8.664,71</td>  
@@ -433,7 +433,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.951,20</td>  
 <td data-col='trimBalanco' class='trimData'>2.393,65</td>  
 <td>2.049,70</td>  
 <td data-col='trimBalanco' class='trimData'>2.049,70</td>  
@@ -496,7 +496,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.027,11</td>  
 <td data-col='trimBalanco' class='trimData'>856,47</td>  
 <td>360,73</td>  
 <td data-col='trimBalanco' class='trimData'>360,73</td>  
@@ -559,7 +559,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.396,07</td>  
 <td data-col='trimBalanco' class='trimData'>3.501,47</td>  
 <td>3.500,96</td>  
 <td data-col='trimBalanco' class='trimData'>3.500,96</td>  
@@ -622,7 +622,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.833,37</td>  
 <td data-col='trimBalanco' class='trimData'>1.824,93</td>  
 <td>1.823,71</td>  
 <td data-col='trimBalanco' class='trimData'>1.823,71</td>  
@@ -685,7 +685,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>9.489,82</td>  
 <td data-col='trimBalanco' class='trimData'>9.098,63</td>  
 <td>8.664,71</td>  
 <td data-col='trimBalanco' class='trimData'>8.664,71</td>  
@@ -748,7 +748,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>3.142,55</td>  
 <td data-col='trimBalanco' class='trimData'>3.203,51</td>  
 <td>3.114,05</td>  
 <td data-col='trimBalanco' class='trimData'>3.114,05</td>  
@@ -811,7 +811,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>239,11</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>155,56</td>  
 <td class='positiveNumber'>168,64</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>91,61</td>  
@@ -874,7 +874,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>2.860,47</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.681,40</td>  
 <td class='negativeNumber'>2.184,43</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.184,43</td>  
@@ -937,7 +937,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>2.621,36</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.525,83</td>  
 <td class='negativeNumber'>2.015,80</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.092,83</td>  
@@ -1000,7 +1000,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.95</td>  
 <td data-col='trimBalanco' class='trimData'>1.04</td>  
 <td>1.05</td>  
 <td data-col='trimBalanco' class='trimData'>1.05</td>  
@@ -1063,7 +1063,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.08</td>  
 <td data-col='trimBalanco' class='trimData'>0.06</td>  
 <td>0.08</td>  
 <td data-col='trimBalanco' class='trimData'>0.04</td>  
@@ -1211,7 +1211,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >1.339,54</td>  
 <td data-col='trimDRE' class='trimData' >1.399,58</td>  
 <td>5.377,08</td>  
 <td data-col='trimDRE' class='trimData' >1.562,61</td>  
@@ -1274,7 +1274,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >186,12</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >219,73</td>  
 <td class='positiveNumberGreen'>757,01</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >273,66</td>  
@@ -1337,7 +1337,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >58,60</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >123,01</td>  
 <td class='positiveNumberGreen'>563,86</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >254,93</td>  
@@ -1400,7 +1400,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-30,77</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-20,00</td>  
 <td class='negativeNumber'>-71,93</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-7,71</td>  
@@ -1463,7 +1463,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >27,83</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >103,01</td>  
 <td class='positiveNumberGreen'>491,93</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >247,22</td>  
@@ -1526,7 +1526,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >26,12</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >82,64</td>  
 <td class='positiveNumberGreen'>404,90</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >205,58</td>  
@@ -1589,7 +1589,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>13.89</td>  
 <td data-col='trimDRE' class='trimData'>15.70</td>  
 <td>14.08</td>  
 <td data-col='trimDRE' class='trimData'>17.51</td>  
@@ -1652,7 +1652,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>1.95</td>  
 <td data-col='trimDRE' class='trimData'>5.90</td>  
 <td>7.53</td>  
 <td data-col='trimDRE' class='trimData'>13.16</td>  
@@ -1715,7 +1715,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.83</td>  
 <td data-col='trimDRE' class='trimData'>2.58</td>  
 <td>13.00</td>  
 <td data-col='trimDRE' class='trimData'>6.60</td>  
@@ -1778,7 +1778,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.62</td>  
 <td data-col='trimDRE' class='trimData'>1.35</td>  
 <td>6.51</td>  
 <td data-col='trimDRE' class='trimData'>2.94</td>  
@@ -1841,7 +1841,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>0.68</td>  
 <td data-col='trimDRE' class='trimData'>1.44</td>  
 <td>7.25</td>  
 <td data-col='trimDRE' class='trimData'>3.28</td>  
@@ -1989,7 +1989,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >225,44</td>  
 <td data-col='trimDFC' class='trimData' >-30,25</td>  
 <td>624,24</td>  
 <td data-col='trimDFC' class='trimData' >301,97</td>  
@@ -2052,7 +2052,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-275,35</td>  
 <td data-col='trimDFC' class='trimData' >-242,67</td>  
 <td>-744,96</td>  
 <td data-col='trimDFC' class='trimData' >-216,25</td>  
@@ -2115,7 +2115,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >133,46</td>  
 <td data-col='trimDFC' class='trimData' >336,88</td>  
 <td>116,49</td>  
 <td data-col='trimDFC' class='trimData' >-163,67</td>  
@@ -2178,7 +2178,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>83,55</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>63,96</td>  
 <td class='negativeNumber'>-4,23</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-77,95</td>  
@@ -2241,7 +2241,7 @@ COCE3 COCE5 COCE6
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData negativeNumber'>-49,91</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-272,92</td>  
 <td class='negativeNumber'>-120,72</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>85,72</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "TAURUS ARMAS S.A. (TASA) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -1143,6 +1143,11 @@ TASA3 TASA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDRE'>4T20</th>  
+<th class='trimHeader' data-col='trimDRE'>3T20</th>  
+<th class='trimHeader' data-col='trimDRE'>2T20</th>  
+<th class='trimHeader' data-col='trimDRE'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDRE'>4T19</th>  
 <th class='trimHeader' data-col='trimDRE'>3T19</th>  
@@ -1203,6 +1208,11 @@ TASA3 TASA4
 <tbody>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Receita Líquida</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >298,32</td>  
 <td>999,58</td>  
 <td data-col='trimDRE' class='trimData' >272,21</td>  
 <td data-col='trimDRE' class='trimData' >242,30</td>  
@@ -1261,6 +1271,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Resultado Bruto</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >102,87</td>  
 <td class='positiveNumberGreen'>340,63</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >84,37</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >83,86</td>  
@@ -1319,6 +1334,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) EBIT</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >39,65</td>  
 <td class='positiveNumberGreen'>105,66</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >7,32</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >18,62</td>  
@@ -1377,6 +1397,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) Resultado Financeiro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-188,87</td>  
 <td class='negativeNumber'>-80,48</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-2,72</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-64,24</td>  
@@ -1435,6 +1460,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) LAIR</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-149,23</td>  
 <td class='positiveNumberGreen'>25,18</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >4,60</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-45,62</td>  
@@ -1493,6 +1523,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDRE'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(6) Lucro</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-157,12</td>  
 <td class='positiveNumberGreen'>43,43</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >22,12</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-26,37</td>  
@@ -1551,6 +1586,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(7) Margem Bruta (%) (2 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>34.48</td>  
 <td>34.08</td>  
 <td data-col='trimDRE' class='trimData'>30.99</td>  
 <td data-col='trimDRE' class='trimData'>34.61</td>  
@@ -1609,6 +1649,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDREMargem'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(8) Margem Líquida (%) (6 / 1)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>4.34</td>  
 <td data-col='trimDRE' class='trimData'>8.13</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1667,6 +1712,11 @@ TASA3 TASA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(9) ROE (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>NA</td>  
 <td>-14.26</td>  
 <td data-col='trimDRE' class='trimData'>-7.26</td>  
 <td data-col='trimDRE' class='trimData'>NA</td>  
@@ -1725,6 +1775,11 @@ TASA3 TASA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(10) ROA (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.39</td>  
 <td>9.91</td>  
 <td data-col='trimDRE' class='trimData'>0.69</td>  
 <td data-col='trimDRE' class='trimData'>1.72</td>  
@@ -1783,6 +1838,11 @@ TASA3 TASA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(11) ROIC (%)</td>  
+<td>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>6.22</td>  
 <td>17.04</td>  
 <td data-col='trimDRE' class='trimData'>1.18</td>  
 <td data-col='trimDRE' class='trimData'>2.92</td>  
@@ -1861,6 +1921,11 @@ TASA3 TASA4
 <thead>  
 <tr>  
 <th class='dataHeader fixedLeftColumn'>Dado</th>  
+<th>2020</th>  
+<th class='trimHeader' data-col='trimDFC'>4T20</th>  
+<th class='trimHeader' data-col='trimDFC'>3T20</th>  
+<th class='trimHeader' data-col='trimDFC'>2T20</th>  
+<th class='trimHeader' data-col='trimDFC'>1T20</th>  
 <th>2019</th>  
 <th class='trimHeader' data-col='trimDFC'>4T19</th>  
 <th class='trimHeader' data-col='trimDFC'>3T19</th>  
@@ -1921,6 +1986,11 @@ TASA3 TASA4
 <tbody>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(1) Caixa Líquido Atividades Operacionais</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >77,75</td>  
 <td>108,79</td>  
 <td data-col='trimDFC' class='trimData' >47,94</td>  
 <td data-col='trimDFC' class='trimData' >17,37</td>  
@@ -1979,6 +2049,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(2) Caixa Líquido Atividades Investimento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-11,41</td>  
 <td>-67,02</td>  
 <td data-col='trimDFC' class='trimData' >-43,08</td>  
 <td data-col='trimDFC' class='trimData' >-8,73</td>  
@@ -2037,6 +2112,11 @@ TASA3 TASA4
 </tr>  
 <tr class='trDFC'>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(3) Caixa Líquido Atividades Financiamento</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-27,64</td>  
 <td>-32,57</td>  
 <td data-col='trimDFC' class='trimData' >4,68</td>  
 <td data-col='trimDFC' class='trimData' >2,10</td>  
@@ -2095,6 +2175,11 @@ TASA3 TASA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(4) FCT (1 + 2 + 3)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>38,69</td>  
 <td class='positiveNumber'>9,20</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>9,54</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>10,73</td>  
@@ -2153,6 +2238,11 @@ TASA3 TASA4
 </tr>  
 <tr>  
 <td class='leftAlignCell rowDescription fixedLeftColumn'>(5) FCL (1 + 2)</td>  
+<td>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>66,33</td>  
 <td class='positiveNumber'>41,77</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>4,86</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>8,64</td>  

@@ -1,6 +1,6 @@
 ---  
 title: "WEG SA (WEGE) "  
-date: "2020-07-05"  
+date: "2020-08-06"  
 section : "Dados"  
 sectionSlug : "dados"  
 category: "Empresas"  
@@ -118,7 +118,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>10.827,45</td>  
 <td data-col='trimBalanco' class='trimData'>10.600,71</td>  
 <td>9.760,90</td>  
 <td data-col='trimBalanco' class='trimData'>9.760,90</td>  
@@ -181,7 +181,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.677,42</td>  
 <td data-col='trimBalanco' class='trimData'>1.587,55</td>  
 <td>1.946,04</td>  
 <td data-col='trimBalanco' class='trimData'>1.946,04</td>  
@@ -244,7 +244,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.172,42</td>  
 <td data-col='trimBalanco' class='trimData'>1.311,65</td>  
 <td>1.444,23</td>  
 <td data-col='trimBalanco' class='trimData'>1.444,23</td>  
@@ -307,7 +307,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>7.180,33</td>  
 <td data-col='trimBalanco' class='trimData'>6.770,63</td>  
 <td>5.926,74</td>  
 <td data-col='trimBalanco' class='trimData'>5.926,74</td>  
@@ -370,7 +370,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>18.007,78</td>  
 <td data-col='trimBalanco' class='trimData'>17.371,33</td>  
 <td>15.687,64</td>  
 <td data-col='trimBalanco' class='trimData'>15.687,64</td>  
@@ -433,7 +433,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>4.687,93</td>  
 <td data-col='trimBalanco' class='trimData'>4.951,23</td>  
 <td>4.491,02</td>  
 <td data-col='trimBalanco' class='trimData'>4.491,02</td>  
@@ -496,7 +496,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>466,58</td>  
 <td data-col='trimBalanco' class='trimData'>865,57</td>  
 <td>936,37</td>  
 <td data-col='trimBalanco' class='trimData'>936,37</td>  
@@ -559,7 +559,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.691,18</td>  
 <td data-col='trimBalanco' class='trimData'>2.536,86</td>  
 <td>2.266,63</td>  
 <td data-col='trimBalanco' class='trimData'>2.266,63</td>  
@@ -622,7 +622,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>1.657,75</td>  
 <td data-col='trimBalanco' class='trimData'>1.597,86</td>  
 <td>1.348,60</td>  
 <td data-col='trimBalanco' class='trimData'>1.348,60</td>  
@@ -685,7 +685,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>18.007,78</td>  
 <td data-col='trimBalanco' class='trimData'>17.371,33</td>  
 <td>15.687,64</td>  
 <td data-col='trimBalanco' class='trimData'>15.687,64</td>  
@@ -748,7 +748,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>10.628,68</td>  
 <td data-col='trimBalanco' class='trimData'>9.883,25</td>  
 <td>8.929,99</td>  
 <td data-col='trimBalanco' class='trimData'>8.929,99</td>  
@@ -811,7 +811,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='positiveNumber trimData' data-col='trimBalanco'>1.677,42</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.587,55</td>  
 <td class='positiveNumber'>3.390,27</td>  
 <td class='positiveNumber trimData' data-col='trimBalanco'>1.946,04</td>  
@@ -874,7 +874,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>2.124,33</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.463,43</td>  
 <td class='negativeNumber'>2.284,97</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>2.284,97</td>  
@@ -937,7 +937,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td class='negativeNumber trimData' data-col='trimBalanco'>446,92</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>875,88</td>  
 <td class='positiveNumber'>-1.105,30</td>  
 <td class='negativeNumber trimData' data-col='trimBalanco'>338,93</td>  
@@ -1000,7 +1000,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>2.31</td>  
 <td data-col='trimBalanco' class='trimData'>2.14</td>  
 <td>2.17</td>  
 <td data-col='trimBalanco' class='trimData'>2.17</td>  
@@ -1063,7 +1063,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
 <td data-col='trimBalanco' class='trimData'>ND</td>  
-<td data-col='trimBalanco' class='trimData'>ND</td>  
+<td data-col='trimBalanco' class='trimData'>0.36</td>  
 <td data-col='trimBalanco' class='trimData'>0.32</td>  
 <td>0.75</td>  
 <td data-col='trimBalanco' class='trimData'>0.43</td>  
@@ -1211,7 +1211,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData' >4.063,94</td>  
 <td data-col='trimDRE' class='trimData' >3.714,44</td>  
 <td>13.347,43</td>  
 <td data-col='trimDRE' class='trimData' >3.778,85</td>  
@@ -1274,7 +1274,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >1.232,10</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.097,53</td>  
 <td class='positiveNumberGreen'>3.953,27</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >1.145,22</td>  
@@ -1337,7 +1337,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >619,47</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >518,94</td>  
 <td class='positiveNumberGreen'>1.847,73</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >564,18</td>  
@@ -1400,7 +1400,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData negativeNumber' >-46,16</td>  
 <td data-col='trimDRE' class='trimData negativeNumber' >-0,75</td>  
 <td class='negativeNumber'>-43,28</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >12,89</td>  
@@ -1463,7 +1463,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >573,30</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >518,18</td>  
 <td class='positiveNumberGreen'>1.804,45</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >577,06</td>  
@@ -1526,7 +1526,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData positiveNumberGreen' >526,52</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >453,98</td>  
 <td class='positiveNumberGreen'>1.632,45</td>  
 <td data-col='trimDRE' class='trimData positiveNumberGreen' >504,45</td>  
@@ -1589,7 +1589,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>30.32</td>  
 <td data-col='trimDRE' class='trimData'>29.55</td>  
 <td>29.62</td>  
 <td data-col='trimDRE' class='trimData'>30.31</td>  
@@ -1652,7 +1652,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>12.96</td>  
 <td data-col='trimDRE' class='trimData'>12.22</td>  
 <td>12.23</td>  
 <td data-col='trimDRE' class='trimData'>13.35</td>  
@@ -1715,7 +1715,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>4.95</td>  
 <td data-col='trimDRE' class='trimData'>4.59</td>  
 <td>18.28</td>  
 <td data-col='trimDRE' class='trimData'>5.65</td>  
@@ -1778,7 +1778,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>3.44</td>  
 <td data-col='trimDRE' class='trimData'>2.99</td>  
 <td>11.78</td>  
 <td data-col='trimDRE' class='trimData'>3.60</td>  
@@ -1841,7 +1841,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
 <td data-col='trimDRE' class='trimData'>ND</td>  
-<td data-col='trimDRE' class='trimData'>ND</td>  
+<td data-col='trimDRE' class='trimData'>4.13</td>  
 <td data-col='trimDRE' class='trimData'>3.63</td>  
 <td>15.59</td>  
 <td data-col='trimDRE' class='trimData'>4.76</td>  
@@ -1989,7 +1989,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >453,40</td>  
 <td data-col='trimDFC' class='trimData' >525,74</td>  
 <td>1.907,85</td>  
 <td data-col='trimDFC' class='trimData' >832,37</td>  
@@ -2052,7 +2052,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >47,27</td>  
 <td data-col='trimDFC' class='trimData' >27,86</td>  
 <td>-59,75</td>  
 <td data-col='trimDFC' class='trimData' >-318,32</td>  
@@ -2115,7 +2115,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData' >-473,05</td>  
 <td data-col='trimDFC' class='trimData' >-1.007,22</td>  
 <td>-2.115,44</td>  
 <td data-col='trimDFC' class='trimData' >-667,80</td>  
@@ -2178,7 +2178,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>27,61</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-453,63</td>  
 <td class='negativeNumber'>-267,34</td>  
 <td data-col='trimDFC' class='trimData negativeNumber'>-153,75</td>  
@@ -2241,7 +2241,7 @@ WEGE3
 <td>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
 <td data-col='trimDFC' class='trimData'>ND</td>  
-<td data-col='trimDFC' class='trimData'>ND</td>  
+<td data-col='trimDFC' class='trimData positiveNumber'>500,67</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>553,60</td>  
 <td class='positiveNumber'>1.848,11</td>  
 <td data-col='trimDFC' class='trimData positiveNumber'>514,05</td>  
