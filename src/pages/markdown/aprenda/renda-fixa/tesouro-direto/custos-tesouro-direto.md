@@ -43,11 +43,11 @@ Essa taxa é cobrada:
 - Quando ocorre algum evento de custódia, como venda antecipada, vencimento do título ou recebimento de cupons.
 
 
-A taxa é debitada automaticamente da conta corrente da corretora do investidor. **Por isso, é importante estar atento e deixar o dinheiro para pagamento das taxas disponível na corretora**.
+A taxa é debitada automaticamente da conta corrente da corretora do investidor. **Por isso, é importante estar atento e deixar disponível na corretora o dinheiro para pagamento das taxas**.
 
 ### Isenção
 
-Para investidores que possuam títulos [Tesouro SELIC](/tesouro-selic) até um estoque de R\$10.000,00, não será cobrada a taxa de custódia.
+Para investidores que possuam títulos [Tesouro SELIC](tesouro-selic) até um estoque de R\$10.000,00, não será cobrada a taxa de custódia.
 
 A cobrança da taxa de 0,25% só incidirá sobre os valores acima de R\$10.000,00.
 

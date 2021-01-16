@@ -78,9 +78,9 @@ const PlanilhasPage = () => {
                 
 
                 <ul>                    
-                    <li><Link to="planilhas/excel/instrucoes">Instruções de Uso</Link></li>
-                    <li><Link to="planilhas/excel/faq">Dúvidas Frequentes</Link></li>
-                    <li><Link to="planilhas/excel/atualizacoes">Registro de Atualizações</Link></li>
+                    <li><Link to="excel/instrucoes">Instruções de Uso</Link></li>
+                    <li><Link to="excel/faq">Dúvidas Frequentes</Link></li>
+                    <li><Link to="excel/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
 
                 
@@ -107,9 +107,9 @@ const PlanilhasPage = () => {
                 <a className={planilhasStyles.downloadLink} href="https://docs.google.com/spreadsheets/d/1846BqVlFISGgqJJY5bZL-38K8kUoChjEp9OCVVRMBDs/copy">Criar Cópia</a>
 
                 <ul>
-                    <li><Link to="planilhas/google-sheets/instrucoes">Instruções de Uso</Link></li>
-                    <li><Link to="planilhas/google-sheets/faq">Dúvidas Frequentes</Link></li>
-                    <li><Link to="planilhas/google-sheets/atualizacoes">Registro de Atualizações</Link></li>
+                    <li><Link to="google-sheets/instrucoes">Instruções de Uso</Link></li>
+                    <li><Link to="google-sheets/faq">Dúvidas Frequentes</Link></li>
+                    <li><Link to="google-sheets/atualizacoes">Registro de Atualizações</Link></li>
                 </ul>
 
             </div>

@@ -82,7 +82,7 @@ const EnciclopediaPage = () => {
                             
                             <p className = {enciclopediaStyles.subcategoryTitle}>            
                                  <Link
-                                    to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
+                                    to={`${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
                                     className = {enciclopediaStyles.subcategoryLink}
                                 >
                                     

@@ -109,7 +109,7 @@ const subCategoryPage = (props) => {
                             {props.data.markdownRemark.frontmatter.section}
                     </Link>
                     <span>></span>
-                    <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
+                    <Link to={`/${props.data.markdownRemark.frontmatter.sectionSlug}/${props.data.markdownRemark.frontmatter.categorySlug}/`}>
                             {props.data.markdownRemark.frontmatter.category}
                     </Link>
                     <span>></span>
@@ -129,7 +129,7 @@ const subCategoryPage = (props) => {
                 return(
                     
                         <li>
-                            <Link to={`${props.data.markdownRemark.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}/${edge.node.fields.slug}`}>
+                            <Link to={`${edge.node.fields.slug}`}>
                                 {edge.node.frontmatter.title}
                             </Link>
                         </li>

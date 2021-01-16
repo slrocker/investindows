@@ -81,7 +81,7 @@ const DadosPage = () => {
                                 
                                 <h3 className = {dadosStyles.categoryTitle}>             
                                     <Link
-                                        to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}`}
+                                        to={`${edge.node.frontmatter.categorySlug}`}
                                         className = {dadosStyles.categoryLink}
                                     >
                                         
@@ -95,7 +95,7 @@ const DadosPage = () => {
                             
                             <p className = {dadosStyles.subcategoryTitle}>            
                                  <Link
-                                    to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
+                                    to={`${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
                                     className = {dadosStyles.subcategoryLink}
                                 >
                                     

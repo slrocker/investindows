@@ -767,6 +767,78 @@ html {
   //---------------------TABLES-----------------------
   //--------------------------------------------------
 
+  // .tooltip {
+  //   position: relative;
+  //   display: inline-block;
+  //   border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  // }
+  
+  /* Tooltip text */
+  .tooltiptext {
+    visibility: hidden;
+    width: 100%;
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    color: #444;
+    text-align: center;
+    padding: 5px;
+    border-radius: 3px;
+    left: 100%;
+    bottom : 0%;
+ 
+    position: absolute;
+    z-index: 10;
+
+    b {
+
+      color: black;
+
+    }
+  }
+
+  .tooltiptexttop {
+
+    visibility: hidden;
+    width: 100%;
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    color: #444;
+    text-align: center;
+    padding: 5px;
+    border-radius: 3px;
+    left: 100%;
+    top : 0%;
+
+    position: absolute;
+    z-index: 10;
+
+    b {
+
+      color: black;
+
+    }
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    .tooltiptext {
+      
+      width: 50vw;
+      
+    }
+    .tooltiptexttop {
+      
+      width: 50vw;
+      
+    }
+   
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip:hover .tooltiptext, .tooltip:hover .tooltiptexttop {
+    visibility: visible;
+  }
+
 
 // tag <table>
 
@@ -796,7 +868,7 @@ html {
 
 .balancoTable {
 
-  
+  margin: 0px;
   font-size: 0.7rem;  
 
   thead{
@@ -824,6 +896,10 @@ html {
       background-color: #000;
       
       
+    }
+
+    th.last12Header {
+      background-color:#222;
     }
   
   }

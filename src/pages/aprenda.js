@@ -81,7 +81,7 @@ const AprendaPage = () => {
                                 
                                 <h3 className = {aprendaStyles.categoryTitle}>             
                                     <Link
-                                        to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}`}
+                                        to={`${edge.node.frontmatter.categorySlug}`}
                                         className = {aprendaStyles.categoryLink}
                                     >
                                         
@@ -95,7 +95,7 @@ const AprendaPage = () => {
                             
                             <p className = {aprendaStyles.subcategoryTitle}>            
                                  <Link
-                                    to={`${edge.node.frontmatter.sectionSlug}/${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
+                                    to={`${edge.node.frontmatter.categorySlug}/${edge.node.frontmatter.subcategorySlug}`}
                                     className = {aprendaStyles.subcategoryLink}
                                 >
                                     

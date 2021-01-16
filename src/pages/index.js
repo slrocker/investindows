@@ -66,12 +66,12 @@ const IndexPage = () => {
                                 <p>Em dúvida sobre algo? Dê uma olhada na nossa enciclopédia.</p>
                             </Link>
                 </li>
-                <li className={indexStyles.item}>
+                {/* <li className={indexStyles.item}>
                             <Link to="/dados">
                                 <h1>Dados</h1>
                                 <p>Informações financeiras das empresas listadas em Bolsa.</p>
                             </Link>
-                </li>        
+                </li>         */}
                 
             </ol>
 
