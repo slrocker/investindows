@@ -31,6 +31,8 @@ Para saber esse valor, é preciso ter em mãos o Informe de Rendimentos enviado 
 
 Em último caso, observe os anúncios de pagamento de JCP beneficiando os portadores de ação no ano (último dia COM no ano), mas cujo pagamento só será realizado no ano seguinte. Multiplique o valor a ser pago pelo número de suas ações que foram beneficiadas e você terá o valor dos Juros Sobre Capital em trânsito.
 
+Ressalta-se que, conforme a [legislação](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=13711&visao=anotado), os valores em trânsito também devem ser registrados como ["rendimento sujeito à tributação exclusiva"](/aprenda/imposto-de-renda/acoes/juros-sobre-capital-no-imposto-de-renda).
+
 ## Bens e Direitos
 
 Registre o valor de JCP a receber na aba “Bens e Direitos” com o código “Outros bens e direitos“.
