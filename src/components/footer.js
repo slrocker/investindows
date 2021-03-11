@@ -21,7 +21,7 @@ const Footer = () => {
                 <li><a class="social-link" href="https://youtube.com/+InvestindoOrgWS" target="new"><svg width ="25" height="25" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" title="Acesse a página do Investindo.Org no Youtube." role="img" aria-labelledby="youtube-icon-title youtube-icon-desc" class="social-icon youtube-icon"><title id="youtube-icon-title">Acesse a página do Investindo.Org no Youtube.</title><desc id="youtube-icon-desc">Seta a direita sobre retângulo estilizado como símbolo do Youtube.</desc><path class="stfooter youtube-red" d="M39.6 11.5c0 0-0.4-2.9-1.6-4.2 -1.5-1.7-3.2-1.7-4-1.8C28.4 5 20 5 20 5h0c0 0-8.4 0-14 0.4C5.2 5.5 3.5 5.5 2 7.2c-1.2 1.3-1.6 4.2-1.6 4.2S0 14.9 0 18.4v3.2c0 3.5 0.4 6.9 0.4 6.9s0.4 2.9 1.6 4.2c1.5 1.7 3.5 1.6 4.4 1.8C9.6 34.9 20 35 20 35s8.4 0 14-0.4c0.8-0.1 2.5-0.1 4-1.8 1.2-1.3 1.6-4.2 1.6-4.2s0.4-3.5 0.4-6.9v-3.2C40 14.9 39.6 11.5 39.6 11.5z"/><polygon class="youtube-white stfooter" points="15 14 15 26 27.5 20 "/></svg></a></li>
                 
             </ul>
-            <p>INVESTINDO.ORG © 2020</p>
+            <p>INVESTINDO.ORG © 2021</p>
         </footer>
     )
 }

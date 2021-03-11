@@ -90,8 +90,6 @@ O ajuste é feito debitando-se ou creditando-se o valor em reais na conta do inv
 
 ### Comprado e Vendido
 
-Em contratos futuros, a contraparte da operação sempre é a própria Bolsa de Valores, assim, não é obrigatório que haja um comprador e um vendedor de um mesmo contrato.
-
 É possíve comprar ou vender um contrato, a diferença dependerá do que você espera que irá acontecer:
 
 - Se você acha que a taxa DI será maior ou igual à taxa contratada: você compra um contrato; e
@@ -344,7 +342,7 @@ No dia 02/12/2019, o contrato futuro de DI1 com vencimento em 02/01/2020 tinha a
 |--|-----|--|
 |99622,39|21|4,64%|
 
-<p class="legenda" style="text-align:center">Figura 3 - Características do DI1F20 em 02/12/2020. Fonte: B3.</p>
+<p class="legenda" style="text-align:center">Figura 3 - Características do DI1F20 em 02/12/2019. Fonte: B3.</p>
 
 Sabendo que haverá uma reunião do COPOM no dia 10/12 e que a meta da taxa SELIC é de 5,00%, podemos utilizar o contrato futuro para estimar o que o mercado acha que ocorrerá na reunião do COPOM em relação à SELIC.
 

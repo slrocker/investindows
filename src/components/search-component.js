@@ -52,7 +52,7 @@ const Hits = connectHits(({ hits }) => (
         {hits.map(hit => {
           return (
             <div  key={hit.objectID}>
-              <Link to={`${hit.sectionSlug}/${hit.categorySlug}/${hit.subcategorySlug}/${hit.fields.slug}`} >
+              <Link to={`/${hit.sectionSlug}/${hit.categorySlug}/${hit.subcategorySlug}/${hit.fields.slug}`} >
                 <h4>
                   {hit.title}
                                  
