@@ -10,7 +10,6 @@ subcategorySlug: "s"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6119
-
 ---
 
 Empresas cujo nome inicia com a letra S.

@@ -10,7 +10,6 @@ subcategorySlug: "o"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6115
-
 ---
 
 Empresas cujo nome inicia com a letra O.

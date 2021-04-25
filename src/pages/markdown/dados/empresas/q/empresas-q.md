@@ -10,7 +10,6 @@ subcategorySlug: "q"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6117
-
 ---
 
 Empresas cujo nome inicia com a letra Q.

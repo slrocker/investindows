@@ -10,7 +10,6 @@ subcategorySlug: "c"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 613
-
 ---
 
 Empresas cujo nome inicia com a letra C.

@@ -95,7 +95,7 @@ Para cada empresa cuja ação você possui, bem como para cada tipo de ação (O
 	<text id="XMLID_26_" transform="matrix(1 0 0 1 19.5453 188.9408)" class="st4 st7">Situação em 31/12/2013 (R$)</text>
 	<text id="XMLID_25_" transform="matrix(1 0 0 1 94.6949 188.9406)" class="st4 st7">Situação em 31/12/2014 (R$)</text>
 	<text id="XMLID_24_" transform="matrix(1 0 0 1 172.9125 198.2006)" class="st4 st6">Repetir</text>
-	<text id="XMLID_23_" transform="matrix(1 0 0 1 198.1912 196.2006)"><tspan x="0" y="0" class="st4 st7">Repete em 31/12/2017 o valor</tspan><tspan x="0" y="4.8" class="st4 st7">em reais de 31/12/2016</tspan></text>
+	<text id="XMLID_23_" transform="matrix(1 0 0 1 198.1912 196.2006)"><tspan x="0" y="0" class="st4 st7">Repete em 31/12/2014 o valor</tspan><tspan x="0" y="4.8" class="st4 st7">em reais de 31/12/2013</tspan></text>
 	<text id="XMLID_21_" transform="matrix(1 0 0 1 66.6944 198.2006)" class="st4 st7">0,00</text>
 	<text id="XMLID_18_" transform="matrix(1 0 0 1 130.2335 198.2006)" class="st4 st7">2.000,00</text>
 	<text id="XMLID_57_" transform="matrix(1 0 0 1 16.0003 92.2556)" class="st4 st6">CNPJ</text>

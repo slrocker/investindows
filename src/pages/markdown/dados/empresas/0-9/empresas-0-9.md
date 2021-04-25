@@ -10,7 +10,6 @@ subcategorySlug: "0-9"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 610
-
 ---
 
 Empresas cujo nome inicia com números.

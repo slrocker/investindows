@@ -1,6 +1,6 @@
 ---
 title: "Como declarar valores recebidos de aluguel de ação?"
-date: "2019-11-13"
+date: "2021-06-07"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -25,7 +25,11 @@ Utilize este guia por sua conta e risco.
 
 </div>
 
+## Aluguel de Ações
+
 Os ganhos com aluguel de ações são tributados na fonte, isto quer dizer que a Receita recolhe o imposto antes de você receber o seu dinheiro.
+
+## Declaração
 
 Você deve registrar os valores recebidos com o aluguel de ações na aba “Rendimentos Sujeitos à Tributação Exclusiva/Definitiva“, no item “Rendimento de aplicações financeiras“.
 

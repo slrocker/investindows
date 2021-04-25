@@ -10,7 +10,6 @@ subcategorySlug: "j"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6110
-
 ---
 
 Empresas cujo nome inicia com a letra J.

@@ -10,7 +10,6 @@ subcategorySlug: "k"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6111
-
 ---
 
 Empresas cujo nome inicia com a letra K.

@@ -10,7 +10,6 @@ subcategorySlug: "a"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 611
-
 ---
 
 Empresas cujo nome inicia com a letra A.

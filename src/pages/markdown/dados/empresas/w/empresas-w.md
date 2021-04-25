@@ -10,7 +10,6 @@ subcategorySlug: "w"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6123
-
 ---
 
 Empresas cujo nome inicia com a letra W.

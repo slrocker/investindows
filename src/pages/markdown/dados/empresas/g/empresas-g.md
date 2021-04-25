@@ -10,7 +10,6 @@ subcategorySlug: "g"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 617
-
 ---
 
 Empresas cujo nome inicia com a letra G.

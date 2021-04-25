@@ -10,7 +10,6 @@ subcategorySlug: "l"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6112
-
 ---
 
 Empresas cujo nome inicia com a letra L.

@@ -1,6 +1,6 @@
 ---
 title: "Códigos de Negociação (ticker)"
-date: "2020-01-27"
+date: "2021-04-10"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Variável"
@@ -136,16 +136,20 @@ Na descrição temos o nome da empresa e alguns códigos informativos, que ident
 
 Algumas vezes o código indica que houve algum evento acionário recente e que a ação não faz mais jus ao seu recebimento ( a ação está **ex** evento). Este código permanece ao lado do código da ação durante 9 pregões.
 
-- **ED**: ex-dividendos;
-- **EJ**: ex-juros sobre capital;
-- **EDJ**: ex-dividendos e ex-juros sobre capital;
-- **EB**: ex-bonificação.
-- **ES** : ex-subscrição
-- **ER** : ex-restituição
-- **EX** : ex-direitos
+- **EB**: ex-bonificação
 - **EC** : ex-cisão
+- **ED**: ex-dividendos
+- **EDB**: ex-dividendo e ex-bonificação
+- **EDJ**: ex-dividendo e ex-juros
+- **EDR**: ex-dividendo e ex-rendimento
 - **EG** : ex-grupamento
+- **EJ**: ex-juros sobre capital
+- **EJB**: ex-juros e ex-bonificação
+- **EJS**: ex-juros e ex-subscrição
 - **ER** : ex-restituição
+- **ERJ** : ex-restituição e ex-juros
+- **ES** : ex-subscrição
+- **EX** : ex-direitos
 - **S** : subscrição
 - **ATZ**: ação que sofreu atualização de pouca importância
 

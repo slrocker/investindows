@@ -10,7 +10,6 @@ subcategorySlug: "f"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 616
-
 ---
 
 Empresas cujo nome inicia com a letra F.

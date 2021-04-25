@@ -9,7 +9,7 @@ subcategory: "Eventos Acionários"
 subcategorySlug: "eventos-acionarios"
 featuredImage: "renda-variavel"
 pageType: "page"
-order: 11
+order: 12
 ---
 
 ## O que é uma OPA?

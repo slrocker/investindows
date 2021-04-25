@@ -10,7 +10,6 @@ subcategorySlug: "t"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6120
-
 ---
 
 Empresas cujo nome inicia com a letra T.

@@ -10,7 +10,6 @@ subcategorySlug: "x"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6124
-
 ---
 
 Empresas cujo nome inicia com a letra X.

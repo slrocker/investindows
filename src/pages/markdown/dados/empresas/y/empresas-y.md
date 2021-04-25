@@ -10,7 +10,6 @@ subcategorySlug: "y"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6125
-
 ---
 
 Empresas cujo nome inicia com a letra Y.

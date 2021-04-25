@@ -1,6 +1,6 @@
 ---
 title: "Como declarar ações bonificadas?"
-date: "2019-11-13"
+date: "2021-06-07"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -24,6 +24,8 @@ Utilize este guia por sua conta e risco.
 
 
 </div>
+
+## Bonificação
 
 Quando as empresas fazem bonificações, elas informam o preço de cada ação para fins de cômputo e lançamento no Imposto de Renda. O investidor deve considerar como se as ações bonificadas tivessem sido compradas pelo preço informado pela empresa.
 

@@ -10,7 +10,6 @@ subcategorySlug: "v"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6122
-
 ---
 
 Empresas cujo nome inicia com a letra V.

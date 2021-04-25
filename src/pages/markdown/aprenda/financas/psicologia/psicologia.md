@@ -10,7 +10,6 @@ subcategorySlug: "psicologia"
 featuredImage: "financas"
 pageType: "subcategory"
 indexOrder: 13
-
 ---
 
 Controle sua mente antes de controlar seus investimentos!

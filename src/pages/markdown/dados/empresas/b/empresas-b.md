@@ -10,7 +10,6 @@ subcategorySlug: "b"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 612
-
 ---
 
 Empresas cujo nome inicia com a letra B.

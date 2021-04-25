@@ -10,7 +10,6 @@ subcategorySlug: "i"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 619
-
 ---
 
 Empresas cujo nome inicia com a letra I.

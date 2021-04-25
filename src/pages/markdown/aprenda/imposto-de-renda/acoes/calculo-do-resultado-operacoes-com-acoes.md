@@ -1,6 +1,6 @@
 ---
 title: "Como calcular o imposto em operações com ações?"
-date: "2019-11-13"
+date: "2021-06-07"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Imposto de Renda"
@@ -25,22 +25,22 @@ Utilize este guia por sua conta e risco.
 
 </div>
 
-##Alíquotas
+## Alíquotas
 
 - 15% do lucro em operações do mercado à vista; e
 - 20% do lucro em operações *daytrade*.
 
-##Isenções
+## Isenções
 
 Há isenção para lucros apurados no mercado à vista desde que o **somatório das vendas em um mês não exceda a R\$20.000,00**.
 
-##Recolhimento
+## Recolhimento
 
 O investidor deve fazer o cômputo mensal das suas operações e, havendo imposto devido, executar o pagamento até o último dia útil do mês seguinte.
 
 O pagamento deve ser feito através da emissão de um Documento de Arrecadação de Receitas Federais (DARF).
 
-##Observações
+## Observações
 
 
 - Prejuízos podem ser compensados nos meses seguintes;
@@ -49,7 +49,7 @@ O pagamento deve ser feito através da emissão de um Documento de Arrecadação
 - Separar as operações *daytrade* das demais operações.
 
 
-##Preço Médio
+## Preço Médio
 
 Para calcular o resultado das suas operações, o investidor deve considerar sempre o preço médio das ações que possui.
 
@@ -88,7 +88,7 @@ De maneira geral, o investidor deve seguir o seguinte *checklist*:
 
 
 
-###Exemplos de Cálculo
+### Exemplos de Cálculo
 
 **Lucro com vendas abaixo de R\$20.000,00**
 
@@ -214,7 +214,7 @@ $$
 Como o imposto devido foi acima de R\$10,00, será preciso pagar a [DARF](./como-preencher-darf-acoes) até o último dia útil do mês seguinte.
 
 
-##Operações de *Daytrade*
+## Operações de *Daytrade*
 
 Operações *daytrade* são operações que iniciam e terminam no mesmo dia.
 

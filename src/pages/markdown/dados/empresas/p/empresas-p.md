@@ -10,7 +10,6 @@ subcategorySlug: "p"
 featuredImage: "empresas"
 pageType: "subcategory"
 indexOrder: 6116
-
 ---
 
 Empresas cujo nome inicia com a letra P.
