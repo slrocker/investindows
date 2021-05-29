@@ -1,6 +1,6 @@
 ---
 title: "O que é o Tesouro Direto?"
-date: "2019-10-21"
+date: "2021-04-29"
 section: "Aprenda"
 sectionSlug: "aprenda"
 category: "Renda Fixa"
@@ -46,11 +46,6 @@ Para ter acesso ao sistema, o investidor precisa:
 - Enviar dinheiro para a corretora;
 - Acessar o sistema, que funciona como um *website* onde os títulos podem ser comprados ou vendidos; e
 - Comandar as ordens das operações que deseja fazer.
-
-
-![Tesouro Direto - Tela Inicial](../img/tela-inicial-td.jpg)
-
-<p class="legenda" style="text-align:center">Figura 1 - Tela Inicial do Tesouro Direto.</p>
 
 
 Leia os demais artigos dessa seção para:

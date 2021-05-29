@@ -1,6 +1,6 @@
 ---
 title: "PETROBRAS DISTRIBUIDORA SA (BRDT) "
-date: "2021-04-10"
+date: "2021-05-25"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de PETROBRAS
 ## Dados Cadastrais
 **CNPJ**: 34.274.233/0001-02
 
-**RI**: Jose Roberto Lettiere
+**RI**: André Corrêa Natal
 
 **email RI**: ri@br.com.br
 
@@ -43,6 +43,11 @@ BRDT3 ;
 <thead>
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimBalanco'>4T21</th>
+<th class='trimHeader' data-col='trimBalanco'>3T21</th>
+<th class='trimHeader' data-col='trimBalanco'>2T21</th>
+<th class='trimHeader' data-col='trimBalanco'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimBalanco'>4T20</th>
 <th class='trimHeader' data-col='trimBalanco'>3T20</th>
@@ -68,16 +73,16 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimBalanco'>3T16</th>
 <th class='trimHeader' data-col='trimBalanco'>2T16</th>
 <th class='trimHeader' data-col='trimBalanco'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimBalanco'>4T15</th>
-<th class='trimHeader' data-col='trimBalanco'>3T15</th>
-<th class='trimHeader' data-col='trimBalanco'>2T15</th>
-<th class='trimHeader' data-col='trimBalanco'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Ativo Circulante <span class='tooltiptexttop'><b>Ativo Circulante: </b>Bens e direitos de curto prazo (com recebimento previsto em até 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>14.690,00</td>
 <td>13.351,00</td>
 <td data-col='trimBalanco' class='trimData'>13.351,00</td>
 <td data-col='trimBalanco' class='trimData'>13.571,00</td>
@@ -103,14 +108,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>12.844,00</td>
-<td data-col='trimBalanco' class='trimData'>12.844,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Caixa e Equivalentes de Caixa <span class='tooltiptexttop'><b>Caixa e Equivalentes: </b>Valores com disponibildiade imediata.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>3.893,00</td>
 <td>3.358,00</td>
 <td data-col='trimBalanco' class='trimData'>3.358,00</td>
 <td data-col='trimBalanco' class='trimData'>4.476,00</td>
@@ -136,39 +141,34 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>810,00</td>
-<td data-col='trimBalanco' class='trimData'>810,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)Aplicações Financeiras <span class='tooltiptexttop'><b>Aplicações financeiras: </b>Investimentos financeiros com disponibilidade no curto prazo.</span></td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
 <td>0,00</td>
 <td data-col='trimBalanco' class='trimData'>0,00</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
@@ -177,6 +177,11 @@ BRDT3 ;
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Ativo Não Circulante <span class='tooltiptexttop'><b>Ativo Não Circulante: </b>Bens e direitos de longo prazo (com recebimento previsto além de 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>14.569,00</td>
 <td>14.976,00</td>
 <td data-col='trimBalanco' class='trimData'>14.976,00</td>
 <td data-col='trimBalanco' class='trimData'>14.192,00</td>
@@ -202,14 +207,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>18.397,00</td>
-<td data-col='trimBalanco' class='trimData'>18.397,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)Ativo Total <span class='tooltiptexttop'><b>Ativo Total: </b>Bens e direitos totais.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>29.259,00</td>
 <td>28.327,00</td>
 <td data-col='trimBalanco' class='trimData'>28.327,00</td>
 <td data-col='trimBalanco' class='trimData'>27.763,00</td>
@@ -235,14 +240,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>31.241,00</td>
-<td data-col='trimBalanco' class='trimData'>31.241,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)Passivo Circulante <span class='tooltiptext'><b>Passivo Circulante: </b>Obrigações e dívidas de curto prazo (com pagamento previsto em até 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>4.700,00</td>
 <td>6.942,00</td>
 <td data-col='trimBalanco' class='trimData'>6.942,00</td>
 <td data-col='trimBalanco' class='trimData'>6.128,00</td>
@@ -268,14 +273,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>5.592,00</td>
-<td data-col='trimBalanco' class='trimData'>5.592,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)Empréstimos e Financiamentos (curto prazo) <span class='tooltiptext'><b>Empréstimos e Financiamentos (curto prazo): </b>Empréstimos cujo pagamento deve ser feito em até 12 meses e, portanto, são mais críticos à imediata saúde financeira da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>840,00</td>
 <td>2.197,00</td>
 <td data-col='trimBalanco' class='trimData'>2.197,00</td>
 <td data-col='trimBalanco' class='trimData'>2.713,00</td>
@@ -301,14 +306,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>692,00</td>
-<td data-col='trimBalanco' class='trimData'>692,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8)Passivo Não Circulante <span class='tooltiptext'><b>Passivo Não Circulante: </b>Obrigações e dívidas de longo prazo (com pagamento previsto a partir de 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>11.859,00</td>
 <td>9.178,00</td>
 <td data-col='trimBalanco' class='trimData'>9.178,00</td>
 <td data-col='trimBalanco' class='trimData'>12.020,00</td>
@@ -334,14 +339,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>15.724,00</td>
-<td data-col='trimBalanco' class='trimData'>15.724,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9)Empréstimos e Financiamentos (longo prazo) <span class='tooltiptext'><b>Empréstimos e Financiamentos (longo prazo): </b>Empréstimos cujo pagamento deve ser feito no longo prazo (além de 12 meses).</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>9.008,00</td>
 <td>6.356,00</td>
 <td data-col='trimBalanco' class='trimData'>6.356,00</td>
 <td data-col='trimBalanco' class='trimData'>6.578,00</td>
@@ -367,14 +372,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>12.331,00</td>
-<td data-col='trimBalanco' class='trimData'>12.331,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10)Passivo Total <span class='tooltiptext'><b>Passivo Total: </b>Total de obrigações e dívidas da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>29.259,00</td>
 <td>28.327,00</td>
 <td data-col='trimBalanco' class='trimData'>28.327,00</td>
 <td data-col='trimBalanco' class='trimData'>27.763,00</td>
@@ -400,14 +405,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>31.241,00</td>
-<td data-col='trimBalanco' class='trimData'>31.241,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11)Patrimônio Líquido <span class='tooltiptext'><b>Patrimônio Líquido: </b>Parte do patrimônio da empresa que pertence aos seus acionistas.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>12.700,00</td>
 <td>12.207,00</td>
 <td data-col='trimBalanco' class='trimData'>12.207,00</td>
 <td data-col='trimBalanco' class='trimData'>9.615,00</td>
@@ -433,14 +438,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>9.925,00</td>
-<td data-col='trimBalanco' class='trimData'>9.925,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12)Caixa (2 + 3) <span class='tooltiptext'><b>Caixa: </b>Valores de curto prazo disponíveis à empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='positiveNumber trimData' data-col='trimBalanco'>3.893,00</td>
 <td class='positiveNumber'>3.358,00</td>
 <td class='positiveNumber trimData' data-col='trimBalanco'>3.358,00</td>
 <td class='positiveNumber trimData' data-col='trimBalanco'>4.476,00</td>
@@ -466,14 +471,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='positiveNumber'>810,00</td>
-<td class='positiveNumber trimData' data-col='trimBalanco'>810,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13)Dívida Bruta (7 + 9) <span class='tooltiptext'><b>Dívida Bruta: </b>Endividamento total da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='negativeNumber trimData' data-col='trimBalanco'>9.848,00</td>
 <td class='negativeNumber'>8.553,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>8.553,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>9.291,00</td>
@@ -499,14 +504,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='negativeNumber'>13.023,00</td>
-<td class='negativeNumber trimData' data-col='trimBalanco'>13.023,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14)Dívida Líquida (13 - 12) <span class='tooltiptext'><b>Dívida Líquida: </b>Endividamento da empresa desconsiderando valores em caixa. (Dívida Líquida = Dívida Bruta - Caixa)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='negativeNumber trimData' data-col='trimBalanco'>5.955,00</td>
 <td class='negativeNumber'>5.195,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>5.195,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.815,00</td>
@@ -532,14 +537,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='negativeNumber'>12.213,00</td>
-<td class='negativeNumber trimData' data-col='trimBalanco'>12.213,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15)Liquidez Corrente (1 / 6) <span class='tooltiptext'><b>Liquidez Corrente: </b>Relaciona os ativos e passivos de curto prazo. É um indicador da capacidade da empresa de administrar suas dívidas de curto prazo. (Liquidez Corrente = Ativo Circulante / Passivo Circulante)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>3.13</td>
 <td>1.92</td>
 <td data-col='trimBalanco' class='trimData'>1.92</td>
 <td data-col='trimBalanco' class='trimData'>2.21</td>
@@ -565,14 +570,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>2.30</td>
-<td data-col='trimBalanco' class='trimData'>2.30</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16)Liquidez Imediata (12 / 6) <span class='tooltiptext'><b>Liquidez Imediata: </b>Relaciona os ativos de alta liquidez e as dívidas de curto prazo. É um indicador da capacidade da empresa de pagar suas dívidas de curto prazo. (Liquidez Imediata = Disponibilidades / Passivo Circulante)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>0.83</td>
 <td>0.48</td>
 <td data-col='trimBalanco' class='trimData'>0.48</td>
 <td data-col='trimBalanco' class='trimData'>0.73</td>
@@ -598,11 +603,6 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>0.14</td>
-<td data-col='trimBalanco' class='trimData'>0.14</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 </tbody>
 </table>
@@ -614,6 +614,11 @@ BRDT3 ;
 <thead>
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimBalanco'>4T21</th>
+<th class='trimHeader' data-col='trimBalanco'>3T21</th>
+<th class='trimHeader' data-col='trimBalanco'>2T21</th>
+<th class='trimHeader' data-col='trimBalanco'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimBalanco'>4T20</th>
 <th class='trimHeader' data-col='trimBalanco'>3T20</th>
@@ -639,16 +644,16 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimBalanco'>3T16</th>
 <th class='trimHeader' data-col='trimBalanco'>2T16</th>
 <th class='trimHeader' data-col='trimBalanco'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimBalanco'>4T15</th>
-<th class='trimHeader' data-col='trimBalanco'>3T15</th>
-<th class='trimHeader' data-col='trimBalanco'>2T15</th>
-<th class='trimHeader' data-col='trimBalanco'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Ativo Circulante <span class='tooltiptexttop'><b>Ativo Circulante: </b>Bens e direitos de curto prazo (com recebimento previsto em até 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>14.945,00</td>
 <td>13.533,00</td>
 <td data-col='trimBalanco' class='trimData'>13.533,00</td>
 <td data-col='trimBalanco' class='trimData'>13.740,00</td>
@@ -674,14 +679,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>12.597,00</td>
-<td data-col='trimBalanco' class='trimData'>12.597,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Caixa e Equivalentes de Caixa <span class='tooltiptexttop'><b>Caixa e Equivalentes: </b>Valores com disponibildiade imediata.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>3.746,00</td>
 <td>3.196,00</td>
 <td data-col='trimBalanco' class='trimData'>3.196,00</td>
 <td data-col='trimBalanco' class='trimData'>4.303,00</td>
@@ -707,39 +712,34 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>607,00</td>
-<td data-col='trimBalanco' class='trimData'>607,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)Aplicações Financeiras <span class='tooltiptexttop'><b>Aplicações financeiras: </b>Investimentos financeiros com disponibilidade no curto prazo.</span></td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
-<td>0,00</td>
-<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
+<td data-col='trimBalanco' class='trimData'>0,00</td>
 <td>0,00</td>
 <td data-col='trimBalanco' class='trimData'>0,00</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
@@ -748,6 +748,11 @@ BRDT3 ;
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Ativo Não Circulante <span class='tooltiptexttop'><b>Ativo Não Circulante: </b>Bens e direitos de longo prazo (com recebimento previsto além de 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>14.153,00</td>
 <td>14.576,00</td>
 <td data-col='trimBalanco' class='trimData'>14.576,00</td>
 <td data-col='trimBalanco' class='trimData'>13.813,00</td>
@@ -773,14 +778,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>18.040,00</td>
-<td data-col='trimBalanco' class='trimData'>18.040,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaAtivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)Ativo Total <span class='tooltiptexttop'><b>Ativo Total: </b>Bens e direitos totais.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>29.098,00</td>
 <td>28.109,00</td>
 <td data-col='trimBalanco' class='trimData'>28.109,00</td>
 <td data-col='trimBalanco' class='trimData'>27.553,00</td>
@@ -806,14 +811,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>30.637,00</td>
-<td data-col='trimBalanco' class='trimData'>30.637,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)Passivo Circulante <span class='tooltiptext'><b>Passivo Circulante: </b>Obrigações e dívidas de curto prazo (com pagamento previsto em até 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>4.685,00</td>
 <td>6.967,00</td>
 <td data-col='trimBalanco' class='trimData'>6.967,00</td>
 <td data-col='trimBalanco' class='trimData'>6.156,00</td>
@@ -839,14 +844,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>5.442,00</td>
-<td data-col='trimBalanco' class='trimData'>5.442,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)Empréstimos e Financiamentos (curto prazo) <span class='tooltiptext'><b>Empréstimos e Financiamentos (curto prazo): </b>Empréstimos cujo pagamento deve ser feito em até 12 meses e, portanto, são mais críticos à imediata saúde financeira da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>812,00</td>
 <td>2.212,00</td>
 <td data-col='trimBalanco' class='trimData'>2.212,00</td>
 <td data-col='trimBalanco' class='trimData'>2.724,00</td>
@@ -872,14 +877,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>614,00</td>
-<td data-col='trimBalanco' class='trimData'>614,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8)Passivo Não Circulante <span class='tooltiptext'><b>Passivo Não Circulante: </b>Obrigações e dívidas de longo prazo (com pagamento previsto a partir de 12 meses) da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>11.713,00</td>
 <td>8.935,00</td>
 <td data-col='trimBalanco' class='trimData'>8.935,00</td>
 <td data-col='trimBalanco' class='trimData'>11.782,00</td>
@@ -905,14 +910,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>15.270,00</td>
-<td data-col='trimBalanco' class='trimData'>15.270,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9)Empréstimos e Financiamentos (longo prazo) <span class='tooltiptext'><b>Empréstimos e Financiamentos (longo prazo): </b>Empréstimos cujo pagamento deve ser feito no longo prazo (além de 12 meses).</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>8.862,00</td>
 <td>6.113,00</td>
 <td data-col='trimBalanco' class='trimData'>6.113,00</td>
 <td data-col='trimBalanco' class='trimData'>6.340,00</td>
@@ -938,14 +943,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>11.879,00</td>
-<td data-col='trimBalanco' class='trimData'>11.879,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10)Passivo Total <span class='tooltiptext'><b>Passivo Total: </b>Total de obrigações e dívidas da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>29.098,00</td>
 <td>28.109,00</td>
 <td data-col='trimBalanco' class='trimData'>28.109,00</td>
 <td data-col='trimBalanco' class='trimData'>27.553,00</td>
@@ -971,14 +976,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>30.637,00</td>
-<td data-col='trimBalanco' class='trimData'>30.637,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr class='trContaPassivo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11)Patrimônio Líquido <span class='tooltiptext'><b>Patrimônio Líquido: </b>Parte do patrimônio da empresa que pertence aos seus acionistas.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>12.700,00</td>
 <td>12.207,00</td>
 <td data-col='trimBalanco' class='trimData'>12.207,00</td>
 <td data-col='trimBalanco' class='trimData'>9.615,00</td>
@@ -1004,14 +1009,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>9.925,00</td>
-<td data-col='trimBalanco' class='trimData'>9.925,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12)Caixa (2 + 3) <span class='tooltiptext'><b>Caixa: </b>Valores de curto prazo disponíveis à empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='positiveNumber trimData' data-col='trimBalanco'>3.746,00</td>
 <td class='positiveNumber'>3.196,00</td>
 <td class='positiveNumber trimData' data-col='trimBalanco'>3.196,00</td>
 <td class='positiveNumber trimData' data-col='trimBalanco'>4.303,00</td>
@@ -1037,14 +1042,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='positiveNumber'>607,00</td>
-<td class='positiveNumber trimData' data-col='trimBalanco'>607,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13)Dívida Bruta (7 + 9) <span class='tooltiptext'><b>Dívida Bruta: </b>Endividamento total da empresa.</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='negativeNumber trimData' data-col='trimBalanco'>9.674,00</td>
 <td class='negativeNumber'>8.325,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>8.325,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>9.064,00</td>
@@ -1070,14 +1075,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='negativeNumber'>12.493,00</td>
-<td class='negativeNumber trimData' data-col='trimBalanco'>12.493,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14)Dívida Líquida (13 - 12) <span class='tooltiptext'><b>Dívida Líquida: </b>Endividamento da empresa desconsiderando valores em caixa. (Dívida Líquida = Dívida Bruta - Caixa)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td class='negativeNumber trimData' data-col='trimBalanco'>5.928,00</td>
 <td class='negativeNumber'>5.129,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>5.129,00</td>
 <td class='negativeNumber trimData' data-col='trimBalanco'>4.761,00</td>
@@ -1103,14 +1108,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td class='negativeNumber'>11.886,00</td>
-<td class='negativeNumber trimData' data-col='trimBalanco'>11.886,00</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15)Liquidez Corrente (1 / 6) <span class='tooltiptext'><b>Liquidez Corrente: </b>Relaciona os ativos e passivos de curto prazo. É um indicador da capacidade da empresa de administrar suas dívidas de curto prazo. (Liquidez Corrente = Ativo Circulante / Passivo Circulante)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>3.19</td>
 <td>1.94</td>
 <td data-col='trimBalanco' class='trimData'>1.94</td>
 <td data-col='trimBalanco' class='trimData'>2.23</td>
@@ -1136,14 +1141,14 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>2.31</td>
-<td data-col='trimBalanco' class='trimData'>2.31</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16)Liquidez Imediata (12 / 6) <span class='tooltiptext'><b>Liquidez Imediata: </b>Relaciona os ativos de alta liquidez e as dívidas de curto prazo. É um indicador da capacidade da empresa de pagar suas dívidas de curto prazo. (Liquidez Imediata = Disponibilidades / Passivo Circulante)</span></td>
+<td>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>ND</td>
+<td data-col='trimBalanco' class='trimData'>0.80</td>
 <td>0.46</td>
 <td data-col='trimBalanco' class='trimData'>0.46</td>
 <td data-col='trimBalanco' class='trimData'>0.70</td>
@@ -1169,11 +1174,6 @@ BRDT3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
-<td>0.11</td>
-<td data-col='trimBalanco' class='trimData'>0.11</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
-<td data-col='trimBalanco' class='trimData'>ND</td>
 </tr>
 </tbody>
 </table>
@@ -1196,6 +1196,11 @@ BRDT3 ;
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
 <th class='last12Header'>12M</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimDRE'>4T21</th>
+<th class='trimHeader' data-col='trimDRE'>3T21</th>
+<th class='trimHeader' data-col='trimDRE'>2T21</th>
+<th class='trimHeader' data-col='trimDRE'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimDRE'>4T20</th>
 <th class='trimHeader' data-col='trimDRE'>3T20</th>
@@ -1221,17 +1226,17 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimDRE'>3T16</th>
 <th class='trimHeader' data-col='trimDRE'>2T16</th>
 <th class='trimHeader' data-col='trimDRE'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimDRE'>4T15</th>
-<th class='trimHeader' data-col='trimDRE'>3T15</th>
-<th class='trimHeader' data-col='trimDRE'>2T15</th>
-<th class='trimHeader' data-col='trimDRE'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Receita Líquida <span class='tooltiptexttop'><b>Receita Líquida:</b> Receita auferida pela empresa descontando-se produtos devolvidos e impostos que incidem sobre a receita. Pode-se entender como o valor que a empresa efetivamente recebeu pela venda dos seus produtos ou serviços.</span></td>
-<td class='positiveNumberGreen'>81.501,00</td>
+<td class='positiveNumberGreen'>86.446,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>26.133,00</td>
 <td class='positiveNumberGreen'>81.501,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>24.294,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>21.137,00</td>
@@ -1253,11 +1258,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>19.475,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>20.049,00</td>
 <td class='positiveNumberGreen'>86.637,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.179,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.984,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.231,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>22.243,00</td>
-<td class='positiveNumberGreen'>97.280,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1265,7 +1265,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Resultado Bruto <span class='tooltiptexttop'><b>Resultado Bruto:</b> É o valor obtido quando se desconta os custo dos bens e serviços da Receita Líquida.</span></td>
-<td class='positiveNumberGreen'>4.457,00</td>
+<td class='positiveNumberGreen'>5.384,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.873,00</td>
 <td class='positiveNumberGreen'>4.457,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.529,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.386,00</td>
@@ -1287,11 +1292,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.276,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.481,00</td>
 <td class='positiveNumberGreen'>6.465,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.808,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.545,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.461,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.651,00</td>
-<td class='positiveNumberGreen'>7.313,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1299,7 +1299,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)EBITDA <span class='tooltiptexttop'><b>Earns Before Interest, Taxes, Depreciation and Amortization ou Lucros antes dos Juros, Impostos, Depreciação e Amortização (LAJIDA):</b> É um indicador de quanto a empresa gera a partir de suas atividades operacionais. É utilizado, por exemplo, para comparar a performance de empresas de setores diferentes.</span></td>
-<td class='positiveNumberGreen'>5.103,00</td>
+<td class='positiveNumberGreen'>5.484,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td class=' trimData positiveNumberGreen' data-col='trimDRE'>1.016,00</td>
 <td class='positiveNumberGreen'>5.103,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>3.421,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>656,00</td>
@@ -1321,11 +1326,6 @@ BRDT3 ;
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>344,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>536,00</td>
 <td class='positiveNumberGreen'>439,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>83,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>292,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>168,00</td>
-<td class='trimData negativeNumber' data-col='trimDRE'>-104,00</td>
-<td class='negativeNumber'>-1.165,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1333,7 +1333,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Depreciação e Amortização <span class='tooltiptexttop'><b>Depreciação e Amortização:</b> Redução do valor de ativos da empresa que se desgastam com o uso ou o passar do tempo. Pode-se entender como um valor despendido pela empresa para a manutenção de seus bens.</span></td>
-<td>537,00</td>
+<td>541,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td class='trimData' data-col='trimDRE'>139,00</td>
 <td>537,00</td>
 <td class='trimData' data-col='trimDRE'>134,00</td>
 <td class='trimData' data-col='trimDRE'>132,00</td>
@@ -1355,11 +1360,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>115,00</td>
 <td class='trimData' data-col='trimDRE'>112,00</td>
 <td>454,00</td>
-<td class='trimData' data-col='trimDRE'>121,00</td>
-<td class='trimData' data-col='trimDRE'>107,00</td>
-<td class='trimData' data-col='trimDRE'>113,00</td>
-<td class='trimData' data-col='trimDRE'>113,00</td>
-<td>471,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1367,7 +1367,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)EBIT <span class='tooltiptexttop'><b>Earns Before Interest and Taxes ou Lucro antes dos Juros e Impostos (LAJIR):</b> Valor que a empresa obteve considerando somente suas atividades operacionais.</span></td>
-<td class='positiveNumberGreen'>4.566,00</td>
+<td class='positiveNumberGreen'>4.943,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>877,00</td>
 <td class='positiveNumberGreen'>4.566,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.287,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>524,00</td>
@@ -1389,11 +1394,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>229,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>424,00</td>
 <td class='negativeNumber'>-15,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-38,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>185,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>55,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-217,00</td>
-<td class='negativeNumber'>-1.636,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1401,7 +1401,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)Resultado Financeiro <span class='tooltiptext'><b>Resultado Financeiro:</b> Resultado da empresa considerando dívidas e investimentos financeiros.</span></td>
-<td class='positiveNumberGreen'>264,00</td>
+<td class='positiveNumberGreen'>242,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='negativeNumber trimData'>-118,00</td>
 <td class='positiveNumberGreen'>264,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>261,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>22,00</td>
@@ -1423,11 +1428,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='negativeNumber trimData'>-88,00</td>
 <td data-col='trimDRE' class='negativeNumber trimData'>-148,00</td>
 <td class='negativeNumber'>-622,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-81,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-185,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-176,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-180,00</td>
-<td class='negativeNumber'>-299,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1435,14 +1435,19 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)LAIR <span class='tooltiptext'><b>Lucro antes do Imposto de Renda:</b> Resultado da empresa onde incide o Imposto de Renda.</span></td>
-<td class='positiveNumberGreen'>4.830,00</td>
+<td class='positiveNumberGreen'>5.185,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>759,00</td>
 <td class='positiveNumberGreen'>4.830,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.548,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>546,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>332,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>404,00</td>
 <td class='positiveNumberGreen'>3.303,00</td>
-<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>0,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>2.054,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>488,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>761,00</td>
@@ -1457,11 +1462,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>141,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>276,00</td>
 <td class='negativeNumber'>-637,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-119,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>0,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-121,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-397,00</td>
-<td class='negativeNumber'>-1.935,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1469,7 +1469,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8)Lucro <span class='tooltiptext'><b>Lucro:</b> Resultado final das atividades da empresa.</span></td>
-<td class='positiveNumberGreen'>3.905,00</td>
+<td class='positiveNumberGreen'>4.163,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>492,00</td>
 <td class='positiveNumberGreen'>3.905,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.148,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>335,00</td>
@@ -1491,11 +1496,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>70,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>156,00</td>
 <td class='negativeNumber'>-315,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>52,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-14,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-91,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-262,00</td>
-<td class='negativeNumber'>-1.161,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1503,7 +1503,12 @@ BRDT3 ;
 </tr>
 <tr class='trDREMargem'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9)Margem Bruta (%) (2 / 1) <span class='tooltiptext'><b>Margem Bruta:</b> Indica quanto da receita da empresa sobra após serem descontados os custos diretos de produção. É uma medida da eficiência da empresa em relação aos seus custos. (Margem Bruta = Resultado Bruto / Receita Líquida)</span></td>
-<td>5.47</td>
+<td>6.23</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>7.17</td>
 <td>5.47</td>
 <td class='trimData' data-col='trimDRE'>6.29</td>
 <td class='trimData' data-col='trimDRE'>6.56</td>
@@ -1525,11 +1530,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>6.55</td>
 <td class='trimData' data-col='trimDRE'>7.39</td>
 <td>7.46</td>
-<td class='trimData' data-col='trimDRE'>8.54</td>
-<td class='trimData' data-col='trimDRE'>7.03</td>
-<td class='trimData' data-col='trimDRE'>6.88</td>
-<td class='trimData' data-col='trimDRE'>7.42</td>
-<td>7.52</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -1537,7 +1537,12 @@ BRDT3 ;
 </tr>
 <tr class='trDREMargem'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10)Margem Líquida (%) (6 / 1) <span class='tooltiptext'><b>Margem Líquida:</b> Indica quanto da receita da empresa se torna lucro após serem descontados todos os custos da mesma. (Margem Líquida = Lucro / Receita Líquida)</span></td>
-<td>4.79</td>
+<td>4.82</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>1.88</td>
 <td>4.79</td>
 <td class='trimData' data-col='trimDRE'>12.96</td>
 <td class='trimData' data-col='trimDRE'>1.58</td>
@@ -1559,11 +1564,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.36</td>
 <td class='trimData' data-col='trimDRE'>0.78</td>
 <td>NA</td>
-<td class='trimData' data-col='trimDRE'>0.25</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -1571,7 +1571,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11)ROE (%) <span class='tooltiptext'><b>Return on Equity ou Retorno sobre o Patrimônio:</b> Indica quanto de lucro a empresa gera para o investimento realizado pelos acionistas (patrimônio líquido) na empresa. (ROE = Lucro / Patrimônio Líquido)</span></td>
-<td>31.99</td>
+<td>34.10</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.87</td>
 <td>31.99</td>
 <td class='trimData' data-col='trimDRE'>25.79</td>
 <td class='trimData' data-col='trimDRE'>3.48</td>
@@ -1593,11 +1598,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.92</td>
 <td class='trimData' data-col='trimDRE'>2.06</td>
 <td>NA</td>
-<td class='trimData' data-col='trimDRE'>0.70</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -1605,7 +1605,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12)ROA (%) <span class='tooltiptext'><b>Return on Assets ou Retorno sobre o Ativo:</b> Indica quanto de lucro a empresa gera  em relação ao seu ativo. (ROA = Lucro / Ativo Total)</span></td>
-<td>16.12</td>
+<td>17.45</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.00</td>
 <td>16.12</td>
 <td class='trimData' data-col='trimDRE'>11.60</td>
 <td class='trimData' data-col='trimDRE'>1.89</td>
@@ -1627,11 +1632,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.76</td>
 <td class='trimData' data-col='trimDRE'>1.36</td>
 <td>NA</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -1639,7 +1639,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13)ROIC (%) <span class='tooltiptext'><b>Return on Invested Capital ou Retorno sobre o Capital Investido:</b> Indica a habilidade da empresa em gerar resultados a partir do capital que tem em mãos. (ROIC = EBIT * 0.66 / (Dívida Líquida + Patrimônio Líquido))</span></td>
-<td>17.32</td>
+<td>18.75</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.10</td>
 <td>17.32</td>
 <td class='trimData' data-col='trimDRE'>12.47</td>
 <td class='trimData' data-col='trimDRE'>2.40</td>
@@ -1661,11 +1666,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.78</td>
 <td class='trimData' data-col='trimDRE'>1.40</td>
 <td>-0.05</td>
-<td class='trimData' data-col='trimDRE'>-0.13</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>-4.88</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -1682,6 +1682,11 @@ BRDT3 ;
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
 <th class='last12Header'>12M</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimDRE'>4T21</th>
+<th class='trimHeader' data-col='trimDRE'>3T21</th>
+<th class='trimHeader' data-col='trimDRE'>2T21</th>
+<th class='trimHeader' data-col='trimDRE'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimDRE'>4T20</th>
 <th class='trimHeader' data-col='trimDRE'>3T20</th>
@@ -1707,17 +1712,17 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimDRE'>3T16</th>
 <th class='trimHeader' data-col='trimDRE'>2T16</th>
 <th class='trimHeader' data-col='trimDRE'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimDRE'>4T15</th>
-<th class='trimHeader' data-col='trimDRE'>3T15</th>
-<th class='trimHeader' data-col='trimDRE'>2T15</th>
-<th class='trimHeader' data-col='trimDRE'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Receita Líquida <span class='tooltiptexttop'><b>Receita Líquida:</b> Receita auferida pela empresa descontando-se produtos devolvidos e impostos que incidem sobre a receita. Pode-se entender como o valor que a empresa efetivamente recebeu pela venda dos seus produtos ou serviços.</span></td>
-<td class='positiveNumberGreen'>80.931,00</td>
+<td class='positiveNumberGreen'>86.084,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>26.128,00</td>
 <td class='positiveNumberGreen'>80.931,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>24.287,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>21.027,00</td>
@@ -1739,11 +1744,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>19.362,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>19.971,00</td>
 <td class='positiveNumberGreen'>86.205,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.088,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.853,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>21.113,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>22.151,00</td>
-<td class='positiveNumberGreen'>96.949,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1751,7 +1751,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Resultado Bruto <span class='tooltiptexttop'><b>Resultado Bruto:</b> É o valor obtido quando se desconta os custo dos bens e serviços da Receita Líquida.</span></td>
-<td class='positiveNumberGreen'>4.384,00</td>
+<td class='positiveNumberGreen'>5.334,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.870,00</td>
 <td class='positiveNumberGreen'>4.384,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.525,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.369,00</td>
@@ -1773,11 +1778,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.262,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>1.473,00</td>
 <td class='positiveNumberGreen'>6.424,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.797,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.536,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.452,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>1.639,00</td>
-<td class='positiveNumberGreen'>7.262,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1785,7 +1785,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)EBITDA <span class='tooltiptexttop'><b>Earns Before Interest, Taxes, Depreciation and Amortization ou Lucros antes dos Juros, Impostos, Depreciação e Amortização (LAJIDA):</b> É um indicador de quanto a empresa gera a partir de suas atividades operacionais. É utilizado, por exemplo, para comparar a performance de empresas de setores diferentes.</span></td>
-<td class='positiveNumberGreen'>5.137,00</td>
+<td class='positiveNumberGreen'>5.516,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td class=' trimData positiveNumberGreen' data-col='trimDRE'>1.022,00</td>
 <td class='positiveNumberGreen'>5.137,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>3.431,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>662,00</td>
@@ -1807,11 +1812,6 @@ BRDT3 ;
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>344,00</td>
 <td class=' trimData positiveNumberGreen' data-col='trimDRE'>530,00</td>
 <td class='positiveNumberGreen'>465,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>31,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>306,00</td>
-<td class=' trimData positiveNumberGreen' data-col='trimDRE'>180,00</td>
-<td class='trimData negativeNumber' data-col='trimDRE'>-52,00</td>
-<td class='negativeNumber'>-1.182,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1819,7 +1819,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Depreciação e Amortização <span class='tooltiptexttop'><b>Depreciação e Amortização:</b> Redução do valor de ativos da empresa que se desgastam com o uso ou o passar do tempo. Pode-se entender como um valor despendido pela empresa para a manutenção de seus bens.</span></td>
-<td>541,00</td>
+<td>546,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td class='trimData' data-col='trimDRE'>140,00</td>
 <td>541,00</td>
 <td class='trimData' data-col='trimDRE'>135,00</td>
 <td class='trimData' data-col='trimDRE'>133,00</td>
@@ -1841,11 +1846,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>114,00</td>
 <td class='trimData' data-col='trimDRE'>111,00</td>
 <td>449,00</td>
-<td class='trimData' data-col='trimDRE'>119,00</td>
-<td class='trimData' data-col='trimDRE'>107,00</td>
-<td class='trimData' data-col='trimDRE'>111,00</td>
-<td class='trimData' data-col='trimDRE'>112,00</td>
-<td>466,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1853,7 +1853,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)EBIT <span class='tooltiptexttop'><b>Earns Before Interest and Taxes ou Lucro antes dos Juros e Impostos (LAJIR):</b> Valor que a empresa obteve considerando somente suas atividades operacionais.</span></td>
-<td class='positiveNumberGreen'>4.596,00</td>
+<td class='positiveNumberGreen'>4.970,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>882,00</td>
 <td class='positiveNumberGreen'>4.596,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.296,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>529,00</td>
@@ -1875,11 +1880,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>230,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>419,00</td>
 <td class='positiveNumberGreen'>16,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-88,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>199,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>69,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-164,00</td>
-<td class='negativeNumber'>-1.648,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1887,7 +1887,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)Resultado Financeiro <span class='tooltiptext'><b>Resultado Financeiro:</b> Resultado da empresa considerando dívidas e investimentos financeiros.</span></td>
-<td class='positiveNumberGreen'>230,00</td>
+<td class='positiveNumberGreen'>212,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='negativeNumber trimData'>-123,00</td>
 <td class='positiveNumberGreen'>230,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>252,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>15,00</td>
@@ -1909,11 +1914,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='negativeNumber trimData'>-87,00</td>
 <td data-col='trimDRE' class='negativeNumber trimData'>-144,00</td>
 <td class='negativeNumber'>-645,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-32,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-189,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-190,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-234,00</td>
-<td class='negativeNumber'>-291,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1921,7 +1921,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)LAIR <span class='tooltiptext'><b>Lucro antes do Imposto de Renda:</b> Resultado da empresa onde incide o Imposto de Renda.</span></td>
-<td class='positiveNumberGreen'>4.826,00</td>
+<td class='positiveNumberGreen'>5.182,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>759,00</td>
 <td class='positiveNumberGreen'>4.826,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.548,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>544,00</td>
@@ -1943,11 +1948,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>143,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>275,00</td>
 <td class='negativeNumber'>-629,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-120,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>10,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-121,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-398,00</td>
-<td class='negativeNumber'>-1.939,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1955,7 +1955,12 @@ BRDT3 ;
 </tr>
 <tr class='trDRE'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8)Lucro <span class='tooltiptext'><b>Lucro:</b> Resultado final das atividades da empresa.</span></td>
-<td class='positiveNumberGreen'>3.905,00</td>
+<td class='positiveNumberGreen'>4.163,00</td>
+<td>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData'>ND</td>
+<td data-col='trimDRE' class='trimData positiveNumberGreen'>492,00</td>
 <td class='positiveNumberGreen'>3.905,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>3.148,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>335,00</td>
@@ -1977,11 +1982,6 @@ BRDT3 ;
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>70,00</td>
 <td data-col='trimDRE' class='trimData positiveNumberGreen'>156,00</td>
 <td class='negativeNumber'>-315,00</td>
-<td data-col='trimDRE' class='trimData positiveNumberGreen'>52,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-14,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-91,00</td>
-<td data-col='trimDRE' class='negativeNumber trimData'>-262,00</td>
-<td class='negativeNumber'>-1.161,00</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
 <td data-col='trimDRE' class='trimData'>ND</td>
@@ -1989,7 +1989,12 @@ BRDT3 ;
 </tr>
 <tr class='trDREMargem'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9)Margem Bruta (%) (2 / 1) <span class='tooltiptext'><b>Margem Bruta:</b> Indica quanto da receita da empresa sobra após serem descontados os custos diretos de produção. É uma medida da eficiência da empresa em relação aos seus custos. (Margem Bruta = Resultado Bruto / Receita Líquida)</span></td>
-<td>5.42</td>
+<td>6.20</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>7.16</td>
 <td>5.42</td>
 <td class='trimData' data-col='trimDRE'>6.28</td>
 <td class='trimData' data-col='trimDRE'>6.51</td>
@@ -2011,11 +2016,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>6.52</td>
 <td class='trimData' data-col='trimDRE'>7.38</td>
 <td>7.45</td>
-<td class='trimData' data-col='trimDRE'>8.52</td>
-<td class='trimData' data-col='trimDRE'>7.03</td>
-<td class='trimData' data-col='trimDRE'>6.88</td>
-<td class='trimData' data-col='trimDRE'>7.40</td>
-<td>7.49</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -2023,7 +2023,12 @@ BRDT3 ;
 </tr>
 <tr class='trDREMargem'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10)Margem Líquida (%) (6 / 1) <span class='tooltiptext'><b>Margem Líquida:</b> Indica quanto da receita da empresa se torna lucro após serem descontados todos os custos da mesma. (Margem Líquida = Lucro / Receita Líquida)</span></td>
-<td>4.83</td>
+<td>4.84</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>1.88</td>
 <td>4.83</td>
 <td class='trimData' data-col='trimDRE'>12.96</td>
 <td class='trimData' data-col='trimDRE'>1.59</td>
@@ -2045,11 +2050,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.36</td>
 <td class='trimData' data-col='trimDRE'>0.78</td>
 <td>NA</td>
-<td class='trimData' data-col='trimDRE'>0.25</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -2057,7 +2057,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11)ROE (%) <span class='tooltiptext'><b>Return on Equity ou Retorno sobre o Patrimônio:</b> Indica quanto de lucro a empresa gera para o investimento realizado pelos acionistas (patrimônio líquido) na empresa. (ROE = Lucro / Patrimônio Líquido)</span></td>
-<td>31.99</td>
+<td>34.10</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.87</td>
 <td>31.99</td>
 <td class='trimData' data-col='trimDRE'>25.79</td>
 <td class='trimData' data-col='trimDRE'>3.48</td>
@@ -2079,11 +2084,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.92</td>
 <td class='trimData' data-col='trimDRE'>2.06</td>
 <td>NA</td>
-<td class='trimData' data-col='trimDRE'>0.70</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -2091,7 +2091,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12)ROA (%) <span class='tooltiptext'><b>Return on Assets ou Retorno sobre o Ativo:</b> Indica quanto de lucro a empresa gera  em relação ao seu ativo. (ROA = Lucro / Ativo Total)</span></td>
-<td>16.35</td>
+<td>17.68</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.03</td>
 <td>16.35</td>
 <td class='trimData' data-col='trimDRE'>11.73</td>
 <td class='trimData' data-col='trimDRE'>1.92</td>
@@ -2113,11 +2118,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.78</td>
 <td class='trimData' data-col='trimDRE'>1.36</td>
 <td>0.05</td>
-<td class='trimData' data-col='trimDRE'>NA</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>NA</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -2125,7 +2125,12 @@ BRDT3 ;
 </tr>
 <tr'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13)ROIC (%) <span class='tooltiptext'><b>Return on Invested Capital ou Retorno sobre o Capital Investido:</b> Indica a habilidade da empresa em gerar resultados a partir do capital que tem em mãos. (ROIC = EBIT * 0.66 / (Dívida Líquida + Patrimônio Líquido))</span></td>
-<td>17.50</td>
+<td>18.92</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>ND</td>
+<td class='trimData' data-col='trimDRE'>3.12</td>
 <td>17.50</td>
 <td class='trimData' data-col='trimDRE'>12.55</td>
 <td class='trimData' data-col='trimDRE'>2.43</td>
@@ -2147,11 +2152,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDRE'>0.79</td>
 <td class='trimData' data-col='trimDRE'>1.40</td>
 <td>0.05</td>
-<td class='trimData' data-col='trimDRE'>-0.30</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td class='trimData' data-col='trimDRE'>ND</td>
-<td>-4.99</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
 <td class='trimData' data-col='trimDRE'>ND</td>
@@ -2178,6 +2178,11 @@ BRDT3 ;
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
 <th class='last12Header'>12M</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimDFC'>4T21</th>
+<th class='trimHeader' data-col='trimDFC'>3T21</th>
+<th class='trimHeader' data-col='trimDFC'>2T21</th>
+<th class='trimHeader' data-col='trimDFC'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimDFC'>4T20</th>
 <th class='trimHeader' data-col='trimDFC'>3T20</th>
@@ -2203,17 +2208,17 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimDFC'>3T16</th>
 <th class='trimHeader' data-col='trimDFC'>2T16</th>
 <th class='trimHeader' data-col='trimDFC'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimDFC'>4T15</th>
-<th class='trimHeader' data-col='trimDFC'>3T15</th>
-<th class='trimHeader' data-col='trimDFC'>2T15</th>
-<th class='trimHeader' data-col='trimDFC'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Caixa Líquido Atividades Operacionais(FCO) <span class='tooltiptexttop'><b>FCO:</b> Resultado do fluxo de caixa das atividades operacionais.</span></td>
-<td>1.818,00</td>
+<td>1.413,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>351,00</td>
 <td>1.818,00</td>
 <td data-col='trimDFC' class='trimData'>-300,00</td>
 <td data-col='trimDFC' class='trimData'>534,00</td>
@@ -2234,12 +2239,7 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>-291,00</td>
 <td data-col='trimDFC' class='trimData'>-25,00</td>
 <td data-col='trimDFC' class='trimData'>738,00</td>
-<td>2.634,00</td>
-<td data-col='trimDFC' class='trimData'>660,00</td>
-<td data-col='trimDFC' class='trimData'>1.191,00</td>
-<td data-col='trimDFC' class='trimData'>1.163,00</td>
-<td data-col='trimDFC' class='trimData'>-380,00</td>
-<td>482,00</td>
+<td>2.632,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2247,7 +2247,12 @@ BRDT3 ;
 </tr>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Caixa Líquido Atividades Investimento (FCI) <span class='tooltiptexttop'><b>FCI:</b> Resultado do fluxo de caixa das atividades de investimento.</span></td>
-<td>-581,00</td>
+<td>-560,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>-83,00</td>
 <td>-581,00</td>
 <td data-col='trimDFC' class='trimData'>-193,00</td>
 <td data-col='trimDFC' class='trimData'>-172,00</td>
@@ -2269,11 +2274,6 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>1.057,00</td>
 <td data-col='trimDFC' class='trimData'>-470,00</td>
 <td>-72,00</td>
-<td data-col='trimDFC' class='trimData'>479,00</td>
-<td data-col='trimDFC' class='trimData'>-1.217,00</td>
-<td data-col='trimDFC' class='trimData'>-62,00</td>
-<td data-col='trimDFC' class='trimData'>728,00</td>
-<td>-2.905,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2281,7 +2281,12 @@ BRDT3 ;
 </tr>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)Caixa Líquido Atividades Financiamento (FCF) <span class='tooltiptexttop'><b>FCF:</b> Resultado do fluxo de caixa das atividades de financiamento.</span></td>
-<td>-241,00</td>
+<td>-2.957,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>267,00</td>
 <td>-241,00</td>
 <td data-col='trimDFC' class='trimData'>-625,00</td>
 <td data-col='trimDFC' class='trimData'>-1.193,00</td>
@@ -2302,12 +2307,7 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>-1.414,00</td>
 <td data-col='trimDFC' class='trimData'>-1.124,00</td>
 <td data-col='trimDFC' class='trimData'>-327,00</td>
-<td>-2.717,00</td>
-<td data-col='trimDFC' class='trimData'>-1.145,00</td>
-<td data-col='trimDFC' class='trimData'>-203,00</td>
-<td data-col='trimDFC' class='trimData'>-1.027,00</td>
-<td data-col='trimDFC' class='trimData'>-342,00</td>
-<td>2.491,00</td>
+<td>-2.715,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2315,7 +2315,12 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)FCT (1 + 2 + 3) <span class='tooltiptext'><b>Fluxo de Caixa Total:</b> Indica o dinheiro que restou para a empresa após a mesma fazer investimentos e pagar as dívidas. (FCT = Caixa Atividades Operacionais + Caixa Atividades de Investimento  + Caixa Atividades de Financiamento)</span></td>
-<td class='positiveNumber'>996,00</td>
+<td class='negativeNumber'>-2.104,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td class='trimData positiveNumber' data-col='trimDFC'>535,00</td>
 <td class='positiveNumber'>996,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-1.118,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-831,00</td>
@@ -2337,11 +2342,6 @@ BRDT3 ;
 <td class='trimData negativeNumber' data-col='trimDFC'>-92,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-59,00</td>
 <td class='negativeNumber'>-155,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>-6,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>-229,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>74,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>6,00</td>
-<td class='positiveNumber'>68,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2349,7 +2349,12 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)FCL (1 + 2) <span class='tooltiptext'><b>Fluxo de Caixa Livre:</b> Demonstra a habilidade da empresa em gerar caixa após ter feito os investimentos necessários para manutenção de suas atividades. (FCL = Caixa Atividades Operacionais + Caixa Atividades Investimento)</span></td>
-<td class='positiveNumber'>1.237,00</td>
+<td class='positiveNumber'>853,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td class='trimData positiveNumber' data-col='trimDFC'>268,00</td>
 <td class='positiveNumber'>1.237,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-493,00</td>
 <td class='trimData positiveNumber' data-col='trimDFC'>362,00</td>
@@ -2370,12 +2375,7 @@ BRDT3 ;
 <td class='trimData positiveNumber' data-col='trimDFC'>1.432,00</td>
 <td class='trimData positiveNumber' data-col='trimDFC'>1.032,00</td>
 <td class='trimData positiveNumber' data-col='trimDFC'>268,00</td>
-<td class='positiveNumber'>2.562,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>1.139,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>-26,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>1.101,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>348,00</td>
-<td class='negativeNumber'>-2.423,00</td>
+<td class='positiveNumber'>2.560,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2383,10 +2383,15 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)CAPEX <span class='tooltiptext'><b>Capital Expenditure ou Despesas de Capital:</b> Valores utilizados pela empresa para manter o funcionamento de suas atividades  ou expandir. (CAPEX = Investimentos no Imobilizado e no Intangível)</span></td>
-<td>-430,00</td>
+<td>-610,00</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>-110,00</td>
 <td>-606,00</td>
 <td class='trimData' data-col='trimDFC'>-207,00</td>
-<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>-176,00</td>
 <td class='trimData' data-col='trimDFC'>-117,00</td>
 <td class='trimData' data-col='trimDFC'>-106,00</td>
 <td>-595,00</td>
@@ -2405,11 +2410,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDFC'>-70,00</td>
 <td class='trimData' data-col='trimDFC'>-63,00</td>
 <td>-402,00</td>
-<td class='trimData' data-col='trimDFC'>-120,00</td>
-<td class='trimData' data-col='trimDFC'>-93,00</td>
-<td class='trimData' data-col='trimDFC'>-102,00</td>
-<td class='trimData' data-col='trimDFC'>-87,00</td>
-<td>-723,00</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
@@ -2417,10 +2417,15 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)FCO/CAPEX (1 / 6) <span class='tooltiptext'><b>FCO/CAPEX:</b> Compara o FCO com o CAPEX. Valores maiores que 1 indicam que a empresa gera caixa suficiente para cobrir as despesas com a manutenção de suas atividades e ter sobra de caixa. </span></td>
-<td>4.23</td>
+<td>2.32</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>3.19</td>
 <td>3.00</td>
 <td class='trimData' data-col='trimDFC'>-1.45</td>
-<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>3.03</td>
 <td class='trimData' data-col='trimDFC'>7.08</td>
 <td class='trimData' data-col='trimDFC'>7.13</td>
 <td>4.87</td>
@@ -2439,11 +2444,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDFC'>-0.36</td>
 <td class='trimData' data-col='trimDFC'>11.71</td>
 <td>6.55</td>
-<td class='trimData' data-col='trimDFC'>5.50</td>
-<td class='trimData' data-col='trimDFC'>12.81</td>
-<td class='trimData' data-col='trimDFC'>11.40</td>
-<td class='trimData' data-col='trimDFC'>-4.37</td>
-<td>0.67</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
@@ -2460,6 +2460,11 @@ BRDT3 ;
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
 <th class='last12Header'>12M</th>
+<th>2021</th>
+<th class='trimHeader' data-col='trimDFC'>4T21</th>
+<th class='trimHeader' data-col='trimDFC'>3T21</th>
+<th class='trimHeader' data-col='trimDFC'>2T21</th>
+<th class='trimHeader' data-col='trimDFC'>1T21</th>
 <th>2020</th>
 <th class='trimHeader' data-col='trimDFC'>4T20</th>
 <th class='trimHeader' data-col='trimDFC'>3T20</th>
@@ -2485,17 +2490,17 @@ BRDT3 ;
 <th class='trimHeader' data-col='trimDFC'>3T16</th>
 <th class='trimHeader' data-col='trimDFC'>2T16</th>
 <th class='trimHeader' data-col='trimDFC'>1T16</th>
-<th>2015</th>
-<th class='trimHeader' data-col='trimDFC'>4T15</th>
-<th class='trimHeader' data-col='trimDFC'>3T15</th>
-<th class='trimHeader' data-col='trimDFC'>2T15</th>
-<th class='trimHeader' data-col='trimDFC'>1T15</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)Caixa Líquido Atividades Operacionais(FCO) <span class='tooltiptexttop'><b>FCO:</b> Resultado do fluxo de caixa das atividades operacionais.</span></td>
-<td>1.759,00</td>
+<td>1.351,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>293,00</td>
 <td>1.759,00</td>
 <td data-col='trimDFC' class='trimData'>-307,00</td>
 <td data-col='trimDFC' class='trimData'>523,00</td>
@@ -2517,11 +2522,6 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>-9,00</td>
 <td data-col='trimDFC' class='trimData'>676,00</td>
 <td>2.610,00</td>
-<td data-col='trimDFC' class='trimData'>679,00</td>
-<td data-col='trimDFC' class='trimData'>1.192,00</td>
-<td data-col='trimDFC' class='trimData'>1.152,00</td>
-<td data-col='trimDFC' class='trimData'>-413,00</td>
-<td>323,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2529,7 +2529,12 @@ BRDT3 ;
 </tr>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)Caixa Líquido Atividades Investimento (FCI) <span class='tooltiptexttop'><b>FCI:</b> Resultado do fluxo de caixa das atividades de investimento.</span></td>
-<td>-478,00</td>
+<td>-453,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>-65,00</td>
 <td>-478,00</td>
 <td data-col='trimDFC' class='trimData'>-172,00</td>
 <td data-col='trimDFC' class='trimData'>-127,00</td>
@@ -2551,11 +2556,6 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>1.035,00</td>
 <td data-col='trimDFC' class='trimData'>-471,00</td>
 <td>-114,00</td>
-<td data-col='trimDFC' class='trimData'>471,00</td>
-<td data-col='trimDFC' class='trimData'>-1.213,00</td>
-<td data-col='trimDFC' class='trimData'>-59,00</td>
-<td data-col='trimDFC' class='trimData'>687,00</td>
-<td>-2.838,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2563,7 +2563,12 @@ BRDT3 ;
 </tr>
 <tr class='trDFC'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)Caixa Líquido Atividades Financiamento (FCF) <span class='tooltiptexttop'><b>FCF:</b> Resultado do fluxo de caixa das atividades de financiamento.</span></td>
-<td>-199,00</td>
+<td>-2.912,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>322,00</td>
 <td>-199,00</td>
 <td data-col='trimDFC' class='trimData'>-628,00</td>
 <td data-col='trimDFC' class='trimData'>-1.197,00</td>
@@ -2585,11 +2590,6 @@ BRDT3 ;
 <td data-col='trimDFC' class='trimData'>-1.120,00</td>
 <td data-col='trimDFC' class='trimData'>-271,00</td>
 <td>-2.661,00</td>
-<td data-col='trimDFC' class='trimData'>-1.150,00</td>
-<td data-col='trimDFC' class='trimData'>-215,00</td>
-<td data-col='trimDFC' class='trimData'>-1.022,00</td>
-<td data-col='trimDFC' class='trimData'>-274,00</td>
-<td>2.589,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2597,7 +2597,12 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)FCT (1 + 2 + 3) <span class='tooltiptext'><b>Fluxo de Caixa Total:</b> Indica o dinheiro que restou para a empresa após a mesma fazer investimentos e pagar as dívidas. (FCT = Caixa Atividades Operacionais + Caixa Atividades de Investimento  + Caixa Atividades de Financiamento)</span></td>
-<td class='positiveNumber'>1.082,00</td>
+<td class='negativeNumber'>-2.014,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td class='trimData positiveNumber' data-col='trimDFC'>550,00</td>
 <td class='positiveNumber'>1.082,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-1.107,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-801,00</td>
@@ -2619,11 +2624,6 @@ BRDT3 ;
 <td class='trimData negativeNumber' data-col='trimDFC'>-94,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-66,00</td>
 <td class='negativeNumber'>-165,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>0,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>-236,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>71,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>0,00</td>
-<td class='positiveNumber'>74,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2631,7 +2631,12 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)FCL (1 + 2) <span class='tooltiptext'><b>Fluxo de Caixa Livre:</b> Demonstra a habilidade da empresa em gerar caixa após ter feito os investimentos necessários para manutenção de suas atividades. (FCL = Caixa Atividades Operacionais + Caixa Atividades Investimento)</span></td>
-<td class='positiveNumber'>1.281,00</td>
+<td class='positiveNumber'>898,00</td>
+<td>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td data-col='trimDFC' class='trimData'>ND</td>
+<td class='trimData positiveNumber' data-col='trimDFC'>228,00</td>
 <td class='positiveNumber'>1.281,00</td>
 <td class='trimData negativeNumber' data-col='trimDFC'>-479,00</td>
 <td class='trimData positiveNumber' data-col='trimDFC'>396,00</td>
@@ -2653,11 +2658,6 @@ BRDT3 ;
 <td class='trimData positiveNumber' data-col='trimDFC'>1.026,00</td>
 <td class='trimData positiveNumber' data-col='trimDFC'>205,00</td>
 <td class='positiveNumber'>2.496,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>1.150,00</td>
-<td class='trimData negativeNumber' data-col='trimDFC'>-21,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>1.093,00</td>
-<td class='trimData positiveNumber' data-col='trimDFC'>274,00</td>
-<td class='negativeNumber'>-2.515,00</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
 <td data-col='trimDFC' class='trimData'>ND</td>
@@ -2665,10 +2665,15 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6)CAPEX <span class='tooltiptext'><b>Capital Expenditure ou Despesas de Capital:</b> Valores utilizados pela empresa para manter o funcionamento de suas atividades  ou expandir. (CAPEX = Investimentos no Imobilizado e no Intangível)</span></td>
-<td>-382,00</td>
+<td>-541,00</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>-92,00</td>
 <td>-541,00</td>
 <td class='trimData' data-col='trimDFC'>-189,00</td>
-<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>-159,00</td>
 <td class='trimData' data-col='trimDFC'>-101,00</td>
 <td class='trimData' data-col='trimDFC'>-92,00</td>
 <td>-557,00</td>
@@ -2687,11 +2692,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDFC'>-68,00</td>
 <td class='trimData' data-col='trimDFC'>-58,00</td>
 <td>-394,00</td>
-<td class='trimData' data-col='trimDFC'>-115,00</td>
-<td class='trimData' data-col='trimDFC'>-93,00</td>
-<td class='trimData' data-col='trimDFC'>-100,00</td>
-<td class='trimData' data-col='trimDFC'>-86,00</td>
-<td>-710,00</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
@@ -2699,10 +2699,15 @@ BRDT3 ;
 </tr>
 <tr>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7)FCO/CAPEX (1 / 6) <span class='tooltiptext'><b>FCO/CAPEX:</b> Compara o FCO com o CAPEX. Valores maiores que 1 indicam que a empresa gera caixa suficiente para cobrir as despesas com a manutenção de suas atividades e ter sobra de caixa. </span></td>
-<td>4.60</td>
+<td>2.50</td>
+<td>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>3.18</td>
 <td>3.25</td>
 <td class='trimData' data-col='trimDFC'>-1.62</td>
-<td class='trimData' data-col='trimDFC'>ND</td>
+<td class='trimData' data-col='trimDFC'>3.29</td>
 <td class='trimData' data-col='trimDFC'>8.34</td>
 <td class='trimData' data-col='trimDFC'>7.62</td>
 <td>5.05</td>
@@ -2721,11 +2726,6 @@ BRDT3 ;
 <td class='trimData' data-col='trimDFC'>-0.13</td>
 <td class='trimData' data-col='trimDFC'>11.66</td>
 <td>6.62</td>
-<td class='trimData' data-col='trimDFC'>5.90</td>
-<td class='trimData' data-col='trimDFC'>12.82</td>
-<td class='trimData' data-col='trimDFC'>11.52</td>
-<td class='trimData' data-col='trimDFC'>-4.80</td>
-<td>0.45</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
 <td class='trimData' data-col='trimDFC'>ND</td>
@@ -2743,37 +2743,37 @@ BRDT3 ;
 <thead>
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
+<th>2021</th>
 <th>2020</th>
 <th>2019</th>
 <th>2018</th>
 <th>2017</th>
 <th>2016</th>
-<th>2015</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)LPA ON <span class='tooltiptexttop'><b>Lucro por Ação Ordinária.</b></span></td>
+<td>ND</td>
 <td>3.35</td>
 <td>1.90</td>
 <td>2.74</td>
 <td>0.99</td>
 <td>-0.27</td>
-<td>-1.00</td>
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)LPA PN <span class='tooltiptexttop'><b>Lucro Por Ação Preferencial.</b></span></td>
+<td>ND</td>
 <td>3.35</td>
 <td>1.90</td>
 <td>2.74</td>
 <td>0.99</td>
 <td>-0.27</td>
-<td>-1.00</td>
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)DPA <span class='tooltiptexttop'><b>Dividendos por Ação:</b> Dividendos pagos aos acionistas dividido pelo total de ações integralizadas.</span></td>
-<td>0.93</td>
 <td>0,00</td>
+<td>0.93</td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -2781,8 +2781,8 @@ BRDT3 ;
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Payout (%) <span class='tooltiptexttop'><b>Payout:</b> Percentual do lucro anual distribuído como dividendos.</span></td>
-<td>27.66</td>
 <td>NA</td>
+<td>27.66</td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2790,12 +2790,12 @@ BRDT3 ;
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)VPA <span class='tooltiptext'><b>Valor Patrimonial por Ação:</b> Patrimônio Líquido dividido pelo total de ações integralizadas.</span></td>
+<td>ND</td>
 <td>10.48</td>
 <td>7.52</td>
 <td>8.31</td>
 <td>7.58</td>
 <td>6.36</td>
-<td>ND</td>
 </tr>
 </tbody>
 </table>
@@ -2806,37 +2806,37 @@ BRDT3 ;
 <thead>
 <tr>
 <th class='dataHeader fixedLeftColumn'>Dado</th>
+<th>2021</th>
 <th>2020</th>
 <th>2019</th>
 <th>2018</th>
 <th>2017</th>
 <th>2016</th>
-<th>2015</th>
 </tr>
 </thead>
 <tbody>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(1)LPA ON <span class='tooltiptexttop'><b>Lucro por Ação Ordinária.</b></span></td>
+<td>ND</td>
 <td>3.35</td>
 <td>1.90</td>
 <td>2.74</td>
 <td>0.99</td>
 <td>-0.27</td>
-<td>-1.00</td>
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(2)LPA PN <span class='tooltiptexttop'><b>Lucro Por Ação Preferencial.</b></span></td>
+<td>ND</td>
 <td>3.35</td>
 <td>1.90</td>
 <td>2.74</td>
 <td>0.99</td>
 <td>-0.27</td>
-<td>-1.00</td>
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(3)DPA <span class='tooltiptexttop'><b>Dividendos por Ação:</b> Dividendos pagos aos acionistas dividido pelo total de ações integralizadas.</span></td>
-<td>0.93</td>
 <td>0,00</td>
+<td>0.93</td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -2844,8 +2844,8 @@ BRDT3 ;
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(4)Payout (%) <span class='tooltiptexttop'><b>Payout:</b> Percentual do lucro anual distribuído como dividendos.</span></td>
-<td>27.66</td>
 <td>NA</td>
+<td>27.66</td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2853,12 +2853,12 @@ BRDT3 ;
 </tr>
 <tr class='trMultiplo'>
 <td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(5)VPA <span class='tooltiptext'><b>Valor Patrimonial por Ação:</b> Patrimônio Líquido dividido pelo total de ações integralizadas.</span></td>
+<td>ND</td>
 <td>10.48</td>
 <td>7.52</td>
 <td>8.31</td>
 <td>7.58</td>
 <td>6.36</td>
-<td>ND</td>
 </tr>
 </tbody>
 </table>

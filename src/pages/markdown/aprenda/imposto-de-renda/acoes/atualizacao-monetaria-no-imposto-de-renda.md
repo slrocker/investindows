@@ -93,7 +93,7 @@ Registre esse valor na aba “Rendimentos Sujeitos à Tributação Exclusiva/Def
 	<text id="XMLID_78_" transform="matrix(0.9651 0 0 1 13.0007 123.6454)" class="st4 st6">00.000.000/0001-00</text>
 	<text id="XMLID_77_" transform="matrix(0.9651 0 0 1 13.0007 144.673)" class="st4 st6">INVESTINDO S.A.</text>
 	<text id="XMLID_106_" transform="matrix(1 0 0 1 10.9736 156.6306)" class="st4 st6">Descrição</text>
-	<text id="XMLID_105_" transform="matrix(1 0 0 1 12.8204 165.8904)" class="st4 st6">Rendimento sobre JCP da INVESTINDO S.A.</text>
+	<text id="XMLID_105_" transform="matrix(1 0 0 1 12.8204 165.8904)" class="st4 st6">Atualização Monetária da INVESTINDO S.A.</text>
 </g>
 <g id="texto">
 </g>
@@ -103,4 +103,4 @@ Registre esse valor na aba “Rendimentos Sujeitos à Tributação Exclusiva/Def
 </div>
 
 
-<p class="legenda" style="text-align:center">Figura 1 - Declaração de correção de juros sobre capital recebidos.</p>
+<p class="legenda" style="text-align:center">Figura 1 - Declaração de atualização monetária recebida.</p>
