@@ -1,6 +1,6 @@
 ---
 title: "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR) "
-date: "2021-05-25"
+date: "2021-06-08"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"

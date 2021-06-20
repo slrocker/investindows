@@ -1,6 +1,6 @@
 ---
 title: "AZEVEDO & TRAVASSOS SA (AZEV) "
-date: "2021-05-25"
+date: "2021-06-08"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de AZEVEDO &
 ## Dados Cadastrais
 **CNPJ**: 61.351.532/0001-68
 
-**RI**: Renato De Almeida Pimentel Mendes
+**RI**: Bernardo Negredo Mendonça De Araujo
 
 **email RI**: diretoria@azevedotravassos.com.br
 

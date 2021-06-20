@@ -1,6 +1,6 @@
 ---
 title: "RUMO S.A. (RAIL) "
-date: "2021-05-25"
+date: "2021-06-08"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -113,8 +113,8 @@ RAIL3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>7.096,95</td>
-<td>10.941,59</td>
-<td data-col='trimBalanco' class='trimData'>10.941,59</td>
+<td>11.354,76</td>
+<td data-col='trimBalanco' class='trimData'>11.354,76</td>
 <td data-col='trimBalanco' class='trimData'>11.568,51</td>
 <td data-col='trimBalanco' class='trimData'>7.272,32</td>
 <td data-col='trimBalanco' class='trimData'>4.846,00</td>
@@ -302,8 +302,8 @@ RAIL3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>34.405,63</td>
-<td>34.966,79</td>
-<td data-col='trimBalanco' class='trimData'>34.966,79</td>
+<td>34.553,61</td>
+<td data-col='trimBalanco' class='trimData'>34.553,61</td>
 <td data-col='trimBalanco' class='trimData'>35.034,29</td>
 <td data-col='trimBalanco' class='trimData'>34.645,24</td>
 <td data-col='trimBalanco' class='trimData'>30.528,05</td>
@@ -995,8 +995,8 @@ RAIL3 ;
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>ND</td>
 <td data-col='trimBalanco' class='trimData'>1.92</td>
-<td>2.25</td>
-<td data-col='trimBalanco' class='trimData'>2.25</td>
+<td>2.34</td>
+<td data-col='trimBalanco' class='trimData'>2.34</td>
 <td data-col='trimBalanco' class='trimData'>2.64</td>
 <td data-col='trimBalanco' class='trimData'>1.52</td>
 <td data-col='trimBalanco' class='trimData'>1.47</td>

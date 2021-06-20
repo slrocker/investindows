@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA  MELHORAMENTOS DE SÃO PAULO (MSPA) "
-date: "2021-05-25"
+date: "2021-06-08"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"

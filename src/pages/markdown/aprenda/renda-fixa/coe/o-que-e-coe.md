@@ -45,7 +45,7 @@ Como vimos anteriormente, uma operação estruturada é uma operação que envol
 
 Um COE nada mais é do que um "empacotamento" dessas operações em um ativo financeiro que pode ser comercializado.
 
-O banco poderia oferecer essa operações diretamente aos investidores interessados, sem a necessidade de criar o certificado, no entanto, esbarraria em algumas dificuldades tais como:
+O banco poderia oferecer essas operações diretamente aos investidores interessados, sem a necessidade de criar o certificado, no entanto, esbarraria em algumas dificuldades tais como:
 
 - Custos;
 - Inadequação das operações ao perfil do cliente; e
@@ -62,10 +62,10 @@ Já o marketing para um COE é extremamente simplificado e, devido às poucas ex
 
 ### Tipos de COE
 
-Legalmente [*](#2)] existem duas modalidades de COE:
+Legalmente [*](#2) existem duas modalidades de COE:
 
-- *Valor Nominal Protegido*: investimento cujo valor total dos pagamentos mínimos previstos ao investidor seja igual ou superior ao investimento inicial.
-- *Valor Nominal em Risco*: investimento cujo valor total dos pagamentos mínimos previstos ao investidor seja igual ou superior a uma parcela previamente definida do investimento inicial.
+- **Valor Nominal Protegido**: investimento cujo valor total dos pagamentos mínimos previstos ao investidor seja igual ou superior ao investimento inicial.
+- **Valor Nominal em Risco**: investimento cujo valor total dos pagamentos mínimos previstos ao investidor seja igual ou superior a uma parcela previamente definida do investimento inicial.
 
 
 
@@ -73,7 +73,7 @@ Legalmente [*](#2)] existem duas modalidades de COE:
 
 Em anos recentes houve um forte crescimento do marketing desse produto, com as corretoras de valores atuando de forma pesada junto aos seus clientes para comercializar COE.
 
-Além das mudanças legais que possibilitaram a comercialização desse produto para pequenos investidores, esse crescimento certamente tem ligações com o fato de ser o COE um instrumento muito vantajoso para bancos emissores e intermediários, nem tanto para o investidor.
+Além das mudanças legais que possibilitaram a comercialização desse produto para pequenos investidores, esse crescimento certamente tem ligações com o fato de ser o COE um instrumento muito vantajoso para bancos emissores e intermediários e nem tanto para o investidor.
 
 A emissão desses ativos é muito facilitada, implicando em custos baixos e poucos materiais explicativos.
 
@@ -93,7 +93,7 @@ Dessa forma, ao investir em um COE, parte do seu dinheiro já entra no bolso da 
 
 ### Vantagens do COE para o Banco Emissor
 
-Há duas principais maneiras d eum banco obter lucros na emissão de um COE:
+Há duas principais maneiras de um banco obter lucros na emissão de um COE:
 
 - Na captação de recursos; e
 - Na operação estruturada.
@@ -106,17 +106,17 @@ De maneira simplificada, um banco ganha dinheiro pegando emprestado de um invest
 
 Assim, suponha um COE que execute a mesma operação estruturada citada no início desse artigo, onde R\$91.000,00 são aplicados em renda fixa e R\$9.000,00 aplicados em uma ação visando ganhar com a valorização da mesma.
 
-O banco emissor pode aplicar esses R\$91.000,00 em ativos de renda fixa de sua prórpia emissão. Em seguida, utiliza esse valor para realizar operações muito lucrativas, como empréstimos. Ao final, mesmo pagando, por exemplo, 10% ao ano de rendimento para o investidor, ele terá lucro nas operações que fez com o dinheiro enquanto ele esteve aplicado.
+O banco emissor pode aplicar esses R\$91.000,00 em ativos de renda fixa de sua própria emissão. Em seguida, utiliza esse valor para realizar operações muito lucrativas, como empréstimos. Ao final, mesmo pagando, por exemplo, 10% ao ano de rendimento para o investidor, ele terá lucro nas operações que fez com o dinheiro enquanto ele esteve aplicado.
 
 **Operação Estruturada**
 
-O banco pode também obter ganhos na própria operação.
+O banco pode também obter ganhos na própria operação estruturada.
 
-Em alguns COE, o rendimento máximo do investidor é limitado a um detemrinado ponto de corte. Qualquer rendimento acima desse ponto, acaba ficando com o banco.
+Em alguns COE, o rendimento máximo do investidor é limitado a um determinado ponto de corte. Qualquer rendimento acima desse ponto, acaba ficando com o banco.
 
-Por exemplo, suponha que na operação estruturada citada no início desse artigo, onde R\$91.000,00 são aplicados em renda fixa e R\$9.000,00 aplicados em uma ação visando ganhar com a valorização da mesma.
+Por exemplo, suponha a operação estruturada citada no início desse artigo, onde R\$91.000,00 são aplicados em renda fixa e R\$9.000,00 aplicados em uma ação visando ganhar com a valorização da mesma.
 
-Os rendimento do COE pode ser estabelecido da seguinte maneira:
+Os rendimento desse COE pode ser estabelecido da seguinte maneira:
 
 - **Cenário 1 - preço da ação termina abaixo do preço inicial:** Investidor recebe o valor inicial aplicado (R\$100.000,00);
 - **Cenário 2 - preço da ação até 10% acima preço inicial:** Investidor recebe o valor inicial aplicado corrigido pela valorização do preço da ação; e
@@ -138,16 +138,18 @@ O principal documento de interesse do investidor é o Documento de Informações
 
 Como o próprio nome diz, ele é bastante simplificado e dá apenas uma visão geral sobre o investimento sem entrar em detalhes da operação estruturada.
 
-Assim, é necessário ao investidor certa atenção e paciência para conseguir encontrar os pormenoras da operação e avaliar se o COE é vantajoso em relação à outras possibilidades de investimento.
+Assim, é necessário ao investidor certa atenção e paciência para conseguir encontrar os pormenores da operação e avaliar se o COE é vantajoso em relação à outras possibilidades de investimento.
 
 
 ## Riscos
 
 O termo "capital protegido" muitas vezes satisfaz os investidores mais afoitos que deixam de informar-se sobre os possíveis riscos de um COE.
 
+No entanto, como em qualquer investimento, sempre há riscos. Assim, é importante que o investidor os tenha em mente antes de colocar em jogo seu dinheiro.
+
 ### Custo de Oportunidade
 
-Ainda que ao final do período de investimento o investidor receba o mesmo valor inicial que investiu, acabara tendo um rendimento real negativo pois no tempo em que o dinheiro ficou parado, s eu valor foi corroído pela inflação.
+Ainda que ao final do período de investimento o investidor receba o mesmo valor inicial que investiu, o resultado da operação tende a ser um rendimento real negativo pois, no tempo em que o dinheiro ficou parado, seu valor foi corroído pela inflação.
 
 Assim, na verdade não houve capital protegido e sim uma perda.
 
@@ -158,6 +160,8 @@ Além disso, o investidor poderia ter deixado seu dinheiro aplicado em investime
 Nem sempre é possível retirar o dinheiro aplicado em um COE antes do período de investimento definido na compra do certificado.
 
 Nesse caso, o investidor acabará ficando com o dinheiro preso até a data de vencimento do seu COE.
+
+Ainda que seja possível o resgate, normalmente ele é feito através da venda do COE para outro investidor ou instituição financeira. Caso não haja compradores para o certificado, o investidor permanecerá com seu dinheiro preso no investimento
 
 ### Mercado
 
