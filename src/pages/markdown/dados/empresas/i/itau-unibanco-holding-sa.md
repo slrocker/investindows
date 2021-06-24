@@ -1,6 +1,6 @@
 ---
 title: "ITAÚ UNIBANCO HOLDING S.A. (ITUB) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ ITUB3 ; ITUB4 ;
 <td>125.43</td>
 <td>NA</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ITUB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ITUB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.18</td>
+<td>0.27</td>
+<td>0.28</td>
+<td>0.27</td>
+<td>0.22</td>
+<td>0.17</td>
+<td>0.23</td>
+<td>0.20</td>
+<td>0.21</td>
+<td>0.22</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ITUB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.22</td>
+<td>8.25</td>
+<td>6.41</td>
+<td>4.12</td>
+<td>3.89</td>
+<td>4.69</td>
+<td>3.54</td>
+<td>3.63</td>
+<td>3.62</td>
+<td>3.72</td>
+<td>3.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ITUB4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ITUB4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.21</td>
+<td>0.31</td>
+<td>0.32</td>
+<td>0.30</td>
+<td>0.24</td>
+<td>0.18</td>
+<td>0.25</td>
+<td>0.22</td>
+<td>0.23</td>
+<td>0.27</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ITUB4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.73</td>
+<td>7.12</td>
+<td>5.54</td>
+<td>3.61</td>
+<td>3.44</td>
+<td>4.37</td>
+<td>3.30</td>
+<td>3.41</td>
+<td>3.30</td>
+<td>2.95</td>
+<td>2.37</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ ITUB3 ; ITUB4 ;
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ITUB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ITUB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ITUB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.22</td>
+<td>8.25</td>
+<td>6.41</td>
+<td>4.12</td>
+<td>3.89</td>
+<td>4.69</td>
+<td>3.54</td>
+<td>3.63</td>
+<td>3.62</td>
+<td>3.72</td>
+<td>3.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ITUB4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ITUB4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ITUB4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.73</td>
+<td>7.12</td>
+<td>5.54</td>
+<td>3.61</td>
+<td>3.44</td>
+<td>4.38</td>
+<td>3.30</td>
+<td>3.41</td>
+<td>3.30</td>
+<td>2.95</td>
+<td>2.37</td>
 </tr>
 </tbody>
 </table>

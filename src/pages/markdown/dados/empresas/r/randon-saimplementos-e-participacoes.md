@@ -1,6 +1,6 @@
 ---
 title: "RANDON S.A.IMPLEMENTOS E PARTICIPAÇÕES (RAPT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ RAPT3 ; RAPT4 ;
 <td>7.64</td>
 <td>6.64</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RAPT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.85</td>
+<td>12.83</td>
+<td>9.98</td>
+<td>18.32</td>
+<td>NA</td>
+<td>NA</td>
+<td>4.36</td>
+<td>7.86</td>
+<td>24.12</td>
+<td>4.81</td>
+<td>6.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RAPT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.52</td>
+<td>1.77</td>
+<td>1.11</td>
+<td>1.01</td>
+<td>0.46</td>
+<td>0.36</td>
+<td>0.62</td>
+<td>1.47</td>
+<td>1.31</td>
+<td>0.98</td>
+<td>1.43</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RAPT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.80</td>
+<td>2.59</td>
+<td>2.96</td>
+<td>1.28</td>
+<td>333.69</td>
+<td>5.44</td>
+<td>4.02</td>
+<td>0.29</td>
+<td>1.62</td>
+<td>1.79</td>
+<td>0.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) RAPT4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.67</td>
+<td>15.42</td>
+<td>14.42</td>
+<td>24.96</td>
+<td>NA</td>
+<td>NA</td>
+<td>5.90</td>
+<td>9.13</td>
+<td>31.05</td>
+<td>5.46</td>
+<td>8.53</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) RAPT4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.09</td>
+<td>2.13</td>
+<td>1.60</td>
+<td>1.37</td>
+<td>0.63</td>
+<td>0.47</td>
+<td>0.83</td>
+<td>1.71</td>
+<td>1.69</td>
+<td>1.12</td>
+<td>1.85</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) RAPT4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.04</td>
+<td>2.16</td>
+<td>2.05</td>
+<td>0.94</td>
+<td>240.84</td>
+<td>4.22</td>
+<td>2.97</td>
+<td>0.25</td>
+<td>1.26</td>
+<td>1.58</td>
+<td>0.12</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ RAPT3 ; RAPT4 ;
 <td>5.62</td>
 <td>5.56</td>
 <td>4.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RAPT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.09</td>
+<td>15.57</td>
+<td>14.93</td>
+<td>41.08</td>
+<td>NA</td>
+<td>NA</td>
+<td>5.31</td>
+<td>10.26</td>
+<td>57.28</td>
+<td>6.79</td>
+<td>9.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RAPT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.98</td>
+<td>2.28</td>
+<td>1.48</td>
+<td>1.34</td>
+<td>0.61</td>
+<td>0.45</td>
+<td>0.75</td>
+<td>1.80</td>
+<td>1.78</td>
+<td>1.35</td>
+<td>1.98</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RAPT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.93</td>
+<td>0.78</td>
+<td>1.54</td>
+<td>0.78</td>
+<td>0.12</td>
+<td>2.10</td>
+<td>3.06</td>
+<td>0.89</td>
+<td>1.56</td>
+<td>1.42</td>
+<td>0.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) RAPT4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.37</td>
+<td>18.71</td>
+<td>21.56</td>
+<td>55.96</td>
+<td>NA</td>
+<td>NA</td>
+<td>7.20</td>
+<td>11.92</td>
+<td>73.72</td>
+<td>7.72</td>
+<td>12.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) RAPT4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.72</td>
+<td>2.74</td>
+<td>2.14</td>
+<td>1.83</td>
+<td>0.84</td>
+<td>0.58</td>
+<td>1.02</td>
+<td>2.09</td>
+<td>2.29</td>
+<td>1.53</td>
+<td>2.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) RAPT4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.41</td>
+<td>0.65</td>
+<td>1.07</td>
+<td>0.57</td>
+<td>0.08</td>
+<td>1.63</td>
+<td>2.26</td>
+<td>0.77</td>
+<td>1.21</td>
+<td>1.25</td>
+<td>0.40</td>
 </tr>
 </tbody>
 </table>

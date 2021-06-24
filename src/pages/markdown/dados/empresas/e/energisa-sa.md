@@ -1,6 +1,6 @@
 ---
 title: "ENERGISA SA (ENGI) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,141 @@ ENGI11 (1 ação ON + 4 ações PN) ; ENGI3 ; ENGI4 ;
 <td>1.19</td>
 <td>1.08</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ENGI11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>59.11</td>
+<td>184.26</td>
+<td>58.45</td>
+<td>81.36</td>
+<td>164.16</td>
+<td>53.25</td>
+<td>ND</td>
+<td>76.80</td>
+<td>48.63</td>
+<td>60.48</td>
+<td>56.50</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ENGI11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>12.64</td>
+<td>15.03</td>
+<td>11.40</td>
+<td>9.74</td>
+<td>6.73</td>
+<td>5.64</td>
+<td>ND</td>
+<td>8.53</td>
+<td>9.43</td>
+<td>9.83</td>
+<td>9.26</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ENGI11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.32</td>
+<td>0.46</td>
+<td>0.42</td>
+<td>0.44</td>
+<td>0.38</td>
+<td>1.45</td>
+<td>ND</td>
+<td>1.16</td>
+<td>0.73</td>
+<td>0.74</td>
+<td>0.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ENGI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>19.20</td>
+<td>46.88</td>
+<td>13.23</td>
+<td>29.61</td>
+<td>34.46</td>
+<td>10.27</td>
+<td>10.22</td>
+<td>ND</td>
+<td>9.45</td>
+<td>11.67</td>
+<td>10.79</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ENGI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.11</td>
+<td>3.82</td>
+<td>2.58</td>
+<td>3.54</td>
+<td>1.41</td>
+<td>1.09</td>
+<td>1.04</td>
+<td>ND</td>
+<td>1.83</td>
+<td>1.90</td>
+<td>1.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ENGI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.98</td>
+<td>1.82</td>
+<td>1.85</td>
+<td>1.20</td>
+<td>1.83</td>
+<td>7.53</td>
+<td>6.93</td>
+<td>ND</td>
+<td>3.75</td>
+<td>3.86</td>
+<td>4.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) ENGI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.60</td>
+<td>34.94</td>
+<td>11.32</td>
+<td>13.41</td>
+<td>32.60</td>
+<td>10.99</td>
+<td>9.16</td>
+<td>13.82</td>
+<td>9.45</td>
+<td>12.34</td>
+<td>10.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) ENGI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.05</td>
+<td>2.85</td>
+<td>2.21</td>
+<td>1.61</td>
+<td>1.34</td>
+<td>1.16</td>
+<td>0.93</td>
+<td>1.53</td>
+<td>1.83</td>
+<td>2.01</td>
+<td>1.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) ENGI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.96</td>
+<td>2.45</td>
+<td>2.16</td>
+<td>2.65</td>
+<td>1.94</td>
+<td>7.04</td>
+<td>7.74</td>
+<td>6.45</td>
+<td>3.75</td>
+<td>3.65</td>
+<td>4.83</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5406,141 @@ ENGI11 (1 ação ON + 4 ações PN) ; ENGI3 ; ENGI4 ;
 <td>1.35</td>
 <td>1.19</td>
 <td>1.08</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ENGI11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>64.68</td>
+<td>213.31</td>
+<td>60.04</td>
+<td>83.39</td>
+<td>207.74</td>
+<td>57.59</td>
+<td>ND</td>
+<td>77.33</td>
+<td>48.74</td>
+<td>60.48</td>
+<td>56.50</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ENGI11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>14.29</td>
+<td>17.05</td>
+<td>12.80</td>
+<td>12.12</td>
+<td>8.73</td>
+<td>8.46</td>
+<td>ND</td>
+<td>8.61</td>
+<td>9.55</td>
+<td>9.83</td>
+<td>9.26</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ENGI11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.23</td>
+<td>0.40</td>
+<td>0.39</td>
+<td>0.42</td>
+<td>0.36</td>
+<td>1.23</td>
+<td>ND</td>
+<td>1.15</td>
+<td>0.73</td>
+<td>0.74</td>
+<td>0.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ENGI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.01</td>
+<td>54.27</td>
+<td>13.59</td>
+<td>30.35</td>
+<td>43.60</td>
+<td>11.11</td>
+<td>11.10</td>
+<td>ND</td>
+<td>9.47</td>
+<td>11.67</td>
+<td>10.79</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ENGI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.64</td>
+<td>4.34</td>
+<td>2.90</td>
+<td>4.41</td>
+<td>1.83</td>
+<td>1.63</td>
+<td>1.65</td>
+<td>ND</td>
+<td>1.85</td>
+<td>1.90</td>
+<td>1.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ENGI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.70</td>
+<td>1.58</td>
+<td>1.73</td>
+<td>1.15</td>
+<td>1.70</td>
+<td>6.39</td>
+<td>5.42</td>
+<td>ND</td>
+<td>3.75</td>
+<td>3.86</td>
+<td>4.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) ENGI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.50</td>
+<td>40.45</td>
+<td>11.63</td>
+<td>13.75</td>
+<td>41.26</td>
+<td>11.89</td>
+<td>9.95</td>
+<td>13.92</td>
+<td>9.47</td>
+<td>12.34</td>
+<td>10.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) ENGI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.32</td>
+<td>3.23</td>
+<td>2.48</td>
+<td>2.00</td>
+<td>1.73</td>
+<td>1.75</td>
+<td>1.48</td>
+<td>1.55</td>
+<td>1.85</td>
+<td>2.01</td>
+<td>1.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) ENGI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.41</td>
+<td>2.13</td>
+<td>2.02</td>
+<td>2.55</td>
+<td>1.80</td>
+<td>5.97</td>
+<td>6.05</td>
+<td>6.40</td>
+<td>3.75</td>
+<td>3.65</td>
+<td>4.83</td>
 </tr>
 </tbody>
 </table>

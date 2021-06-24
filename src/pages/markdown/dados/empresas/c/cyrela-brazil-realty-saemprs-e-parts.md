@@ -1,6 +1,6 @@
 ---
 title: "CYRELA BRAZIL REALTY S.A.EMPRS E PARTS (CYRE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CYRE3 ;
 <td>11.64</td>
 <td>11.07</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CYRE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.44</td>
+<td>22.21</td>
+<td>1.05</td>
+<td>NA</td>
+<td>16.78</td>
+<td>5.05</td>
+<td>5.32</td>
+<td>6.71</td>
+<td>9.64</td>
+<td>10.60</td>
+<td>13.49</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CYRE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.03</td>
+<td>2.29</td>
+<td>1.15</td>
+<td>0.84</td>
+<td>0.61</td>
+<td>0.45</td>
+<td>0.69</td>
+<td>0.97</td>
+<td>1.39</td>
+<td>1.28</td>
+<td>1.97</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CYRE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.83</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CYRE3 ;
 <td>12.15</td>
 <td>10.74</td>
 <td>10.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CYRE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.69</td>
+<td>28.54</td>
+<td>NA</td>
+<td>NA</td>
+<td>27.12</td>
+<td>6.70</td>
+<td>6.68</td>
+<td>8.35</td>
+<td>11.37</td>
+<td>12.60</td>
+<td>15.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CYRE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.14</td>
+<td>2.49</td>
+<td>1.23</td>
+<td>0.90</td>
+<td>0.68</td>
+<td>0.51</td>
+<td>0.78</td>
+<td>1.10</td>
+<td>1.48</td>
+<td>1.38</td>
+<td>2.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CYRE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.83</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

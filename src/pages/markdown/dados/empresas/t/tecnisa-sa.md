@@ -1,6 +1,6 @@
 ---
 title: "TECNISA S/A (TCSA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ TCSA3 ;
 <td>8.78</td>
 <td>8.22</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TCSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>1.66</td>
+<td>3.27</td>
+<td>5.84</td>
+<td>NA</td>
+<td>12.94</td>
+<td>8.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TCSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.93</td>
+<td>1.42</td>
+<td>0.64</td>
+<td>0.66</td>
+<td>0.41</td>
+<td>0.28</td>
+<td>0.41</td>
+<td>1.06</td>
+<td>1.07</td>
+<td>1.14</td>
+<td>1.35</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TCSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.83</td>
+<td>7.59</td>
+<td>12.13</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ TCSA3 ;
 <td>7.06</td>
 <td>8.09</td>
 <td>7.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TCSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>2.05</td>
+<td>4.46</td>
+<td>7.53</td>
+<td>NA</td>
+<td>12.94</td>
+<td>8.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TCSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.95</td>
+<td>1.43</td>
+<td>0.65</td>
+<td>0.67</td>
+<td>0.42</td>
+<td>0.29</td>
+<td>0.47</td>
+<td>1.18</td>
+<td>1.16</td>
+<td>1.24</td>
+<td>1.55</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TCSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.74</td>
+<td>7.59</td>
+<td>12.13</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

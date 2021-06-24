@@ -1,6 +1,6 @@
 ---
 title: "ULTRAPAR PARTICIPAÇÕES SA (UGPA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ UGPA3 ;
 <td>10.25</td>
 <td>38.03</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) UGPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>28.53</td>
+<td>70.37</td>
+<td>26.70</td>
+<td>27.21</td>
+<td>24.25</td>
+<td>22.23</td>
+<td>22.88</td>
+<td>24.79</td>
+<td>24.50</td>
+<td>20.39</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) UGPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.67</td>
+<td>2.88</td>
+<td>3.09</td>
+<td>4.41</td>
+<td>4.45</td>
+<td>4.22</td>
+<td>3.71</td>
+<td>4.65</td>
+<td>4.14</td>
+<td>3.12</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) UGPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.08</td>
+<td>2.10</td>
+<td>2.67</td>
+<td>2.20</td>
+<td>2.29</td>
+<td>2.47</td>
+<td>2.74</td>
+<td>2.34</td>
+<td>2.20</td>
+<td>2.88</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ UGPA3 ;
 <td>11.00</td>
 <td>10.20</td>
 <td>37.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) UGPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.63</td>
+<td>75.91</td>
+<td>26.28</td>
+<td>27.20</td>
+<td>24.39</td>
+<td>22.37</td>
+<td>23.06</td>
+<td>24.86</td>
+<td>24.66</td>
+<td>20.53</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) UGPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.78</td>
+<td>3.00</td>
+<td>3.20</td>
+<td>4.57</td>
+<td>4.47</td>
+<td>4.23</td>
+<td>3.72</td>
+<td>4.67</td>
+<td>4.16</td>
+<td>3.14</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) UGPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.99</td>
+<td>2.10</td>
+<td>2.61</td>
+<td>2.17</td>
+<td>2.27</td>
+<td>2.45</td>
+<td>2.71</td>
+<td>2.32</td>
+<td>2.18</td>
+<td>2.88</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

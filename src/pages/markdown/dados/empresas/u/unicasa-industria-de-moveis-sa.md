@@ -1,6 +1,6 @@
 ---
 title: "UNICASA INDÚSTRIA DE MÓVEIS S.A. (UCAS) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -4777,6 +4777,48 @@ UCAS3 ;
 <td>ND</td>
 <td>ND</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) UCAS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>18.94</td>
+<td>18.56</td>
+<td>56.27</td>
+<td>NA</td>
+<td>NA</td>
+<td>8.67</td>
+<td>NA</td>
+<td>27.57</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) UCAS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.80</td>
+<td>2.09</td>
+<td>1.12</td>
+<td>0.97</td>
+<td>0.96</td>
+<td>0.57</td>
+<td>0.82</td>
+<td>1.84</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) UCAS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.30</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>6.89</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4869,6 +4911,48 @@ UCAS3 ;
 <td>3.11</td>
 <td>3.36</td>
 <td>35.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) UCAS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>18.94</td>
+<td>18.56</td>
+<td>56.27</td>
+<td>NA</td>
+<td>NA</td>
+<td>8.67</td>
+<td>NA</td>
+<td>27.57</td>
+<td>17.70</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) UCAS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.80</td>
+<td>2.09</td>
+<td>1.12</td>
+<td>0.97</td>
+<td>0.96</td>
+<td>0.57</td>
+<td>0.82</td>
+<td>1.84</td>
+<td>3.36</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) UCAS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.30</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>6.89</td>
+<td>17.42</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

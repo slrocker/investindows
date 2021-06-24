@@ -1,6 +1,6 @@
 ---
 title: "WEG SA (WEGE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ WEGE3 ;
 <td>6.30</td>
 <td>5.71</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) WEGE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>66.34</td>
+<td>44.56</td>
+<td>28.07</td>
+<td>35.40</td>
+<td>22.19</td>
+<td>20.70</td>
+<td>25.67</td>
+<td>22.89</td>
+<td>26.26</td>
+<td>19.19</td>
+<td>25.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) WEGE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>13.32</td>
+<td>8.15</td>
+<td>4.80</td>
+<td>5.90</td>
+<td>4.12</td>
+<td>3.92</td>
+<td>4.81</td>
+<td>4.17</td>
+<td>4.21</td>
+<td>2.98</td>
+<td>3.82</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) WEGE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ WEGE3 ;
 <td>6.54</td>
 <td>6.13</td>
 <td>5.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) WEGE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>67.90</td>
+<td>45.05</td>
+<td>28.19</td>
+<td>35.36</td>
+<td>22.39</td>
+<td>20.88</td>
+<td>25.87</td>
+<td>22.94</td>
+<td>26.61</td>
+<td>19.85</td>
+<td>26.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) WEGE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>13.75</td>
+<td>8.34</td>
+<td>4.89</td>
+<td>6.01</td>
+<td>4.20</td>
+<td>4.00</td>
+<td>4.88</td>
+<td>4.24</td>
+<td>4.30</td>
+<td>3.07</td>
+<td>3.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) WEGE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

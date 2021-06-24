@@ -1,6 +1,6 @@
 ---
 title: "EMBRAER S.A. (EMBR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de EMBRAER S
 ## Dados Cadastrais
 **CNPJ**: 07.689.002/0001-89
 
-**RI**: Nelson Krahenbuhl Salgado
+**RI**: Antonio Carlos Garcia
 
 **email RI**: investor.relations@embraer.com.br
 
@@ -5173,6 +5173,51 @@ EMBR3 ;
 <td>7.90</td>
 <td>7.05</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EMBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>17.93</td>
+<td>20.02</td>
+<td>79.38</td>
+<td>21.89</td>
+<td>17.79</td>
+<td>15.60</td>
+<td>50.85</td>
+<td>14.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EMBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.43</td>
+<td>10.03</td>
+<td>1.05</td>
+<td>1.10</td>
+<td>0.92</td>
+<td>1.49</td>
+<td>1.76</td>
+<td>1.64</td>
+<td>1.59</td>
+<td>1.49</td>
+<td>1.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EMBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ EMBR3 ;
 <td>8.99</td>
 <td>7.62</td>
 <td>6.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EMBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>19.09</td>
+<td>20.24</td>
+<td>92.53</td>
+<td>22.73</td>
+<td>17.99</td>
+<td>15.63</td>
+<td>55.71</td>
+<td>15.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EMBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.45</td>
+<td>10.30</td>
+<td>1.07</td>
+<td>1.13</td>
+<td>0.94</td>
+<td>1.53</td>
+<td>1.81</td>
+<td>1.69</td>
+<td>1.64</td>
+<td>1.54</td>
+<td>1.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EMBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

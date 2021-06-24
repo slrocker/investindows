@@ -1,6 +1,6 @@
 ---
 title: "HYPERA S/A (HYPE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ HYPE3 ;
 <td>10.60</td>
 <td>9.23</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HYPE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.75</td>
+<td>19.38</td>
+<td>17.43</td>
+<td>23.55</td>
+<td>14.06</td>
+<td>24.52</td>
+<td>26.14</td>
+<td>43.46</td>
+<td>51.20</td>
+<td>NA</td>
+<td>47.13</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HYPE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.35</td>
+<td>2.59</td>
+<td>2.38</td>
+<td>2.94</td>
+<td>1.88</td>
+<td>1.71</td>
+<td>1.41</td>
+<td>1.58</td>
+<td>1.52</td>
+<td>0.80</td>
+<td>2.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HYPE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.15</td>
+<td>2.76</td>
+<td>3.21</td>
+<td>1.80</td>
+<td>1.91</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.92</td>
+<td>0,00</td>
+<td>1.65</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ HYPE3 ;
 <td>10.95</td>
 <td>10.60</td>
 <td>9.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HYPE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.75</td>
+<td>19.38</td>
+<td>17.43</td>
+<td>23.55</td>
+<td>14.06</td>
+<td>24.52</td>
+<td>26.14</td>
+<td>43.46</td>
+<td>51.20</td>
+<td>NA</td>
+<td>47.13</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HYPE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.35</td>
+<td>2.59</td>
+<td>2.38</td>
+<td>2.94</td>
+<td>1.88</td>
+<td>1.71</td>
+<td>1.41</td>
+<td>1.58</td>
+<td>1.52</td>
+<td>0.80</td>
+<td>2.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HYPE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.15</td>
+<td>2.76</td>
+<td>3.21</td>
+<td>1.80</td>
+<td>1.91</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.92</td>
+<td>0,00</td>
+<td>1.42</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

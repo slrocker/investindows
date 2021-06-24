@@ -1,6 +1,6 @@
 ---
 title: "CIA FERRO LIGAS BAHIA FERBASA (FESA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CIA FERRO
 ## Dados Cadastrais
 **CNPJ**: 15.141.799/0001-03
 
-**RI**: Marcio Lopes Fernandes De Barros
+**RI**: Heron Albergaria De Melo
 
 **email RI**: dri@ferbasa.com.br
 
@@ -5173,6 +5173,96 @@ FESA3 ; FESA4 ;
 <td>12.42</td>
 <td>11.67</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FESA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>39.74</td>
+<td>13.28</td>
+<td>7.53</td>
+<td>6.86</td>
+<td>14.60</td>
+<td>4.58</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FESA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.57</td>
+<td>1.60</td>
+<td>1.33</td>
+<td>1.22</td>
+<td>0.75</td>
+<td>0.59</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FESA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.76</td>
+<td>3.89</td>
+<td>4.67</td>
+<td>7.79</td>
+<td>0.32</td>
+<td>6.71</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) FESA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>24.11</td>
+<td>7.98</td>
+<td>5.91</td>
+<td>7.02</td>
+<td>9.77</td>
+<td>3.59</td>
+<td>8.37</td>
+<td>15.80</td>
+<td>12.85</td>
+<td>7.98</td>
+<td>8.86</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) FESA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.95</td>
+<td>0.96</td>
+<td>1.04</td>
+<td>1.25</td>
+<td>0.50</td>
+<td>0.47</td>
+<td>0.60</td>
+<td>0.96</td>
+<td>0.95</td>
+<td>0.66</td>
+<td>1.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) FESA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.90</td>
+<td>6.47</td>
+<td>5.95</td>
+<td>7.62</td>
+<td>0.47</td>
+<td>8.55</td>
+<td>4.11</td>
+<td>1.79</td>
+<td>2.10</td>
+<td>4.15</td>
+<td>0.75</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ FESA3 ; FESA4 ;
 <td>13.12</td>
 <td>12.38</td>
 <td>11.63</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FESA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>39.87</td>
+<td>13.31</td>
+<td>7.54</td>
+<td>6.87</td>
+<td>14.71</td>
+<td>4.59</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FESA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.58</td>
+<td>1.61</td>
+<td>1.33</td>
+<td>1.22</td>
+<td>0.76</td>
+<td>0.60</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FESA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.76</td>
+<td>3.88</td>
+<td>4.66</td>
+<td>7.79</td>
+<td>2.80</td>
+<td>6.70</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) FESA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>24.19</td>
+<td>7.99</td>
+<td>5.91</td>
+<td>7.03</td>
+<td>9.84</td>
+<td>3.60</td>
+<td>8.40</td>
+<td>15.85</td>
+<td>12.89</td>
+<td>8.00</td>
+<td>8.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) FESA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.96</td>
+<td>0.96</td>
+<td>1.05</td>
+<td>1.25</td>
+<td>0.51</td>
+<td>0.47</td>
+<td>0.60</td>
+<td>0.96</td>
+<td>0.95</td>
+<td>0.66</td>
+<td>1.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) FESA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.90</td>
+<td>6.47</td>
+<td>5.94</td>
+<td>7.61</td>
+<td>4.18</td>
+<td>8.54</td>
+<td>4.10</td>
+<td>1.78</td>
+<td>2.09</td>
+<td>4.06</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "MARCOPOLO SA (POMO) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ POMO3 ; POMO4 ;
 <td>2.61</td>
 <td>2.15</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) POMO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>28.39</td>
+<td>19.83</td>
+<td>15.94</td>
+<td>36.06</td>
+<td>8.94</td>
+<td>17.12</td>
+<td>13.57</td>
+<td>15.04</td>
+<td>18.09</td>
+<td>8.39</td>
+<td>9.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) POMO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.99</td>
+<td>1.78</td>
+<td>1.43</td>
+<td>1.54</td>
+<td>1.06</td>
+<td>0.82</td>
+<td>1.82</td>
+<td>2.86</td>
+<td>4.17</td>
+<td>2.47</td>
+<td>2.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) POMO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.72</td>
+<td>1.97</td>
+<td>1.11</td>
+<td>0.58</td>
+<td>5.95</td>
+<td>5.70</td>
+<td>4.01</td>
+<td>3.10</td>
+<td>3.05</td>
+<td>5.17</td>
+<td>2.70</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) POMO4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.96</td>
+<td>20.10</td>
+<td>20.54</td>
+<td>44.39</td>
+<td>11.39</td>
+<td>18.63</td>
+<td>13.33</td>
+<td>15.66</td>
+<td>19.95</td>
+<td>9.24</td>
+<td>10.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) POMO4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.04</td>
+<td>1.81</td>
+<td>1.84</td>
+<td>1.89</td>
+<td>1.36</td>
+<td>0.89</td>
+<td>1.79</td>
+<td>2.98</td>
+<td>4.60</td>
+<td>2.71</td>
+<td>3.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) POMO4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.57</td>
+<td>1.95</td>
+<td>0.86</td>
+<td>0.47</td>
+<td>4.67</td>
+<td>5.24</td>
+<td>4.08</td>
+<td>2.97</td>
+<td>2.77</td>
+<td>4.70</td>
+<td>2.33</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ POMO3 ; POMO4 ;
 <td>2.90</td>
 <td>2.60</td>
 <td>2.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) POMO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>24.80</td>
+<td>20.88</td>
+<td>16.30</td>
+<td>41.02</td>
+<td>9.07</td>
+<td>17.54</td>
+<td>13.69</td>
+<td>15.22</td>
+<td>18.48</td>
+<td>8.44</td>
+<td>9.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) POMO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.01</td>
+<td>1.82</td>
+<td>1.45</td>
+<td>1.56</td>
+<td>1.08</td>
+<td>0.83</td>
+<td>1.85</td>
+<td>2.90</td>
+<td>4.21</td>
+<td>2.48</td>
+<td>2.82</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) POMO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.72</td>
+<td>1.97</td>
+<td>1.11</td>
+<td>0.58</td>
+<td>5.95</td>
+<td>5.70</td>
+<td>4.01</td>
+<td>3.10</td>
+<td>3.05</td>
+<td>5.17</td>
+<td>2.70</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) POMO4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>26.17</td>
+<td>21.16</td>
+<td>21.01</td>
+<td>50.51</td>
+<td>11.56</td>
+<td>19.08</td>
+<td>13.44</td>
+<td>15.84</td>
+<td>20.38</td>
+<td>9.29</td>
+<td>10.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) POMO4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.06</td>
+<td>1.84</td>
+<td>1.86</td>
+<td>1.92</td>
+<td>1.38</td>
+<td>0.91</td>
+<td>1.81</td>
+<td>3.02</td>
+<td>4.64</td>
+<td>2.73</td>
+<td>3.26</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) POMO4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.57</td>
+<td>1.95</td>
+<td>0.86</td>
+<td>0.47</td>
+<td>4.67</td>
+<td>5.24</td>
+<td>4.08</td>
+<td>2.97</td>
+<td>2.77</td>
+<td>4.70</td>
+<td>2.33</td>
 </tr>
 </tbody>
 </table>

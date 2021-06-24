@@ -1,6 +1,6 @@
 ---
 title: "EDP ENERGIAS DO BRASIL S/A (ENBR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ ENBR3 ;
 <td>41.23</td>
 <td>40.65</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ENBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.96</td>
+<td>9.02</td>
+<td>6.08</td>
+<td>12.50</td>
+<td>9.79</td>
+<td>4.08</td>
+<td>5.10</td>
+<td>9.76</td>
+<td>11.50</td>
+<td>9.53</td>
+<td>8.35</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ENBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.06</td>
+<td>1.29</td>
+<td>0.89</td>
+<td>0.95</td>
+<td>0.91</td>
+<td>0.77</td>
+<td>0.65</td>
+<td>0.86</td>
+<td>0.97</td>
+<td>1.01</td>
+<td>0.95</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ENBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.56</td>
+<td>4.11</td>
+<td>6.08</td>
+<td>4.94</td>
+<td>6.91</td>
+<td>5.51</td>
+<td>9.54</td>
+<td>10.14</td>
+<td>8.60</td>
+<td>7.42</td>
+<td>5.94</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ ENBR3 ;
 <td>9.37</td>
 <td>29.00</td>
 <td>28.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ENBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.91</td>
+<td>9.99</td>
+<td>6.75</td>
+<td>14.07</td>
+<td>12.20</td>
+<td>4.53</td>
+<td>5.75</td>
+<td>14.39</td>
+<td>17.96</td>
+<td>13.43</td>
+<td>10.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ENBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.18</td>
+<td>1.45</td>
+<td>1.01</td>
+<td>1.09</td>
+<td>1.08</td>
+<td>0.99</td>
+<td>0.87</td>
+<td>1.18</td>
+<td>1.37</td>
+<td>1.43</td>
+<td>1.35</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ENBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.71</td>
+<td>3.10</td>
+<td>4.14</td>
+<td>3.26</td>
+<td>3.69</td>
+<td>3.08</td>
+<td>8.55</td>
+<td>6.51</td>
+<td>5.74</td>
+<td>5.12</td>
+<td>5.05</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "TEGMA GESTÃO LOGÍSTICA SA (TGMA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ TGMA3 ;
 <td>6.03</td>
 <td>6.36</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TGMA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>24.22</td>
+<td>12.81</td>
+<td>17.19</td>
+<td>12.72</td>
+<td>36.71</td>
+<td>31.24</td>
+<td>NA</td>
+<td>30.10</td>
+<td>28.71</td>
+<td>17.09</td>
+<td>14.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TGMA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.85</td>
+<td>4.32</td>
+<td>3.84</td>
+<td>2.94</td>
+<td>1.35</td>
+<td>0.85</td>
+<td>2.90</td>
+<td>2.96</td>
+<td>5.56</td>
+<td>4.25</td>
+<td>4.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TGMA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.26</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ TGMA3 ;
 <td>6.43</td>
 <td>6.12</td>
 <td>6.36</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TGMA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>24.18</td>
+<td>12.81</td>
+<td>17.19</td>
+<td>12.72</td>
+<td>36.71</td>
+<td>31.24</td>
+<td>NA</td>
+<td>24.02</td>
+<td>27.71</td>
+<td>17.39</td>
+<td>14.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TGMA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.85</td>
+<td>4.32</td>
+<td>3.84</td>
+<td>2.94</td>
+<td>1.35</td>
+<td>0.85</td>
+<td>2.90</td>
+<td>2.96</td>
+<td>5.45</td>
+<td>4.19</td>
+<td>4.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TGMA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.26</td>
+<td>4.17</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

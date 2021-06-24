@@ -1,6 +1,6 @@
 ---
 title: "MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ MRVE3 ;
 <td>7.60</td>
 <td>6.33</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MRVE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.71</td>
+<td>12.80</td>
+<td>7.40</td>
+<td>9.60</td>
+<td>8.46</td>
+<td>6.48</td>
+<td>4.48</td>
+<td>9.05</td>
+<td>9.78</td>
+<td>6.33</td>
+<td>11.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MRVE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.51</td>
+<td>1.87</td>
+<td>1.15</td>
+<td>1.16</td>
+<td>0.89</td>
+<td>0.76</td>
+<td>0.72</td>
+<td>0.93</td>
+<td>1.38</td>
+<td>1.41</td>
+<td>2.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MRVE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.79</td>
+<td>5.14</td>
+<td>8.12</td>
+<td>4.20</td>
+<td>3.21</td>
+<td>4.44</td>
+<td>4.18</td>
+<td>3.08</td>
+<td>3.21</td>
+<td>1.68</td>
+<td>1.10</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ MRVE3 ;
 <td>7.88</td>
 <td>7.09</td>
 <td>5.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MRVE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.60</td>
+<td>13.87</td>
+<td>8.13</td>
+<td>10.28</td>
+<td>8.72</td>
+<td>7.04</td>
+<td>4.68</td>
+<td>9.63</td>
+<td>10.66</td>
+<td>6.80</td>
+<td>11.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MRVE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.61</td>
+<td>1.98</td>
+<td>1.21</td>
+<td>1.21</td>
+<td>0.94</td>
+<td>0.81</td>
+<td>0.77</td>
+<td>0.99</td>
+<td>1.48</td>
+<td>1.51</td>
+<td>2.62</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MRVE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.79</td>
+<td>5.14</td>
+<td>8.12</td>
+<td>4.20</td>
+<td>3.21</td>
+<td>4.44</td>
+<td>4.18</td>
+<td>3.08</td>
+<td>3.21</td>
+<td>1.68</td>
+<td>1.10</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "ITAUSA S.A. (ITSA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ ITSA3 ; ITSA4 ;
 <td>7.31</td>
 <td>6.67</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ITSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.13</td>
+<td>11.18</td>
+<td>11.88</td>
+<td>9.59</td>
+<td>7.26</td>
+<td>5.28</td>
+<td>7.26</td>
+<td>11.56</td>
+<td>13.75</td>
+<td>11.85</td>
+<td>12.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ITSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.71</td>
+<td>2.02</td>
+<td>1.99</td>
+<td>1.45</td>
+<td>1.18</td>
+<td>0.99</td>
+<td>1.40</td>
+<td>1.93</td>
+<td>2.12</td>
+<td>1.97</td>
+<td>2.17</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ITSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.40</td>
+<td>8.52</td>
+<td>5.76</td>
+<td>3.90</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.08</td>
+<td>2.81</td>
+<td>2.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ITSA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.43</td>
+<td>11.21</td>
+<td>10.96</td>
+<td>9.67</td>
+<td>7.49</td>
+<td>5.17</td>
+<td>7.03</td>
+<td>8.10</td>
+<td>9.65</td>
+<td>9.28</td>
+<td>11.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ITSA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.63</td>
+<td>2.03</td>
+<td>1.83</td>
+<td>1.47</td>
+<td>1.21</td>
+<td>0.97</td>
+<td>1.36</td>
+<td>1.35</td>
+<td>1.49</td>
+<td>1.54</td>
+<td>1.98</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ITSA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.63</td>
+<td>8.50</td>
+<td>6.24</td>
+<td>3.87</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.97</td>
+<td>3.59</td>
+<td>2.85</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ ITSA3 ; ITSA4 ;
 <td>6.19</td>
 <td>6.65</td>
 <td>6.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ITSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.71</td>
+<td>11.46</td>
+<td>12.23</td>
+<td>9.73</td>
+<td>7.27</td>
+<td>5.36</td>
+<td>7.49</td>
+<td>12.19</td>
+<td>15.27</td>
+<td>13.15</td>
+<td>14.34</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ITSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.81</td>
+<td>2.14</td>
+<td>2.09</td>
+<td>1.54</td>
+<td>1.25</td>
+<td>1.06</td>
+<td>1.51</td>
+<td>2.10</td>
+<td>2.31</td>
+<td>2.17</td>
+<td>2.41</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ITSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.23</td>
+<td>8.22</td>
+<td>5.72</td>
+<td>3.90</td>
+<td>4.72</td>
+<td>5.16</td>
+<td>2.93</td>
+<td>2.16</td>
+<td>1.59</td>
+<td>2.62</td>
+<td>2.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ITSA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.98</td>
+<td>11.49</td>
+<td>11.28</td>
+<td>9.81</td>
+<td>7.49</td>
+<td>5.24</td>
+<td>7.25</td>
+<td>8.54</td>
+<td>10.71</td>
+<td>10.30</td>
+<td>13.07</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ITSA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.72</td>
+<td>2.15</td>
+<td>1.93</td>
+<td>1.55</td>
+<td>1.29</td>
+<td>1.04</td>
+<td>1.46</td>
+<td>1.47</td>
+<td>1.62</td>
+<td>1.70</td>
+<td>2.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ITSA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.45</td>
+<td>8.19</td>
+<td>6.21</td>
+<td>3.87</td>
+<td>4.57</td>
+<td>5.27</td>
+<td>3.02</td>
+<td>3.08</td>
+<td>2.27</td>
+<td>3.35</td>
+<td>2.59</td>
 </tr>
 </tbody>
 </table>

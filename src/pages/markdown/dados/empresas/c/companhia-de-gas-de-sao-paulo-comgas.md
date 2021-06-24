@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS (CGAS) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de COMPANHIA
 ## Dados Cadastrais
 **CNPJ**: 61.856.571/0001-17
 
-**RI**: Rafael Bergman
+**RI**: Guilherme Lelis Bernardo Machado
 
 **email RI**: investidores@comgas.com.br
 
@@ -2663,6 +2663,96 @@ CGAS3 ; CGAS5 ;
 <td>18.84</td>
 <td>10.40</td>
 <td>11.49</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CGAS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>20.05</td>
+<td>13.85</td>
+<td>6.19</td>
+<td>11.74</td>
+<td>5.73</td>
+<td>6.57</td>
+<td>9.56</td>
+<td>10.07</td>
+<td>17.41</td>
+<td>20.50</td>
+<td>7.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CGAS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>39.10</td>
+<td>36.45</td>
+<td>3.05</td>
+<td>3.73</td>
+<td>1.99</td>
+<td>1.44</td>
+<td>1.88</td>
+<td>2.35</td>
+<td>2.83</td>
+<td>3.88</td>
+<td>3.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CGAS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.92</td>
+<td>0.01</td>
+<td>9.13</td>
+<td>14.92</td>
+<td>23.75</td>
+<td>10.07</td>
+<td>0.82</td>
+<td>0,00</td>
+<td>2.02</td>
+<td>7.85</td>
+<td>8.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CGAS5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>19.89</td>
+<td>13.81</td>
+<td>5.89</td>
+<td>12.16</td>
+<td>6.49</td>
+<td>7.03</td>
+<td>9.72</td>
+<td>11.28</td>
+<td>19.09</td>
+<td>22.23</td>
+<td>8.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CGAS5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>38.79</td>
+<td>36.34</td>
+<td>2.90</td>
+<td>3.86</td>
+<td>2.26</td>
+<td>1.54</td>
+<td>1.91</td>
+<td>2.63</td>
+<td>3.10</td>
+<td>4.21</td>
+<td>3.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CGAS5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.96</td>
+<td>0.01</td>
+<td>9.59</td>
+<td>14.41</td>
+<td>20.97</td>
+<td>9.41</td>
+<td>0.81</td>
+<td>0,00</td>
+<td>1.84</td>
+<td>7.24</td>
+<td>7.51</td>
 </tr>
 </tbody>
 </table>

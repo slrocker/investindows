@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,141 @@ CEBR3 ; CEBR5 ; CEBR6 ;
 <td>81.24</td>
 <td>77.79</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CEBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>3.87</td>
+<td>5.13</td>
+<td>ND</td>
+<td>2.11</td>
+<td>3.12</td>
+<td>2.43</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>3.70</td>
+<td>10.75</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CEBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.00</td>
+<td>0.80</td>
+<td>ND</td>
+<td>0.45</td>
+<td>0.49</td>
+<td>0.26</td>
+<td>ND</td>
+<td>0.27</td>
+<td>ND</td>
+<td>0.23</td>
+<td>0.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CEBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.70</td>
+<td>2.24</td>
+<td>ND</td>
+<td>9.24</td>
+<td>8.93</td>
+<td>6.34</td>
+<td>ND</td>
+<td>17.91</td>
+<td>ND</td>
+<td>9.05</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CEBR5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.80</td>
+<td>6.00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>3.44</td>
+<td>4.38</td>
+<td>15.45</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CEBR5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.48</td>
+<td>0.94</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.48</td>
+<td>0.42</td>
+<td>0.31</td>
+<td>0.27</td>
+<td>0.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CEBR5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.18</td>
+<td>1.91</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>8.28</td>
+<td>11.46</td>
+<td>7.38</td>
+<td>7.65</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) CEBR6 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.52</td>
+<td>4.95</td>
+<td>3.55</td>
+<td>2.03</td>
+<td>ND</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>1.97</td>
+<td>ND</td>
+<td>10.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) CEBR6 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.34</td>
+<td>0.78</td>
+<td>0.52</td>
+<td>0.43</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.18</td>
+<td>ND</td>
+<td>0.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) CEBR6 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.31</td>
+<td>2.32</td>
+<td>5.70</td>
+<td>9.61</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>12.91</td>
+<td>ND</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5406,141 @@ CEBR3 ; CEBR5 ; CEBR6 ;
 <td>64.45</td>
 <td>56.44</td>
 <td>53.36</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CEBR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.17</td>
+<td>6.75</td>
+<td>ND</td>
+<td>2.46</td>
+<td>3.64</td>
+<td>3.32</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>6.52</td>
+<td>75.39</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CEBR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.65</td>
+<td>1.02</td>
+<td>ND</td>
+<td>0.59</td>
+<td>0.67</td>
+<td>0.37</td>
+<td>ND</td>
+<td>0.48</td>
+<td>ND</td>
+<td>0.33</td>
+<td>0.43</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CEBR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.55</td>
+<td>0,00</td>
+<td>ND</td>
+<td>2.83</td>
+<td>1.92</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>7.52</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CEBR5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.17</td>
+<td>7.90</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>4.63</td>
+<td>7.72</td>
+<td>108.31</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CEBR5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.29</td>
+<td>1.20</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.09</td>
+<td>0.75</td>
+<td>0.43</td>
+<td>0.39</td>
+<td>0.62</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CEBR5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.25</td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.81</td>
+<td>0.00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) CEBR6 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.87</td>
+<td>6.52</td>
+<td>4.57</td>
+<td>2.37</td>
+<td>ND</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>2.65</td>
+<td>ND</td>
+<td>76.57</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) CEBR6 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.10</td>
+<td>0.99</td>
+<td>0.70</td>
+<td>0.57</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.25</td>
+<td>ND</td>
+<td>0.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) CEBR6 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.33</td>
+<td>0,00</td>
+<td>1.87</td>
+<td>2.95</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>ND</td>
+<td>0.00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

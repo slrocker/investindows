@@ -1,6 +1,6 @@
 ---
 title: "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de INTERNATI
 ## Dados Cadastrais
 **CNPJ**: 17.314.329/0001-20
 
-**RI**: Luis Felipe Silva Bresaola
+**RI**: Maristela Aparecida Do Nascimento
 
 **email RI**: ri@internationalmealcompany.com
 
@@ -4777,6 +4777,48 @@ MEAL3 ;
 <td>1.97</td>
 <td>1.57</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MEAL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>146.83</td>
+<td>413.38</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MEAL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.02</td>
+<td>1.44</td>
+<td>1.14</td>
+<td>1.51</td>
+<td>0.80</td>
+<td>0.28</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MEAL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.17</td>
+<td>0.11</td>
+<td>0.08</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>NA</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4869,6 +4911,48 @@ MEAL3 ;
 <td>2.30</td>
 <td>1.97</td>
 <td>1.57</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MEAL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>146.83</td>
+<td>413.38</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MEAL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.02</td>
+<td>1.44</td>
+<td>1.14</td>
+<td>1.52</td>
+<td>0.80</td>
+<td>0.29</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MEAL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.11</td>
+<td>0.08</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>NA</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

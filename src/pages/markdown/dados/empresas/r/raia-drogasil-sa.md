@@ -1,6 +1,6 @@
 ---
 title: "RAIA DROGASIL S.A. (RADL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ RADL3 ;
 <td>6.66</td>
 <td>ND</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RADL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>83.47</td>
+<td>46.76</td>
+<td>36.78</td>
+<td>58.29</td>
+<td>44.80</td>
+<td>34.50</td>
+<td>NA</td>
+<td>48.35</td>
+<td>74.05</td>
+<td>62.38</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RADL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.35</td>
+<td>9.05</td>
+<td>5.30</td>
+<td>9.19</td>
+<td>6.89</td>
+<td>4.41</td>
+<td>NA</td>
+<td>2.10</td>
+<td>3.43</td>
+<td>1.95</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RADL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.46</td>
+<td>0.51</td>
+<td>0.93</td>
+<td>0.57</td>
+<td>0.76</td>
+<td>1.03</td>
+<td>0,00</td>
+<td>0.60</td>
+<td>0.44</td>
+<td>0.95</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ RADL3 ;
 <td>6.85</td>
 <td>6.66</td>
 <td>3.18</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RADL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>85.39</td>
+<td>47.76</td>
+<td>37.28</td>
+<td>58.46</td>
+<td>45.16</td>
+<td>34.46</td>
+<td>37.83</td>
+<td>48.35</td>
+<td>74.05</td>
+<td>62.38</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RADL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.48</td>
+<td>9.16</td>
+<td>5.35</td>
+<td>9.27</td>
+<td>6.95</td>
+<td>4.45</td>
+<td>3.41</td>
+<td>2.10</td>
+<td>3.43</td>
+<td>1.95</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RADL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

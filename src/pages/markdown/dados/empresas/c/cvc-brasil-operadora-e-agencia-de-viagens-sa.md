@@ -1,6 +1,6 @@
 ---
 title: "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -4381,6 +4381,45 @@ CVCB3 ;
 <td>2.44</td>
 <td>4.84</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CVCB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>33.84</td>
+<td>29.77</td>
+<td>16.14</td>
+<td>10.35</td>
+<td>13.98</td>
+<td>17.77</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CVCB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>61.69</td>
+<td>8.18</td>
+<td>8.03</td>
+<td>8.89</td>
+<td>4.44</td>
+<td>2.74</td>
+<td>4.44</td>
+<td>6.28</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CVCB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.59</td>
+<td>0.06</td>
+<td>0.81</td>
+<td>1.15</td>
+<td>3.89</td>
+<td>5.43</td>
+<td>1.44</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4467,6 +4506,45 @@ CVCB3 ;
 <td>3.49</td>
 <td>2.44</td>
 <td>4.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CVCB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>33.12</td>
+<td>31.57</td>
+<td>17.91</td>
+<td>10.59</td>
+<td>13.98</td>
+<td>17.77</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CVCB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>78.07</td>
+<td>8.48</td>
+<td>8.23</td>
+<td>8.90</td>
+<td>5.08</td>
+<td>3.19</td>
+<td>4.44</td>
+<td>6.28</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CVCB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.59</td>
+<td>0.06</td>
+<td>0.81</td>
+<td>0.89</td>
+<td>3.79</td>
+<td>5.43</td>
+<td>1.44</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

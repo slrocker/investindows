@@ -1,6 +1,6 @@
 ---
 title: "HELBOR EMPREENDIMENTOS S/A (HBOR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de HELBOR EM
 ## Dados Cadastrais
 **CNPJ**: 49.263.189/0001-02
 
-**RI**: Roberval Lanera Toffoli
+**RI**: Franco Gerodetti Neto
 
 **email RI**: helbor@helbor.com.br
 
@@ -5173,6 +5173,51 @@ HBOR3 ;
 <td>13.96</td>
 <td>11.18</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HBOR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>26.42</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>5.87</td>
+<td>5.81</td>
+<td>6.61</td>
+<td>8.97</td>
+<td>6.32</td>
+<td>7.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HBOR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.98</td>
+<td>1.90</td>
+<td>0.64</td>
+<td>0.51</td>
+<td>0.27</td>
+<td>0.22</td>
+<td>0.69</td>
+<td>1.17</td>
+<td>2.16</td>
+<td>1.48</td>
+<td>1.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HBOR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.26</td>
+<td>24.74</td>
+<td>10.62</td>
+<td>5.14</td>
+<td>2.91</td>
+<td>3.85</td>
+<td>1.64</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ HBOR3 ;
 <td>5.31</td>
 <td>13.00</td>
 <td>10.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HBOR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>61.73</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>5.87</td>
+<td>5.81</td>
+<td>6.61</td>
+<td>8.97</td>
+<td>6.32</td>
+<td>7.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HBOR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.29</td>
+<td>2.43</td>
+<td>0.89</td>
+<td>0.67</td>
+<td>0.36</td>
+<td>0.29</td>
+<td>0.93</td>
+<td>1.66</td>
+<td>2.35</td>
+<td>1.59</td>
+<td>1.95</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HBOR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.26</td>
+<td>24.74</td>
+<td>10.62</td>
+<td>5.14</td>
+<td>2.91</td>
+<td>3.85</td>
+<td>1.64</td>
 </tr>
 </tbody>
 </table>

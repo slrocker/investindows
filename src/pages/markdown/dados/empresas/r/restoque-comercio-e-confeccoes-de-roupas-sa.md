@@ -1,6 +1,6 @@
 ---
 title: "RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS SA (LLIS) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de RESTOQUE 
 ## Dados Cadastrais
 **CNPJ**: 49.669.856/0001-43
 
-**RI**: Livinston Martins Bauermeister
+**RI**: Guilherme De Biagi Pereira
 
 **email RI**: ri@lelis.com.br
 
@@ -5173,6 +5173,51 @@ LLIS3 ;
 <td>NA</td>
 <td>2.67</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LLIS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>14.02</td>
+<td>3.89</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>26.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LLIS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.51</td>
+<td>0.65</td>
+<td>0.76</td>
+<td>0.66</td>
+<td>0.37</td>
+<td>1.47</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>6.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LLIS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.10</td>
+<td>6.65</td>
+<td>0,00</td>
+<td>23.34</td>
+<td>444.96</td>
+<td>1.25</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.10</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LLIS3 ;
 <td>1.21</td>
 <td>3.44</td>
 <td>2.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LLIS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>14.02</td>
+<td>3.89</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>143.41</td>
+<td>41.50</td>
+<td>26.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LLIS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.51</td>
+<td>0.65</td>
+<td>0.76</td>
+<td>0.66</td>
+<td>0.37</td>
+<td>1.47</td>
+<td>6.62</td>
+<td>8.03</td>
+<td>7.93</td>
+<td>6.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LLIS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.10</td>
+<td>6.65</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>444.96</td>
+<td>1.25</td>
+<td>0.97</td>
+<td>0.60</td>
+<td>0,00</td>
+<td>1.10</td>
 </tr>
 </tbody>
 </table>

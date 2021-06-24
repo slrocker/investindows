@@ -1,6 +1,6 @@
 ---
 title: "CIA SIDERURGICA NACIONAL (CSNA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CSNA3 ;
 <td>5.77</td>
 <td>5.18</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSNA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.30</td>
+<td>8.72</td>
+<td>2.46</td>
+<td>108.28</td>
+<td>NA</td>
+<td>3.43</td>
+<td>NA</td>
+<td>39.26</td>
+<td>NA</td>
+<td>5.96</td>
+<td>16.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSNA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.93</td>
+<td>1.72</td>
+<td>1.28</td>
+<td>1.45</td>
+<td>2.04</td>
+<td>0.64</td>
+<td>1.35</td>
+<td>2.60</td>
+<td>2.04</td>
+<td>2.59</td>
+<td>5.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSNA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.70</td>
+<td>9.81</td>
+<td>3.93</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>9.91</td>
+<td>5.49</td>
+<td>7.92</td>
+<td>6.52</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CSNA3 ;
 <td>5.91</td>
 <td>5.48</td>
 <td>5.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSNA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>11.65</td>
+<td>10.94</td>
+<td>2.52</td>
+<td>1172.48</td>
+<td>NA</td>
+<td>3.43</td>
+<td>NA</td>
+<td>41.19</td>
+<td>NA</td>
+<td>5.89</td>
+<td>16.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSNA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.46</td>
+<td>1.92</td>
+<td>1.47</td>
+<td>1.71</td>
+<td>2.43</td>
+<td>0.72</td>
+<td>1.36</td>
+<td>2.59</td>
+<td>2.14</td>
+<td>2.73</td>
+<td>5.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSNA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.03</td>
+<td>6.69</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>9.91</td>
+<td>5.49</td>
+<td>7.92</td>
+<td>6.52</td>
+<td>0,00</td>
+<td>3.87</td>
 </tr>
 </tbody>
 </table>

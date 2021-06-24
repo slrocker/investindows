@@ -1,6 +1,6 @@
 ---
 title: "ALPARGATAS SA (ALPA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de ALPARGATA
 ## Dados Cadastrais
 **CNPJ**: 61.079.117/0001-05
 
-**RI**: Fabio Leite De Souza
+**RI**: Julian Garrido Del Val Neto
 
 **email RI**: jsalvio@alpargatas.com.br
 
@@ -5173,6 +5173,96 @@ ALPA3 ; ALPA4 ;
 <td>4.22</td>
 <td>3.81</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ALPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>176.58</td>
+<td>62.54</td>
+<td>24.39</td>
+<td>22.87</td>
+<td>11.65</td>
+<td>17.16</td>
+<td>11.00</td>
+<td>17.93</td>
+<td>20.37</td>
+<td>14.01</td>
+<td>11.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ALPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>7.42</td>
+<td>5.93</td>
+<td>3.20</td>
+<td>3.54</td>
+<td>2.02</td>
+<td>2.34</td>
+<td>1.50</td>
+<td>3.03</td>
+<td>3.44</td>
+<td>2.91</td>
+<td>2.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ALPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.13</td>
+<td>0.00</td>
+<td>2.61</td>
+<td>1.86</td>
+<td>3.15</td>
+<td>9.41</td>
+<td>3.69</td>
+<td>1.98</td>
+<td>1.47</td>
+<td>2.36</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ALPA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>194.65</td>
+<td>75.28</td>
+<td>25.41</td>
+<td>23.62</td>
+<td>13.14</td>
+<td>12.72</td>
+<td>11.90</td>
+<td>20.43</td>
+<td>21.01</td>
+<td>14.18</td>
+<td>12.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ALPA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>8.18</td>
+<td>7.14</td>
+<td>3.33</td>
+<td>3.66</td>
+<td>2.28</td>
+<td>1.73</td>
+<td>1.62</td>
+<td>3.45</td>
+<td>3.55</td>
+<td>2.94</td>
+<td>2.83</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ALPA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.12</td>
+<td>0.00</td>
+<td>2.51</td>
+<td>1.80</td>
+<td>2.80</td>
+<td>12.68</td>
+<td>3.41</td>
+<td>1.73</td>
+<td>1.42</td>
+<td>2.33</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ ALPA3 ; ALPA4 ;
 <td>4.26</td>
 <td>4.18</td>
 <td>3.71</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ALPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>159.81</td>
+<td>59.17</td>
+<td>23.84</td>
+<td>22.13</td>
+<td>11.55</td>
+<td>16.58</td>
+<td>11.25</td>
+<td>17.92</td>
+<td>20.41</td>
+<td>14.08</td>
+<td>12.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ALPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>7.60</td>
+<td>6.14</td>
+<td>3.32</td>
+<td>3.67</td>
+<td>2.11</td>
+<td>2.46</td>
+<td>1.58</td>
+<td>3.03</td>
+<td>3.45</td>
+<td>2.93</td>
+<td>2.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ALPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.13</td>
+<td>0.00</td>
+<td>2.61</td>
+<td>1.86</td>
+<td>3.15</td>
+<td>9.41</td>
+<td>3.69</td>
+<td>1.98</td>
+<td>1.47</td>
+<td>2.36</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) ALPA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>176.17</td>
+<td>71.23</td>
+<td>24.84</td>
+<td>22.85</td>
+<td>13.02</td>
+<td>12.30</td>
+<td>12.17</td>
+<td>20.42</td>
+<td>21.05</td>
+<td>14.26</td>
+<td>12.45</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) ALPA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>8.38</td>
+<td>7.39</td>
+<td>3.46</td>
+<td>3.79</td>
+<td>2.38</td>
+<td>1.82</td>
+<td>1.71</td>
+<td>3.45</td>
+<td>3.56</td>
+<td>2.97</td>
+<td>2.91</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) ALPA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.12</td>
+<td>0.00</td>
+<td>2.51</td>
+<td>1.80</td>
+<td>2.80</td>
+<td>12.68</td>
+<td>3.41</td>
+<td>1.73</td>
+<td>1.42</td>
+<td>2.33</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

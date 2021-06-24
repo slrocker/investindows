@@ -1,6 +1,6 @@
 ---
 title: "CYRELA COMMERCIAL PROPERTIES S.A.EMP  PART (CCPR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CCPR3 ;
 <td>6.39</td>
 <td>5.83</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CCPR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.34</td>
+<td>43.35</td>
+<td>20.59</td>
+<td>5.00</td>
+<td>82.50</td>
+<td>19.70</td>
+<td>6.91</td>
+<td>9.13</td>
+<td>12.08</td>
+<td>10.97</td>
+<td>11.61</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CCPR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.71</td>
+<td>1.33</td>
+<td>0.58</td>
+<td>0.59</td>
+<td>0.56</td>
+<td>0.49</td>
+<td>0.67</td>
+<td>1.40</td>
+<td>2.87</td>
+<td>2.54</td>
+<td>2.49</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CCPR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>6.46</td>
+<td>0,00</td>
+<td>11.73</td>
+<td>31.03</td>
+<td>0.47</td>
+<td>2.26</td>
+<td>3.44</td>
+<td>4.17</td>
+<td>1.31</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CCPR3 ;
 <td>7.57</td>
 <td>5.94</td>
 <td>5.43</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CCPR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>41.28</td>
+<td>127.87</td>
+<td>NA</td>
+<td>6.38</td>
+<td>NA</td>
+<td>44.15</td>
+<td>10.50</td>
+<td>11.71</td>
+<td>13.52</td>
+<td>12.36</td>
+<td>13.36</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CCPR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.28</td>
+<td>2.20</td>
+<td>0.98</td>
+<td>0.96</td>
+<td>1.01</td>
+<td>0.86</td>
+<td>1.33</td>
+<td>2.49</td>
+<td>3.29</td>
+<td>2.74</td>
+<td>2.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CCPR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>6.46</td>
+<td>0,00</td>
+<td>11.73</td>
+<td>31.03</td>
+<td>0.47</td>
+<td>2.26</td>
+<td>3.44</td>
+<td>4.17</td>
+<td>1.31</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

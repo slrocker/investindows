@@ -1,6 +1,6 @@
 ---
 title: "INDÚSTRIAS ROMI S.A. (ROMI) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ ROMI3 ;
 <td>9.09</td>
 <td>9.39</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ROMI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.49</td>
+<td>8.49</td>
+<td>6.42</td>
+<td>13.33</td>
+<td>NA</td>
+<td>16.19</td>
+<td>26.85</td>
+<td>231.79</td>
+<td>NA</td>
+<td>116.47</td>
+<td>15.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ROMI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.39</td>
+<td>1.45</td>
+<td>0.78</td>
+<td>0.79</td>
+<td>0.27</td>
+<td>0.18</td>
+<td>0.32</td>
+<td>0.66</td>
+<td>0.53</td>
+<td>0.74</td>
+<td>1.54</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ROMI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>7.85</td>
+<td>4.16</td>
+<td>4.02</td>
+<td>0.07</td>
+<td>1.51</td>
+<td>1.81</td>
+<td>0.61</td>
+<td>0.12</td>
+<td>0.26</td>
+<td>6.94</td>
+<td>3.08</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ ROMI3 ;
 <td>8.50</td>
 <td>9.07</td>
 <td>9.36</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ROMI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.49</td>
+<td>8.51</td>
+<td>6.44</td>
+<td>13.44</td>
+<td>NA</td>
+<td>19.02</td>
+<td>28.47</td>
+<td>312.79</td>
+<td>NA</td>
+<td>141.22</td>
+<td>15.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ROMI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.39</td>
+<td>1.46</td>
+<td>0.78</td>
+<td>0.79</td>
+<td>0.27</td>
+<td>0.18</td>
+<td>0.32</td>
+<td>0.66</td>
+<td>0.54</td>
+<td>0.74</td>
+<td>1.55</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ROMI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>7.83</td>
+<td>4.96</td>
+<td>5.04</td>
+<td>0,00</td>
+<td>0.93</td>
+<td>1.44</td>
+<td>0.18</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>6.78</td>
+<td>3.01</td>
 </tr>
 </tbody>
 </table>

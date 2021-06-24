@@ -1,6 +1,6 @@
 ---
 title: "IRANI PAPEL E EMBALAGEM S.A. (RANI) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ RANI3 ;
 <td>57.29</td>
 <td>57.64</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RANI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.92</td>
+<td>NA</td>
+<td>161.13</td>
+<td>NA</td>
+<td>NA</td>
+<td>1.01</td>
+<td>9.61</td>
+<td>8.16</td>
+<td>9.52</td>
+<td>16.46</td>
+<td>6.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RANI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.76</td>
+<td>1.98</td>
+<td>1.57</td>
+<td>0.96</td>
+<td>0.89</td>
+<td>1.27</td>
+<td>1.09</td>
+<td>1.13</td>
+<td>0.55</td>
+<td>0.33</td>
+<td>0.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RANI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.20</td>
+<td>0.56</td>
+<td>14.02</td>
+<td>1.27</td>
+<td>78.63</td>
+<td>3.47</td>
+<td>4.14</td>
+<td>4.36</td>
+<td>7.84</td>
+<td>9.04</td>
+<td>1.76</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ RANI3 ;
 <td>2.80</td>
 <td>57.28</td>
 <td>57.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RANI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.92</td>
+<td>NA</td>
+<td>161.13</td>
+<td>NA</td>
+<td>NA</td>
+<td>1.01</td>
+<td>9.61</td>
+<td>8.16</td>
+<td>9.52</td>
+<td>16.47</td>
+<td>6.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RANI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.76</td>
+<td>1.98</td>
+<td>1.57</td>
+<td>0.96</td>
+<td>0.89</td>
+<td>1.27</td>
+<td>1.09</td>
+<td>1.13</td>
+<td>0.55</td>
+<td>0.33</td>
+<td>0.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RANI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.20</td>
+<td>0.56</td>
+<td>14.02</td>
+<td>1.27</td>
+<td>78.63</td>
+<td>3.47</td>
+<td>4.14</td>
+<td>4.36</td>
+<td>7.84</td>
+<td>9.04</td>
+<td>1.76</td>
 </tr>
 </tbody>
 </table>

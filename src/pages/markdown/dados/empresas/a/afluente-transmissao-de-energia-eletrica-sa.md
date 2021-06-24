@@ -1,6 +1,6 @@
 ---
 title: "AFLUENTE TRANSMISSÃO DE ENERGIA ELETRICA S/A (AFLT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -2663,6 +2663,51 @@ AFLT3 ;
 <td>1.26</td>
 <td>1.29</td>
 <td>1.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AFLT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>33.25</td>
+<td>27.67</td>
+<td>15.06</td>
+<td>25.10</td>
+<td>14.04</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>11.09</td>
+<td>10.43</td>
+<td>17.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AFLT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.32</td>
+<td>3.26</td>
+<td>1.74</td>
+<td>6.99</td>
+<td>2.63</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.46</td>
+<td>2.72</td>
+<td>4.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AFLT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.95</td>
+<td>3.34</td>
+<td>4.38</td>
+<td>9.71</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>10.24</td>
+<td>7.12</td>
+<td>2.41</td>
 </tr>
 </tbody>
 </table>

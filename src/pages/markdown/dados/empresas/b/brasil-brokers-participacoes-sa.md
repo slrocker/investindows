@@ -1,6 +1,6 @@
 ---
 title: "BRASIL BROKERS PARTICIPAÇÕES SA (BBRK) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ BBRK3 ;
 <td>4.23</td>
 <td>2.67</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BBRK3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>11.65</td>
+<td>13.79</td>
+<td>8.48</td>
+<td>21.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BBRK3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>NA</td>
+<td>0.83</td>
+<td>1.10</td>
+<td>1.02</td>
+<td>1.01</td>
+<td>0.58</td>
+<td>0.87</td>
+<td>1.43</td>
+<td>1.73</td>
+<td>1.32</td>
+<td>3.57</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BBRK3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>30.04</td>
+<td>5.27</td>
+<td>4.62</td>
+<td>3.92</td>
+<td>1.32</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ BBRK3 ;
 <td>3.52</td>
 <td>3.88</td>
 <td>2.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BBRK3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>13.85</td>
+<td>15.94</td>
+<td>9.37</td>
+<td>22.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BBRK3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>NA</td>
+<td>0.86</td>
+<td>1.11</td>
+<td>1.03</td>
+<td>1.05</td>
+<td>0.59</td>
+<td>0.94</td>
+<td>1.61</td>
+<td>1.96</td>
+<td>1.44</td>
+<td>3.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BBRK3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>30.04</td>
+<td>5.27</td>
+<td>4.62</td>
+<td>3.46</td>
+<td>1.32</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "AMBEV S.A. (ABEV) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de AMBEV S.A
 ## Dados Cadastrais
 **CNPJ**: 07.526.557/0001-00
 
-**RI**: Fernando Mommensohn Tennenbaum
+**RI**: Lucas Machado Lira
 
 **email RI**: ri@ambev.com.br
 
@@ -4381,6 +4381,45 @@ ABEV3 ;
 <td>2.81</td>
 <td>ND</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ABEV3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>20.99</td>
+<td>24.10</td>
+<td>22.32</td>
+<td>43.43</td>
+<td>19.70</td>
+<td>21.78</td>
+<td>20.78</td>
+<td>23.86</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ABEV3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.28</td>
+<td>4.70</td>
+<td>4.41</td>
+<td>7.10</td>
+<td>5.53</td>
+<td>5.57</td>
+<td>5.89</td>
+<td>6.16</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ABEV3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.78</td>
+<td>2.68</td>
+<td>3.47</td>
+<td>2.59</td>
+<td>4.01</td>
+<td>4.10</td>
+<td>4.69</td>
+<td>2.66</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4467,6 +4506,45 @@ ABEV3 ;
 <td>2.69</td>
 <td>2.74</td>
 <td>3.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ABEV3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.64</td>
+<td>24.94</td>
+<td>23.03</td>
+<td>46.50</td>
+<td>20.54</td>
+<td>22.58</td>
+<td>21.29</td>
+<td>28.42</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ABEV3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.34</td>
+<td>4.79</td>
+<td>4.51</td>
+<td>7.41</td>
+<td>5.75</td>
+<td>5.80</td>
+<td>6.08</td>
+<td>6.33</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ABEV3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.62</td>
+<td>2.62</td>
+<td>3.39</td>
+<td>2.47</td>
+<td>4.04</td>
+<td>3.90</td>
+<td>4.62</td>
+<td>0.76</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

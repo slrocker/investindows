@@ -1,6 +1,6 @@
 ---
 title: "CIA ENERG MINAS GERAIS - CEMIG (CMIG) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ CMIG3 ; CMIG4 ;
 <td>17.21</td>
 <td>16.82</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CMIG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.69</td>
+<td>7.27</td>
+<td>13.07</td>
+<td>8.30</td>
+<td>29.63</td>
+<td>3.28</td>
+<td>5.54</td>
+<td>5.76</td>
+<td>4.43</td>
+<td>7.71</td>
+<td>6.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CMIG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.43</td>
+<td>1.43</td>
+<td>1.43</td>
+<td>0.58</td>
+<td>0.77</td>
+<td>0.62</td>
+<td>1.54</td>
+<td>1.41</td>
+<td>1.57</td>
+<td>1.59</td>
+<td>1.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CMIG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CMIG4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.72</td>
+<td>6.43</td>
+<td>11.98</td>
+<td>8.75</td>
+<td>28.99</td>
+<td>3.13</td>
+<td>5.27</td>
+<td>5.68</td>
+<td>4.59</td>
+<td>9.40</td>
+<td>8.07</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CMIG4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.27</td>
+<td>1.27</td>
+<td>1.31</td>
+<td>0.61</td>
+<td>0.75</td>
+<td>0.59</td>
+<td>1.47</td>
+<td>1.40</td>
+<td>1.63</td>
+<td>1.93</td>
+<td>1.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CMIG4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ CMIG3 ; CMIG4 ;
 <td>14.13</td>
 <td>17.21</td>
 <td>16.82</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CMIG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.70</td>
+<td>7.27</td>
+<td>13.39</td>
+<td>8.30</td>
+<td>29.67</td>
+<td>3.28</td>
+<td>5.54</td>
+<td>5.76</td>
+<td>4.43</td>
+<td>7.71</td>
+<td>6.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CMIG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.43</td>
+<td>1.43</td>
+<td>1.56</td>
+<td>0.58</td>
+<td>0.77</td>
+<td>0.62</td>
+<td>1.54</td>
+<td>1.41</td>
+<td>1.57</td>
+<td>1.59</td>
+<td>1.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CMIG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CMIG4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.72</td>
+<td>6.43</td>
+<td>12.27</td>
+<td>8.75</td>
+<td>29.03</td>
+<td>3.13</td>
+<td>5.27</td>
+<td>5.68</td>
+<td>4.59</td>
+<td>9.40</td>
+<td>8.07</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CMIG4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.27</td>
+<td>1.27</td>
+<td>1.43</td>
+<td>0.61</td>
+<td>0.75</td>
+<td>0.59</td>
+<td>1.47</td>
+<td>1.40</td>
+<td>1.63</td>
+<td>1.93</td>
+<td>1.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CMIG4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

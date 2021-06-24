@@ -1,6 +1,6 @@
 ---
 title: "JBS SA (JBSS) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de JBS SA.
 ## Dados Cadastrais
 **CNPJ**: 02.916.265/0001-60
 
-**RI**: Jeremiah Alphonsus O'Callaghan
+**RI**: Guilherme Perboyre Cavalcanti
 
 **email RI**: ri@jbs.com.br
 
@@ -5173,6 +5173,51 @@ JBSS3 ;
 <td>7.06</td>
 <td>7.28</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JBSS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.33</td>
+<td>10.89</td>
+<td>156.36</td>
+<td>26.88</td>
+<td>46.03</td>
+<td>6.88</td>
+<td>13.70</td>
+<td>23.08</td>
+<td>23.69</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JBSS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.43</td>
+<td>2.17</td>
+<td>1.18</td>
+<td>1.05</td>
+<td>1.31</td>
+<td>1.19</td>
+<td>1.27</td>
+<td>1.12</td>
+<td>0.84</td>
+<td>0.86</td>
+<td>0.98</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JBSS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.33</td>
+<td>0.02</td>
+<td>0.41</td>
+<td>0.37</td>
+<td>5.15</td>
+<td>4.87</td>
+<td>0.67</td>
+<td>0.66</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ JBSS3 ;
 <td>7.00</td>
 <td>6.75</td>
 <td>6.85</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JBSS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.50</td>
+<td>11.60</td>
+<td>1303.79</td>
+<td>51.59</td>
+<td>86.62</td>
+<td>7.60</td>
+<td>16.19</td>
+<td>27.85</td>
+<td>25.14</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JBSS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.55</td>
+<td>2.38</td>
+<td>1.28</td>
+<td>1.13</td>
+<td>1.37</td>
+<td>1.26</td>
+<td>1.37</td>
+<td>1.18</td>
+<td>0.88</td>
+<td>0.90</td>
+<td>1.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JBSS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.32</td>
+<td>0.01</td>
+<td>0.39</td>
+<td>0.32</td>
+<td>3.38</td>
+<td>1.37</td>
+<td>0.67</td>
+<td>0.66</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

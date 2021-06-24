@@ -1,6 +1,6 @@
 ---
 title: "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A. (ECOR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ ECOR3 ;
 <td>3.37</td>
 <td>3.20</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ECOR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>14.21</td>
+<td>16.88</td>
+<td>NA</td>
+<td>24.56</td>
+<td>12.56</td>
+<td>20.70</td>
+<td>22.75</td>
+<td>20.11</td>
+<td>12.02</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ECOR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>132.96</td>
+<td>20.00</td>
+<td>8.48</td>
+<td>9.20</td>
+<td>8.04</td>
+<td>1.74</td>
+<td>3.34</td>
+<td>3.94</td>
+<td>4.57</td>
+<td>4.13</td>
+<td>3.99</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ECOR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>7.40</td>
+<td>3.56</td>
+<td>3.25</td>
+<td>8.89</td>
+<td>13.51</td>
+<td>5.34</td>
+<td>2.22</td>
+<td>3.77</td>
+<td>3.90</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ ECOR3 ;
 <td>3.77</td>
 <td>3.37</td>
 <td>3.19</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ECOR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>14.50</td>
+<td>17.74</td>
+<td>NA</td>
+<td>26.10</td>
+<td>12.62</td>
+<td>20.78</td>
+<td>23.02</td>
+<td>20.35</td>
+<td>12.10</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ECOR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>132.96</td>
+<td>20.00</td>
+<td>8.48</td>
+<td>10.57</td>
+<td>9.21</td>
+<td>1.80</td>
+<td>3.44</td>
+<td>3.99</td>
+<td>4.61</td>
+<td>4.14</td>
+<td>4.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ECOR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>7.40</td>
+<td>3.49</td>
+<td>3.18</td>
+<td>8.30</td>
+<td>13.41</td>
+<td>5.26</td>
+<td>2.03</td>
+<td>3.66</td>
+<td>3.90</td>
 </tr>
 </tbody>
 </table>

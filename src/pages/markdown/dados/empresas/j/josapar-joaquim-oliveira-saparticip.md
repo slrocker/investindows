@@ -1,6 +1,6 @@
 ---
 title: "JOSAPAR- JOAQUIM OLIVEIRA S.A.PARTICIP (JOPA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ JOPA3 ; JOPA4 ;
 <td>44.24</td>
 <td>43.25</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JOPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>15.45</td>
+<td>ND</td>
+<td>10.45</td>
+<td>ND</td>
+<td>4.07</td>
+<td>4.86</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>16.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JOPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.43</td>
+<td>ND</td>
+<td>0.41</td>
+<td>ND</td>
+<td>0.20</td>
+<td>0.22</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JOPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>3.09</td>
+<td>ND</td>
+<td>4.03</td>
+<td>ND</td>
+<td>6.16</td>
+<td>4.31</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) JOPA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.69</td>
+<td>ND</td>
+<td>ND</td>
+<td>6.09</td>
+<td>ND</td>
+<td>9.62</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) JOPA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.35</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.31</td>
+<td>ND</td>
+<td>0.49</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) JOPA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>3.28</td>
+<td>ND</td>
+<td>ND</td>
+<td>4.11</td>
+<td>ND</td>
+<td>19.15</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ JOPA3 ; JOPA4 ;
 <td>36.01</td>
 <td>33.70</td>
 <td>32.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JOPA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>26.74</td>
+<td>ND</td>
+<td>13.81</td>
+<td>ND</td>
+<td>5.03</td>
+<td>6.19</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>19.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JOPA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.57</td>
+<td>ND</td>
+<td>0.56</td>
+<td>ND</td>
+<td>0.28</td>
+<td>0.30</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JOPA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>2.41</td>
+<td>ND</td>
+<td>3.31</td>
+<td>ND</td>
+<td>4.81</td>
+<td>4.31</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.41</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) JOPA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>9.65</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.53</td>
+<td>ND</td>
+<td>12.13</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) JOPA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.48</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.42</td>
+<td>ND</td>
+<td>0.65</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) JOPA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.33</td>
+<td>ND</td>
+<td>ND</td>
+<td>3.21</td>
+<td>ND</td>
+<td>19.15</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

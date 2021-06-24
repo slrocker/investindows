@@ -1,6 +1,6 @@
 ---
 title: "COSAN S.A. (CSAN) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CSAN3 ;
 <td>23.62</td>
 <td>16.66</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSAN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>32.85</td>
+<td>11.04</td>
+<td>7.65</td>
+<td>11.49</td>
+<td>11.18</td>
+<td>10.60</td>
+<td>18.26</td>
+<td>NA</td>
+<td>21.35</td>
+<td>5.23</td>
+<td>13.32</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSAN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.59</td>
+<td>2.48</td>
+<td>1.33</td>
+<td>1.69</td>
+<td>1.44</td>
+<td>0.82</td>
+<td>0.94</td>
+<td>ND</td>
+<td>1.38</td>
+<td>1.44</td>
+<td>1.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSAN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.56</td>
+<td>3.45</td>
+<td>7.18</td>
+<td>7.14</td>
+<td>12.23</td>
+<td>6.34</td>
+<td>6.93</td>
+<td>0,00</td>
+<td>2.03</td>
+<td>1.39</td>
+<td>1.87</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CSAN3 ;
 <td>24.05</td>
 <td>22.47</td>
 <td>15.86</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSAN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>35.05</td>
+<td>11.31</td>
+<td>8.81</td>
+<td>13.20</td>
+<td>15.00</td>
+<td>15.39</td>
+<td>40.23</td>
+<td>NA</td>
+<td>29.04</td>
+<td>5.31</td>
+<td>13.41</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSAN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.75</td>
+<td>2.60</td>
+<td>1.47</td>
+<td>1.84</td>
+<td>1.73</td>
+<td>1.16</td>
+<td>1.33</td>
+<td>ND</td>
+<td>1.89</td>
+<td>1.51</td>
+<td>1.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSAN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.92</td>
+<td>1.42</td>
+<td>3.06</td>
+<td>2.17</td>
+<td>5.58</td>
+<td>2.65</td>
+<td>2.53</td>
+<td>0,00</td>
+<td>1.30</td>
+<td>1.39</td>
+<td>1.87</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "LINX S.A. (LINX) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -4777,6 +4777,48 @@ LINX3 ;
 <td>17.26</td>
 <td>18.27</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LINX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>172.57</td>
+<td>80.76</td>
+<td>41.96</td>
+<td>41.95</td>
+<td>32.51</td>
+<td>34.94</td>
+<td>35.74</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LINX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.38</td>
+<td>3.75</td>
+<td>5.43</td>
+<td>3.04</td>
+<td>2.49</td>
+<td>3.12</td>
+<td>3.72</td>
+<td>3.80</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LINX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.28</td>
+<td>0.37</td>
+<td>0.40</td>
+<td>0.56</td>
+<td>0.84</td>
+<td>0.67</td>
+<td>0.64</td>
+<td>0.86</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4869,6 +4911,48 @@ LINX3 ;
 <td>12.59</td>
 <td>17.26</td>
 <td>18.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LINX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>172.57</td>
+<td>80.76</td>
+<td>41.96</td>
+<td>41.95</td>
+<td>32.51</td>
+<td>34.94</td>
+<td>35.74</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LINX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.38</td>
+<td>3.75</td>
+<td>5.43</td>
+<td>3.04</td>
+<td>2.49</td>
+<td>3.12</td>
+<td>3.72</td>
+<td>3.80</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LINX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.28</td>
+<td>0.37</td>
+<td>0.40</td>
+<td>0.56</td>
+<td>0.84</td>
+<td>0.71</td>
+<td>0.64</td>
+<td>0.86</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

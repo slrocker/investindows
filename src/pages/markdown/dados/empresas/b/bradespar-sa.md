@@ -1,6 +1,6 @@
 ---
 title: "BRADESPAR S/A (BRAP) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ BRAP3 ; BRAP4 ;
 <td>24.82</td>
 <td>20.09</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BRAP3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.58</td>
+<td>NA</td>
+<td>8.36</td>
+<td>3.81</td>
+<td>6.99</td>
+<td>NA</td>
+<td>40.68</td>
+<td>NA</td>
+<td>24.19</td>
+<td>6.05</td>
+<td>8.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BRAP3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.77</td>
+<td>1.29</td>
+<td>1.00</td>
+<td>1.01</td>
+<td>0.56</td>
+<td>0.20</td>
+<td>0.46</td>
+<td>0.79</td>
+<td>1.24</td>
+<td>1.41</td>
+<td>2.19</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BRAP3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.46</td>
+<td>3.08</td>
+<td>7.23</td>
+<td>2.16</td>
+<td>0,00</td>
+<td>20.51</td>
+<td>13.19</td>
+<td>5.96</td>
+<td>5.16</td>
+<td>4.40</td>
+<td>2.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BRAP4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.11</td>
+<td>NA</td>
+<td>9.09</td>
+<td>4.45</td>
+<td>8.25</td>
+<td>NA</td>
+<td>49.25</td>
+<td>NA</td>
+<td>25.10</td>
+<td>5.47</td>
+<td>8.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BRAP4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.97</td>
+<td>1.39</td>
+<td>1.09</td>
+<td>1.18</td>
+<td>0.66</td>
+<td>0.22</td>
+<td>0.56</td>
+<td>0.97</td>
+<td>1.28</td>
+<td>1.28</td>
+<td>2.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BRAP4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.00</td>
+<td>2.85</td>
+<td>6.65</td>
+<td>1.85</td>
+<td>0,00</td>
+<td>18.25</td>
+<td>10.90</td>
+<td>4.83</td>
+<td>4.97</td>
+<td>4.87</td>
+<td>2.07</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ BRAP3 ; BRAP4 ;
 <td>26.65</td>
 <td>24.82</td>
 <td>19.39</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BRAP3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.58</td>
+<td>NA</td>
+<td>8.36</td>
+<td>3.81</td>
+<td>6.99</td>
+<td>NA</td>
+<td>40.68</td>
+<td>NA</td>
+<td>24.19</td>
+<td>6.05</td>
+<td>8.74</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BRAP3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.77</td>
+<td>1.29</td>
+<td>1.00</td>
+<td>1.01</td>
+<td>0.56</td>
+<td>0.20</td>
+<td>0.46</td>
+<td>0.79</td>
+<td>1.24</td>
+<td>1.41</td>
+<td>2.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BRAP3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.46</td>
+<td>3.08</td>
+<td>7.23</td>
+<td>2.16</td>
+<td>0,00</td>
+<td>20.51</td>
+<td>13.19</td>
+<td>5.96</td>
+<td>5.16</td>
+<td>4.40</td>
+<td>2.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BRAP4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.11</td>
+<td>NA</td>
+<td>9.09</td>
+<td>4.45</td>
+<td>8.25</td>
+<td>NA</td>
+<td>49.25</td>
+<td>NA</td>
+<td>25.10</td>
+<td>5.47</td>
+<td>8.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BRAP4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.97</td>
+<td>1.39</td>
+<td>1.09</td>
+<td>1.18</td>
+<td>0.66</td>
+<td>0.22</td>
+<td>0.56</td>
+<td>0.97</td>
+<td>1.28</td>
+<td>1.28</td>
+<td>2.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BRAP4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.00</td>
+<td>2.85</td>
+<td>6.65</td>
+<td>1.85</td>
+<td>0,00</td>
+<td>18.25</td>
+<td>10.90</td>
+<td>4.83</td>
+<td>4.97</td>
+<td>4.87</td>
+<td>2.07</td>
 </tr>
 </tbody>
 </table>

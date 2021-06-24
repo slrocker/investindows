@@ -1,6 +1,6 @@
 ---
 title: "BRASILAGRO CIA BRAS DE PROP AGRICOLAS (AGRO) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -4777,6 +4777,48 @@ AGRO3 ;
 <td>9.57</td>
 <td>9.88</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AGRO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.89</td>
+<td>5.37</td>
+<td>6.10</td>
+<td>25.41</td>
+<td>65.93</td>
+<td>3.59</td>
+<td>NA</td>
+<td>22.57</td>
+<td>NA</td>
+<td>40.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AGRO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.16</td>
+<td>1.08</td>
+<td>1.02</td>
+<td>1.04</td>
+<td>1.02</td>
+<td>0.86</td>
+<td>0.96</td>
+<td>1.10</td>
+<td>0.78</td>
+<td>1.03</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AGRO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.84</td>
+<td>4.32</td>
+<td>1.68</td>
+<td>4.62</td>
+<td>11.57</td>
+<td>0,00</td>
+<td>1.05</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4869,6 +4911,48 @@ AGRO3 ;
 <td>10.05</td>
 <td>9.57</td>
 <td>9.76</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AGRO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.89</td>
+<td>5.37</td>
+<td>6.10</td>
+<td>25.41</td>
+<td>65.93</td>
+<td>3.59</td>
+<td>NA</td>
+<td>22.57</td>
+<td>NA</td>
+<td>40.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AGRO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.16</td>
+<td>1.08</td>
+<td>1.02</td>
+<td>1.04</td>
+<td>1.02</td>
+<td>0.86</td>
+<td>0.96</td>
+<td>1.10</td>
+<td>0.78</td>
+<td>1.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AGRO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.84</td>
+<td>4.32</td>
+<td>1.68</td>
+<td>4.62</td>
+<td>11.57</td>
+<td>0,00</td>
+<td>1.05</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

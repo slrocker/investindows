@@ -1,6 +1,6 @@
 ---
 title: "CTEEP-CIA TRANSM ENERGIA ELÉTR. PAULISTA (TRPL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ TRPL3 ; TRPL4 ;
 <td>29.74</td>
 <td>30.06</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TRPL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.72</td>
+<td>10.19</td>
+<td>5.93</td>
+<td>6.99</td>
+<td>1.96</td>
+<td>13.40</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.96</td>
+<td>9.01</td>
+<td>11.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TRPL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.37</td>
+<td>1.32</td>
+<td>0.99</td>
+<td>0.86</td>
+<td>0.94</td>
+<td>1.26</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.32</td>
+<td>1.82</td>
+<td>2.03</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TRPL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.86</td>
+<td>4.97</td>
+<td>0.02</td>
+<td>6.57</td>
+<td>1.13</td>
+<td>5.26</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.90</td>
+<td>11.10</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) TRPL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.42</td>
+<td>8.36</td>
+<td>6.08</td>
+<td>8.01</td>
+<td>2.16</td>
+<td>14.25</td>
+<td>17.62</td>
+<td>128.74</td>
+<td>6.06</td>
+<td>9.67</td>
+<td>10.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) TRPL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.30</td>
+<td>1.08</td>
+<td>1.02</td>
+<td>0.99</td>
+<td>1.04</td>
+<td>1.34</td>
+<td>1.28</td>
+<td>0.84</td>
+<td>1.01</td>
+<td>1.95</td>
+<td>1.83</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) TRPL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.08</td>
+<td>6.05</td>
+<td>0.02</td>
+<td>5.73</td>
+<td>1.03</td>
+<td>4.95</td>
+<td>6.33</td>
+<td>0.83</td>
+<td>10.37</td>
+<td>10.34</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ TRPL3 ; TRPL4 ;
 <td>33.26</td>
 <td>29.74</td>
 <td>30.06</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TRPL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.75</td>
+<td>10.29</td>
+<td>5.97</td>
+<td>7.09</td>
+<td>1.97</td>
+<td>13.74</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.96</td>
+<td>9.01</td>
+<td>11.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TRPL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.41</td>
+<td>1.54</td>
+<td>1.02</td>
+<td>0.88</td>
+<td>0.96</td>
+<td>1.30</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.32</td>
+<td>1.82</td>
+<td>2.03</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TRPL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.86</td>
+<td>4.97</td>
+<td>0.02</td>
+<td>6.57</td>
+<td>1.13</td>
+<td>5.26</td>
+<td>ND</td>
+<td>ND</td>
+<td>7.90</td>
+<td>11.10</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) TRPL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.45</td>
+<td>8.44</td>
+<td>6.13</td>
+<td>8.13</td>
+<td>2.17</td>
+<td>14.61</td>
+<td>17.69</td>
+<td>128.74</td>
+<td>6.06</td>
+<td>9.67</td>
+<td>10.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) TRPL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.33</td>
+<td>1.26</td>
+<td>1.04</td>
+<td>1.01</td>
+<td>1.06</td>
+<td>1.38</td>
+<td>1.30</td>
+<td>0.84</td>
+<td>1.01</td>
+<td>1.95</td>
+<td>1.83</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) TRPL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.08</td>
+<td>6.05</td>
+<td>0.02</td>
+<td>5.73</td>
+<td>1.03</td>
+<td>4.95</td>
+<td>6.33</td>
+<td>0.83</td>
+<td>10.37</td>
+<td>10.34</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

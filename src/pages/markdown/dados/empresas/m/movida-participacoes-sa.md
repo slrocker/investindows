@@ -1,6 +1,6 @@
 ---
 title: "MOVIDA PARTICIPAÇÕES S.A. (MOVI) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de MOVIDA PA
 ## Dados Cadastrais
 **CNPJ**: 21.314.559/0001-66
 
-**RI**: Denys Marc Ferrez
+**RI**: Edmar Prado Lopes Neto
 
 **email RI**: ri@movida.com.br
 
@@ -3589,6 +3589,39 @@ MOVI3 ;
 <td>1.27</td>
 <td>1.05</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MOVI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>56.62</td>
+<td>25.09</td>
+<td>14.92</td>
+<td>23.61</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MOVI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.62</td>
+<td>2.48</td>
+<td>1.44</td>
+<td>1.22</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MOVI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.92</td>
+<td>1.56</td>
+<td>0.99</td>
+<td>5.48</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -3663,6 +3696,39 @@ MOVI3 ;
 <td>1.01</td>
 <td>1.27</td>
 <td>1.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MOVI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>56.62</td>
+<td>25.09</td>
+<td>14.92</td>
+<td>23.61</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MOVI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.62</td>
+<td>2.48</td>
+<td>1.44</td>
+<td>1.22</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MOVI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.92</td>
+<td>1.56</td>
+<td>0.99</td>
+<td>5.48</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

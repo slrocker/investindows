@@ -1,6 +1,6 @@
 ---
 title: "SLC AGRICOLA SA (SLCE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ SLCE3 ;
 <td>19.42</td>
 <td>18.96</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SLCE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.24</td>
+<td>15.00</td>
+<td>10.42</td>
+<td>7.41</td>
+<td>91.49</td>
+<td>13.43</td>
+<td>19.88</td>
+<td>20.88</td>
+<td>50.18</td>
+<td>9.58</td>
+<td>37.12</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SLCE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.66</td>
+<td>1.58</td>
+<td>1.52</td>
+<td>1.01</td>
+<td>0.54</td>
+<td>0.68</td>
+<td>0.58</td>
+<td>0.94</td>
+<td>0.97</td>
+<td>0.80</td>
+<td>1.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SLCE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.44</td>
+<td>3.83</td>
+<td>4.99</td>
+<td>7.83</td>
+<td>4.07</td>
+<td>1.71</td>
+<td>2.74</td>
+<td>0.76</td>
+<td>3.21</td>
+<td>1.02</td>
+<td>0.33</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ SLCE3 ;
 <td>19.69</td>
 <td>19.42</td>
 <td>18.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SLCE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.71</td>
+<td>15.17</td>
+<td>11.11</td>
+<td>7.67</td>
+<td>47.79</td>
+<td>13.28</td>
+<td>20.53</td>
+<td>21.11</td>
+<td>50.61</td>
+<td>9.91</td>
+<td>34.89</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SLCE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.78</td>
+<td>1.70</td>
+<td>1.63</td>
+<td>1.09</td>
+<td>0.58</td>
+<td>0.74</td>
+<td>0.63</td>
+<td>1.00</td>
+<td>0.99</td>
+<td>0.80</td>
+<td>1.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SLCE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.44</td>
+<td>3.73</td>
+<td>4.72</td>
+<td>7.83</td>
+<td>4.07</td>
+<td>1.67</td>
+<td>2.74</td>
+<td>0.76</td>
+<td>3.21</td>
+<td>1.02</td>
+<td>0.33</td>
 </tr>
 </tbody>
 </table>

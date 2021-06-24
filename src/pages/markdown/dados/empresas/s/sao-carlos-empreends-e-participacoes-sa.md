@@ -1,6 +1,6 @@
 ---
 title: "SÃO CARLOS EMPREENDS E PARTICIPAÇÕES S.A (SCAR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ SCAR3 ;
 <td>12.74</td>
 <td>11.58</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SCAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>28.80</td>
+<td>31.25</td>
+<td>116.22</td>
+<td>20.67</td>
+<td>19.00</td>
+<td>8.13</td>
+<td>15.56</td>
+<td>8.57</td>
+<td>11.75</td>
+<td>14.50</td>
+<td>14.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SCAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.64</td>
+<td>1.84</td>
+<td>1.41</td>
+<td>1.77</td>
+<td>1.10</td>
+<td>1.05</td>
+<td>1.65</td>
+<td>1.98</td>
+<td>2.90</td>
+<td>1.90</td>
+<td>2.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SCAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.14</td>
+<td>0,00</td>
+<td>1.25</td>
+<td>0.73</td>
+<td>0.77</td>
+<td>0.89</td>
+<td>2.54</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.46</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ SCAR3 ;
 <td>15.53</td>
 <td>12.74</td>
 <td>11.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SCAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.31</td>
+<td>31.46</td>
+<td>126.47</td>
+<td>20.83</td>
+<td>19.16</td>
+<td>8.14</td>
+<td>15.62</td>
+<td>8.58</td>
+<td>11.75</td>
+<td>14.50</td>
+<td>14.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SCAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.65</td>
+<td>1.85</td>
+<td>1.41</td>
+<td>1.77</td>
+<td>1.10</td>
+<td>1.05</td>
+<td>1.65</td>
+<td>1.98</td>
+<td>2.90</td>
+<td>1.90</td>
+<td>2.01</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SCAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.54</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.46</td>
 </tr>
 </tbody>
 </table>

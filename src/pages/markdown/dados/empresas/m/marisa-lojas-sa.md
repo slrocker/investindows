@@ -1,6 +1,6 @@
 ---
 title: "MARISA LOJAS SA (AMAR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ AMAR3 ;
 <td>4.65</td>
 <td>4.46</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AMAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>39.86</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>52.66</td>
+<td>40.36</td>
+<td>26.32</td>
+<td>17.78</td>
+<td>22.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AMAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.80</td>
+<td>2.44</td>
+<td>1.16</td>
+<td>1.66</td>
+<td>1.20</td>
+<td>0.88</td>
+<td>2.33</td>
+<td>3.12</td>
+<td>5.82</td>
+<td>3.68</td>
+<td>5.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AMAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.23</td>
+<td>0.75</td>
+<td>0.62</td>
+<td>1.16</td>
+<td>3.99</td>
+<td>2.39</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ AMAR3 ;
 <td>5.60</td>
 <td>4.65</td>
 <td>4.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AMAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>39.86</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>52.66</td>
+<td>40.36</td>
+<td>26.32</td>
+<td>17.78</td>
+<td>22.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AMAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.80</td>
+<td>2.44</td>
+<td>1.16</td>
+<td>1.66</td>
+<td>1.20</td>
+<td>0.88</td>
+<td>2.33</td>
+<td>3.12</td>
+<td>5.82</td>
+<td>3.68</td>
+<td>5.64</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AMAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.23</td>
+<td>0.75</td>
+<td>0.62</td>
+<td>1.16</td>
+<td>3.97</td>
+<td>2.40</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "LOJAS RENNER SA (LREN) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ LREN3 ;
 <td>9.40</td>
 <td>8.35</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LREN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>31.62</td>
+<td>40.67</td>
+<td>30.74</td>
+<td>34.41</td>
+<td>23.86</td>
+<td>18.91</td>
+<td>20.67</td>
+<td>18.85</td>
+<td>28.07</td>
+<td>17.65</td>
+<td>22.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LREN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.30</td>
+<td>9.50</td>
+<td>7.93</td>
+<td>7.82</td>
+<td>5.65</td>
+<td>4.74</td>
+<td>5.25</td>
+<td>5.14</td>
+<td>7.64</td>
+<td>5.15</td>
+<td>6.76</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LREN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.70</td>
+<td>0.92</td>
+<td>0.92</td>
+<td>1.00</td>
+<td>1.61</td>
+<td>1.64</td>
+<td>1.59</td>
+<td>3.41</td>
+<td>2.54</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LREN3 ;
 <td>10.52</td>
 <td>9.40</td>
 <td>8.35</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LREN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>31.62</td>
+<td>40.67</td>
+<td>30.74</td>
+<td>34.41</td>
+<td>23.86</td>
+<td>18.91</td>
+<td>20.67</td>
+<td>18.85</td>
+<td>28.07</td>
+<td>17.65</td>
+<td>22.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LREN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.30</td>
+<td>9.50</td>
+<td>7.93</td>
+<td>7.82</td>
+<td>5.65</td>
+<td>4.74</td>
+<td>5.25</td>
+<td>5.14</td>
+<td>7.64</td>
+<td>5.15</td>
+<td>6.76</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LREN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.70</td>
+<td>0.92</td>
+<td>0.92</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

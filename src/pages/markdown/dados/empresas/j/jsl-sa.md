@@ -1,6 +1,6 @@
 ---
 title: "JSL S.A. (JSLG) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de JSL S.A..
 ## Dados Cadastrais
 **CNPJ**: 52.548.435/0001-79
 
-**RI**: Ronald Domingues
+**RI**: Paulo Geraldo Polezi
 
 **email RI**: ri@juliosimoes.com.br
 
@@ -5173,6 +5173,51 @@ JSLG3 ;
 <td>4.19</td>
 <td>4.09</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JSLG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>22.93</td>
+<td>17.37</td>
+<td>7.89</td>
+<td>95.21</td>
+<td>NA</td>
+<td>32.49</td>
+<td>38.16</td>
+<td>36.98</td>
+<td>38.93</td>
+<td>33.06</td>
+<td>23.83</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JSLG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.83</td>
+<td>2.33</td>
+<td>1.20</td>
+<td>1.34</td>
+<td>2.99</td>
+<td>1.49</td>
+<td>2.65</td>
+<td>3.41</td>
+<td>3.19</td>
+<td>2.23</td>
+<td>2.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JSLG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.38</td>
+<td>0.95</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.75</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ JSLG3 ;
 <td>4.38</td>
 <td>4.19</td>
 <td>4.09</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JSLG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.67</td>
+<td>24.50</td>
+<td>11.37</td>
+<td>NA</td>
+<td>NA</td>
+<td>32.49</td>
+<td>38.16</td>
+<td>36.97</td>
+<td>38.94</td>
+<td>33.07</td>
+<td>23.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JSLG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.83</td>
+<td>4.11</td>
+<td>1.98</td>
+<td>2.32</td>
+<td>2.99</td>
+<td>1.49</td>
+<td>2.65</td>
+<td>3.41</td>
+<td>3.19</td>
+<td>2.23</td>
+<td>2.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JSLG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.38</td>
+<td>0.59</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.39</td>
+<td>0.69</td>
+<td>0.49</td>
+<td>0.37</td>
+<td>0,00</td>
+<td>4.75</td>
 </tr>
 </tbody>
 </table>

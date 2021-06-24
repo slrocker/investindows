@@ -1,6 +1,6 @@
 ---
 title: "LOG-IN LOGISTICA INTERMODAL SA (LOGN) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ LOGN3 ;
 <td>5.82</td>
 <td>6.67</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LOGN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>131.29</td>
+<td>195.19</td>
+<td>50.96</td>
+<td>NA</td>
+<td>0.50</td>
+<td>NA</td>
+<td>NA</td>
+<td>114.52</td>
+<td>NA</td>
+<td>NA</td>
+<td>52.12</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LOGN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.82</td>
+<td>6.87</td>
+<td>NA</td>
+<td>NA</td>
+<td>0.25</td>
+<td>1.15</td>
+<td>0.66</td>
+<td>1.35</td>
+<td>1.51</td>
+<td>1.18</td>
+<td>1.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LOGN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>328.82</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>6.98</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LOGN3 ;
 <td>5.79</td>
 <td>5.83</td>
 <td>6.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LOGN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>131.79</td>
+<td>195.68</td>
+<td>51.57</td>
+<td>NA</td>
+<td>0.50</td>
+<td>NA</td>
+<td>NA</td>
+<td>113.22</td>
+<td>NA</td>
+<td>NA</td>
+<td>51.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LOGN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.82</td>
+<td>6.87</td>
+<td>NA</td>
+<td>NA</td>
+<td>0.25</td>
+<td>1.15</td>
+<td>0.66</td>
+<td>1.35</td>
+<td>1.51</td>
+<td>1.18</td>
+<td>1.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LOGN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

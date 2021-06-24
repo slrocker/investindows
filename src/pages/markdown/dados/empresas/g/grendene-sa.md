@@ -1,6 +1,6 @@
 ---
 title: "GRENDENE SA (GRND) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ GRND3 ;
 <td>5.99</td>
 <td>5.57</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GRND3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>18.66</td>
+<td>22.38</td>
+<td>12.79</td>
+<td>12.95</td>
+<td>8.34</td>
+<td>9.39</td>
+<td>9.48</td>
+<td>12.53</td>
+<td>11.49</td>
+<td>7.57</td>
+<td>8.97</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GRND3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.79</td>
+<td>3.01</td>
+<td>2.16</td>
+<td>2.66</td>
+<td>1.81</td>
+<td>1.94</td>
+<td>1.98</td>
+<td>2.63</td>
+<td>2.53</td>
+<td>1.28</td>
+<td>1.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GRND3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.44</td>
+<td>2.55</td>
+<td>2.53</td>
+<td>3.47</td>
+<td>5.14</td>
+<td>5.13</td>
+<td>5.42</td>
+<td>5.58</td>
+<td>7.93</td>
+<td>3.73</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ GRND3 ;
 <td>6.49</td>
 <td>5.99</td>
 <td>5.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GRND3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>18.66</td>
+<td>22.38</td>
+<td>12.79</td>
+<td>12.94</td>
+<td>8.33</td>
+<td>9.19</td>
+<td>9.39</td>
+<td>12.55</td>
+<td>11.52</td>
+<td>7.57</td>
+<td>8.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GRND3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.79</td>
+<td>3.01</td>
+<td>2.16</td>
+<td>2.66</td>
+<td>1.81</td>
+<td>1.94</td>
+<td>1.99</td>
+<td>2.64</td>
+<td>2.53</td>
+<td>1.28</td>
+<td>1.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GRND3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.55</td>
+<td>1.44</td>
+<td>2.55</td>
+<td>2.53</td>
+<td>3.47</td>
+<td>5.14</td>
+<td>5.13</td>
+<td>5.42</td>
+<td>5.58</td>
+<td>7.93</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

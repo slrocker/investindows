@@ -1,6 +1,6 @@
 ---
 title: "PORTO SEGURO SA (PSSA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ PSSA3 ;
 <td>14.36</td>
 <td>13.56</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PSSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.38</td>
+<td>14.71</td>
+<td>12.84</td>
+<td>10.72</td>
+<td>9.54</td>
+<td>9.32</td>
+<td>11.22</td>
+<td>6.88</td>
+<td>11.27</td>
+<td>12.03</td>
+<td>14.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PSSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.77</td>
+<td>2.45</td>
+<td>2.20</td>
+<td>1.53</td>
+<td>1.24</td>
+<td>1.44</td>
+<td>1.64</td>
+<td>1.63</td>
+<td>1.51</td>
+<td>1.48</td>
+<td>2.09</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PSSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.35</td>
+<td>3.23</td>
+<td>7.38</td>
+<td>0,00</td>
+<td>0.53</td>
+<td>2.21</td>
+<td>6.49</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ PSSA3 ;
 <td>15.59</td>
 <td>14.34</td>
 <td>13.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PSSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.38</td>
+<td>14.71</td>
+<td>12.83</td>
+<td>10.69</td>
+<td>9.50</td>
+<td>9.29</td>
+<td>11.22</td>
+<td>6.84</td>
+<td>11.23</td>
+<td>12.03</td>
+<td>14.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PSSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.77</td>
+<td>2.45</td>
+<td>2.20</td>
+<td>1.53</td>
+<td>1.24</td>
+<td>1.44</td>
+<td>1.64</td>
+<td>1.63</td>
+<td>1.51</td>
+<td>1.48</td>
+<td>2.09</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PSSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.35</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.53</td>
+<td>2.21</td>
+<td>6.49</td>
+<td>1.72</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

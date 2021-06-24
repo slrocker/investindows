@@ -1,6 +1,6 @@
 ---
 title: "VALE S.A. (VALE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ VALE3 ;
 <td>27.34</td>
 <td>21.68</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VALE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>18.56</td>
+<td>NA</td>
+<td>10.48</td>
+<td>12.48</td>
+<td>10.13</td>
+<td>NA</td>
+<td>523.27</td>
+<td>NA</td>
+<td>25.63</td>
+<td>5.66</td>
+<td>9.76</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VALE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.55</td>
+<td>1.79</td>
+<td>1.55</td>
+<td>1.49</td>
+<td>1.01</td>
+<td>0.49</td>
+<td>0.77</td>
+<td>1.26</td>
+<td>1.52</td>
+<td>1.44</td>
+<td>2.55</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VALE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ VALE3 ;
 <td>28.40</td>
 <td>26.74</td>
 <td>20.90</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VALE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>17.30</td>
+<td>NA</td>
+<td>10.52</td>
+<td>12.51</td>
+<td>10.12</td>
+<td>NA</td>
+<td>120.39</td>
+<td>1.66</td>
+<td>24.31</td>
+<td>5.60</td>
+<td>9.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VALE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.49</td>
+<td>1.74</td>
+<td>1.58</td>
+<td>1.53</td>
+<td>1.06</td>
+<td>0.52</td>
+<td>0.78</td>
+<td>1.29</td>
+<td>1.55</td>
+<td>1.48</td>
+<td>2.65</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VALE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

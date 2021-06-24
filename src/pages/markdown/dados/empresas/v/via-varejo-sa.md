@@ -1,6 +1,6 @@
 ---
 title: "VIA VAREJO S.A. (VVAR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ VVAR3 ;
 <td>8.29</td>
 <td>7.96</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VVAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>25.71</td>
+<td>NA</td>
+<td>NA</td>
+<td>51.08</td>
+<td>NA</td>
+<td>133.70</td>
+<td>ND</td>
+<td>ND</td>
+<td>18.03</td>
+<td>ND</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VVAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.32</td>
+<td>25.11</td>
+<td>2.25</td>
+<td>3.37</td>
+<td>1.66</td>
+<td>0.44</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.94</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VVAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.31</td>
+<td>64.54</td>
+<td>11.91</td>
+<td>0,00</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ VVAR3 ;
 <td>9.16</td>
 <td>8.17</td>
 <td>7.89</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VVAR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>25.71</td>
+<td>NA</td>
+<td>NA</td>
+<td>51.08</td>
+<td>NA</td>
+<td>133.70</td>
+<td>ND</td>
+<td>ND</td>
+<td>18.11</td>
+<td>ND</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VVAR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.32</td>
+<td>25.11</td>
+<td>2.25</td>
+<td>3.37</td>
+<td>1.66</td>
+<td>0.44</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.97</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VVAR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.31</td>
+<td>64.54</td>
+<td>11.91</td>
+<td>0,00</td>
+<td>ND</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

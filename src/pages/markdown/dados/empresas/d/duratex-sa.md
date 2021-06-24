@@ -1,6 +1,6 @@
 ---
 title: "DURATEX S.A. (DTEX) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ DTEX3 ;
 <td>6.71</td>
 <td>7.53</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DTEX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.17</td>
+<td>28.51</td>
+<td>19.42</td>
+<td>34.96</td>
+<td>179.35</td>
+<td>20.48</td>
+<td>13.58</td>
+<td>15.30</td>
+<td>17.85</td>
+<td>13.09</td>
+<td>17.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DTEX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.55</td>
+<td>2.35</td>
+<td>1.81</td>
+<td>1.37</td>
+<td>1.03</td>
+<td>0.85</td>
+<td>1.16</td>
+<td>1.82</td>
+<td>2.04</td>
+<td>1.33</td>
+<td>2.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DTEX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ DTEX3 ;
 <td>7.31</td>
 <td>6.71</td>
 <td>7.53</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DTEX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.18</td>
+<td>28.52</td>
+<td>19.43</td>
+<td>34.99</td>
+<td>198.94</td>
+<td>21.40</td>
+<td>13.69</td>
+<td>15.30</td>
+<td>17.87</td>
+<td>13.11</td>
+<td>17.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DTEX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.55</td>
+<td>2.35</td>
+<td>1.81</td>
+<td>1.37</td>
+<td>1.03</td>
+<td>0.87</td>
+<td>1.18</td>
+<td>1.82</td>
+<td>2.04</td>
+<td>1.33</td>
+<td>2.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DTEX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

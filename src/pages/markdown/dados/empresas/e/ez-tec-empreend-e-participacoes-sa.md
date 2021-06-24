@@ -1,6 +1,6 @@
 ---
 title: "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A (EZTC) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ EZTC3 ;
 <td>9.66</td>
 <td>7.61</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EZTC3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>20.67</td>
+<td>40.56</td>
+<td>41.64</td>
+<td>10.10</td>
+<td>11.12</td>
+<td>4.51</td>
+<td>6.81</td>
+<td>7.26</td>
+<td>11.49</td>
+<td>7.00</td>
+<td>8.39</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EZTC3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.07</td>
+<td>3.09</td>
+<td>1.61</td>
+<td>1.42</td>
+<td>0.91</td>
+<td>0.74</td>
+<td>1.34</td>
+<td>2.03</td>
+<td>2.32</td>
+<td>1.63</td>
+<td>1.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EZTC3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>0.20</td>
+<td>2.00</td>
+<td>17.01</td>
+<td>6.02</td>
+<td>8.12</td>
+<td>4.31</td>
+<td>1.87</td>
+<td>2.01</td>
+<td>2.50</td>
+<td>1.88</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ EZTC3 ;
 <td>11.28</td>
 <td>9.53</td>
 <td>7.49</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EZTC3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.17</td>
+<td>41.91</td>
+<td>43.61</td>
+<td>10.17</td>
+<td>11.22</td>
+<td>4.51</td>
+<td>6.81</td>
+<td>7.30</td>
+<td>11.56</td>
+<td>7.04</td>
+<td>8.45</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EZTC3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.11</td>
+<td>3.13</td>
+<td>1.63</td>
+<td>1.44</td>
+<td>0.91</td>
+<td>0.74</td>
+<td>1.34</td>
+<td>2.03</td>
+<td>2.35</td>
+<td>1.66</td>
+<td>1.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EZTC3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>0.20</td>
+<td>2.00</td>
+<td>17.01</td>
+<td>6.02</td>
+<td>8.12</td>
+<td>4.31</td>
+<td>1.87</td>
+<td>2.01</td>
+<td>2.50</td>
+<td>1.88</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "LOCALIZA RENT A CAR SA (RENT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ RENT3 ;
 <td>5.56</td>
 <td>4.46</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RENT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>49.89</td>
+<td>43.12</td>
+<td>31.24</td>
+<td>30.03</td>
+<td>17.71</td>
+<td>13.06</td>
+<td>18.42</td>
+<td>18.34</td>
+<td>32.27</td>
+<td>17.71</td>
+<td>21.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RENT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>8.64</td>
+<td>6.60</td>
+<td>6.66</td>
+<td>5.84</td>
+<td>3.30</td>
+<td>2.71</td>
+<td>4.57</td>
+<td>5.26</td>
+<td>5.87</td>
+<td>4.61</td>
+<td>6.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RENT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>20.09</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>14.38</td>
+<td>0.85</td>
+<td>0.51</td>
+<td>3.62</td>
+<td>0.34</td>
+<td>0.45</td>
+<td>0.11</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ RENT3 ;
 <td>6.57</td>
 <td>5.56</td>
 <td>4.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) RENT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>49.89</td>
+<td>43.12</td>
+<td>31.24</td>
+<td>30.03</td>
+<td>17.71</td>
+<td>13.06</td>
+<td>18.42</td>
+<td>18.34</td>
+<td>32.27</td>
+<td>17.71</td>
+<td>21.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) RENT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>8.64</td>
+<td>6.60</td>
+<td>6.66</td>
+<td>5.84</td>
+<td>3.30</td>
+<td>2.71</td>
+<td>4.57</td>
+<td>5.26</td>
+<td>5.87</td>
+<td>4.61</td>
+<td>6.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) RENT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>20.09</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>14.38</td>
+<td>0.85</td>
+<td>0.51</td>
+<td>3.62</td>
+<td>0.34</td>
+<td>0.45</td>
+<td>0.11</td>
 </tr>
 </tbody>
 </table>

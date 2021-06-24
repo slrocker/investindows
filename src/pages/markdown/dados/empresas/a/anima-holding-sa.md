@@ -1,6 +1,6 @@
 ---
 title: "ANIMA HOLDING S/A (ANIM) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -4381,6 +4381,45 @@ ANIM3 ;
 <td>5.76</td>
 <td>10.84</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ANIM3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>621.13</td>
+<td>27.09</td>
+<td>52.93</td>
+<td>17.75</td>
+<td>18.41</td>
+<td>51.64</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ANIM3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.92</td>
+<td>3.46</td>
+<td>2.10</td>
+<td>3.31</td>
+<td>1.74</td>
+<td>1.78</td>
+<td>4.91</td>
+<td>3.68</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ANIM3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.02</td>
+<td>1.45</td>
+<td>0.21</td>
+<td>1.38</td>
+<td>3.44</td>
+<td>0.31</td>
+<td>0.04</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4467,6 +4506,45 @@ ANIM3 ;
 <td>7.20</td>
 <td>5.83</td>
 <td>10.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ANIM3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>621.13</td>
+<td>27.09</td>
+<td>52.93</td>
+<td>17.75</td>
+<td>17.76</td>
+<td>45.80</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ANIM3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.93</td>
+<td>3.46</td>
+<td>2.10</td>
+<td>3.31</td>
+<td>1.74</td>
+<td>1.78</td>
+<td>4.91</td>
+<td>3.64</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ANIM3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.02</td>
+<td>1.45</td>
+<td>0.21</td>
+<td>1.38</td>
+<td>3.44</td>
+<td>0.31</td>
+<td>0.04</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

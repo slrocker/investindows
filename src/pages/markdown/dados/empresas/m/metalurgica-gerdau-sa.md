@@ -1,6 +1,6 @@
 ---
 title: "METALURGICA GERDAU SA (GOAU) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ GOAU3 ; GOAU4 ;
 <td>59.49</td>
 <td>44.32</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GOAU3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>4.49</td>
+<td>7.86</td>
+<td>3.29</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>3.22</td>
+<td>5.15</td>
+<td>5.88</td>
+<td>3.20</td>
+<td>4.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GOAU3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.33</td>
+<td>0.35</td>
+<td>0.29</td>
+<td>0.22</td>
+<td>0.18</td>
+<td>0.05</td>
+<td>0.11</td>
+<td>0.26</td>
+<td>0.29</td>
+<td>0.26</td>
+<td>0.53</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GOAU3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.61</td>
+<td>4.85</td>
+<td>7.70</td>
+<td>1.79</td>
+<td>1.23</td>
+<td>19.02</td>
+<td>11.42</td>
+<td>4.88</td>
+<td>6.27</td>
+<td>8.58</td>
+<td>9.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) GOAU4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>5.14</td>
+<td>8.43</td>
+<td>3.15</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>4.22</td>
+<td>6.35</td>
+<td>7.37</td>
+<td>3.73</td>
+<td>4.83</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) GOAU4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.38</td>
+<td>0.37</td>
+<td>0.28</td>
+<td>0.25</td>
+<td>0.20</td>
+<td>0.05</td>
+<td>0.15</td>
+<td>0.32</td>
+<td>0.37</td>
+<td>0.30</td>
+<td>0.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) GOAU4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.28</td>
+<td>4.52</td>
+<td>8.05</td>
+<td>1.56</td>
+<td>1.11</td>
+<td>17.30</td>
+<td>8.72</td>
+<td>3.96</td>
+<td>5.00</td>
+<td>7.35</td>
+<td>8.11</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ GOAU3 ; GOAU4 ;
 <td>24.15</td>
 <td>21.91</td>
 <td>18.97</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GOAU3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>12.26</td>
+<td>22.12</td>
+<td>9.23</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>17.62</td>
+<td>15.50</td>
+<td>17.16</td>
+<td>8.32</td>
+<td>10.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GOAU3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.91</td>
+<td>0.94</td>
+<td>0.79</td>
+<td>0.61</td>
+<td>0.49</td>
+<td>0.11</td>
+<td>0.31</td>
+<td>0.70</td>
+<td>0.79</td>
+<td>0.70</td>
+<td>1.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GOAU3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.91</td>
+<td>1.60</td>
+<td>2.65</td>
+<td>0.38</td>
+<td>0,00</td>
+<td>3.25</td>
+<td>3.29</td>
+<td>1.46</td>
+<td>2.08</td>
+<td>3.31</td>
+<td>3.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) GOAU4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.02</td>
+<td>23.74</td>
+<td>8.83</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>23.07</td>
+<td>19.12</td>
+<td>21.50</td>
+<td>9.72</td>
+<td>12.35</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) GOAU4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.05</td>
+<td>1.01</td>
+<td>0.76</td>
+<td>0.70</td>
+<td>0.54</td>
+<td>0.13</td>
+<td>0.40</td>
+<td>0.87</td>
+<td>0.99</td>
+<td>0.82</td>
+<td>1.41</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) GOAU4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.79</td>
+<td>1.49</td>
+<td>2.77</td>
+<td>0.33</td>
+<td>0,00</td>
+<td>2.96</td>
+<td>2.51</td>
+<td>1.19</td>
+<td>1.66</td>
+<td>2.84</td>
+<td>2.82</td>
 </tr>
 </tbody>
 </table>

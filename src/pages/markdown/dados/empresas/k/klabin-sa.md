@@ -1,6 +1,6 @@
 ---
 title: "KLABIN S.A. (KLBN) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,141 @@ KLBN11 (1 ação ON + 4 ações PN) ; KLBN3 ; KLBN4 ;
 <td>5.40</td>
 <td>5.62</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) KLBN11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>139.37</td>
+<td>472.30</td>
+<td>163.68</td>
+<td>33.79</td>
+<td>NA</td>
+<td>94.49</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) KLBN11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>33.91</td>
+<td>15.32</td>
+<td>13.51</td>
+<td>12.04</td>
+<td>11.81</td>
+<td>20.73</td>
+<td>9.78</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) KLBN11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.15</td>
+<td>0.96</td>
+<td>0.95</td>
+<td>0.58</td>
+<td>0.53</td>
+<td>0.34</td>
+<td>0.48</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) KLBN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>32.25</td>
+<td>133.20</td>
+<td>46.59</td>
+<td>11.56</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>15.19</td>
+<td>ND</td>
+<td>9.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) KLBN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.91</td>
+<td>3.54</td>
+<td>3.81</td>
+<td>3.43</td>
+<td>4.04</td>
+<td>7.96</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.11</td>
+<td>ND</td>
+<td>1.10</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) KLBN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.74</td>
+<td>4.15</td>
+<td>3.38</td>
+<td>2.05</td>
+<td>1.56</td>
+<td>0.89</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.41</td>
+<td>ND</td>
+<td>3.11</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) KLBN4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>26.87</td>
+<td>84.85</td>
+<td>29.41</td>
+<td>5.44</td>
+<td>NA</td>
+<td>18.65</td>
+<td>38.78</td>
+<td>15.62</td>
+<td>40.18</td>
+<td>9.22</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) KLBN4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.68</td>
+<td>2.95</td>
+<td>2.43</td>
+<td>2.16</td>
+<td>1.90</td>
+<td>3.37</td>
+<td>1.93</td>
+<td>2.09</td>
+<td>2.17</td>
+<td>1.48</td>
+<td>1.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) KLBN4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.76</td>
+<td>4.98</td>
+<td>5.30</td>
+<td>3.24</td>
+<td>3.32</td>
+<td>2.10</td>
+<td>2.44</td>
+<td>2.68</td>
+<td>2.34</td>
+<td>2.82</td>
+<td>3.30</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5406,141 @@ KLBN11 (1 ação ON + 4 ações PN) ; KLBN3 ; KLBN4 ;
 <td>5.91</td>
 <td>5.40</td>
 <td>5.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) KLBN11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>147.37</td>
+<td>641.91</td>
+<td>163.68</td>
+<td>33.79</td>
+<td>NA</td>
+<td>94.49</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) KLBN11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>39.03</td>
+<td>16.47</td>
+<td>14.02</td>
+<td>12.04</td>
+<td>11.81</td>
+<td>20.73</td>
+<td>9.78</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) KLBN11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.15</td>
+<td>0.96</td>
+<td>0.95</td>
+<td>0.58</td>
+<td>0.53</td>
+<td>0.34</td>
+<td>0.48</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) KLBN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>34.10</td>
+<td>181.04</td>
+<td>46.59</td>
+<td>11.56</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>15.19</td>
+<td>ND</td>
+<td>10.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) KLBN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>7.95</td>
+<td>3.81</td>
+<td>3.95</td>
+<td>3.43</td>
+<td>4.04</td>
+<td>7.96</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.11</td>
+<td>ND</td>
+<td>1.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) KLBN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.74</td>
+<td>4.15</td>
+<td>3.38</td>
+<td>2.05</td>
+<td>1.56</td>
+<td>0.89</td>
+<td>ND</td>
+<td>ND</td>
+<td>2.41</td>
+<td>ND</td>
+<td>3.11</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) KLBN4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>28.42</td>
+<td>115.32</td>
+<td>29.41</td>
+<td>5.44</td>
+<td>NA</td>
+<td>18.65</td>
+<td>38.78</td>
+<td>15.62</td>
+<td>40.18</td>
+<td>9.59</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) KLBN4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>7.68</td>
+<td>3.18</td>
+<td>2.52</td>
+<td>2.16</td>
+<td>1.90</td>
+<td>3.37</td>
+<td>1.93</td>
+<td>2.09</td>
+<td>2.17</td>
+<td>1.48</td>
+<td>1.07</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) KLBN4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.76</td>
+<td>4.98</td>
+<td>5.30</td>
+<td>3.24</td>
+<td>3.32</td>
+<td>2.10</td>
+<td>2.44</td>
+<td>2.68</td>
+<td>2.34</td>
+<td>2.82</td>
+<td>3.30</td>
 </tr>
 </tbody>
 </table>

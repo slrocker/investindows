@@ -1,6 +1,6 @@
 ---
 title: "TELEFÔNICA BRASIL S.A. (VIVT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ VIVT3 ;
 <td>38.50</td>
 <td>23.05</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VIVT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.48</td>
+<td>16.58</td>
+<td>7.94</td>
+<td>15.19</td>
+<td>15.07</td>
+<td>16.80</td>
+<td>9.10</td>
+<td>12.12</td>
+<td>11.15</td>
+<td>12.33</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VIVT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.13</td>
+<td>1.18</td>
+<td>0.99</td>
+<td>1.01</td>
+<td>0.89</td>
+<td>0.84</td>
+<td>1.00</td>
+<td>1.05</td>
+<td>1.11</td>
+<td>1.24</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VIVT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>6.69</td>
+<td>7.45</td>
+<td>5.84</td>
+<td>5.24</td>
+<td>4.82</td>
+<td>6.40</td>
+<td>5.45</td>
+<td>10.07</td>
+<td>7.04</td>
+<td>10.02</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ VIVT3 ;
 <td>39.70</td>
 <td>38.49</td>
 <td>23.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VIVT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>16.48</td>
+<td>16.58</td>
+<td>7.94</td>
+<td>15.19</td>
+<td>15.07</td>
+<td>16.80</td>
+<td>9.10</td>
+<td>12.12</td>
+<td>11.15</td>
+<td>12.35</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VIVT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.13</td>
+<td>1.18</td>
+<td>0.99</td>
+<td>1.01</td>
+<td>0.89</td>
+<td>0.84</td>
+<td>1.00</td>
+<td>1.05</td>
+<td>1.11</td>
+<td>1.24</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VIVT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>6.69</td>
+<td>7.45</td>
+<td>5.84</td>
+<td>5.24</td>
+<td>4.82</td>
+<td>6.40</td>
+<td>5.45</td>
+<td>10.07</td>
+<td>7.04</td>
+<td>7.92</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

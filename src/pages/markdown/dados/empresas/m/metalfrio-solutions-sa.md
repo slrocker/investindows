@@ -1,6 +1,6 @@
 ---
 title: "METALFRIO SOLUTIONS S/A (FRIO) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de METALFRIO
 ## Dados Cadastrais
 **CNPJ**: 04.821.041/0001-08
 
-**RI**: Frederico Da Silveira Martins
+**RI**: Enzo Dos Santos Pierobom
 
 **email RI**: ri@metalfrio.com.br
 
@@ -5173,6 +5173,51 @@ FRIO3 ;
 <td>6.21</td>
 <td>7.61</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FRIO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>3.47</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>11.60</td>
+<td>20.48</td>
+<td>8.19</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FRIO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>20.21</td>
+<td>ND</td>
+<td>2.77</td>
+<td>1.76</td>
+<td>0.87</td>
+<td>0.74</td>
+<td>0.30</td>
+<td>0.45</td>
+<td>0.57</td>
+<td>0.89</td>
+<td>1.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FRIO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.55</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>12.37</td>
+<td>4.18</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ FRIO3 ;
 <td>6.35</td>
 <td>6.00</td>
 <td>7.28</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FRIO3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>7.12</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>12.25</td>
+<td>31.45</td>
+<td>8.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FRIO3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>NA</td>
+<td>ND</td>
+<td>6.42</td>
+<td>3.00</td>
+<td>1.27</td>
+<td>NA</td>
+<td>0.35</td>
+<td>0.49</td>
+<td>0.60</td>
+<td>0.92</td>
+<td>1.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FRIO3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>12.37</td>
+<td>4.18</td>
 </tr>
 </tbody>
 </table>

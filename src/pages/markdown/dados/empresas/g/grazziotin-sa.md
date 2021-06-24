@@ -1,6 +1,6 @@
 ---
 title: "GRAZZIOTIN SA (CGRA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ CGRA3 ; CGRA4 ;
 <td>13.44</td>
 <td>12.78</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CGRA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.93</td>
+<td>4.64</td>
+<td>8.83</td>
+<td>9.13</td>
+<td>5.85</td>
+<td>4.84</td>
+<td>6.52</td>
+<td>7.12</td>
+<td>9.26</td>
+<td>8.42</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CGRA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.11</td>
+<td>1.03</td>
+<td>0.95</td>
+<td>1.17</td>
+<td>0.82</td>
+<td>0.52</td>
+<td>0.97</td>
+<td>1.01</td>
+<td>1.10</td>
+<td>1.03</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CGRA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.11</td>
+<td>7.69</td>
+<td>3.41</td>
+<td>2.77</td>
+<td>3.04</td>
+<td>6.72</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CGRA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.93</td>
+<td>4.60</td>
+<td>8.86</td>
+<td>9.35</td>
+<td>5.70</td>
+<td>4.26</td>
+<td>6.35</td>
+<td>7.57</td>
+<td>9.48</td>
+<td>8.34</td>
+<td>10.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CGRA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.12</td>
+<td>1.02</td>
+<td>0.96</td>
+<td>1.20</td>
+<td>0.79</td>
+<td>0.46</td>
+<td>0.94</td>
+<td>1.07</td>
+<td>1.13</td>
+<td>1.02</td>
+<td>1.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CGRA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.22</td>
+<td>8.76</td>
+<td>3.50</td>
+<td>2.60</td>
+<td>2.96</td>
+<td>6.78</td>
+<td>3.92</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ CGRA3 ; CGRA4 ;
 <td>14.64</td>
 <td>13.44</td>
 <td>12.78</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CGRA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.93</td>
+<td>4.64</td>
+<td>8.83</td>
+<td>9.13</td>
+<td>5.85</td>
+<td>4.84</td>
+<td>6.52</td>
+<td>7.12</td>
+<td>9.26</td>
+<td>8.42</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CGRA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.11</td>
+<td>1.03</td>
+<td>0.95</td>
+<td>1.17</td>
+<td>0.82</td>
+<td>0.52</td>
+<td>0.97</td>
+<td>1.01</td>
+<td>1.10</td>
+<td>1.03</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CGRA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.11</td>
+<td>7.69</td>
+<td>3.40</td>
+<td>2.77</td>
+<td>0,00</td>
+<td>7.01</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CGRA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>9.93</td>
+<td>4.60</td>
+<td>8.86</td>
+<td>9.35</td>
+<td>5.70</td>
+<td>4.26</td>
+<td>6.35</td>
+<td>7.57</td>
+<td>9.48</td>
+<td>8.34</td>
+<td>10.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CGRA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.12</td>
+<td>1.02</td>
+<td>0.96</td>
+<td>1.20</td>
+<td>0.79</td>
+<td>0.46</td>
+<td>0.94</td>
+<td>1.07</td>
+<td>1.13</td>
+<td>1.02</td>
+<td>1.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CGRA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.22</td>
+<td>8.76</td>
+<td>3.48</td>
+<td>2.60</td>
+<td>0,00</td>
+<td>7.08</td>
+<td>4.02</td>
 </tr>
 </tbody>
 </table>

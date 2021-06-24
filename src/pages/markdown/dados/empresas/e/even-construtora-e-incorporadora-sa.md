@@ -1,6 +1,6 @@
 ---
 title: "EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ EVEN3 ;
 <td>6.83</td>
 <td>6.04</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EVEN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>47.77</td>
+<td>23.66</td>
+<td>NA</td>
+<td>NA</td>
+<td>20.87</td>
+<td>6.44</td>
+<td>4.63</td>
+<td>5.79</td>
+<td>8.11</td>
+<td>6.19</td>
+<td>7.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EVEN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.03</td>
+<td>1.80</td>
+<td>0.73</td>
+<td>0.65</td>
+<td>0.34</td>
+<td>0.39</td>
+<td>0.52</td>
+<td>0.82</td>
+<td>1.21</td>
+<td>0.90</td>
+<td>1.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EVEN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.15</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.49</td>
+<td>6.24</td>
+<td>5.29</td>
+<td>3.21</td>
+<td>2.45</td>
+<td>4.16</td>
+<td>1.48</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ EVEN3 ;
 <td>7.58</td>
 <td>6.71</td>
 <td>5.96</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EVEN3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>173.54</td>
+<td>28.33</td>
+<td>NA</td>
+<td>NA</td>
+<td>445.66</td>
+<td>9.48</td>
+<td>5.03</td>
+<td>6.72</td>
+<td>8.54</td>
+<td>6.38</td>
+<td>7.95</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EVEN3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.46</td>
+<td>2.02</td>
+<td>0.84</td>
+<td>0.74</td>
+<td>0.39</td>
+<td>0.45</td>
+<td>0.60</td>
+<td>0.96</td>
+<td>1.24</td>
+<td>0.92</td>
+<td>1.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EVEN3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.18</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.49</td>
+<td>6.24</td>
+<td>5.29</td>
+<td>3.21</td>
+<td>2.45</td>
+<td>4.16</td>
+<td>1.48</td>
 </tr>
 </tbody>
 </table>

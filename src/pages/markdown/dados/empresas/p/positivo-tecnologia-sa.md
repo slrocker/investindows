@@ -1,6 +1,6 @@
 ---
 title: "POSITIVO TECNOLOGIA S.A. (POSI) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ POSI3 ;
 <td>7.05</td>
 <td>7.82</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) POSI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>3.69</td>
+<td>42.91</td>
+<td>NA</td>
+<td>NA</td>
+<td>27.72</td>
+<td>NA</td>
+<td>8.07</td>
+<td>16.16</td>
+<td>14.83</td>
+<td>NA</td>
+<td>9.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) POSI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.70</td>
+<td>1.67</td>
+<td>0.41</td>
+<td>0.55</td>
+<td>0.44</td>
+<td>0.26</td>
+<td>0.28</td>
+<td>0.39</td>
+<td>0.70</td>
+<td>0.82</td>
+<td>1.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) POSI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.76</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.79</td>
+<td>0,00</td>
+<td>3.90</td>
+<td>2.07</td>
+<td>2.99</td>
+<td>0,00</td>
+<td>4.39</td>
+<td>5.84</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ POSI3 ;
 <td>7.29</td>
 <td>7.05</td>
 <td>7.82</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) POSI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>3.79</td>
+<td>54.36</td>
+<td>NA</td>
+<td>NA</td>
+<td>27.72</td>
+<td>NA</td>
+<td>8.07</td>
+<td>16.16</td>
+<td>14.83</td>
+<td>NA</td>
+<td>9.60</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) POSI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.71</td>
+<td>1.70</td>
+<td>0.41</td>
+<td>0.55</td>
+<td>0.44</td>
+<td>0.26</td>
+<td>0.28</td>
+<td>0.39</td>
+<td>0.70</td>
+<td>0.82</td>
+<td>1.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) POSI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.55</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.79</td>
+<td>0,00</td>
+<td>3.90</td>
+<td>2.07</td>
+<td>2.99</td>
+<td>0,00</td>
+<td>4.39</td>
+<td>5.84</td>
 </tr>
 </tbody>
 </table>

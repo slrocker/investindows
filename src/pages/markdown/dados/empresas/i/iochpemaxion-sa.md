@@ -1,6 +1,6 @@
 ---
 title: "IOCHPE-MAXION SA (MYPK) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de IOCHPE-MA
 ## Dados Cadastrais
 **CNPJ**: 61.156.113/0001-75
 
-**RI**: Augusto Ribeiro Junior
+**RI**: Elcio Mitsuhiro Ito
 
 **email RI**: becker@iochpe.com.br
 
@@ -5173,6 +5173,51 @@ MYPK3 ;
 <td>9.68</td>
 <td>7.91</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MYPK3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>8.53</td>
+<td>11.93</td>
+<td>40.80</td>
+<td>12.41</td>
+<td>9.74</td>
+<td>9.81</td>
+<td>11.74</td>
+<td>25.49</td>
+<td>10.72</td>
+<td>14.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MYPK3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.63</td>
+<td>1.03</td>
+<td>1.14</td>
+<td>1.24</td>
+<td>0.55</td>
+<td>0.47</td>
+<td>0.72</td>
+<td>1.72</td>
+<td>2.47</td>
+<td>2.61</td>
+<td>3.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MYPK3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.32</td>
+<td>3.02</td>
+<td>0.99</td>
+<td>0.32</td>
+<td>1.89</td>
+<td>2.45</td>
+<td>6.83</td>
+<td>1.04</td>
+<td>3.22</td>
+<td>2.73</td>
+<td>0.86</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ MYPK3 ;
 <td>9.62</td>
 <td>9.68</td>
 <td>7.91</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MYPK3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>10.65</td>
+<td>18.14</td>
+<td>511.08</td>
+<td>51.37</td>
+<td>23.64</td>
+<td>17.08</td>
+<td>14.56</td>
+<td>40.29</td>
+<td>10.72</td>
+<td>14.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MYPK3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.69</td>
+<td>1.11</td>
+<td>1.25</td>
+<td>1.37</td>
+<td>0.62</td>
+<td>0.54</td>
+<td>0.84</td>
+<td>2.03</td>
+<td>2.95</td>
+<td>2.61</td>
+<td>3.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MYPK3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.32</td>
+<td>3.02</td>
+<td>0.99</td>
+<td>0.32</td>
+<td>1.89</td>
+<td>2.45</td>
+<td>6.83</td>
+<td>1.04</td>
+<td>3.22</td>
+<td>2.73</td>
+<td>0.86</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "JHSF PARTICIPAÇÕES SA (JHSF) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ JHSF3 ;
 <td>2.72</td>
 <td>2.53</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JHSF3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.37</td>
+<td>13.93</td>
+<td>5.39</td>
+<td>NA</td>
+<td>NA</td>
+<td>6.08</td>
+<td>23.57</td>
+<td>5.75</td>
+<td>20.13</td>
+<td>10.64</td>
+<td>6.99</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JHSF3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.40</td>
+<td>1.49</td>
+<td>0.46</td>
+<td>0.44</td>
+<td>0.33</td>
+<td>0.25</td>
+<td>0.44</td>
+<td>0.83</td>
+<td>2.86</td>
+<td>2.01</td>
+<td>1.38</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JHSF3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.16</td>
+<td>0.76</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.85</td>
+<td>7.77</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ JHSF3 ;
 <td>3.02</td>
 <td>2.74</td>
 <td>2.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) JHSF3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.31</td>
+<td>14.12</td>
+<td>6.39</td>
+<td>NA</td>
+<td>NA</td>
+<td>6.39</td>
+<td>26.79</td>
+<td>5.83</td>
+<td>20.72</td>
+<td>10.92</td>
+<td>7.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) JHSF3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.43</td>
+<td>1.51</td>
+<td>0.47</td>
+<td>0.45</td>
+<td>0.34</td>
+<td>0.25</td>
+<td>0.45</td>
+<td>0.83</td>
+<td>2.85</td>
+<td>2.00</td>
+<td>1.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) JHSF3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.16</td>
+<td>0.76</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

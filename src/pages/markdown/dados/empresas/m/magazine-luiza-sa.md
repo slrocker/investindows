@@ -1,6 +1,6 @@
 ---
 title: "MAGAZINE LUIZA SA (MGLU) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ MGLU3 ;
 <td>3.33</td>
 <td>0.32</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MGLU3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>413.95</td>
+<td>84.07</td>
+<td>59.33</td>
+<td>38.85</td>
+<td>26.52</td>
+<td>NA</td>
+<td>10.88</td>
+<td>12.37</td>
+<td>NA</td>
+<td>152.51</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MGLU3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>22.14</td>
+<td>10.24</td>
+<td>15.39</td>
+<td>7.29</td>
+<td>3.69</td>
+<td>0.68</td>
+<td>1.85</td>
+<td>2.03</td>
+<td>3.89</td>
+<td>2.87</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MGLU3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.18</td>
+<td>0.23</td>
+<td>0.32</td>
+<td>0.21</td>
+<td>0,00</td>
+<td>8.53</td>
+<td>2.25</td>
+<td>0,00</td>
+<td>0.12</td>
+<td>0,00</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ MGLU3 ;
 <td>3.30</td>
 <td>3.33</td>
 <td>0.32</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MGLU3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>413.95</td>
+<td>84.07</td>
+<td>59.33</td>
+<td>38.85</td>
+<td>26.52</td>
+<td>NA</td>
+<td>10.88</td>
+<td>12.37</td>
+<td>NA</td>
+<td>152.51</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MGLU3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>22.14</td>
+<td>10.24</td>
+<td>15.39</td>
+<td>7.29</td>
+<td>3.69</td>
+<td>0.68</td>
+<td>1.85</td>
+<td>2.03</td>
+<td>3.89</td>
+<td>2.87</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MGLU3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.18</td>
+<td>0.23</td>
+<td>0.32</td>
+<td>0.21</td>
+<td>0,00</td>
+<td>8.53</td>
+<td>2.25</td>
+<td>0,00</td>
+<td>0.12</td>
+<td>0,00</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

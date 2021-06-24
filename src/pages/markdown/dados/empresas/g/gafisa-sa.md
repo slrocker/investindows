@@ -1,6 +1,6 @@
 ---
 title: "GAFISA SA (GFSA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de GAFISA SA
 ## Dados Cadastrais
 **CNPJ**: 01.545.826/0001-07
 
-**RI**: Roberto Luz Portella
+**RI**: Ian Monteiro De Andrade
 
 **email RI**: ri@gafisa.com.br
 
@@ -5173,6 +5173,51 @@ GFSA3 ;
 <td>6.36</td>
 <td>8.77</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GFSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>12.94</td>
+<td>NA</td>
+<td>1.77</td>
+<td>NA</td>
+<td>NA</td>
+<td>11.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GFSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.84</td>
+<td>1.16</td>
+<td>1.50</td>
+<td>0.74</td>
+<td>0.36</td>
+<td>0.30</td>
+<td>0.29</td>
+<td>0.48</td>
+<td>0.77</td>
+<td>0.65</td>
+<td>1.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GFSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.51</td>
+<td>0,00</td>
+<td>16.71</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>5.55</td>
+<td>0.98</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ GFSA3 ;
 <td>5.87</td>
 <td>6.13</td>
 <td>8.63</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) GFSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>12.34</td>
+<td>NA</td>
+<td>1.77</td>
+<td>NA</td>
+<td>NA</td>
+<td>12.49</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) GFSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.84</td>
+<td>1.16</td>
+<td>1.51</td>
+<td>0.75</td>
+<td>0.36</td>
+<td>0.30</td>
+<td>0.29</td>
+<td>0.48</td>
+<td>0.82</td>
+<td>0.67</td>
+<td>1.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) GFSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.51</td>
+<td>0,00</td>
+<td>16.71</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>5.55</td>
+<td>0.98</td>
 </tr>
 </tbody>
 </table>

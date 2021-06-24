@@ -1,6 +1,6 @@
 ---
 title: "BR MALLS PARTICIPAÇOES S.A. (BRML) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ BRML3 ;
 <td>16.11</td>
 <td>14.25</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BRML3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>11.40</td>
+<td>10.63</td>
+<td>NA</td>
+<td>33.92</td>
+<td>77.81</td>
+<td>12.65</td>
+<td>10.31</td>
+<td>6.53</td>
+<td>10.32</td>
+<td>10.95</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BRML3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.77</td>
+<td>1.36</td>
+<td>1.07</td>
+<td>1.03</td>
+<td>0.72</td>
+<td>0.52</td>
+<td>0.77</td>
+<td>0.82</td>
+<td>1.43</td>
+<td>1.12</td>
+<td>1.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BRML3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.79</td>
+<td>0,00</td>
+<td>0.38</td>
+<td>0,00</td>
+<td>4.11</td>
+<td>2.85</td>
+<td>2.77</td>
+<td>0.54</td>
+<td>0,00</td>
+<td>0.71</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ BRML3 ;
 <td>18.05</td>
 <td>14.73</td>
 <td>13.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BRML3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>12.65</td>
+<td>11.57</td>
+<td>NA</td>
+<td>42.95</td>
+<td>1.06</td>
+<td>15.50</td>
+<td>11.46</td>
+<td>7.22</td>
+<td>17.29</td>
+<td>13.99</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BRML3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.80</td>
+<td>1.43</td>
+<td>1.12</td>
+<td>1.07</td>
+<td>0.78</td>
+<td>0.56</td>
+<td>0.83</td>
+<td>0.89</td>
+<td>1.54</td>
+<td>1.23</td>
+<td>1.26</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BRML3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.79</td>
+<td>0,00</td>
+<td>0.38</td>
+<td>0,00</td>
+<td>4.11</td>
+<td>2.85</td>
+<td>2.77</td>
+<td>0.54</td>
+<td>0,00</td>
+<td>0.71</td>
 </tr>
 </tbody>
 </table>

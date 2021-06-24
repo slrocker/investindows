@@ -1,6 +1,6 @@
 ---
 title: "VALID SOLUÇÕES S.A. (VLID) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ VLID3 ;
 <td>9.03</td>
 <td>8.84</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VLID3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>22.50</td>
+<td>13.17</td>
+<td>49.27</td>
+<td>18.04</td>
+<td>20.68</td>
+<td>21.46</td>
+<td>19.57</td>
+<td>23.86</td>
+<td>10.87</td>
+<td>11.10</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VLID3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.60</td>
+<td>1.08</td>
+<td>1.21</td>
+<td>1.38</td>
+<td>1.61</td>
+<td>2.55</td>
+<td>4.00</td>
+<td>3.30</td>
+<td>4.79</td>
+<td>2.41</td>
+<td>2.29</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VLID3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.80</td>
+<td>1.82</td>
+<td>1.52</td>
+<td>1.11</td>
+<td>1.42</td>
+<td>1.92</td>
+<td>3.64</td>
+<td>0.99</td>
+<td>0.70</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ VLID3 ;
 <td>9.19</td>
 <td>9.03</td>
 <td>8.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) VLID3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>22.28</td>
+<td>13.18</td>
+<td>49.39</td>
+<td>18.07</td>
+<td>20.68</td>
+<td>21.46</td>
+<td>19.57</td>
+<td>23.86</td>
+<td>10.87</td>
+<td>11.10</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) VLID3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.63</td>
+<td>1.10</td>
+<td>1.23</td>
+<td>1.40</td>
+<td>1.63</td>
+<td>2.58</td>
+<td>4.00</td>
+<td>3.30</td>
+<td>4.79</td>
+<td>2.41</td>
+<td>2.29</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) VLID3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.80</td>
+<td>1.82</td>
+<td>1.52</td>
+<td>1.11</td>
+<td>1.42</td>
+<td>1.92</td>
+<td>3.64</td>
+<td>0.99</td>
+<td>0.70</td>
 </tr>
 </tbody>
 </table>

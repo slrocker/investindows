@@ -1,6 +1,6 @@
 ---
 title: "TOTVS S.A (TOTS) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ TOTS3 ;
 <td>4.70</td>
 <td>20.08</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TOTS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>56.27</td>
+<td>59.03</td>
+<td>78.25</td>
+<td>53.55</td>
+<td>26.15</td>
+<td>26.36</td>
+<td>21.77</td>
+<td>27.08</td>
+<td>31.98</td>
+<td>31.31</td>
+<td>38.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TOTS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.37</td>
+<td>5.02</td>
+<td>3.68</td>
+<td>3.96</td>
+<td>3.26</td>
+<td>4.15</td>
+<td>5.12</td>
+<td>5.65</td>
+<td>7.25</td>
+<td>7.07</td>
+<td>8.42</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TOTS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.65</td>
+<td>0.40</td>
+<td>1.08</td>
+<td>1.53</td>
+<td>3.55</td>
+<td>3.39</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ TOTS3 ;
 <td>5.65</td>
 <td>4.70</td>
 <td>19.70</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) TOTS3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>56.27</td>
+<td>59.27</td>
+<td>79.69</td>
+<td>53.71</td>
+<td>26.08</td>
+<td>26.29</td>
+<td>21.76</td>
+<td>27.15</td>
+<td>31.98</td>
+<td>31.40</td>
+<td>38.47</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) TOTS3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.37</td>
+<td>5.02</td>
+<td>3.69</td>
+<td>3.96</td>
+<td>3.26</td>
+<td>4.15</td>
+<td>5.12</td>
+<td>5.66</td>
+<td>7.25</td>
+<td>7.07</td>
+<td>8.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) TOTS3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.65</td>
+<td>0.40</td>
+<td>1.08</td>
+<td>1.53</td>
+<td>3.55</td>
+<td>3.36</td>
+<td>2.72</td>
+<td>2.31</td>
+<td>1.50</td>
+<td>1.64</td>
+<td>1.30</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "DIAGNOSTICOS DA AMERICA SA (DASA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ DASA3 ;
 <td>8.15</td>
 <td>2.68</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DASA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>139.57</td>
+<td>47.12</td>
+<td>64.95</td>
+<td>56.17</td>
+<td>129.73</td>
+<td>42.03</td>
+<td>34.50</td>
+<td>51.37</td>
+<td>33.27</td>
+<td>52.74</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DASA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.85</td>
+<td>5.57</td>
+<td>2.63</td>
+<td>2.63</td>
+<td>1.87</td>
+<td>1.13</td>
+<td>1.25</td>
+<td>1.68</td>
+<td>1.67</td>
+<td>1.90</td>
+<td>8.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DASA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.59</td>
+<td>0.87</td>
+<td>2.00</td>
+<td>0.41</td>
+<td>0.42</td>
+<td>0.62</td>
+<td>0.90</td>
+<td>0.45</td>
+<td>0.84</td>
+<td>0.55</td>
+<td>0.45</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ DASA3 ;
 <td>8.36</td>
 <td>8.15</td>
 <td>2.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DASA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>145.66</td>
+<td>47.35</td>
+<td>66.44</td>
+<td>56.44</td>
+<td>131.86</td>
+<td>42.21</td>
+<td>34.58</td>
+<td>51.09</td>
+<td>33.23</td>
+<td>52.74</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DASA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.86</td>
+<td>5.55</td>
+<td>2.62</td>
+<td>2.62</td>
+<td>1.87</td>
+<td>1.13</td>
+<td>1.25</td>
+<td>1.68</td>
+<td>1.67</td>
+<td>1.90</td>
+<td>8.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DASA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.51</td>
+<td>0.87</td>
+<td>2.00</td>
+<td>0.33</td>
+<td>0.42</td>
+<td>0.62</td>
+<td>0.90</td>
+<td>0.45</td>
+<td>0.84</td>
+<td>0.55</td>
+<td>0.45</td>
 </tr>
 </tbody>
 </table>

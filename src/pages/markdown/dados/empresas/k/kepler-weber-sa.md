@@ -1,6 +1,6 @@
 ---
 title: "KEPLER WEBER SA (KEPL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ KEPL3 ;
 <td>0.23</td>
 <td>0.21</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) KEPL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.78</td>
+<td>20.62</td>
+<td>48.38</td>
+<td>NA</td>
+<td>NA</td>
+<td>68.34</td>
+<td>9.97</td>
+<td>17.29</td>
+<td>10.21</td>
+<td>10.66</td>
+<td>18.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) KEPL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.93</td>
+<td>1.66</td>
+<td>0.91</td>
+<td>1.22</td>
+<td>1.01</td>
+<td>0.87</td>
+<td>2.60</td>
+<td>2.95</td>
+<td>1.00</td>
+<td>1.01</td>
+<td>1.71</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) KEPL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.44</td>
+<td>0.85</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.57</td>
+<td>8.40</td>
+<td>0.98</td>
+<td>0.73</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.58</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ KEPL3 ;
 <td>12.26</td>
 <td>0.23</td>
 <td>0.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) KEPL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.78</td>
+<td>20.62</td>
+<td>48.38</td>
+<td>NA</td>
+<td>NA</td>
+<td>68.34</td>
+<td>9.97</td>
+<td>17.29</td>
+<td>10.21</td>
+<td>10.66</td>
+<td>18.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) KEPL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.93</td>
+<td>1.66</td>
+<td>0.91</td>
+<td>1.22</td>
+<td>1.01</td>
+<td>0.87</td>
+<td>2.60</td>
+<td>2.95</td>
+<td>1.00</td>
+<td>1.01</td>
+<td>1.71</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) KEPL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.57</td>
+<td>8.40</td>
+<td>0.98</td>
+<td>0.73</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>4.58</td>
 </tr>
 </tbody>
 </table>

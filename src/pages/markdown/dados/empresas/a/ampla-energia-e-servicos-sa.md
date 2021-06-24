@@ -1,6 +1,6 @@
 ---
 title: "AMPLA ENERGIA E SERVIÇOS S.A. (CBEE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de AMPLA ENE
 ## Dados Cadastrais
 **CNPJ**: 33.050.071/0001-58
 
-**RI**: Aurélio Ricardo Bustilho De Oliveira
+**RI**: Julia Freitas De Alcântara Nunes
 
 **email RI**: tcavalcante@endesabr.com.br
 
@@ -2663,6 +2663,51 @@ CBEE3 ;
 <td>0.52</td>
 <td>0.42</td>
 <td>0.40</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CBEE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>67.78</td>
+<td>11.81</td>
+<td>25.20</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>21.94</td>
+<td>9.82</td>
+<td>9.78</td>
+<td>34.87</td>
+<td>24.69</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CBEE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.92</td>
+<td>0.90</td>
+<td>1.23</td>
+<td>1.31</td>
+<td>1.86</td>
+<td>1.39</td>
+<td>1.65</td>
+<td>2.04</td>
+<td>2.35</td>
+<td>4.48</td>
+<td>3.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CBEE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.00</td>
+<td>1.23</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>3.77</td>
+<td>2.52</td>
+<td>0.27</td>
+<td>0.70</td>
+<td>2.14</td>
 </tr>
 </tbody>
 </table>

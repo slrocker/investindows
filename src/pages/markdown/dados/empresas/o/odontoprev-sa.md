@@ -1,6 +1,6 @@
 ---
 title: "ODONTOPREV S/A (ODPV) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ ODPV3 ;
 <td>4.31</td>
 <td>4.06</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ODPV3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.49</td>
+<td>31.47</td>
+<td>26.07</td>
+<td>16.78</td>
+<td>30.99</td>
+<td>22.70</td>
+<td>26.87</td>
+<td>27.72</td>
+<td>40.13</td>
+<td>32.34</td>
+<td>20.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ODPV3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.41</td>
+<td>8.03</td>
+<td>7.21</td>
+<td>9.11</td>
+<td>9.59</td>
+<td>7.68</td>
+<td>8.13</td>
+<td>7.48</td>
+<td>8.34</td>
+<td>6.17</td>
+<td>6.18</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ODPV3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.50</td>
+<td>2.80</td>
+<td>1.17</td>
+<td>3.31</td>
+<td>2.78</td>
+<td>4.45</td>
+<td>4.14</td>
+<td>3.49</td>
+<td>3.55</td>
+<td>1.82</td>
+<td>3.64</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ ODPV3 ;
 <td>1.32</td>
 <td>4.31</td>
 <td>4.06</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) ODPV3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.41</td>
+<td>31.48</td>
+<td>26.12</td>
+<td>16.78</td>
+<td>30.99</td>
+<td>22.72</td>
+<td>26.90</td>
+<td>27.77</td>
+<td>40.18</td>
+<td>32.42</td>
+<td>20.29</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) ODPV3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.43</td>
+<td>8.06</td>
+<td>7.24</td>
+<td>9.14</td>
+<td>9.65</td>
+<td>7.71</td>
+<td>8.16</td>
+<td>7.51</td>
+<td>8.36</td>
+<td>6.18</td>
+<td>6.19</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) ODPV3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.50</td>
+<td>2.80</td>
+<td>1.17</td>
+<td>3.31</td>
+<td>2.77</td>
+<td>4.45</td>
+<td>4.14</td>
+<td>3.48</td>
+<td>3.55</td>
+<td>1.82</td>
+<td>3.63</td>
 </tr>
 </tbody>
 </table>

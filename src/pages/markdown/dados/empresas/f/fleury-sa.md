@@ -1,6 +1,6 @@
 ---
 title: "FLEURY SA (FLRY) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de FLEURY SA
 ## Dados Cadastrais
 **CNPJ**: 60.840.055/0001-31
 
-**RI**: Viviane Behar De Castro
+**RI**: Fernando Augusto Rodrigues Leão Filho
 
 **email RI**: joao.patah@grupofleury.com.br
 
@@ -5173,6 +5173,51 @@ FLRY3 ;
 <td>10.45</td>
 <td>7.71</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FLRY3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>33.36</td>
+<td>30.96</td>
+<td>19.21</td>
+<td>29.21</td>
+<td>24.49</td>
+<td>23.30</td>
+<td>29.65</td>
+<td>47.03</td>
+<td>33.07</td>
+<td>33.21</td>
+<td>26.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FLRY3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.90</td>
+<td>5.50</td>
+<td>3.64</td>
+<td>5.49</td>
+<td>3.65</td>
+<td>1.51</td>
+<td>1.62</td>
+<td>1.70</td>
+<td>2.07</td>
+<td>2.05</td>
+<td>3.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FLRY3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.27</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ FLRY3 ;
 <td>10.91</td>
 <td>10.45</td>
 <td>7.71</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) FLRY3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>33.36</td>
+<td>30.96</td>
+<td>19.21</td>
+<td>29.21</td>
+<td>24.49</td>
+<td>23.30</td>
+<td>29.65</td>
+<td>47.03</td>
+<td>33.07</td>
+<td>33.21</td>
+<td>26.92</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) FLRY3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.90</td>
+<td>5.50</td>
+<td>3.64</td>
+<td>5.49</td>
+<td>3.65</td>
+<td>1.51</td>
+<td>1.62</td>
+<td>1.70</td>
+<td>2.07</td>
+<td>2.05</td>
+<td>3.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) FLRY3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

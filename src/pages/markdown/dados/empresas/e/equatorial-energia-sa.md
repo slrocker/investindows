@@ -1,6 +1,6 @@
 ---
 title: "EQUATORIAL ENERGIA S/A (EQTL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de EQUATORIA
 ## Dados Cadastrais
 **CNPJ**: 03.220.438/0001-73
 
-**RI**: Eduardo Haiama
+**RI**: Leonardo Da Silva Lucas Tavares De Lima
 
 **email RI**: ri@equatorialenergia.com.br
 
@@ -5173,6 +5173,51 @@ EQTL3 ;
 <td>11.52</td>
 <td>11.68</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EQTL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>6.79</td>
+<td>8.48</td>
+<td>12.82</td>
+<td>10.84</td>
+<td>12.38</td>
+<td>7.08</td>
+<td>7.04</td>
+<td>58.51</td>
+<td>16.49</td>
+<td>5.62</td>
+<td>4.34</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EQTL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.91</td>
+<td>2.36</td>
+<td>2.27</td>
+<td>2.27</td>
+<td>2.22</td>
+<td>1.61</td>
+<td>1.60</td>
+<td>1.61</td>
+<td>1.40</td>
+<td>1.10</td>
+<td>0.98</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EQTL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>2.78</td>
+<td>2.12</td>
+<td>2.25</td>
+<td>2.02</td>
+<td>2.41</td>
+<td>2.74</td>
+<td>0.11</td>
+<td>1.31</td>
+<td>2.34</td>
+<td>19.25</td>
+<td>5.65</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ EQTL3 ;
 <td>11.72</td>
 <td>8.44</td>
 <td>8.76</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) EQTL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.87</td>
+<td>9.53</td>
+<td>16.22</td>
+<td>13.10</td>
+<td>15.18</td>
+<td>8.41</td>
+<td>8.62</td>
+<td>66.93</td>
+<td>25.16</td>
+<td>8.65</td>
+<td>6.57</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) EQTL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.24</td>
+<td>2.84</td>
+<td>2.66</td>
+<td>2.73</td>
+<td>2.69</td>
+<td>1.95</td>
+<td>1.94</td>
+<td>1.95</td>
+<td>1.63</td>
+<td>1.50</td>
+<td>1.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) EQTL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.38</td>
+<td>0.83</td>
+<td>1.60</td>
+<td>1.31</td>
+<td>1.31</td>
+<td>2.33</td>
+<td>0.32</td>
+<td>0.73</td>
+<td>0.48</td>
+<td>14.20</td>
+<td>4.02</td>
 </tr>
 </tbody>
 </table>

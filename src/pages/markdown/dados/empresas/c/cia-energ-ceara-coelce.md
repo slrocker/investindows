@@ -1,6 +1,6 @@
 ---
 title: "CIA ENERG CEARA - COELCE (COCE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -2663,6 +2663,141 @@ COCE3 ; COCE5 ; COCE6 ;
 <td>20.04</td>
 <td>18.89</td>
 <td>17.43</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) COCE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.31</td>
+<td>ND</td>
+<td>8.52</td>
+<td>8.69</td>
+<td>8.32</td>
+<td>7.21</td>
+<td>ND</td>
+<td>22.18</td>
+<td>8.38</td>
+<td>5.25</td>
+<td>4.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) COCE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.75</td>
+<td>ND</td>
+<td>1.09</td>
+<td>1.47</td>
+<td>1.41</td>
+<td>1.31</td>
+<td>ND</td>
+<td>2.22</td>
+<td>2.26</td>
+<td>1.68</td>
+<td>1.62</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) COCE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.60</td>
+<td>ND</td>
+<td>2.73</td>
+<td>4.09</td>
+<td>2.20</td>
+<td>1.60</td>
+<td>ND</td>
+<td>6.16</td>
+<td>7.83</td>
+<td>13.46</td>
+<td>9.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) COCE5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>17.62</td>
+<td>12.00</td>
+<td>10.09</td>
+<td>9.62</td>
+<td>9.90</td>
+<td>7.72</td>
+<td>12.24</td>
+<td>20.89</td>
+<td>8.32</td>
+<td>5.69</td>
+<td>4.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) COCE5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.45</td>
+<td>1.56</td>
+<td>1.29</td>
+<td>1.62</td>
+<td>1.68</td>
+<td>1.40</td>
+<td>1.79</td>
+<td>2.09</td>
+<td>2.24</td>
+<td>1.82</td>
+<td>1.62</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) COCE5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.93</td>
+<td>2.99</td>
+<td>2.31</td>
+<td>3.70</td>
+<td>1.85</td>
+<td>1.49</td>
+<td>2.49</td>
+<td>6.54</td>
+<td>7.89</td>
+<td>12.40</td>
+<td>9.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) COCE6 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) COCE6 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) COCE6 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "DIRECIONAL ENGENHARIA SA (DIRR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de DIRECIONA
 ## Dados Cadastrais
 **CNPJ**: 16.614.075/0001-00
 
-**RI**: José Carlos Wollenweber Filho
+**RI**: Paulo Henrique Martins De Sousa
 
 **email RI**: ri@direcional.com.br
 
@@ -5173,6 +5173,51 @@ DIRR3 ;
 <td>8.04</td>
 <td>6.21</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DIRR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>13.37</td>
+<td>18.37</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>3.45</td>
+<td>5.35</td>
+<td>7.88</td>
+<td>9.43</td>
+<td>8.02</td>
+<td>10.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DIRR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.50</td>
+<td>1.62</td>
+<td>0.90</td>
+<td>0.56</td>
+<td>0.38</td>
+<td>0.30</td>
+<td>0.72</td>
+<td>1.16</td>
+<td>1.53</td>
+<td>1.18</td>
+<td>2.17</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DIRR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.99</td>
+<td>5.86</td>
+<td>7.17</td>
+<td>0.00</td>
+<td>6.00</td>
+<td>12.47</td>
+<td>7.48</td>
+<td>3.05</td>
+<td>1.92</td>
+<td>2.77</td>
+<td>1.04</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ DIRR3 ;
 <td>8.62</td>
 <td>7.55</td>
 <td>5.95</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) DIRR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>17.76</td>
+<td>22.08</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>4.35</td>
+<td>6.04</td>
+<td>8.17</td>
+<td>9.65</td>
+<td>8.31</td>
+<td>10.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) DIRR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.64</td>
+<td>1.77</td>
+<td>0.98</td>
+<td>0.62</td>
+<td>0.42</td>
+<td>0.33</td>
+<td>0.77</td>
+<td>1.27</td>
+<td>1.63</td>
+<td>1.26</td>
+<td>2.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) DIRR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.99</td>
+<td>5.86</td>
+<td>7.17</td>
+<td>0.00</td>
+<td>6.00</td>
+<td>12.42</td>
+<td>7.51</td>
+<td>3.02</td>
+<td>1.92</td>
+<td>2.77</td>
+<td>1.04</td>
 </tr>
 </tbody>
 </table>

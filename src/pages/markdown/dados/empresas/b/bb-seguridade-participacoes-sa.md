@@ -1,6 +1,6 @@
 ---
 title: "BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de BB SEGURI
 ## Dados Cadastrais
 **CNPJ**: 17.344.597/0001-94
 
-**RI**: Werner Romera Suffert
+**RI**: Rafael Augusto Sperendio
 
 **email RI**: diseg@bb.com.br
 
@@ -4381,6 +4381,45 @@ BBSE3 ;
 <td>3.47</td>
 <td>11.98</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BBSE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.39</td>
+<td>11.32</td>
+<td>16.00</td>
+<td>14.18</td>
+<td>14.10</td>
+<td>11.57</td>
+<td>18.61</td>
+<td>19.81</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BBSE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.27</td>
+<td>14.37</td>
+<td>8.29</td>
+<td>6.45</td>
+<td>6.83</td>
+<td>6.42</td>
+<td>8.12</td>
+<td>7.06</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BBSE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>9.39</td>
+<td>7.77</td>
+<td>6.15</td>
+<td>5.72</td>
+<td>5.90</td>
+<td>6.91</td>
+<td>3.72</td>
+<td>3.00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -4467,6 +4506,45 @@ BBSE3 ;
 <td>3.96</td>
 <td>3.47</td>
 <td>11.98</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BBSE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.39</td>
+<td>11.32</td>
+<td>16.00</td>
+<td>14.18</td>
+<td>14.10</td>
+<td>11.57</td>
+<td>18.61</td>
+<td>19.81</td>
+<td>NA</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BBSE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>9.27</td>
+<td>14.37</td>
+<td>8.29</td>
+<td>6.45</td>
+<td>6.83</td>
+<td>6.42</td>
+<td>8.12</td>
+<td>7.06</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BBSE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>9.39</td>
+<td>7.77</td>
+<td>6.15</td>
+<td>5.72</td>
+<td>5.90</td>
+<td>6.91</td>
+<td>3.72</td>
+<td>1.69</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

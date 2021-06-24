@@ -1,6 +1,6 @@
 ---
 title: "IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ IGTA3 ;
 <td>19.92</td>
 <td>18.78</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) IGTA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>32.43</td>
+<td>29.73</td>
+<td>28.79</td>
+<td>32.41</td>
+<td>NA</td>
+<td>17.25</td>
+<td>18.83</td>
+<td>21.37</td>
+<td>16.48</td>
+<td>18.07</td>
+<td>21.70</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) IGTA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.08</td>
+<td>3.11</td>
+<td>2.63</td>
+<td>2.53</td>
+<td>NA</td>
+<td>1.27</td>
+<td>1.74</td>
+<td>1.70</td>
+<td>2.49</td>
+<td>1.74</td>
+<td>2.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) IGTA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.12</td>
+<td>1.61</td>
+<td>1.60</td>
+<td>1.69</td>
+<td>NA</td>
+<td>1.80</td>
+<td>1.39</td>
+<td>1.62</td>
+<td>1.26</td>
+<td>1.95</td>
+<td>1.42</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ IGTA3 ;
 <td>11.19</td>
 <td>19.92</td>
 <td>18.78</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) IGTA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>32.44</td>
+<td>30.13</td>
+<td>29.23</td>
+<td>32.88</td>
+<td>NA</td>
+<td>17.48</td>
+<td>18.95</td>
+<td>21.33</td>
+<td>16.49</td>
+<td>18.08</td>
+<td>21.70</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) IGTA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.09</td>
+<td>3.13</td>
+<td>2.64</td>
+<td>2.53</td>
+<td>NA</td>
+<td>1.27</td>
+<td>1.75</td>
+<td>1.70</td>
+<td>2.49</td>
+<td>1.74</td>
+<td>2.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) IGTA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>1.12</td>
+<td>1.61</td>
+<td>1.60</td>
+<td>1.69</td>
+<td>NA</td>
+<td>1.80</td>
+<td>1.38</td>
+<td>1.62</td>
+<td>1.26</td>
+<td>1.95</td>
+<td>1.42</td>
 </tr>
 </tbody>
 </table>

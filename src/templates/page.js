@@ -97,7 +97,7 @@ const TemplatePage = (props) => {
             </div>
 
             <div className={pageStyles.toc}>
-                <p>CONTEÚDO</p>
+                <p><a href="#">CONTEÚDO</a></p>
                 <ul>
                     {props.data.allMarkdownRemark.edges.map( edge => edge.node.headings.map((heading) => {
                         

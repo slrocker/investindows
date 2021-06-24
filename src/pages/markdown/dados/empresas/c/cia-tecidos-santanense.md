@@ -1,6 +1,6 @@
 ---
 title: "CIA TECIDOS SANTANENSE (CTSA) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ CTSA3 ; CTSA4 ;
 <td>5.63</td>
 <td>5.14</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CTSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>23.72</td>
+<td>2.56</td>
+<td>7.17</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>6.80</td>
+<td>5.83</td>
+<td>5.24</td>
+<td>4.55</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CTSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.99</td>
+<td>0.87</td>
+<td>0.66</td>
+<td>0.54</td>
+<td>0.26</td>
+<td>0.37</td>
+<td>ND</td>
+<td>0.88</td>
+<td>0.76</td>
+<td>0.58</td>
+<td>0.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CTSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>239.71</td>
+<td>1.72</td>
+<td>6.47</td>
+<td>69.21</td>
+<td>0,00</td>
+<td>259.87</td>
+<td>ND</td>
+<td>3.16</td>
+<td>3.55</td>
+<td>3.97</td>
+<td>3.85</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CTSA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>26.02</td>
+<td>3.72</td>
+<td>6.70</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>5.89</td>
+<td>5.71</td>
+<td>5.29</td>
+<td>4.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CTSA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.80</td>
+<td>0.96</td>
+<td>0.96</td>
+<td>0.51</td>
+<td>0.29</td>
+<td>0.31</td>
+<td>ND</td>
+<td>0.76</td>
+<td>0.75</td>
+<td>0.58</td>
+<td>0.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CTSA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>297.29</td>
+<td>1.56</td>
+<td>4.45</td>
+<td>74.09</td>
+<td>0,00</td>
+<td>305.35</td>
+<td>ND</td>
+<td>3.65</td>
+<td>3.62</td>
+<td>3.94</td>
+<td>3.82</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ CTSA3 ; CTSA4 ;
 <td>6.24</td>
 <td>5.63</td>
 <td>5.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CTSA3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>23.72</td>
+<td>2.56</td>
+<td>7.17</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>6.80</td>
+<td>5.83</td>
+<td>5.24</td>
+<td>4.55</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CTSA3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.99</td>
+<td>0.87</td>
+<td>0.66</td>
+<td>0.54</td>
+<td>0.26</td>
+<td>0.37</td>
+<td>ND</td>
+<td>0.88</td>
+<td>0.76</td>
+<td>0.58</td>
+<td>0.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CTSA3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>239.71</td>
+<td>1.72</td>
+<td>6.47</td>
+<td>69.21</td>
+<td>0,00</td>
+<td>259.87</td>
+<td>ND</td>
+<td>3.16</td>
+<td>3.55</td>
+<td>3.97</td>
+<td>3.85</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) CTSA4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>26.02</td>
+<td>3.72</td>
+<td>6.70</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>5.89</td>
+<td>5.71</td>
+<td>5.29</td>
+<td>4.58</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) CTSA4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.80</td>
+<td>0.96</td>
+<td>0.96</td>
+<td>0.51</td>
+<td>0.29</td>
+<td>0.31</td>
+<td>ND</td>
+<td>0.76</td>
+<td>0.75</td>
+<td>0.58</td>
+<td>0.52</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) CTSA4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>297.29</td>
+<td>1.56</td>
+<td>4.45</td>
+<td>74.09</td>
+<td>0,00</td>
+<td>305.35</td>
+<td>ND</td>
+<td>3.65</td>
+<td>3.62</td>
+<td>3.94</td>
+<td>3.82</td>
 </tr>
 </tbody>
 </table>

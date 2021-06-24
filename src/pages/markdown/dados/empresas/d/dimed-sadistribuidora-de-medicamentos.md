@@ -1,6 +1,6 @@
 ---
 title: "DIMED S.A.DISTRIBUIDORA DE MEDICAMENTOS (PNVL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ PNVL3 ; PNVL4 ;
 <td>43.52</td>
 <td>37.68</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PNVL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>58.81</td>
+<td>34.65</td>
+<td>18.78</td>
+<td>31.60</td>
+<td>57.49</td>
+<td>29.25</td>
+<td>19.89</td>
+<td>18.06</td>
+<td>27.17</td>
+<td>13.43</td>
+<td>13.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PNVL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.27</td>
+<td>5074.50</td>
+<td>3035.31</td>
+<td>4.43</td>
+<td>7.99</td>
+<td>3.85</td>
+<td>3.15</td>
+<td>3.66</td>
+<td>5.48</td>
+<td>2.52</td>
+<td>2.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PNVL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.55</td>
+<td>0.78</td>
+<td>1.27</td>
+<td>0.92</td>
+<td>0.52</td>
+<td>0.97</td>
+<td>1.37</td>
+<td>1.12</td>
+<td>0.80</td>
+<td>1.89</td>
+<td>2.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) PNVL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>55.44</td>
+<td>25.89</td>
+<td>13.33</td>
+<td>26.15</td>
+<td>20.11</td>
+<td>15.13</td>
+<td>15.22</td>
+<td>15.46</td>
+<td>15.91</td>
+<td>11.70</td>
+<td>12.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) PNVL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.08</td>
+<td>3790.80</td>
+<td>2154.09</td>
+<td>3.66</td>
+<td>2.80</td>
+<td>1.99</td>
+<td>2.41</td>
+<td>3.13</td>
+<td>3.21</td>
+<td>2.20</td>
+<td>2.18</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) PNVL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.59</td>
+<td>1.05</td>
+<td>1.79</td>
+<td>1.11</td>
+<td>1.48</td>
+<td>1.88</td>
+<td>1.79</td>
+<td>1.31</td>
+<td>1.36</td>
+<td>2.17</td>
+<td>2.24</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ PNVL3 ; PNVL4 ;
 <td>51.12</td>
 <td>43.52</td>
 <td>37.68</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PNVL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>58.81</td>
+<td>34.65</td>
+<td>18.78</td>
+<td>31.60</td>
+<td>57.49</td>
+<td>29.25</td>
+<td>19.89</td>
+<td>18.06</td>
+<td>27.17</td>
+<td>13.43</td>
+<td>13.73</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PNVL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.27</td>
+<td>5074.50</td>
+<td>3035.31</td>
+<td>4.43</td>
+<td>7.99</td>
+<td>3.85</td>
+<td>3.15</td>
+<td>3.66</td>
+<td>5.48</td>
+<td>2.52</td>
+<td>2.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PNVL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.55</td>
+<td>0.78</td>
+<td>1.27</td>
+<td>0.92</td>
+<td>0.52</td>
+<td>0.97</td>
+<td>1.37</td>
+<td>1.12</td>
+<td>0.80</td>
+<td>1.89</td>
+<td>2.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) PNVL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>55.44</td>
+<td>25.89</td>
+<td>13.33</td>
+<td>26.15</td>
+<td>20.11</td>
+<td>15.13</td>
+<td>15.22</td>
+<td>15.46</td>
+<td>15.91</td>
+<td>11.70</td>
+<td>12.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) PNVL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.08</td>
+<td>3790.80</td>
+<td>2154.09</td>
+<td>3.66</td>
+<td>2.80</td>
+<td>1.99</td>
+<td>2.41</td>
+<td>3.13</td>
+<td>3.21</td>
+<td>2.20</td>
+<td>2.18</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) PNVL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.59</td>
+<td>1.05</td>
+<td>1.79</td>
+<td>1.11</td>
+<td>1.48</td>
+<td>1.88</td>
+<td>1.79</td>
+<td>1.31</td>
+<td>1.36</td>
+<td>2.17</td>
+<td>2.24</td>
 </tr>
 </tbody>
 </table>

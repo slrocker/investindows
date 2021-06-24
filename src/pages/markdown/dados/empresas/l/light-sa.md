@@ -1,6 +1,6 @@
 ---
 title: "LIGHT SA (LIGT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ LIGT3 ;
 <td>15.80</td>
 <td>16.33</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LIGT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.67</td>
+<td>5.44</td>
+<td>20.43</td>
+<td>27.56</td>
+<td>NA</td>
+<td>53.36</td>
+<td>5.24</td>
+<td>7.68</td>
+<td>10.67</td>
+<td>18.91</td>
+<td>9.02</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LIGT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.04</td>
+<td>1.16</td>
+<td>1.00</td>
+<td>1.00</td>
+<td>1.06</td>
+<td>0.55</td>
+<td>0.96</td>
+<td>1.30</td>
+<td>1.50</td>
+<td>1.82</td>
+<td>1.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LIGT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.55</td>
+<td>0.87</td>
+<td>0,00</td>
+<td>1.44</td>
+<td>5.76</td>
+<td>10.51</td>
+<td>5.76</td>
+<td>9.39</td>
+<td>7.99</td>
+<td>15.34</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LIGT3 ;
 <td>14.84</td>
 <td>15.80</td>
 <td>16.33</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LIGT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.67</td>
+<td>5.44</td>
+<td>20.43</td>
+<td>27.56</td>
+<td>NA</td>
+<td>53.36</td>
+<td>5.24</td>
+<td>7.68</td>
+<td>10.67</td>
+<td>18.91</td>
+<td>9.02</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LIGT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.04</td>
+<td>1.16</td>
+<td>1.00</td>
+<td>1.00</td>
+<td>1.06</td>
+<td>0.55</td>
+<td>0.96</td>
+<td>1.30</td>
+<td>1.50</td>
+<td>1.82</td>
+<td>1.56</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LIGT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.55</td>
+<td>0.87</td>
+<td>0,00</td>
+<td>1.44</td>
+<td>5.76</td>
+<td>10.51</td>
+<td>5.76</td>
+<td>9.39</td>
+<td>7.99</td>
+<td>15.34</td>
 </tr>
 </tbody>
 </table>

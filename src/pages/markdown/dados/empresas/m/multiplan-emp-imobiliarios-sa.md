@@ -1,6 +1,6 @@
 ---
 title: "MULTIPLAN EMP. IMOBILIARIOS S/A (MULT) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ MULT3 ;
 <td>17.95</td>
 <td>16.55</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MULT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.66</td>
+<td>42.38</td>
+<td>31.81</td>
+<td>39.26</td>
+<td>36.18</td>
+<td>19.95</td>
+<td>24.49</td>
+<td>33.31</td>
+<td>27.61</td>
+<td>22.20</td>
+<td>28.88</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MULT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.27</td>
+<td>3.56</td>
+<td>2.80</td>
+<td>2.78</td>
+<td>2.53</td>
+<td>1.72</td>
+<td>2.21</td>
+<td>2.48</td>
+<td>3.35</td>
+<td>2.13</td>
+<td>2.23</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MULT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.92</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ MULT3 ;
 <td>17.90</td>
 <td>17.25</td>
 <td>16.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) MULT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.65</td>
+<td>42.21</td>
+<td>31.62</td>
+<td>39.10</td>
+<td>36.21</td>
+<td>19.72</td>
+<td>24.48</td>
+<td>33.39</td>
+<td>27.79</td>
+<td>23.10</td>
+<td>30.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) MULT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.27</td>
+<td>3.56</td>
+<td>2.81</td>
+<td>2.79</td>
+<td>2.54</td>
+<td>1.73</td>
+<td>2.22</td>
+<td>2.48</td>
+<td>3.35</td>
+<td>2.22</td>
+<td>2.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) MULT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0.92</td>
 </tr>
 </tbody>
 </table>

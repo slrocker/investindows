@@ -1,6 +1,6 @@
 ---
 title: "LPS BRASIL CONSULTORIA DE IMOVEIS S/A (LPSB) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de LPS BRASI
 ## Dados Cadastrais
 **CNPJ**: 08.078.847/0001-09
 
-**RI**: Marcello Rodrigues Leone
+**RI**: Matheus De Souza Fabrício
 
 **email RI**: ri@lopes.com.br
 
@@ -5173,6 +5173,51 @@ LPSB3 ;
 <td>9.39</td>
 <td>6.06</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LPSB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>56.27</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>9.96</td>
+<td>16.49</td>
+<td>9.76</td>
+<td>16.31</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LPSB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.24</td>
+<td>7.92</td>
+<td>36.14</td>
+<td>9.38</td>
+<td>3.34</td>
+<td>1.76</td>
+<td>1.12</td>
+<td>2.27</td>
+<td>3.37</td>
+<td>2.77</td>
+<td>6.44</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LPSB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>3.11</td>
+<td>1.12</td>
+<td>1.71</td>
+<td>1.50</td>
+<td>2.94</td>
+<td>11.37</td>
+<td>10.93</td>
+<td>2.95</td>
+<td>2.21</td>
+<td>2.67</td>
+<td>2.90</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LPSB3 ;
 <td>9.11</td>
 <td>7.62</td>
 <td>4.74</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LPSB3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>205.89</td>
+<td>10.55</td>
+<td>18.14</td>
+<td>10.31</td>
+<td>19.84</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LPSB3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>4.18</td>
+<td>7.87</td>
+<td>16.83</td>
+<td>8.12</td>
+<td>3.23</td>
+<td>1.22</td>
+<td>1.22</td>
+<td>2.62</td>
+<td>4.13</td>
+<td>3.41</td>
+<td>8.22</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LPSB3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>389.27</td>
+<td>5.74</td>
+<td>2.15</td>
+<td>1.69</td>
+<td>1.75</td>
+<td>1.92</td>
 </tr>
 </tbody>
 </table>

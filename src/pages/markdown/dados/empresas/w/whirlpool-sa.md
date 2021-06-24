@@ -1,6 +1,6 @@
 ---
 title: "WHIRLPOOL S.A (WHRL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ WHRL3 ; WHRL4 ;
 <td>1.21</td>
 <td>1.14</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) WHRL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.41</td>
+<td>8.43</td>
+<td>36.35</td>
+<td>16.45</td>
+<td>14.28</td>
+<td>13.43</td>
+<td>8.42</td>
+<td>6.92</td>
+<td>7.72</td>
+<td>11.56</td>
+<td>8.21</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) WHRL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>5.70</td>
+<td>4.96</td>
+<td>2.89</td>
+<td>2.96</td>
+<td>1.78</td>
+<td>1.56</td>
+<td>2.82</td>
+<td>2.30</td>
+<td>2.23</td>
+<td>2.37</td>
+<td>3.04</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) WHRL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.23</td>
+<td>5.40</td>
+<td>3.32</td>
+<td>11.17</td>
+<td>49.74</td>
+<td>5.35</td>
+<td>18.49</td>
+<td>9.85</td>
+<td>7.04</td>
+<td>5.81</td>
+<td>12.12</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) WHRL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>17.18</td>
+<td>8.67</td>
+<td>44.03</td>
+<td>17.57</td>
+<td>14.95</td>
+<td>12.14</td>
+<td>8.31</td>
+<td>7.62</td>
+<td>8.09</td>
+<td>13.71</td>
+<td>8.87</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) WHRL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.36</td>
+<td>5.10</td>
+<td>3.50</td>
+<td>3.16</td>
+<td>1.86</td>
+<td>1.41</td>
+<td>2.78</td>
+<td>2.54</td>
+<td>2.34</td>
+<td>2.81</td>
+<td>3.29</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) WHRL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.69</td>
+<td>5.25</td>
+<td>2.74</td>
+<td>10.46</td>
+<td>47.53</td>
+<td>5.92</td>
+<td>18.72</td>
+<td>8.95</td>
+<td>6.73</td>
+<td>4.90</td>
+<td>11.22</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ WHRL3 ; WHRL4 ;
 <td>1.35</td>
 <td>1.14</td>
 <td>1.09</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) WHRL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.44</td>
+<td>8.44</td>
+<td>35.03</td>
+<td>16.14</td>
+<td>14.51</td>
+<td>13.62</td>
+<td>8.48</td>
+<td>6.99</td>
+<td>7.86</td>
+<td>11.66</td>
+<td>8.43</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) WHRL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>5.71</td>
+<td>4.96</td>
+<td>2.89</td>
+<td>3.14</td>
+<td>1.88</td>
+<td>1.67</td>
+<td>3.00</td>
+<td>2.42</td>
+<td>2.35</td>
+<td>2.50</td>
+<td>3.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) WHRL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>5.23</td>
+<td>5.40</td>
+<td>3.32</td>
+<td>11.17</td>
+<td>11.36</td>
+<td>4.99</td>
+<td>18.49</td>
+<td>9.58</td>
+<td>6.79</td>
+<td>5.69</td>
+<td>11.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) WHRL4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>17.21</td>
+<td>8.68</td>
+<td>42.44</td>
+<td>17.24</td>
+<td>15.18</td>
+<td>12.31</td>
+<td>8.37</td>
+<td>7.69</td>
+<td>8.23</td>
+<td>13.82</td>
+<td>9.11</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) WHRL4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>6.36</td>
+<td>5.10</td>
+<td>3.50</td>
+<td>3.36</td>
+<td>1.96</td>
+<td>1.51</td>
+<td>2.96</td>
+<td>2.66</td>
+<td>2.46</td>
+<td>2.97</td>
+<td>3.45</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) WHRL4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>4.69</td>
+<td>5.25</td>
+<td>2.74</td>
+<td>10.46</td>
+<td>10.86</td>
+<td>5.52</td>
+<td>18.72</td>
+<td>8.71</td>
+<td>6.48</td>
+<td>4.80</td>
+<td>10.79</td>
 </tr>
 </tbody>
 </table>

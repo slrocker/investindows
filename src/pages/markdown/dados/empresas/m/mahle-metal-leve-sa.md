@@ -1,6 +1,6 @@
 ---
 title: "MAHLE METAL LEVE S.A. (LEVE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ LEVE3 ;
 <td>31.38</td>
 <td>31.51</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LEVE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>22.01</td>
+<td>14.44</td>
+<td>11.38</td>
+<td>13.67</td>
+<td>642.01</td>
+<td>18.45</td>
+<td>13.67</td>
+<td>18.14</td>
+<td>18.50</td>
+<td>9.60</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LEVE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.00</td>
+<td>2.85</td>
+<td>2.46</td>
+<td>2.27</td>
+<td>2.19</td>
+<td>2.46</td>
+<td>2.00</td>
+<td>2.56</td>
+<td>2.44</td>
+<td>1.35</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LEVE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>7.47</td>
+<td>6.89</td>
+<td>2.44</td>
+<td>3.25</td>
+<td>6.81</td>
+<td>9.46</td>
+<td>4.76</td>
+<td>4.80</td>
+<td>10.03</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ LEVE3 ;
 <td>10.51</td>
 <td>31.06</td>
 <td>31.16</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LEVE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>21.61</td>
+<td>14.27</td>
+<td>11.43</td>
+<td>12.94</td>
+<td>108.03</td>
+<td>15.80</td>
+<td>12.92</td>
+<td>17.45</td>
+<td>18.53</td>
+<td>9.64</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LEVE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.00</td>
+<td>2.83</td>
+<td>2.46</td>
+<td>2.27</td>
+<td>2.16</td>
+<td>2.46</td>
+<td>2.03</td>
+<td>2.56</td>
+<td>2.46</td>
+<td>1.37</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LEVE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>7.47</td>
+<td>6.89</td>
+<td>2.44</td>
+<td>3.25</td>
+<td>6.81</td>
+<td>9.46</td>
+<td>4.74</td>
+<td>4.81</td>
+<td>9.92</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

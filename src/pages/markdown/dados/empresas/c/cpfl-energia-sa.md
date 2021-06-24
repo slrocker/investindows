@@ -1,6 +1,6 @@
 ---
 title: "CPFL ENERGIA SA (CPFE) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CPFE3 ;
 <td>8.89</td>
 <td>14.03</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CPFE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.12</td>
+<td>14.90</td>
+<td>13.60</td>
+<td>15.91</td>
+<td>29.19</td>
+<td>17.22</td>
+<td>20.07</td>
+<td>19.36</td>
+<td>16.97</td>
+<td>15.82</td>
+<td>12.71</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CPFE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.63</td>
+<td>3.08</td>
+<td>2.35</td>
+<td>1.77</td>
+<td>2.47</td>
+<td>1.49</td>
+<td>1.90</td>
+<td>2.09</td>
+<td>2.54</td>
+<td>2.93</td>
+<td>2.94</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CPFE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CPFE3 ;
 <td>7.17</td>
 <td>7.34</td>
 <td>13.50</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CPFE3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>10.29</td>
+<td>15.16</td>
+<td>14.31</td>
+<td>16.76</td>
+<td>28.48</td>
+<td>17.43</td>
+<td>18.75</td>
+<td>19.60</td>
+<td>17.39</td>
+<td>16.36</td>
+<td>12.89</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CPFE3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.69</td>
+<td>3.15</td>
+<td>2.87</td>
+<td>2.21</td>
+<td>3.22</td>
+<td>1.96</td>
+<td>2.56</td>
+<td>2.62</td>
+<td>3.09</td>
+<td>3.54</td>
+<td>3.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CPFE3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

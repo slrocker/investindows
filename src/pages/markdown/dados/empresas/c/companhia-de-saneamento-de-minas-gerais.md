@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA DE SANEAMENTO DE MINAS GERAIS (CSMG) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ CSMG3 ;
 <td>39.45</td>
 <td>36.62</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSMG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.64</td>
+<td>11.42</td>
+<td>13.97</td>
+<td>9.92</td>
+<td>10.63</td>
+<td>NA</td>
+<td>9.47</td>
+<td>10.61</td>
+<td>11.25</td>
+<td>8.26</td>
+<td>4.94</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSMG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.97</td>
+<td>1.28</td>
+<td>1.30</td>
+<td>0.89</td>
+<td>0.78</td>
+<td>0.33</td>
+<td>0.54</td>
+<td>0.83</td>
+<td>1.09</td>
+<td>0.85</td>
+<td>0.78</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSMG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>13.15</td>
+<td>0,00</td>
+<td>3.46</td>
+<td>2.16</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ CSMG3 ;
 <td>41.47</td>
 <td>39.17</td>
 <td>36.29</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) CSMG3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>7.64</td>
+<td>11.42</td>
+<td>13.97</td>
+<td>9.92</td>
+<td>10.63</td>
+<td>NA</td>
+<td>9.47</td>
+<td>10.61</td>
+<td>11.13</td>
+<td>8.16</td>
+<td>4.89</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) CSMG3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>0.97</td>
+<td>1.28</td>
+<td>1.30</td>
+<td>0.89</td>
+<td>0.78</td>
+<td>0.33</td>
+<td>0.54</td>
+<td>0.83</td>
+<td>1.09</td>
+<td>0.85</td>
+<td>0.79</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) CSMG3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>13.15</td>
+<td>0,00</td>
+<td>3.46</td>
+<td>2.16</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "ELETROBRÁS PARTICIPAÇÕES S.A.- ELETROPAR (LIPR) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -2663,6 +2663,51 @@ LIPR3 ;
 <td>13.74</td>
 <td>17.18</td>
 <td>15.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LIPR3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>NA</td>
+<td>51.78</td>
+<td>15.88</td>
+<td>18.02</td>
+<td>108.34</td>
+<td>NA</td>
+<td>173.50</td>
+<td>43.58</td>
+<td>24.28</td>
+<td>23.78</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LIPR3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>5.01</td>
+<td>3.64</td>
+<td>3.10</td>
+<td>3.39</td>
+<td>3.97</td>
+<td>4.29</td>
+<td>4.11</td>
+<td>3.59</td>
+<td>2.84</td>
+<td>3.08</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LIPR3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>2.81</td>
+<td>12.81</td>
+<td>1.36</td>
+<td>0.84</td>
+<td>0,00</td>
+<td>0.53</td>
+<td>2.19</td>
+<td>3.87</td>
+<td>2.87</td>
+<td>0.12</td>
 </tr>
 </tbody>
 </table>

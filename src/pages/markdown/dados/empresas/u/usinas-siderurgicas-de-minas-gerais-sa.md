@@ -1,6 +1,6 @@
 ---
 title: "USINAS SIDERURGICAS DE MINAS GERAIS SA (USIM) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,141 @@ USIM3 ; USIM5 ; USIM6 ;
 <td>18.76</td>
 <td>18.77</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) USIM3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>15.22</td>
+<td>32.83</td>
+<td>17.92</td>
+<td>45.89</td>
+<td>NA</td>
+<td>NA</td>
+<td>59.81</td>
+<td>748.67</td>
+<td>NA</td>
+<td>43.02</td>
+<td>13.67</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) USIM3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.17</td>
+<td>0.79</td>
+<td>0.95</td>
+<td>0.95</td>
+<td>0.68</td>
+<td>0.27</td>
+<td>0.66</td>
+<td>0.67</td>
+<td>0.80</td>
+<td>0.91</td>
+<td>1.14</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) USIM3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.35</td>
+<td>2.07</td>
+<td>0.84</td>
+<td>0.18</td>
+<td>0.00</td>
+<td>0.96</td>
+<td>1.23</td>
+<td>0.84</td>
+<td>0.63</td>
+<td>2.14</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) USIM5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>14.17</td>
+<td>31.64</td>
+<td>14.76</td>
+<td>38.18</td>
+<td>NA</td>
+<td>NA</td>
+<td>24.56</td>
+<td>857.95</td>
+<td>NA</td>
+<td>25.46</td>
+<td>12.27</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) USIM5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.09</td>
+<td>0.77</td>
+<td>0.78</td>
+<td>0.79</td>
+<td>0.34</td>
+<td>0.10</td>
+<td>0.27</td>
+<td>0.76</td>
+<td>0.73</td>
+<td>0.54</td>
+<td>1.02</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) USIM5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.37</td>
+<td>2.14</td>
+<td>1.03</td>
+<td>0.21</td>
+<td>0.00</td>
+<td>2.50</td>
+<td>2.98</td>
+<td>0.73</td>
+<td>0.70</td>
+<td>3.61</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) USIM6 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>31.44</td>
+<td>13.61</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>NA</td>
+<td>ND</td>
+<td>11.85</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) USIM6 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.76</td>
+<td>0.72</td>
+<td>ND</td>
+<td>0.36</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0.99</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) USIM6 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>2.16</td>
+<td>1.11</td>
+<td>ND</td>
+<td>0.00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5406,141 @@ USIM3 ; USIM5 ; USIM6 ;
 <td>16.38</td>
 <td>17.05</td>
 <td>17.20</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) USIM3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>29.22</td>
+<td>57.99</td>
+<td>20.43</td>
+<td>62.06</td>
+<td>NA</td>
+<td>NA</td>
+<td>96.25</td>
+<td>NA</td>
+<td>NA</td>
+<td>74.60</td>
+<td>13.77</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) USIM3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.32</td>
+<td>0.88</td>
+<td>1.04</td>
+<td>1.05</td>
+<td>0.76</td>
+<td>0.30</td>
+<td>0.75</td>
+<td>0.75</td>
+<td>0.89</td>
+<td>1.01</td>
+<td>1.24</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) USIM3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.26</td>
+<td>1.39</td>
+<td>0.37</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>0.76</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.55</td>
+<td>1.84</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) USIM5 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>27.21</td>
+<td>55.88</td>
+<td>16.83</td>
+<td>51.63</td>
+<td>NA</td>
+<td>NA</td>
+<td>39.52</td>
+<td>NA</td>
+<td>NA</td>
+<td>44.15</td>
+<td>12.36</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) USIM5 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.23</td>
+<td>0.85</td>
+<td>0.86</td>
+<td>0.87</td>
+<td>0.38</td>
+<td>0.12</td>
+<td>0.31</td>
+<td>0.86</td>
+<td>0.81</td>
+<td>0.60</td>
+<td>1.11</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) USIM5 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.28</td>
+<td>1.45</td>
+<td>0.45</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>1.96</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.61</td>
+<td>3.11</td>
+<td>0,00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) USIM6 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>55.53</td>
+<td>15.52</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>NA</td>
+<td>NA</td>
+<td>ND</td>
+<td>11.94</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) USIM6 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>0.84</td>
+<td>0.79</td>
+<td>ND</td>
+<td>0.41</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>1.08</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) USIM6 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>1.46</td>
+<td>0.49</td>
+<td>0,00</td>
+<td>0.00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

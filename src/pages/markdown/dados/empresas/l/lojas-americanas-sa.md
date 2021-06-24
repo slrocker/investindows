@@ -1,6 +1,6 @@
 ---
 title: "LOJAS AMERICANAS SA (LAME) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,96 @@ LAME3 ; LAME4 ;
 <td>1.49</td>
 <td>0.73</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LAME3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>121.27</td>
+<td>54.41</td>
+<td>105.74</td>
+<td>248.95</td>
+<td>639.92</td>
+<td>232.19</td>
+<td>44.82</td>
+<td>33.74</td>
+<td>51.07</td>
+<td>32.81</td>
+<td>29.00</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LAME3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.41</td>
+<td>4.29</td>
+<td>3.83</td>
+<td>3.31</td>
+<td>5.64</td>
+<td>5.09</td>
+<td>5.22</td>
+<td>9.13</td>
+<td>15.14</td>
+<td>8.60</td>
+<td>17.08</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LAME3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>0.40</td>
+<td>0.42</td>
+<td>0.57</td>
+<td>0.66</td>
+<td>0.89</td>
+<td>0.86</td>
+<td>0.88</td>
+<td>0.54</td>
+<td>0.88</td>
+<td>0.54</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) LAME4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>155.90</td>
+<td>71.56</td>
+<td>138.74</td>
+<td>326.43</td>
+<td>872.38</td>
+<td>361.22</td>
+<td>58.98</td>
+<td>38.82</td>
+<td>53.44</td>
+<td>36.48</td>
+<td>35.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) LAME4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.09</td>
+<td>5.64</td>
+<td>5.02</td>
+<td>4.34</td>
+<td>7.69</td>
+<td>7.91</td>
+<td>6.87</td>
+<td>10.50</td>
+<td>15.84</td>
+<td>9.57</td>
+<td>21.08</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) LAME4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.60</td>
+<td>0.30</td>
+<td>0.32</td>
+<td>0.43</td>
+<td>0.48</td>
+<td>0.57</td>
+<td>0.65</td>
+<td>0.77</td>
+<td>0.52</td>
+<td>0.79</td>
+<td>0.44</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5361,96 @@ LAME3 ; LAME4 ;
 <td>0.83</td>
 <td>0.93</td>
 <td>0.66</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) LAME3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>96.93</td>
+<td>44.92</td>
+<td>63.23</td>
+<td>85.11</td>
+<td>84.13</td>
+<td>59.82</td>
+<td>37.21</td>
+<td>30.04</td>
+<td>45.19</td>
+<td>31.20</td>
+<td>32.81</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) LAME3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.10</td>
+<td>6.12</td>
+<td>4.89</td>
+<td>4.38</td>
+<td>8.95</td>
+<td>8.59</td>
+<td>9.48</td>
+<td>11.56</td>
+<td>21.61</td>
+<td>13.87</td>
+<td>18.75</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) LAME3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.78</td>
+<td>0.40</td>
+<td>0.42</td>
+<td>0.57</td>
+<td>0.66</td>
+<td>0.89</td>
+<td>0.86</td>
+<td>0.88</td>
+<td>0.54</td>
+<td>0.86</td>
+<td>0.46</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) LAME4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>124.61</td>
+<td>59.08</td>
+<td>82.96</td>
+<td>111.59</td>
+<td>114.70</td>
+<td>93.07</td>
+<td>48.97</td>
+<td>34.57</td>
+<td>47.29</td>
+<td>34.69</td>
+<td>40.51</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) LAME4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>3.99</td>
+<td>8.05</td>
+<td>6.41</td>
+<td>5.74</td>
+<td>12.20</td>
+<td>13.37</td>
+<td>12.48</td>
+<td>13.30</td>
+<td>22.62</td>
+<td>15.43</td>
+<td>23.15</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) LAME4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.60</td>
+<td>0.30</td>
+<td>0.32</td>
+<td>0.43</td>
+<td>0.48</td>
+<td>0.57</td>
+<td>0.65</td>
+<td>0.77</td>
+<td>0.52</td>
+<td>0.77</td>
+<td>0.37</td>
 </tr>
 </tbody>
 </table>

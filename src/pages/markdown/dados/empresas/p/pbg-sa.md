@@ -1,6 +1,6 @@
 ---
 title: "PBG S/A (PTBL) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ PTBL3 ;
 <td>0.51</td>
 <td>0.38</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PTBL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.48</td>
+<td>64.66</td>
+<td>6.37</td>
+<td>14.33</td>
+<td>150.20</td>
+<td>6.20</td>
+<td>8.14</td>
+<td>8.75</td>
+<td>10.65</td>
+<td>11.47</td>
+<td>9.99</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PTBL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.61</td>
+<td>2.32</td>
+<td>2.36</td>
+<td>3.22</td>
+<td>1.35</td>
+<td>1.41</td>
+<td>3.21</td>
+<td>4.13</td>
+<td>5.50</td>
+<td>3.42</td>
+<td>5.31</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PTBL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.58</td>
+<td>3.35</td>
+<td>3.47</td>
+<td>1.10</td>
+<td>2.53</td>
+<td>13.68</td>
+<td>3.93</td>
+<td>1.90</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ PTBL3 ;
 <td>0.80</td>
 <td>0.51</td>
 <td>0.38</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) PTBL3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.48</td>
+<td>64.83</td>
+<td>6.37</td>
+<td>14.33</td>
+<td>151.40</td>
+<td>6.20</td>
+<td>8.14</td>
+<td>8.75</td>
+<td>10.65</td>
+<td>11.50</td>
+<td>10.05</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) PTBL3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>2.61</td>
+<td>2.32</td>
+<td>2.36</td>
+<td>3.22</td>
+<td>1.35</td>
+<td>1.41</td>
+<td>3.21</td>
+<td>4.13</td>
+<td>5.50</td>
+<td>3.42</td>
+<td>5.30</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) PTBL3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0.58</td>
+<td>3.35</td>
+<td>3.47</td>
+<td>1.10</td>
+<td>2.53</td>
+<td>13.67</td>
+<td>3.93</td>
+<td>1.90</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

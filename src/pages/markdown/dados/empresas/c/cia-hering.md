@@ -1,6 +1,6 @@
 ---
 title: "CIA HERING (HGTX) "
-date: "2021-05-25"
+date: "2021-06-23"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -5173,6 +5173,51 @@ HGTX3 ;
 <td>4.35</td>
 <td>3.25</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HGTX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.14</td>
+<td>25.77</td>
+<td>20.41</td>
+<td>15.81</td>
+<td>12.22</td>
+<td>8.86</td>
+<td>10.45</td>
+<td>15.47</td>
+<td>22.86</td>
+<td>17.85</td>
+<td>20.72</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HGTX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.72</td>
+<td>3.88</td>
+<td>3.70</td>
+<td>3.38</td>
+<td>2.02</td>
+<td>2.12</td>
+<td>3.10</td>
+<td>5.42</td>
+<td>9.07</td>
+<td>7.46</td>
+<td>8.32</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HGTX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5271,6 +5316,51 @@ HGTX3 ;
 <td>4.77</td>
 <td>4.35</td>
 <td>3.25</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) HGTX3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>8.14</td>
+<td>25.77</td>
+<td>20.41</td>
+<td>15.81</td>
+<td>12.22</td>
+<td>8.86</td>
+<td>10.45</td>
+<td>15.47</td>
+<td>22.86</td>
+<td>17.85</td>
+<td>20.72</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) HGTX3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>1.72</td>
+<td>3.88</td>
+<td>3.70</td>
+<td>3.38</td>
+<td>2.02</td>
+<td>2.12</td>
+<td>3.10</td>
+<td>5.42</td>
+<td>9.07</td>
+<td>7.46</td>
+<td>8.32</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) HGTX3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>
