@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA  MELHORAMENTOS DE SÃO PAULO (MSPA) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de COMPANHIA
 ## Dados Cadastrais
 **CNPJ**: 60.730.348/0001-66
 
-**RI**: Marcelo Persone Prestes De Camargo
+**RI**: Rafael Gibini
 
 **email RI**: sergio.sesiki@melhoramentos.com.br
 

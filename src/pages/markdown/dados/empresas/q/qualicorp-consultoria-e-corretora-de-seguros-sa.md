@@ -1,6 +1,6 @@
 ---
 title: "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de QUALICORP
 ## Dados Cadastrais
 **CNPJ**: 11.992.680/0001-93
 
-**RI**: Elton Hugo Carluci
+**RI**: Frederico De Aguiar Oldani
 
 **email RI**: ri@qualicorp.com.br
 

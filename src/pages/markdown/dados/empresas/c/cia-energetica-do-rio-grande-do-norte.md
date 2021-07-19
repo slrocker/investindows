@@ -1,6 +1,6 @@
 ---
 title: "CIA ENERGÉTICA DO RIO GRANDE DO NORTE (CSRN) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CIA ENERG
 ## Dados Cadastrais
 **CNPJ**: 08.324.196/0001-81
 
-**RI**: Sandro Kohler Marcondes
+**RI**: Alex Sandro Monteiro Barbosa Da Silva
 
 **email RI**: ri@neoenergia.com
 

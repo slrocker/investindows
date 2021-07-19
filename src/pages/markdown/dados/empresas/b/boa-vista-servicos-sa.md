@@ -1,6 +1,6 @@
 ---
 title: "BOA VISTA SERVIÇOS S.A. (BOAS) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"

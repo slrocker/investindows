@@ -1,6 +1,6 @@
 ---
 title: "WHIRLPOOL S.A (WHRL) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de WHIRLPOOL
 ## Dados Cadastrais
 **CNPJ**: 59.105.999/0001-86
 
-**RI**: Arthur Henrique De Aguiar Cançado Azevedo
+**RI**: Adolpho Cyriaco Nunes De Souza Neto
 
 **email RI**: investidores@whirlpool.com
 

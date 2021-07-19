@@ -1,6 +1,6 @@
 ---
 title: "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A. (SMFT) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -27,7 +27,7 @@ Histórico de resultados e informações de interesse do investidor de SMARTFIT 
 **Segmento**: Atividades Esportivas
 
 ## Ativos Listados
-SMFT11 ; SMFT3 ; 
+SMFT3 ; 
 ## Dados DFP
 ### Balanço
 <input type='checkbox' class='toggleCommand' id='toggleBalanco' name='toggleBalanco'>
@@ -2798,7 +2798,7 @@ SMFT11 ; SMFT3 ;
 <td>30.34</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SMFT11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SMFT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2807,7 +2807,7 @@ SMFT11 ; SMFT3 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SMFT11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SMFT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>ND</td>
 <td>ND</td>
@@ -2816,34 +2816,7 @@ SMFT11 ; SMFT3 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SMFT11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) SMFT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>ND</td>
-<td>NA</td>
-<td>NA</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) SMFT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) SMFT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SMFT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -2915,7 +2888,7 @@ SMFT11 ; SMFT3 ;
 <td>28.63</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SMFT11 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) SMFT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2924,7 +2897,7 @@ SMFT11 ; SMFT3 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SMFT11 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) SMFT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>ND</td>
 <td>ND</td>
@@ -2933,34 +2906,7 @@ SMFT11 ; SMFT3 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SMFT11 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) SMFT3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>ND</td>
-<td>NA</td>
-<td>NA</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) SMFT3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) SMFT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) SMFT3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>

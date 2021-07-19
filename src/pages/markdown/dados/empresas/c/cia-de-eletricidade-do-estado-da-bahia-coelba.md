@@ -1,6 +1,6 @@
 ---
 title: "CIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA (CEEB) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CIA DE EL
 ## Dados Cadastrais
 **CNPJ**: 15.139.629/0001-94
 
-**RI**: Mario Jose Ruiz-Tagle Larrain
+**RI**: Alex Sandro Monteiro Barbosa Da Silva
 
 **email RI**: ri@neoenergia.com
 

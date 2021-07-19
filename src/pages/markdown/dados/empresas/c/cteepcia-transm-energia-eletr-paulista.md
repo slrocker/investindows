@@ -1,6 +1,6 @@
 ---
 title: "CTEEP-CIA TRANSM ENERGIA ELÉTR. PAULISTA (TRPL) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CTEEP-CIA
 ## Dados Cadastrais
 **CNPJ**: 02.998.611/0001-04
 
-**RI**: Alessandro Gregori Filho
+**RI**: Carisa Santos Portela Cristal
 
 **email RI**: mcorda@isacteep.com.br
 

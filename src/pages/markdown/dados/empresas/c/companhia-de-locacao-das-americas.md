@@ -1,6 +1,6 @@
 ---
 title: "COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de COMPANHIA
 ## Dados Cadastrais
 **CNPJ**: 10.215.988/0001-60
 
-**RI**: José Antônio De Sousa Azevedo
+**RI**: Marco Túlio De Carvalho Oliveira
 
 **email RI**: ri@locamerica.com.br
 

@@ -1,6 +1,6 @@
 ---
 title: "LOJAS AMERICANAS SA (LAME) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de LOJAS AME
 ## Dados Cadastrais
 **CNPJ**: 33.014.556/0001-96
 
-**RI**: Carlos Eduardo Rosalba Padilha
+**RI**: Miguel Gomes Pereira Sarmiento Gutierrez
 
 **email RI**: roberto.martins@lasa.com.br
 
@@ -27,7 +27,7 @@ Histórico de resultados e informações de interesse do investidor de LOJAS AME
 **Segmento**: Produtos Diversos
 
 ## Ativos Listados
-LAME3 ; LAME4 ; 
+LAME3 ; LAME4 ; LAME98 ; LAME99 ; 
 ## Dados DFP
 ### Balanço
 <input type='checkbox' class='toggleCommand' id='toggleBalanco' name='toggleBalanco'>
@@ -5263,6 +5263,96 @@ LAME3 ; LAME4 ;
 <td>0.79</td>
 <td>0.44</td>
 </tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) LAME98 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) LAME98 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) LAME98 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15) LAME99 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16) LAME99 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(17) LAME99 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -5451,6 +5541,96 @@ LAME3 ; LAME4 ;
 <td>0.52</td>
 <td>0.77</td>
 <td>0.37</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) LAME98 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) LAME98 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) LAME98 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15) LAME99 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td>NA</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16) LAME99 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(17) LAME99 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td>0,00</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

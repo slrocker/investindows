@@ -1,6 +1,6 @@
 ---
 title: "BANCO INTER S.A. (BIDI) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -27,7 +27,7 @@ Histórico de resultados e informações de interesse do investidor de BANCO INT
 **Segmento**: Bancos
 
 ## Ativos Listados
-BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ; 
+BIDI11 (1 ação ON + 2 ações PN) ; BIDI3 ; BIDI4 ; 
 ## Dados DFP
 ### Balanço
 <input type='checkbox' class='toggleCommand' id='toggleBalanco' name='toggleBalanco'>
@@ -2426,7 +2426,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BIDI12 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BIDI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2434,7 +2434,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BIDI12 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BIDI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>ND</td>
 <td>ND</td>
@@ -2442,7 +2442,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BIDI12 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BIDI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -2450,7 +2450,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) BIDI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) BIDI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2458,31 +2458,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) BIDI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-<td>ND</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) BIDI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>ND</td>
-<td>ND</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15) BIDI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16) BIDI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) BIDI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>ND</td>
 <td>ND</td>
@@ -2490,7 +2466,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>ND</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(17) BIDI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) BIDI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -2579,7 +2555,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>0,00</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BIDI12 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(9) BIDI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2587,31 +2563,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BIDI12 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
-<td>ND</td>
-<td>NA</td>
-<td>ND</td>
-<td>ND</td>
-<td>NA</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BIDI12 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
-<td>0,00</td>
-<td>ND</td>
-<td>0,00</td>
-<td>0,00</td>
-<td>0,00</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) BIDI3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-<td>NA</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) BIDI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(10) BIDI3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>NA</td>
 <td>2025.34</td>
@@ -2619,7 +2571,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) BIDI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(11) BIDI3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0.15</td>
 <td>0,00</td>
@@ -2627,7 +2579,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>0,00</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(15) BIDI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(12) BIDI4 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -2635,7 +2587,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(16) BIDI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(13) BIDI4 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
 <td>NA</td>
 <td>2139.98</td>
@@ -2643,7 +2595,7 @@ BIDI11 (1 ação ON + 2 ações PN) ; BIDI12 ; BIDI3 ; BIDI4 ;
 <td>NA</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(17) BIDI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(14) BIDI4 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0.15</td>
 <td>0,00</td>

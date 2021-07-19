@@ -1,6 +1,6 @@
 ---
 title: "CR2 EMPREENDIMENTOS IMOBILIÁRIOS S/A (CRDE) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CR2 EMPRE
 ## Dados Cadastrais
 **CNPJ**: 07.820.907/0001-46
 
-**RI**: Felipe Shalders
+**RI**: Alexandre Serra Nogueira De Paula
 
 **email RI**: ri@cr2.com.br
 

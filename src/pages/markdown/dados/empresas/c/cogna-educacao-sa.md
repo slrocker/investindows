@@ -1,6 +1,6 @@
 ---
 title: "COGNA EDUCAÇÃO S.A. (COGN) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de COGNA EDU
 ## Dados Cadastrais
 **CNPJ**: 02.800.026/0001-40
 
-**RI**: Jamil Saud Marques
+**RI**: Frederico Da Cunha Villa
 
 **email RI**: dri@kroton.com.br
 

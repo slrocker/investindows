@@ -1,6 +1,6 @@
 ---
 title: "CIA ENERGÉTICA DE PERNAMBUCO - CELPE (CEPE) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CIA ENERG
 ## Dados Cadastrais
 **CNPJ**: 10.835.932/0001-08
 
-**RI**: Leonardo Pimenta Gadelha
+**RI**: Alex Sandro Monteiro Barbosa Da Silva
 
 **email RI**: ri@celpe.com.br
 

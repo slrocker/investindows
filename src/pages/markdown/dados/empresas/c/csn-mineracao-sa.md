@@ -1,6 +1,6 @@
 ---
 title: "CSN MINERAÇÃO S.A. (CMIN) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CSN MINER
 ## Dados Cadastrais
 **CNPJ**: 08.902.291/0001-15
 
-**RI**: Marcelo Cunha Ribeiro
+**RI**: Pedro Barros Mercadante Oliva
 
 **email RI**: 
 

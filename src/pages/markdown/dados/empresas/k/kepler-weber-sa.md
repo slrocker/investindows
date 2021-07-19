@@ -1,6 +1,6 @@
 ---
 title: "KEPLER WEBER SA (KEPL) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de KEPLER WE
 ## Dados Cadastrais
 **CNPJ**: 91.983.056/0001-69
 
-**RI**: Piero Abbondi
+**RI**: Paulo Geraldo Polezi
 
 **email RI**: ri.kepler@kepler.com.br
 

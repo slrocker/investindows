@@ -1,22 +1,22 @@
 ---
-title: "B2W - COMPANHIA DIGITAL (BTOW) "
-date: "2021-06-23"
+title: "AMERICANAS S.A. (AMER) "
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
 categorySlug: "empresas"
-subcategory: "B"
-subcategorySlug: "b"
+subcategory: "A"
+subcategorySlug: "a"
 featuredImage: "empresas"
 pageType: "page"
 order: 0
 ---
 
-Histórico de resultados e informações de interesse do investidor de B2W - COMPANHIA DIGITAL.
+Histórico de resultados e informações de interesse do investidor de AMERICANAS S.A..
 ## Dados Cadastrais
 **CNPJ**: 00.776.574/0001-56
 
-**RI**: Fabio Da Silva Abrate
+**RI**: Miguel Gomes Pereira Sarmiento Gutierrez
 
 **email RI**: ri@b2wdigital.com
 
@@ -27,7 +27,7 @@ Histórico de resultados e informações de interesse do investidor de B2W - COM
 **Segmento**: Produtos Diversos
 
 ## Ativos Listados
-BTOW3 ; 
+AMER3 ; 
 ## Dados DFP
 ### Balanço
 <input type='checkbox' class='toggleCommand' id='toggleBalanco' name='toggleBalanco'>
@@ -5174,7 +5174,7 @@ BTOW3 ;
 <td>1.99</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BTOW3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AMER3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -5186,25 +5186,25 @@ BTOW3 ;
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
-<td>106.51</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BTOW3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
-<td>4.46</td>
-<td>5.74</td>
-<td>5.56</td>
-<td>2.32</td>
-<td>1.13</td>
-<td>1.45</td>
-<td>1.86</td>
-<td>2.93</td>
-<td>2.72</td>
-<td>1.26</td>
-<td>15.83</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BTOW3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AMER3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AMER3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -5214,9 +5214,9 @@ BTOW3 ;
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
-<td>0.00</td>
-<td>0.43</td>
-<td>0.32</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>
@@ -5318,7 +5318,7 @@ BTOW3 ;
 <td>2.25</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) BTOW3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(6) AMER3 - P/L <span class='tooltiptext'><b>Preço sobre Lucro</b>: Indicador utilizado para saber em quantos anos de lucro o investidor recuperaria seu investimento.</span></td>
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
@@ -5330,25 +5330,25 @@ BTOW3 ;
 <td>NA</td>
 <td>NA</td>
 <td>NA</td>
-<td>157.78</td>
-</tr>
-<tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) BTOW3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
 <td>ND</td>
-<td>4.46</td>
-<td>5.74</td>
-<td>5.56</td>
-<td>2.32</td>
-<td>1.13</td>
-<td>1.45</td>
-<td>1.86</td>
-<td>2.93</td>
-<td>2.70</td>
-<td>1.24</td>
-<td>14.01</td>
 </tr>
 <tr class='trMultiplo'>
-<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) BTOW3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(7) AMER3 - P/VP  <span class='tooltiptext'><b>Preço sobre Valor Patrimonial</b>: Indica a relação entre o preço da ação e o valor patrimonial por ação.</span></td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
+</tr>
+<tr class='trMultiplo'>
+<td class='leftAlignCell rowDescription fixedLeftColumn tooltip'>(8) AMER3 - Dividend Yield (%)  <span class='tooltiptext'><b>Dividend Yield</b>: Retorno considerando os dividendos pagos no ano e o preço da ação.</span></td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
@@ -5358,9 +5358,9 @@ BTOW3 ;
 <td>0,00</td>
 <td>0,00</td>
 <td>0,00</td>
-<td>0.00</td>
-<td>0.43</td>
-<td>0.32</td>
+<td>ND</td>
+<td>ND</td>
+<td>ND</td>
 </tr>
 </tbody>
 </table>

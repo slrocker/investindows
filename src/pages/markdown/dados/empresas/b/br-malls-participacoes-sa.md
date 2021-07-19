@@ -1,6 +1,6 @@
 ---
 title: "BR MALLS PARTICIPAÇOES S.A. (BRML) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de BR MALLS 
 ## Dados Cadastrais
 **CNPJ**: 06.977.745/0001-91
 
-**RI**: Frederico Da Cunha Villa
+**RI**: Eduardo Langoni
 
 **email RI**: brmalls@brmalls.com.br
 

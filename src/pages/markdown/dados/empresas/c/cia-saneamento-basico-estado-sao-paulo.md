@@ -1,6 +1,6 @@
 ---
 title: "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de CIA SANEA
 ## Dados Cadastrais
 **CNPJ**: 43.776.517/0001-80
 
-**RI**: Rui De Britto Alvares Affonso
+**RI**: Osvaldo Garcia
 
 **email RI**: maasampaio@sabesp.com.br
 

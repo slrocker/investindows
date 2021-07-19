@@ -1,6 +1,6 @@
 ---
 title: "MELIUZ S.A. (CASH) "
-date: "2021-06-23"
+date: "2021-07-18"
 section : "Dados"
 sectionSlug : "dados"
 category: "Empresas"
@@ -16,7 +16,7 @@ Histórico de resultados e informações de interesse do investidor de MELIUZ S.
 ## Dados Cadastrais
 **CNPJ**: 14.110.585/0001-07
 
-**RI**: 
+**RI**: Luciano Cardoso Valle
 
 **email RI**: 
 
